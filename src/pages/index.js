@@ -8,7 +8,7 @@ import styles from './styles.module.css'
 
 const features = [
   {
-    title: 'Giveth DApp User Guide',
+    title: 'Giveth DApp User Guides',
     imageUrl: 'img/giversanddoers.svg',
     description: (
       <>
@@ -19,7 +19,7 @@ const features = [
     )
   },
   {
-    title: 'Developer Documents',
+    title: 'Developer Documentation',
     imageUrl: 'img/devs.svg',
     description: (
       <>
@@ -63,7 +63,7 @@ function Home () {
       description='Documentation for Giveth.io Dapp Contributors and Developers'
     >
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
-        <div className='container'>
+        <div className='container hero--primary'>
           <h1 className='hero__title'>{siteConfig.title}</h1>
           <p className='hero__subtitle'>{siteConfig.tagline}</p>
           <div className={styles.buttons}>
