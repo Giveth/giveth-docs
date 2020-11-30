@@ -40,15 +40,15 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Get Started',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Users',
               to: 'docs/'
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2/'
+              label: 'Developers',
+              to: 'guides/'
             }
           ]
         },
