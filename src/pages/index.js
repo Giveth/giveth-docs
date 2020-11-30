@@ -9,6 +9,7 @@ import styles from './styles.module.css'
 const features = [
   {
     title: 'Giveth DApp User Guides',
+    slug: 'guides/',
     imageUrl: 'img/giversanddoers.svg',
     description: (
       <>
@@ -20,6 +21,7 @@ const features = [
   },
   {
     title: 'Developer Documentation',
+    slug: 'docs/',
     imageUrl: 'img/devs.svg',
     description: (
       <>
@@ -30,6 +32,7 @@ const features = [
   },
   {
     title: 'API',
+    slug: 'docs/',
     imageUrl: 'img/api.svg',
     description: (
       <>
@@ -39,7 +42,7 @@ const features = [
   }
 ]
 
-function Feature ({ imageUrl, title, description }) {
+function Feature ({ imageUrl, slug, title, description }) {
   const imgUrl = useBaseUrl(imageUrl)
   return (
     <div className={clsx('col col--4', styles.feature)}>
@@ -48,7 +51,14 @@ function Feature ({ imageUrl, title, description }) {
           <img className={styles.featureImage} src={imgUrl} alt={title} />
         </div>
       )}
-      <h3>{title}</h3>
+
+      <h3>
+        {' '}
+        <Link className='formatLink' to={useBaseUrl(slug)}>
+          {title}
+        </Link>
+      </h3>
+
       <p>{description}</p>
     </div>
   )

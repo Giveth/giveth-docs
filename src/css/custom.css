@@ -25,5 +25,10 @@
   padding: 0 var(--ifm-pre-padding);
 }
 
+.formatLink {
+  color: var(--ifm-color-secondary);
+  text-decoration: none;
+}
+
 .hero {background-image: url('/img/hero.jpg');
 background-size: cover;}
