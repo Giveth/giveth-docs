@@ -60,7 +60,7 @@ function Home () {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description='Documentation for Giveth.io Dapp Contributors and Developers'
+      description='Documentation for Giveth.io DApp Contributors and Developers'
     >
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className='container hero--primary'>

@@ -7,8 +7,8 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #303B72;
-  --ifm-color-secondary: #C2449F;
+  --ifm-color-primary: #C2449F;
+  --ifm-color-secondary: #303B72;
   --ifm-color-primary-dark: #202850;
   --ifm-color-primary-darker: #171d3a;
   --ifm-color-primary-darkest: hsl(229, 44%, 13%);
@@ -25,4 +25,5 @@
   padding: 0 var(--ifm-pre-padding);
 }
 
-.hero {background-color: var(--ifm-color-primary-lighter);}
+.hero {background-image: url('/img/hero.jpg');
+background-size: cover;}

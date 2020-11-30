@@ -1,5 +1,5 @@
 module.exports = {
   guides: {
-    Guides: ['gettingstarted']
+    Guides: ['gettingstarted', 'createproject', 'crypto']
   }
 }
