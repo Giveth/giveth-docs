@@ -1,4 +1,4 @@
-name: documentation
+name: deploy-docs
 
 on:
   pull_request:
