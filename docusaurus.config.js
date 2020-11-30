@@ -17,15 +17,15 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Developer Docs',
-          position: 'left'
-        },
-        {
           to: 'guides/',
           activeBasePath: 'guides',
           label: 'User Guides',
+          position: 'left'
+        },
+        {
+          to: 'docs/',
+          activeBasePath: 'docs',
+          label: 'Developer Docs',
           position: 'left'
         },
         { to: 'blog', label: 'Blog', position: 'left' },
