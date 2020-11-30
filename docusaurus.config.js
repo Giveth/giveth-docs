@@ -91,7 +91,7 @@ module.exports = {
 
         path: 'guides',
 
-        editUrl: 'https://github.com/giveth/giveth-docs/edit/master/website/',
+        editUrl: 'https://github.com/giveth/giveth-docs/edit/master/',
 
         routeBasePath: 'guides',
 
@@ -110,13 +110,12 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/giveth/giveth-docs/edit/master/website/'
+          editUrl: 'https://github.com/giveth/giveth-docs/edit/master/'
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/giveth/giveth-docs/edit/master/website/blog/'
+          editUrl: 'https://github.com/giveth/giveth-docs/edit/master/'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css')
