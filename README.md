@@ -1,4 +1,6 @@
 # docs.giveth.io
+[![Deployment Status](https://github.com/giveth/giveth-docs/workflows/deploy-docs/badge.svg)](https://github.com/giveth/giveth-docs/actions)
+
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
