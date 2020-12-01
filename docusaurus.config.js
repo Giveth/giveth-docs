@@ -56,8 +56,8 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/giveth'
+              label: 'Join',
+              href: 'https://giveth.io/join'
             },
             {
               label: 'Twitter',
