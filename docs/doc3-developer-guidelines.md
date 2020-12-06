@@ -13,11 +13,22 @@ Developers on Giveth are expected to follow these guidelines.
 
 ## Gitflow
 
+**Commit messages** 
+Git messages should ideally include an issue number and the title of the Issue in the commit title. For example '#235 White label Giveth Dapp - Remove search box'. Give as much detail as is reasonable in the body of the message.
+
+We encourage you to clan up your git history, as much as possible before opening a pull request. You can squash consequtive commits if that makes sense, you can change older commit messages, quite easily inside of most GUI git tools.
+
+
+### Pull requests
+
+**Checklist**
+1. You should make sure there are no warnings, in the browser console, or the NodeJS console, before you open a pull request.
+
 **master** branch is locked and only for PR's that have been **tested in staging** and noncritical hotfixes like typo's after merging - `master` deploys to https://v2.giveth.io
 
 **staging** branch is the default branch where PR's should be directed to. A deploy preview by netlify is offered inside the Pull Request.
 
-**New features** should be pushed to a new branch named **$featurename** (No **develop** or **release** branches currently, but at least **develop** will be added in the future to have a proper staging environment)
+**New features** should be pushed to a new branch named **$featurename** (No **develop** or **release** branches currently, but at least **develop** will be added in the future to have a proper staging environment) 
 
 ## Styling
 
