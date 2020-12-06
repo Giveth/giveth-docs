@@ -5,6 +5,9 @@ title: Developer Guidelines
 
 Developers on Giveth are expected to follow these guidelines.
 
+## Code quality
+We take time to do things right, as we strive for excellence. 
+
 ## Linting
 We use StandardJS for all linting. All code should follow it's guidelines
 
