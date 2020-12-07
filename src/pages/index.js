@@ -36,7 +36,7 @@ const features = [
     imageUrl: 'img/api.svg',
     description: (
       <>
-        Details about all commands of the <code>backend API</code>.
+        soon™️ ... Details about all commands of the <code>backend API</code>.
       </>
     )
   }
