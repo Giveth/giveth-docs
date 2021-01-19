@@ -2,19 +2,28 @@
 id: createproject
 title: Create a project
 ---
-It is easy to create a project looking for funding on Giveth.
 
-## think about your project deeply and generate content you need
-- description with details
-- picture
-- crypto wallet (if you have a project already you need to enter a new ethereum address)
+## Contemplate the vision for your project
+Think about the project which you want to create, do you have concrete goals and what are you asking for funding for? Can you explain your project and your intentions clearly?
 
-## click create project
+## Creating your project
+ Make sure you're signed in and click the create project button. Follow the prompts and input the requested content:
+ -The name of your project.
 
-## enter details
+ -The name of your organization or the administrator of your project (perhaps it is yourself).
 
-## if you have a project already enter eth address
+ -Describe what your project is. 
 
-## save and enjoy warm glow of satisfaction
+ -Pick relevant categories to add 'keywords' to your project.
 
-## you can edit stuff at a later point
+ -State where in the world your project is taking place.
+
+ -Add an image to display with your project (or choose from one of the Giveth defaults).
+
+ -Set an ETH address for donations to be directed to
+
+ On the final page double check all the info you entered, if it looks good then hit 'START RAISING FUNDS' and boom your project is live! On the confirmation page you can choose to view your project and to share it on social media. Good Luck!
+
+## Editing my project after it's been published
+If you made a mistake or need to change something on your project it's super simple to go back and update it. If you're on the homepage go to the top right and click on your account and then select 'My Projects'. Once you're there you should see a page of your projects, hover over the project you wish to edit and then click the 'EDIT' button. You should see your project's contents, you can scroll through and change the content you wish and once you're done just hit save!
+
