@@ -28,6 +28,12 @@ module.exports = {
           label: 'Developer Docs',
           position: 'left'
         },
+        {
+          to: 'whatisgiveth/',
+          activeBasePath: 'whatisgiveth',
+          label: 'What is Giveth',
+          position: 'left'
+        },
         { to: 'blog', label: 'Blog', position: 'left' },
         {
           href: 'https://github.com/giveth/giveth-docs',
@@ -101,8 +107,29 @@ module.exports = {
 
         showLastUpdateTime: true
       }
-    ]
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+
+      {
+        id: 'whatisgiveth',
+
+        path: 'whatisgiveth',
+
+        editUrl: 'https://github.com/giveth/giveth-docs/edit/master/',
+
+        routeBasePath: 'whatisgiveth',
+
+        sidebarPath: require.resolve('./sidebarsWhatisgiveth.js'),
+
+        showLastUpdateAuthor: true,
+
+        showLastUpdateTime: true
+      }
+    ]  
   ],
+
+  
   presets: [
     [
       '@docusaurus/preset-classic',
