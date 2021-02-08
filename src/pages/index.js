@@ -31,12 +31,12 @@ const features = [
     )
   },
   {
-    title: 'API',
-    slug: 'docs/',
-    imageUrl: 'img/api.svg',
+    title: 'What is Giveth?',
+    slug: 'whatisgiveth/',
+    imageUrl: 'img/giveth-logo.svg',
     description: (
       <>
-        soon™️ ... Details about all commands of the <code>backend API</code>.
+        If you're curious to know more about <code>what giveth is. </code> have a look over here.
       </>
     )
   }
