@@ -8,24 +8,20 @@ Giveth.io is a platform where you can easily support projects you ❤️ with cr
 
 ## Sign in
 
-1- If you use any of the following Authentication providers already, you just have to click on sign-in in the top right corner of the page:
+In the top right corner you will see the `sign in` button. Currently you can sign in via two methods, either by *Tor.us* or *Metamask*. You must choose!
 
-Google, facebook, Twitter, discord
+#### Tor.us Sign in
+Click on the `Torus` under the sign in drop down menu. You will be given several options of different platforms you can sign in with.. google, linkedin, twitter, discord etc... you can also use the simple email option which will send you a one-time use code to your email. Follow the Torus prompt and you should find your way in easily.
 
-2 - In the next dialog you can select the provider who secures your authentication. An ethereum wallet will be created by tor.us. This is a custodial solution that always leaves full control of your cryptocurrency wallet with you - secured by the provider you choose.
+#### Metamask Sign in
+If you're unfamiliar with metamask or don't already have a wallet head on over to (https://metamask.io/) and get yourself set up with one! Once your wallet is setup make sure your metamask browser extension is enabled and up to date. click the 'metamask' option under the sign in drop down menu. You should then be prompted by the metamask pop up to confirm your signature and then you should be plugged in and good to go!
 
-3 - Now you have a user account that is also a crypto wallet 🤯 ... Congrats and welcome to the 21st Century!
+## Fill in your profile info
+Once you've logged in it's recommended you fill in some info about yourself. Transparency is a two-way street! In the top right corner you should find now the thumbnail of your account. click on it and then click on `My Account` then `Edit Public Profile` and fill in the fields given and hit `SAVE`.
 
 ## Donate
 
-You can donate certain cryptocurrencies (ETH) as well as fiat money (USD, EUR ... we use Stripe) to help realize projects that seek funding on Giveth.
-
-1. `Click` the donate button on the project you want to support
-2. On  this screen you can choose how you want to fund this project.
-    Options:
-    - ETH via external wallet
-    - Fiat
-3. You can support Giveth directly at this point by adding 3% on top of your donation to support the community of developers building this platform.
+More info on donating to a project are in the [user guide.](/guides/projectdonating)
 
 ## Create project
-(see create project)
+Our User Guide page for creating a project can be found [here.](/guides/createproject)
