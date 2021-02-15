@@ -12,7 +12,7 @@ Using cryptocurrency for sending and receiving donations has many advantages aga
  One of the outstanding features of Ethereum is the ability to program things RIGHT ONTO its blockchain! This feature gives developers and community leaders actual superpowers at their fingertips...
 
 ## How does it work in the context of the application?
-So one of these superpowers is to create dApps or Decentralized Applications, these are applications programmed onto the blockchain. dApps can be programmed to work as smart contracts receiving, holding and distributing currency as per the terms wrote into the contract. This feature removes the need for banks and/or lawyers, cutting through red tape and allowing project creators more autonomy.
+One of these superpowers is to create dApps or Decentralized Applications, these are applications programmed onto the blockchain. dApps can be programmed to work as smart contracts receiving, holding and distributing currency as per the terms wrote into the contract. This feature removes the need for banks and/or lawyers, cutting through red tape and allowing project creators more autonomy.
 
 When you create or donate to a project you're interacting with the Giveth dApp, your donations sent or received are recorded on the blockchain and can be viewed by anyone, anytime and anywhere. Donations are faciliated by dApp's code, transactions thus can be done straigh A -> B without anyone else needing to be involved. 
 
