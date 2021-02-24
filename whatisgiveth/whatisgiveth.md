@@ -6,10 +6,10 @@ author: Mitch.oz
 ---
 
 ## What is Giveth?
-Giveth is a community focused on building the future of giving using blockchain technology. There are a lot of projects in the Giveth Galaxy, but the core 2 projects are: - Giveth.io - beta.giveth.io You can use Giveth to donate to projects or also propose projects that need funding, all using cryptocurrency and soon Fiat currencies! We aim to foster a large network of organizations and to build a bright, transparent and decentralized Future of Giving.
+Giveth is a community focused on building the future of giving using blockchain technology. There are a lot of projects in the Giveth Galaxy, but the core 2 projects are: Giveth.io and Giveth TRACE. You can use Giveth to donate to projects or also propose projects that need funding, all using cryptocurrency and soon Fiat currencies! We aim to foster a large network of organizations to build a bright, transparent and decentralized Future of Giving.
 
 ## Why should I use Giveth for my project?
-Giveth has two DApps, each built for specific purposes. this documentation guide will focus on the Giveth.io Dapp. [More Info for Giveth TRACE can be found here](https://wiki.giveth.io/dapp). The Giveth DApp has been designed to facilitate ease of use, anyone can come get involved. Creating an account is easy; Donating to and Creating Projects can be done in minutes. Giveth collects a wide range of philanthropic ventures so naturally it's a great place to get exposure for your mission!
+Giveth has two DApps, each built for specific purposes. this documentation guide will focus on the Giveth.io Dapp. [More Info for Giveth TRACE can be found here](https://wiki.giveth.io/dapp). The Giveth.io DApp has been designed to facilitate ease of use, anyone can come get involved. Creating an account is easy; Donating to and Creating Projects can be done in minutes. Giveth collects a wide range of philanthropic ventures so naturally it's a great place to get exposure for your mission!
 
 ## Why should I donate to a project on Giveth?
 Giveth uses blockchain technology to track and record donations in cryptocurrency, allowing them to be kept on record forever and always. Coming soon it will also bridgs your fiat donations into crypto which will also be recorded on the blockchain. On the horizon as well is a token which will further expand your ability to give. **Fiat donations and tokens currently in development!**.
