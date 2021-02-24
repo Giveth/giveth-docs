@@ -4,12 +4,17 @@ title: Cryptocurrency donations
 ---
 
 ## Why Cryptocurrency?
-Using cryptocurrency for sending and receiving donations has many advantages against using 'fiat' or regular currency. With the implementation of the blockchain crypto transactions are recorded and forever stored on the digital ledger making currency donations and distrubtion transparent. 
+Using cryptocurrency for sending and receiving donations has many advantages against using 'fiat' or regular currency. With the implementation of the blockchain crypto transactions are recorded and forever stored on the digital ledger or 'blockchain' making currency donations and distrubtion transparent.
+
+## What is Blockchain?
+Simply, it is a secure form of digital cash that can be transferred anywhere in the world peer-to-peer, similar to email (where the emails server is replaced with a decentralized network).
+
+More technically, bitcoin is a type of digital currency that uses cryptography and open source software to regulate the generation of units of currency and verify the transfer of funds, operating independently of a central bank. There is a distinction between bitcoin, the digital currency, and Blockchain the technology, which has many additional potential use cases beyond the currency.
 
 ## What is and why choose Ethereum?
- Ethereum or Ether is another type of cryptocurrency that was released in 2015. It is considered the big #2 powerhouse of the crypto world after bitcoin.
- 
- One of the outstanding features of Ethereum is the ability to program things RIGHT ONTO its blockchain! This feature gives developers and community leaders actual superpowers at their fingertips...
+ It's the world's programmable blockchain. Ethereum builds on Bitcoin's innovation, with some big differences. Both let you use digital money without payment providers or banks. But Ethereum is programmable, so you can also use it for lots of different digital assets – even Bitcoin! This also means Ethereum is for more than payments. It's a marketplace of financial services, games and apps that can't steal your data or censor you.
+
+ On Giveth we use these programmable ethereum blocks to create applications that facilitate donations. In the near future we will be using this same technology to potentially mint our own tokens and precipitate the GIVing economy.
 
 ## How does it work in the context of the application?
 One of these superpowers is to create dApps or Decentralized Applications, these are applications programmed onto the blockchain. dApps can be programmed to work as smart contracts receiving, holding and distributing currency as per the terms wrote into the contract. This feature removes the need for banks and/or lawyers, cutting through red tape and allowing project creators more autonomy.
