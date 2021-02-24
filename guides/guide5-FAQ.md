@@ -26,3 +26,8 @@ Oh, and one more thing. If you hold any cryptocurrency, you know that securing y
 
 **What types of projects are prohibited?**
 Projects relating to violence, political dissent, porn (art excluded) 
+
+**Are there fees for creating a project?**
+Nope! Giveth will never charge any additional fees for creating projects on our platform. If you create a project on Giveth.io it creates an entry in our database that directly points to your chosen Ethereum wallet. You can do this as well with a brand new account that holds zero funds.
+
+There are minor fees when using the ethereum network, and if you use other exchanges or services, there are likely associated fees.
