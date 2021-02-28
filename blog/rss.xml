@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Giveth Docs Blog</title>
+        <link>https://docs.giveth.io/blog</link>
+        <description>Giveth Docs Blog</description>
+        <lastBuildDate>Mon, 07 Dec 2020 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[How to contribute to documentation]]></title>
+            <link>https://docs.giveth.io/blog/how-to</link>
+            <guid>how-to</guid>
+            <pubDate>Mon, 07 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello dear contributor!]]></description>
+        </item>
+    </channel>
+</rss>

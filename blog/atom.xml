@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.giveth.io/blog</id>
+    <title>Giveth Docs Blog</title>
+    <updated>2020-12-07T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.giveth.io/blog"/>
+    <subtitle>Giveth Docs Blog</subtitle>
+    <icon>https://docs.giveth.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How to contribute to documentation]]></title>
+        <id>how-to</id>
+        <link href="https://docs.giveth.io/blog/how-to"/>
+        <updated>2020-12-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello dear contributor!]]></summary>
+    </entry>
+</feed>
