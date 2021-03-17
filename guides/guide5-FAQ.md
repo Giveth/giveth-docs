@@ -17,7 +17,7 @@ Connect MetaMask Wallet. *note:* wallet must be connected to the Ropsten network
 You’ll find donations are already in your wallet!
 
 **I’m a donor. How do I know projects are getting my money?**
-Each project description page shows a list of all donations made to that project and by who. We believe that every human being should be able to transparently see their funds create good in the world. Transparency is the key to staying focused on the work at hand. You will get to see photos and receive frequent upadates on the status of each project you've donated to.
+Each project description page shows a list of all donations made to that project and by who. We believe that every human being should be able to transparently see their funds create good in the world. Transparency is the key to staying focused on the work at hand. You will get to see photos and receive frequent updates on the status of each project you've donated to.
 
 **I like your project but right now I have no funds to donate, how else can I contribute?**
 We are a very inclusive Community and would love your help, in any way possible, just [join](https://https://giveth.io/join/) and come talk to us! We even have a special channel for you: #contributors.
