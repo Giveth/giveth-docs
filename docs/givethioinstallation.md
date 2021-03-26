@@ -1,6 +1,6 @@
 ---
 id: givethioinstallation
-title: Installing Giveth.io Local development
+title: Installing Giveth.io for Local development
 ---
 
 import useBaseUrl from '@docusaurus/useBaseUrl'
