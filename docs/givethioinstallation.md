@@ -22,7 +22,7 @@ This guide will document the steps to set up and run Giveth locally for the purp
 ### Step 1. Install impact-graph from GitHub
 In order to develop locally you need to clone the backend server as well. We are using https://github.com/topiahq/impact-graph for this.
 
-- via the CLI
+- via the CLI:
     ```bash
     git clone git@github.com:topiahq/impact-graph.git
     cd impact-graph
@@ -63,7 +63,7 @@ postgres=# grant all privileges on database <databaseName> to <userName>;
  * Open the workspace file `giveth2-full-stack.code-workspace`
  * Install recommended extensions (Prettier and StandardJS plugins)
 
- Then fire up the local development server
+ Then fire up the local development server.
 
  ```bash
  gatsby develop
@@ -71,7 +71,7 @@ postgres=# grant all privileges on database <databaseName> to <userName>;
 
 ### Step 6. Start Editing!
 
-Open up the giveth2 repo on your code editor
+Open up the giveth2 repo on your code editor.
 
 Giveth.io is now running locally at `http://localhost:8000`!
 
