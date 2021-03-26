@@ -1,5 +1,5 @@
 ---
-id: installation
+id: oldinstallation
 title: Installation
 slug: /
 ---

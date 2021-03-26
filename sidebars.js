@@ -1,6 +1,6 @@
 module.exports = {
   docsSidebar: {
-    Installation: ['givethioinstallation'],
+    Installation: ['givethioinstallation', 'run-giveth2'],
     Guidelines: ['contributors', 'github-issues', 'testing-guidelines', 'dev-guidelines'],
     Reference: ['styleguide']
   }
