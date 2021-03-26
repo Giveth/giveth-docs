@@ -83,6 +83,7 @@ Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.o
   Save your changes and the browser will update in real time!
 
 **Current Build Statuses**
+
 [master](https://v2.giveth.io)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f914ac7e-ce27-4909-bd3e-14d749731a52/deploy-status)](https://app.netlify.com/sites/giveth2/deploys)
