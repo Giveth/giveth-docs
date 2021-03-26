@@ -1,7 +1,7 @@
 ---
 id: oldinstallation
 title: Installation
-slug: /
+
 ---
 
 Giveth is maintaining multiple versions of different applications, most prominently the Giveth Donation Applications. For a full list of projects check out our [github organization](https://github.com/giveth)
