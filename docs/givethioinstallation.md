@@ -19,7 +19,7 @@ This guide will document the steps to set up and run Giveth locally for the purp
      * [For Windows](https://www.gatsbyjs.com/docs/how-to/local-development/gatsby-on-windows/)
  - Your Favourite Code Editor (VScode for linting presets)
 
-### Step 1. Install impact-graph from GitHub
+### Install impact-graph from GitHub
 In order to develop locally you need to clone the backend server as well. We are using https://github.com/topiahq/impact-graph for this.
 
 - via the CLI:
@@ -31,7 +31,7 @@ In order to develop locally you need to clone the backend server as well. We are
     ```
 
 
-### Step 2. Create a Database and User in Postgres using psql
+### Create a Database and User in Postgres using psql
 Follow this tutorial on PSQL to setup your username and create the database.
 https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e)
 
@@ -42,7 +42,7 @@ postgres=# create database <databaseName>;
 postgres=# create user <userName> with encrypted password '<passwordHere>';
 postgres=# grant all privileges on database <databaseName> to <userName>;
 ```
-### Step 3. Clone and Install the Frontend
+### Clone and Install the Frontend
   Head on over to https://github.com/Giveth/giveth-2 and clone the repo.
   - via the CLI:
   ```bash
@@ -51,10 +51,10 @@ postgres=# grant all privileges on database <databaseName> to <userName>;
   npm i
   ```
 
-### Step 4. Get the Environment Variables
+### Get the Environment Variables
  In order to run the local build for Giveth.io you'll need to ask for the environment variables. Head on over to our [Contributors Discord](https://discord.gg/EndTUw9955) say Hi and get in touch with one of the developers.
 
-### Step 5. Launch the Development Server and Environment
+### Launch the Development Server and Environment
  Make sure the backend server is running; the `impact-graph` from step 1.
 
  To take advantage of linting presets, please use **VSCODE**:
@@ -69,7 +69,7 @@ postgres=# grant all privileges on database <databaseName> to <userName>;
  gatsby develop
  ```
 
-### Step 6. Start Editing!
+### Start Editing!
 
 Open up the giveth2 repo on your code editor.
 
