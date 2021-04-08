@@ -8,7 +8,7 @@ In order to encourage creators to put in a bit more effort and to passively cura
 
 There's a few tips we will outline here to guide you towards having a successful project on Giveth and to make sure your cause is receiving the greatest exposure possible on the DApp.
 
-For every project created on Giveth it is assigned a 'Quality Score' which is a ranges anywhere from 0-100, 100 being the max Quality. Projects with higher quality will appear higher on the list of projects featured on the site.
+**For every project created on Giveth it is assigned a 'Quality Score' which has a range of 0 to 100**, 100 being the maximum quality. Projects with higher quality will appear higher on the list of projects featured on the site.
 
 <img alt='Top Projects on Giveth.io' src={useBaseUrl('/img/content/projectquality.png')} />
 
