@@ -6,7 +6,7 @@ slug: /
 
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
-This guide will document the steps to set up and run Giveth locally for the purposes of development.The setup process was documented using Ubuntu 20.04 LTS.
+This guide will document the steps to set up and run Giveth.io locally for the purposes of development.The setup process was documented using Ubuntu 20.04 LTS.
 
 **You'll need a couple prerequisites to get started.**
 
