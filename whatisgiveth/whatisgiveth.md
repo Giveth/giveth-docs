@@ -5,7 +5,6 @@ slug: /
 author: Mitch.oz
 ---
 
-## What is Giveth?
 Giveth is a community focused on building the future of giving using blockchain technology. There are a lot of projects in the Giveth Galaxy, but the core 2 projects are: Giveth.io and Giveth TRACE. You can use Giveth to donate to projects or also propose projects that need funding, all using cryptocurrency and soon Fiat currencies! We aim to foster a large network of organizations to build a bright, transparent and decentralized Future of Giving.
 
 ## Why should I use Giveth for my project?

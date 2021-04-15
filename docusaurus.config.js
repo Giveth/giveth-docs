@@ -31,13 +31,13 @@ module.exports = {
         {
           to: 'whatisgiveth/',
           activeBasePath: 'whatisgiveth',
-          label: 'What is Giveth',
+          label: 'What is Giveth?',
           position: 'left'
         },
         {
           to: 'givbacks/',
           activeBasePath: 'givbacks',
-          label: 'Givbacks - The Giveth Token',
+          label: 'GIVBacks - The Giveth Token',
           position: 'left'
         },
         { to: 'blog', label: 'Blog', position: 'left' },
