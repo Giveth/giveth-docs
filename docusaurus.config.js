@@ -34,6 +34,12 @@ module.exports = {
           label: 'What is Giveth',
           position: 'left'
         },
+        {
+          to: 'givbacks/',
+          activeBasePath: 'givbacks',
+          label: 'Givbacks - The Giveth Token',
+          position: 'left'
+        },
         { to: 'blog', label: 'Blog', position: 'left' },
         {
           href: 'https://github.com/giveth/giveth-docs',
@@ -126,10 +132,29 @@ module.exports = {
 
         showLastUpdateTime: true
       }
-    ]  
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+
+      {
+        id: 'givbacks',
+
+        path: 'givbacks',
+
+        editUrl: 'https://github.com/giveth/giveth-docs/edit/master/',
+
+        routeBasePath: 'givbacks',
+
+        sidebarPath: require.resolve('./sidebarsgivbacks.js'),
+
+        showLastUpdateAuthor: true,
+
+        showLastUpdateTime: true
+      }
+    ]
   ],
 
-  
+
   presets: [
     [
       '@docusaurus/preset-classic',
