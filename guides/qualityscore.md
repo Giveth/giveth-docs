@@ -12,6 +12,6 @@ There's a few tips we will outline here to guide you towards having a successful
 
 <img alt='Top Projects on Giveth.io' src={useBaseUrl('/img/content/projectquality.png')} />
 
-The base quality given to a project upon creation is 40. If you write a description longer than 100 characters you will receive a further 10 to your score. If you upload an image to your project well that's a further whopping 30 pints. Finally for every heart on your project its an additional 10 to a maximum of the 100. Once you've achieved the maximal 100 quality score any further hearts will still help you reach the top as by default the most hearted projects are sifted to the top after quality score.
+The base quality given to a project upon creation is 40. If you write a description longer than 100 characters you will receive a further 10 to your score. If you upload an image to your project well that's a further whopping 30 points. Finally for every heart on your project its an additional 10 to a maximum of the 100. Once you've achieved the maximal 100 quality score any further hearts will still help you reach the top as by default the most hearted projects are sifted to the top after quality score.
 
-Take the time to write a thorough, presentable, description, upload a good quality, relevant photo and share your project across your networks. If you follow these simple yet important steps it is assured you're project will have exponentially greater potential on Giveth.io.
+Take the time to write a thorough, presentable, description, upload a good quality, relevant photo and share your project across your networks. If you follow these simple yet important steps it is assured your project will have exponentially greater potential on Giveth.io.
