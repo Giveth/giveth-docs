@@ -1,7 +1,6 @@
 ---
 id: whatisgiveth
 title: What is Giveth?
-author: Mitch.oz
 ---
 
 ## What is Giveth?
@@ -15,7 +14,7 @@ Giveth is a community focused on making the world a better place through the use
 
 -Governance
 
-You can use Giveth DApp to donate on projects or also propose projects that need funding, all using cryptocurrency! 
+You can use Giveth DApp to donate on projects or also propose projects that need funding, all using cryptocurrency!
 
 We aim to foster a large network of organizations and to build a bright, transparent and decentralized Future of Giving.
 
