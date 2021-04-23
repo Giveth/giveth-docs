@@ -60,3 +60,4 @@ If you want the entry to show up in the respective sidebar you will need to add 
 
 - `sidebars.js` for the docs section
 - `sidebarsGuides.js` for the guides section
+ No newline at end of file
