@@ -20,11 +20,11 @@ This guide will document the steps to set up and run Giveth.io locally for the p
  - Your Favourite Code Editor (VScode for linting presets)
 
 ### Install impact-graph from GitHub
-In order to develop locally you need to clone the backend server as well. We are using https://github.com/topiahq/impact-graph for this.
+In order to develop locally you need to clone the backend server as well. We are using https://github.com/Giveth/impact-graph for this.
 
-- via the CLI:
+- via SSH on the CLI:
     ```bash
-    git clone git@github.com:topiahq/impact-graph.git
+    git clone git@github.com:Giveth/impact-graph.git
     cd impact-graph
     npm i
     cp .env.example .env
@@ -55,7 +55,9 @@ postgres=# grant all privileges on database <databaseName> to <userName>;
  In order to run the local build for Giveth.io you'll need to ask for the environment variables. Head on over to our [Contributors Discord](https://discord.gg/EndTUw9955) say Hi and get in touch with one of the developers.
 
 ### Launch the Development Server and Environment
- Make sure the backend server is running; the `impact-graph` from step 1.
+ Start up the `impact-graph` backend server and redis.
+  - Run redis by using the command `redis-server`
+  - From the impact-graph repo start with `npm start`
 
  To take advantage of linting presets, please use **VSCODE**:
  * Select *File -> Open Workspace*
