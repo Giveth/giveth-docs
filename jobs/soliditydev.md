@@ -32,11 +32,11 @@ This job offer is focused on the development and launch of a donor-owned token e
 
 ## **Giveth’s Smart Contract Cred**
 
-Giveth has a great reputation and a powerful legacy to uphold. Created in 2016 by the WHG, rising like a phoenix out of the ashes of TheDAO. Most notably we created the [Minime Token](https://medium.com/giveth/the-minime-token-open-sourced-by-giveth-2710c0210787) and [Liquid Pledging](https://medium.com/giveth/liquid-democracy-what-that-bd3c63e8df52), which have been adopted by many notable projects in the space (Aragon, Status, etc) and, as the WHG, [rescued 210 million dollars from vulnerable parity multisigs](https://mashable.com/2017/07/26/ethereum-stolen-white-hat-group-rescued/). Aragon uses the Minime token for every Aragon DAO. Status used Liquid Pledging to build Assemble which they use for funding their projects [https://assemble.fund/#/](https://assemble.fund/#/)
+Giveth has a great reputation and a powerful legacy to uphold. Created in 2016 by the White Hat Group, rising like a phoenix out of the ashes of TheDAO. Most notably we created the [Minime Token](https://medium.com/giveth/the-minime-token-open-sourced-by-giveth-2710c0210787) and [Liquid Pledging](https://medium.com/giveth/liquid-democracy-what-that-bd3c63e8df52), which have been adopted by many notable projects in the space (Aragon, Status, etc). Aragon uses the Minime token for every Aragon DAO. Status used Liquid Pledging to build Assemble which they use for funding their projects [https://assemble.fund/#/](https://assemble.fund/#/). In 2017, we [rescued 210 million dollars from vulnerable parity multisigs](https://mashable.com/2017/07/26/ethereum-stolen-white-hat-group-rescued/) at a Giveth all-hands meeting.
 
 ## Who are we looking for?
 
-We are seeking an experienced Solidity Dev that has significantly contributed to the build and launch of a project before. Ideally this developer would be familiar with Defi, DAOs and yield farming. We love passionate people and hope to call in someone excited about charitable nonprofit work who wants to help us Build the Future of Giving.
+We are seeking an experienced Solidity Dev that has significantly contributed to the build and launch of a project. Ideally this developer would be familiar with Defi, DAOs and yield farming. We love passionate people and hope to call in someone excited about charitable nonprofit work who wants to help us Build the Future of Giving.
 
 Further qualifications include understanding how to fork and adapting previously audited contracts from other projects to re-purpose them for our own use and a willingness to do other backend development work, not only Solidity, as we are a small collaborative team.
 
