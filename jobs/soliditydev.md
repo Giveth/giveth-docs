@@ -78,4 +78,4 @@ We are dedicated to building systems that appreciate value creation in the care 
 
 Do you want to join our international team of changemakers and help us get there? Please send your resume or Curriculum Vitae (CV) and a cover letter telling us why you are a good fit to
 
-[griff@giveth.io](mailto:griff@giveth.io) with the subject header “Giveth Solidity Developer.”
+[givethdotio@gmail.com](mailto:givethdotio@gmail.com) with the subject header “Giveth Solidity Developer.”
