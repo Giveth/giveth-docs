@@ -13,9 +13,8 @@ const features = [
     imageUrl: 'img/giversanddoers.svg',
     description: (
       <>
-        Giveth is the easiest way to{' '}
-        <code>accept funding for your project</code> and <code>donate</code> to
-        projects that benefit us all.
+        User Guides for getting started on Giveth.io. Whether you're a project owner or donor this is the place for all
+        info!
       </>
     )
   },
@@ -25,8 +24,8 @@ const features = [
     imageUrl: 'img/devs.svg',
     description: (
       <>
-        Wether you are a <code>contributor</code> or want to fork our project -
-        this section is for you.
+        If you want to contribute to the Giveth.io project or fork our code this section has everything you need to know
+        to get up and running.
       </>
     )
   },
@@ -36,7 +35,7 @@ const features = [
     imageUrl: 'img/giveth-logo.svg',
     description: (
       <>
-        If you're curious to know more about <code>what giveth is. </code> have a look over here.
+        If you're curious to know more about <strong>what giveth is.</strong> have a look over here.
       </>
     )
   }
