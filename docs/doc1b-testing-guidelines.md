@@ -3,7 +3,6 @@ id: testing-guidelines
 title: Testing Guidelines
 ---
 
-# Testing Guidelines
 
 This guide provides a framework for testing the [Giveth.io](https://giveth.io/) DApp.
 

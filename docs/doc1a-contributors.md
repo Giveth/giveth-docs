@@ -5,11 +5,11 @@ title: Contributor Guide
 
 ### Getting Started
 
-- Like, star and fork the [repo](https://github.com/Giveth/giveth-2) if you want to help with visibility
+- Like, star and fork the [repo](https://github.com/Giveth/giveth-2) if you want to help with visibility.
 - Read all of the [docs on this site](/docs)!
 - Before starting any work, please introduce yourself on the [Giveth Discord](https://discord.gg/qf7XZ48gCU) in the `#Contribute` channel (see chat links here: https://giveth.io/join)
-- If you found the project via a Gitcoin bounty, please make sure to check the issue every few days until completion (Gitcoin requires some proof of life checks)
-- Please start a new branch on your fork named with the feature/fix you want to attempt and make a **pull request** when you are confident everything is ready to publish
+- If you found the project via a Gitcoin bounty, please make sure to check the issue every few days until completion (Gitcoin requires some proof of life checks).
+- Please start a new branch on your fork named with the feature/fix you want to attempt and make a **pull request** when you are confident everything is ready to publish.
 
 ## Zenhub
 
@@ -40,12 +40,12 @@ The use of columns in Zenhub in `giveth-2`:
 Please follow these guidelines, when working with Github issues
 
 ## Github Issue Management
-**Epics** are for breakup issues into smaller issues.
+**Epics** are for breaking up larger issues into smaller, more manageable issues.
 
 **Sprints** are broken down into 2 weeks each. Developers are expected to finish their assigned tasks for the end each sprint. Before the beginning of each new sprint progress is assessed and Developers are assigned new issues brought in from the backlog for the upcoming sprint.
 
 ### Creating Issues
-When you create an issue it's important to assign it to a developer so it get's acknowledged and properly prioritized. If you're not sure who to tag reach out in discord.
+When you create an issue it's important to assign it to a developer so it get's acknowledged and properly prioritized. If you're not sure who to tag, reach out in discord.
 
 **Labels** will help add context to your issue, please use them so contributors can get a better understanding of issues at a glance and pick them up.
 
