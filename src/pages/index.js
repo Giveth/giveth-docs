@@ -8,24 +8,22 @@ import styles from './styles.module.css'
 
 const features = [
   {
-    title: 'Giveth DApp User Guides',
-    slug: 'guides/',
-    imageUrl: 'img/giversanddoers.svg',
+    title: 'Giveth IO',
+    slug: 'givethio/',
+    imageUrl: 'img/givethIOfrontpage.png',
     description: (
       <>
-        User Guides for getting started on Giveth.io. Whether you're a project owner or donor this is the place for all
-        info!
+        User Guides, Developer Documentation and much more for the Giveth.io DApp
       </>
     )
   },
   {
-    title: 'Developer Documentation',
-    slug: 'docs/',
-    imageUrl: 'img/devs.svg',
+    title: 'Giveth TRACE',
+    slug: 'trace/',
+    imageUrl: 'img/tracefrontpage.png',
     description: (
       <>
-        If you want to contribute to the Giveth.io project or fork our code this section has everything you need to know
-        to get up and running.
+        A comprehensive Guide to the Giveth TRACE DApp including User Guides, Developer Documentation and <strong>much</strong> much more! An updated Fork of Giveth Wiki (2017)
       </>
     )
   },
@@ -69,7 +67,7 @@ function Home () {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description='Documentation for Giveth.io DApp Contributors and Developers'
+      description='Comprehensive Documentation for Contributors and Developers to the Giveth DApps and about Giveth as an organisation'
     >
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className='container hero--primary'>
@@ -81,7 +79,7 @@ function Home () {
                 'button button--outline button--lg',
                 styles.getStarted
               )}
-              to={useBaseUrl('guides/')}
+              to={useBaseUrl('whatisgiveth/')}
             >
               Get Started
             </Link>
