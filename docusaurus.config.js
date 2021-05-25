@@ -9,11 +9,13 @@ module.exports = {
   organizationName: 'giveth', // Usually your GitHub org/user name.
   projectName: 'giveth-docs', // Usually your repo name.
   themeConfig: {
+    hideableSidebar: true,
     navbar: {
       title: 'Giveth Documentation',
       logo: {
         alt: 'Giveth Docs Logo',
-        src: 'img/logo.svg'
+        src: 'img/logo.svg',
+
       },
       items: [
         {
@@ -47,6 +49,11 @@ module.exports = {
           label: 'Jobs',
           position: 'left'
         },
+        {
+        to: 'blog/',
+        label: 'Blog',
+        position: 'left',
+      },
         {
           href: 'https://github.com/giveth/giveth-docs',
           label: 'GitHub',

@@ -1,6 +1,6 @@
 ---
 id: tracewelcome
-title: Giveth Donation Application (Beta)
+title: The Status of Giveth TRACE
 slug: /
 ---
 

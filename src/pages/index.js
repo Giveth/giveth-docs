@@ -8,6 +8,16 @@ import styles from './styles.module.css'
 
 const features = [
   {
+    title: 'What is Giveth?',
+    slug: 'whatisgiveth/',
+    imageUrl: 'img/giveth-logo.svg',
+    description: (
+      <>
+        If you're curious to know more about <strong>what giveth is.</strong> have a look over here.
+      </>
+    )
+  },
+  {
     title: 'Giveth IO',
     slug: 'givethio/',
     imageUrl: 'img/givethIOfrontpage.png',
@@ -26,17 +36,8 @@ const features = [
         A comprehensive Guide to the Giveth TRACE DApp including User Guides, Developer Documentation and <strong>much</strong> much more! An updated Fork of Giveth Wiki (2017)
       </>
     )
-  },
-  {
-    title: 'What is Giveth?',
-    slug: 'whatisgiveth/',
-    imageUrl: 'img/giveth-logo.svg',
-    description: (
-      <>
-        If you're curious to know more about <strong>what giveth is.</strong> have a look over here.
-      </>
-    )
   }
+
 ]
 
 function Feature ({ imageUrl, slug, title, description }) {
