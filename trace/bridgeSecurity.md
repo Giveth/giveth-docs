@@ -3,6 +3,7 @@ id: bridgeSecurity
 title: Giveth Bridge Security Implementation
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
+import styles from '../src/css/custom.css'
 
 ####  A technical overview of the features, roles and theory behind the security of the Giveth Bridge.
 *This document assumes that the reader has basic knowledge of smart contracts, multisig contracts and Ethereum testnet chains.*
@@ -10,8 +11,9 @@ import useBaseUrl from '@docusaurus/useBaseUrl'
 ### What is the Giveth Bridge, exactly?
 The bridge has 3 parts: A contract on the Ethereum Mainnet, a contract on the Rinkeby Testnet, and an off-chain service that connects these two contracts. The off-chain service listens for events from these contracts and relays commands from one contract to the other.
 
-![Giveth Bridge Flow](https://i.imgur.com/zgw5GRf.png)
-<img alt="Giveth TRACE Bridge Flow" src={useBaseUrl('img/content/givethbridge.png')} />
+
+<img id="contentimg" alt='Giveth TRACE Bridge Flow' src={useBaseUrl('img/content/trace/givethbridge.png')} />
+
 
 ### How does it work?
 The Giveth Bridge contract on mainnet is simply a vault contract with 1 extra security measure and a few modifications to make it function as a bridge. Payments are only paid out under certain conditions. Every bridge payment has a standard 48-hour time lockout before payment can occur.

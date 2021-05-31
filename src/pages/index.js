@@ -30,7 +30,7 @@ const features = [
   {
     title: 'Giveth TRACE',
     slug: 'trace/',
-    imageUrl: 'img/tracefrontpage.png',
+    imageUrl: 'img/content/trace/tracefrontpage.png',
     description: (
       <>
         A comprehensive Guide to the Giveth TRACE DApp including User Guides, Developer Documentation and <strong>much</strong> much more! An updated Fork of Giveth Wiki (2017)

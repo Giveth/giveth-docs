@@ -4,17 +4,17 @@ module.exports = {
      {
        type: 'category',
        label: 'Governance',
-       items: []
+       items: ['test1']
      },
      {
        type: 'category',
        label: 'Communications',
-       items: []
+       items: ['introToCommunications']
      },
      {
        type: 'category',
        label: 'Community',
-       items: []
+       items: ['test2']
      },
      'dapps'
   ]

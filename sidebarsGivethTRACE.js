@@ -5,12 +5,12 @@ module.exports = {
    {
     type: 'category',
     label: 'DApp Documentation',
-    items: ['bridgeSecurity']
+    items: ['bridgeSecurity', 'leavingTraces', 'developmentProcess']
     },
     {
       type: 'category',
       label: 'Reference',
-      items: ['technicalWhitePaper']
+      items: ['technicalWhitePaper', 'exchangeRates']
     },
   ],
 }

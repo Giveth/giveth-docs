@@ -4,6 +4,7 @@ title: Installing Giveth.io for Local development
 ---
 
 import useBaseUrl from '@docusaurus/useBaseUrl'
+import styles from '../src/css/custom.css'
 
 This guide will document the steps to set up and run Giveth.io locally for the purposes of development.The setup process was documented using Ubuntu 20.04 LTS.
 
@@ -76,7 +77,7 @@ Open up the giveth2 repo on your code editor.
 
 Giveth.io is now running locally at `http://localhost:8000`!
 
-<img alt='Giveth Running Locally' src={useBaseUrl('img/content/givethlocalresized.png')} />
+<img id="contentimg" alt='Giveth Running Locally' src={useBaseUrl('img/content/givethlocalresized.png')} />
 
 You can also expiremnt with querying your data via GraphQL - you'll find it at this link here - `http://localhost:8000/___graphql`
 Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).

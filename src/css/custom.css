@@ -32,3 +32,10 @@
 
 .hero {background-image: url('/img/hero.jpg');
 background-size: cover;}
+
+#contentimg
+{
+  border: 5px solid #C2449F;
+  border-radius: 15px;
+  margin: 20px;
+}
