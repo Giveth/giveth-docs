@@ -39,3 +39,9 @@ background-size: cover;}
   border-radius: 15px;
   margin: 20px;
 }
+img.leftfloat {
+  float: left;
+  margin:10px;
+  padding: 10px;
+
+}

@@ -35,3 +35,8 @@
   height: 200px;
   width: 450px;
 }
+a.button.button--outline.button--lg:hover
+{
+  background-color: #fff;
+
+}

@@ -50,7 +50,7 @@ module.exports = {
           position: 'left'
         },
         {
-        to: 'blog/',
+        to: 'blog',
         label: 'Blog',
         position: 'left',
       },
