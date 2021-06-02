@@ -54,7 +54,7 @@ In the next months as we continue to hone the user experience and squash any bug
 
 So head over to [giveth.io](http://giveth.io), try it out for yourself, and let us know what you think!
 
-Want to get more involved?
+## Want to get more involved?
 
 *   Join us on [Discord](https://discord.gg/JftjK8Un3z) or [Telegram](http://t.me/givethio)
 *   Discover our [Site](http://giveth.io/) and [Wiki](https://wiki.giveth.io/)

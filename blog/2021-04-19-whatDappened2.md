@@ -43,7 +43,7 @@ Thanks for reading and we’ll see you at the end of the next sprint for more de
 
 _Many thanks to our amazing team for making all this possible: James, Mateo, Kay, Merlin, Danibelle, Willy, Griff, Marko, Mitch, Ashley, and Lauren!_
 
-Want to get more involved?
+## Want to get more involved?
 
 *   Join us on [Discord](https://discord.gg/JftjK8Un3z) or [Telegram](http://t.me/givethio)
 *   Discover our [Site](http://giveth.io/), [Docs](https://docs.giveth.io/) and [Wiki](https://wiki.giveth.io/)

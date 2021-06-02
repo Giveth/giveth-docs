@@ -75,8 +75,8 @@ Giveth.io
 
 The new Giveth is straightforward if you’re looking to make simple donations peer to peer without any added complexity but with more connectivity. Giveth TRACE allows you to define how broad or narrow your donations are while maintaining a high standard of transparency and checks on fund flow. Each has specific advantages in terms of collecting donations. Check out both and decide which flavor suits your taste; [Giveth TRACE](https://beta.giveth.io/) or [Giveth.io](https://giveth.io/).
 
-Want to get more involved?
-==========================
+## Want to get more involved?
+
 
 *   Join us on [Discord](https://discord.gg/JftjK8Un3z) or [Telegram](http://t.me/givethio)
 *   Discover our [Site](http://giveth.io/) and [Wiki](https://wiki.giveth.io/)

@@ -18,7 +18,7 @@ In March of 2021 we launched the new [Giveth Donation Application](https://givet
 
 The goal of this campaign is to provide a space for altruistic developers and change-makers to talk about their passion projects, find guidance, and gain credibility and support with our dApp. So we want to hear from you! Share your perspective and tell us how you are creating change or helping to solve a problem.
 
-**Your Task?**
+### **Your Task?**
 
 1.  **Go to** [**Giveth.io**](https://giveth.io/) **and add your project**
 2.  **Tell your story\***
@@ -32,7 +32,7 @@ The goal of this campaign is to provide a space for altruistic developers and ch
 
 We will be shining the spotlight on submitted projects by sharing them in Medium blog posts, via Twitter, Discord, and blasting off your praises throughout our network. Don’t miss this opportunity to get involved and get noticed with #Giveth4Change.
 
-Want to get more involved?
+## Want to get more involved?
 
 *   Join us on [Discord](https://discord.gg/JftjK8Un3z) or [Telegram](http://t.me/givethio)
 *   Discover our [Site](http://giveth.io/), [Docs](https://docs.giveth.io/) and [Wiki](https://wiki.giveth.io/)
