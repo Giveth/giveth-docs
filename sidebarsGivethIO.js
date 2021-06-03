@@ -3,7 +3,13 @@ module.exports = {
     {
       type : 'category',
       label : 'User Guides',
-      items : ['gettingstarted', 'crypto',  'createproject','projectdonating','torusonramp', 'donatingmetamask','qualityscore', 'troubleshooting','faq'],
+      items : ['gettingstarted', 'crypto',  'createproject','projectdonating',
+      {
+        type: 'category',
+        label: 'Wallets',
+        items: ['torusUserGuide', 'torusonramp', 'donatingmetamask'],
+      }
+      ,'qualityscore', 'troubleshooting','faq'],
     },
     {
       type : 'category',

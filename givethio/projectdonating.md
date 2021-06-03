@@ -14,9 +14,6 @@ Currently you are only able to make contributions in Ether(ETH), support for mor
 
 Once the transaction has been signed off and processed then you've done it! Nice work! You'll be taken the confirmation page and you can track the transaction details by following the link on the page.
 
-**[Step by step instructions for donating via Metamask can be found here.](/guides/donatingmetamask)**
- 
-**[If you'd like to make a donation in fiat currency follow this guide.](/guides/torusonramp)**
+**[Step by step instructions for donating via Metamask can be found here.](donatingmetamask.md)**
 
- 
-
+**[If you'd like to make a donation in fiat currency follow this guide.](torusonramp.md)**
