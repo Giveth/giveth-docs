@@ -10,7 +10,7 @@ import styles from '../src/css/custom.css'
 ### Leaving Traces is one of the most integral features of Giveth TRACE.
 As part of our ongoing commitment to transparency Traces, formerly known as Milestones, represent how users can record their work or progress and submit proposals requesting compensation.
 
- **1.** Go to [Giveth TRACE](beta.giveth.io) and select which campaign your Trace is for.
+ **1.** Go to [Giveth TRACE](https://beta.giveth.io) and select which campaign your Trace is for.
 
 **2.** From the campaign page, click *“Create New”*. You have four options on the following page: **Payment**, **Bounty**, **Expense**, **Milestone**, choose which is most applicable to the form of compensation you're proposing.
 

@@ -14,7 +14,7 @@ Giveth is re-engineering charitable giving, by creating entirely free, open-sour
 The [Giveth TRACE DApp](https://beta.giveth.io) is currently live in *beta* stage on the Ethereum mainnet, bridged to Rinkeby testnet. We are in active development on the DApp and aiming for a post-beta release in the coming months. The best way to reach out to our team is via [Discord](https://discord.gg/GMQFKmdSGy), feel free to drop in and say hello!
 
 
-New Projects are currently being added onto Giveth TRACE by a case-by-case vetting process. If you have a simple project looking for funding try out [Giveth.io](giveth.io). If you have a community, cause or project that is more complex, and perhaps requiring greater transparency and traceability then get in touch with us on [Discord](https://discord.gg/qf7XZ48gCU).
+New Projects are currently being added onto Giveth TRACE by a case-by-case vetting process. If you have a simple project looking for funding try out [Giveth.io](https://giveth.io). If you have a community, cause or project that is more complex, and perhaps requiring greater transparency and traceability then get in touch with us on [Discord](https://discord.gg/qf7XZ48gCU).
 
 Check out the amazing projects onboarded onto our [DApp](https://beta.giveth.io) and register as a user by completing a profile. You can support the development of our Dapp by giving to a Community or Campaign, or funding specific Traces directly and see exactly how your donation creates positive change in the world.
 
