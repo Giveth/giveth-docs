@@ -1,5 +1,5 @@
 ---
-id: changeMakers
+slug: changeMakers
 title: Calling All Change-Makers!
 author: Mitch
 author_image_url: /img/mitchAuthor.jpeg

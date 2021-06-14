@@ -1,5 +1,5 @@
 ---
-id: howToDocs    
+slug: howToDocs    
 title: How to contribute to documentation
 author: geleeroyale
 author_title: Giveth

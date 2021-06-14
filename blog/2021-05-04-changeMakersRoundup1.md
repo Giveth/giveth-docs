@@ -1,5 +1,5 @@
 ---
-id: changeMakersRoundup1
+slug: changeMakersRoundup1
 title: The First Change-Maker Submission Roundup is In!
 author: Mitch
 author_image_url: /img/mitchAuthor.jpeg

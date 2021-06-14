@@ -1,5 +1,5 @@
 ---
-id: changeMakersRoundup2
+slug: changeMakersRoundup2
 title: "Change-Maker Submissions — Round Up #2!"
 author: Mitch
 author_image_url: /img/mitchAuthor.jpeg

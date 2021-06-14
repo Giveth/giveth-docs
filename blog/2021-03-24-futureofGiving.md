@@ -1,5 +1,5 @@
 ---
-id: futureofGiving
+slug: futureofGiving
 title: The Future of Giving is Here
 author: Lauren
 author_title: Blockchain DAbbler and Heart-Centered Jack of All Trades

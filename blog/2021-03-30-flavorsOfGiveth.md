@@ -1,5 +1,5 @@
 ---
-id: flavorsOfGiveth
+slug: flavorsOfGiveth
 title: Two Flavors of Giveth.. Which One to Choose?
 author: Mitch
 author_image_url: /img/mitchAuthor.jpeg

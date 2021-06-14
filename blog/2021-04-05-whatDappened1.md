@@ -1,5 +1,5 @@
 ---
-id: whatDappened1
+slug: whatDappened1
 title: "What DAppened: March 17–31"
 author: Lauren
 author_title: Blockchain DAbbler and Heart-Centered Jack of All Trades
