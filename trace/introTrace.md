@@ -27,11 +27,11 @@ In order to interface with the Giveth application you'll have to [download and i
 
 This ground-breaking innovation (of its time) allows Giveth and the user to perform smart contract interactions for free, spending only gas on Rinkeby testnet, while still tracking everything on a blockchain. For most tasks on Giveth TRACE you'll want to make sure you're connected to the **Rinkeby** test network.
 
-When you're sending real funds, to any entity on Giveth TRACE, you do it with Ethereum Mainnet. Conversely, when you claim funds that have been delegated to a completed Trace you are the recipient of, **Giveth pays the gas** to bridge your transaction to mainnet and send the funds to you.
+When you're sending real funds, to any entity on Giveth TRACE, you do it with Ethereum Mainnet. Conversely, when you collect funds from your Trace, **Giveth pays the gas** to bridge your transaction to mainnet and send the funds to you.
 
 
 
-To learn more about the Giveth Bridge head over to the documentation **here**(will add internal link). There is also a [wonderful medium article](https://medium.com/giveth/tackling-ethereum-scalability-issues-29bd700b5060) from 2017, that identifies the major scalability issues of that era in crypto and how we found a solution.
+To learn more about the Giveth Bridge head over to the documentation [**here**](https://docs.giveth.io/trace/bridgeSecurity). There is also a [wonderful medium article](https://medium.com/giveth/tackling-ethereum-scalability-issues-29bd700b5060) from 2017, that identifies the major scalability issues of that era in crypto and how we found a solution.
 
 ### Development
 You can follow the development on [Github](https://github.com/Giveth/giveth-dapp), read more in this documentation(add internal link) or join our contributors channel in [Discord](https://discord.gg/qf7XZ48gCU). Our meetings are on the [Giveth calendar](https://calendar.google.com/calendar/embed?src=givethdotio@gmail.com&pli=1) and you are welcome to join!
