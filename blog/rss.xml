@@ -4,8 +4,71 @@
         <title>Giveth Docs Blog</title>
         <link>https://docs.giveth.io/blog</link>
         <description>Giveth Docs Blog</description>
-        <lastBuildDate>Sun, 25 Oct 2015 23:29:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Change-Maker Submissions — Round Up #2!]]></title>
+            <link>https://docs.giveth.io/blog/changeMakersRoundup2</link>
+            <guid>changeMakersRoundup2</guid>
+            <pubDate>Fri, 14 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[We asked our community to add their projects to giveth.io and share their stories about how they are changing the world for the better using #giveth4change. Keep reading for our second round of submissions, or submit your story via twitter or reddit to be featured in our next round up.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[What DAppened: April 21— May 5]]></title>
+            <link>https://docs.giveth.io/blog/whatDappened3</link>
+            <guid>whatDappened3</guid>
+            <pubDate>Mon, 10 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Upholding our values of Transparency and Accountability by sharing recent development updates from this past sprint.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The First Change-Maker Submission Roundup is In!]]></title>
+            <link>https://docs.giveth.io/blog/changeMakersRoundup1</link>
+            <guid>changeMakersRoundup1</guid>
+            <pubDate>Tue, 04 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[We asked our community to add their projects to giveth.io and share their stories about how they are changing the world for the better using #giveth4change. Read on to discover our first round of submissions, or submit your story via twitter or reddit to be featured in our next summary.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[What DAppened: March 31 — April 14]]></title>
+            <link>https://docs.giveth.io/blog/whatDappened2</link>
+            <guid>whatDappened2</guid>
+            <pubDate>Mon, 19 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[We’re back with another development update from our recent sprint cycle! Read on to stay in-the-know on what’s dAppening at giveth.io]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Calling All Change-Makers!]]></title>
+            <link>https://docs.giveth.io/blog/changeMakers</link>
+            <guid>changeMakers</guid>
+            <pubDate>Thu, 15 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Are you passionate about changing the world for the better? We want to hear how you’re taking action to improve upon a social or environmental issue that speaks to you. Tell us how you’re making a difference. Share your story.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[What DAppened: March 17–31]]></title>
+            <link>https://docs.giveth.io/blog/whatDappened1</link>
+            <guid>whatDappened1</guid>
+            <pubDate>Mon, 05 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello friends and fans of Giveth! This is one part of a series of short transparency posts where we keep you in the loop with updates on what’s in development for giveth.io.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Two Flavors of Giveth.. Which One to Choose?]]></title>
+            <link>https://docs.giveth.io/blog/flavorsOfGiveth</link>
+            <guid>flavorsOfGiveth</guid>
+            <pubDate>Tue, 30 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Giveth TRACE and Giveth.io landing pages]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The Future of Giving is Here]]></title>
+            <link>https://docs.giveth.io/blog/futureofGiving</link>
+            <guid>futureofGiving</guid>
+            <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[We are very excited to announce the launch of Giveth at giveth.io — a free, open-source donation application for community philanthropy featuring an all-new UI/UX.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How to contribute to documentation]]></title>
+            <link>https://docs.giveth.io/blog/howToDocs</link>
+            <guid>howToDocs</guid>
+            <pubDate>Mon, 01 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello dear contributor!]]></description>
+        </item>
     </channel>
 </rss>

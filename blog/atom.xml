@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.giveth.io/blog</id>
     <title>Giveth Docs Blog</title>
-    <updated>2015-10-25T23:29:00.000Z</updated>
+    <updated>2021-05-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.giveth.io/blog"/>
     <subtitle>Giveth Docs Blog</subtitle>
     <icon>https://docs.giveth.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Change-Maker Submissions — Round Up #2!]]></title>
+        <id>changeMakersRoundup2</id>
+        <link href="https://docs.giveth.io/blog/changeMakersRoundup2"/>
+        <updated>2021-05-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We asked our community to add their projects to giveth.io and share their stories about how they are changing the world for the better using #giveth4change. Keep reading for our second round of submissions, or submit your story via twitter or reddit to be featured in our next round up.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What DAppened: April 21— May 5]]></title>
+        <id>whatDappened3</id>
+        <link href="https://docs.giveth.io/blog/whatDappened3"/>
+        <updated>2021-05-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Upholding our values of Transparency and Accountability by sharing recent development updates from this past sprint.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The First Change-Maker Submission Roundup is In!]]></title>
+        <id>changeMakersRoundup1</id>
+        <link href="https://docs.giveth.io/blog/changeMakersRoundup1"/>
+        <updated>2021-05-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We asked our community to add their projects to giveth.io and share their stories about how they are changing the world for the better using #giveth4change. Read on to discover our first round of submissions, or submit your story via twitter or reddit to be featured in our next summary.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What DAppened: March 31 — April 14]]></title>
+        <id>whatDappened2</id>
+        <link href="https://docs.giveth.io/blog/whatDappened2"/>
+        <updated>2021-04-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re back with another development update from our recent sprint cycle! Read on to stay in-the-know on what’s dAppening at giveth.io]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calling All Change-Makers!]]></title>
+        <id>changeMakers</id>
+        <link href="https://docs.giveth.io/blog/changeMakers"/>
+        <updated>2021-04-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Are you passionate about changing the world for the better? We want to hear how you’re taking action to improve upon a social or environmental issue that speaks to you. Tell us how you’re making a difference. Share your story.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What DAppened: March 17–31]]></title>
+        <id>whatDappened1</id>
+        <link href="https://docs.giveth.io/blog/whatDappened1"/>
+        <updated>2021-04-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello friends and fans of Giveth! This is one part of a series of short transparency posts where we keep you in the loop with updates on what’s in development for giveth.io.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two Flavors of Giveth.. Which One to Choose?]]></title>
+        <id>flavorsOfGiveth</id>
+        <link href="https://docs.giveth.io/blog/flavorsOfGiveth"/>
+        <updated>2021-03-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Giveth TRACE and Giveth.io landing pages]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of Giving is Here]]></title>
+        <id>futureofGiving</id>
+        <link href="https://docs.giveth.io/blog/futureofGiving"/>
+        <updated>2021-03-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are very excited to announce the launch of Giveth at giveth.io — a free, open-source donation application for community philanthropy featuring an all-new UI/UX.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to contribute to documentation]]></title>
+        <id>howToDocs</id>
+        <link href="https://docs.giveth.io/blog/howToDocs"/>
+        <updated>2021-03-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello dear contributor!]]></summary>
+    </entry>
 </feed>
