@@ -1,7 +1,7 @@
 module.exports = {
 
   trace: [
-  'tracewelcome',
+  'introTrace', 'entitiesAndRoles',
    {
     type: 'category',
     label: 'DApp Documentation',
@@ -10,7 +10,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Reference',
-      items: ['technicalWhitePaper', 'exchangeRates']
+      items: ['technicalWhitePaper', 'exchangeRates', 'traceContracts']
     },
   ],
 }

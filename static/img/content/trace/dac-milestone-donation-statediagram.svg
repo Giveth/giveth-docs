@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="989 739 897 661" width="897pt" height="661pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.5 
+    <dc:date>2017-10-27 00:34:59 +0000</dc:date>
+  </metadata>
+  <defs>
+    <font-face font-family="Avenir" font-size="13" panose-1="2 11 7 3 2 2 3 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="480" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="bold">
+      <font-face-src>
+        <font-face-name name="Avenir-Heavy"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>DAC - Milestone - Donation State Diagram</title>
+    <g>
+      <title>Layer 1</title>
+      <path d="M 1377.947 869.2077 L 1459.947 869.2077 C 1462.156 869.2077 1463.947 870.9985 1463.947 873.2077 L 1463.947 930.2077 C 1463.947 932.4168 1462.156 934.2077 1459.947 934.2077 L 1377.947 934.2077 C 1375.7378 934.2077 1373.947 932.4168 1373.947 930.2077 L 1373.947 873.2077 C 1373.947 870.9985 1375.7378 869.2077 1377.947 869.2077 Z" fill="white"/>
+      <path d="M 1377.947 869.2077 L 1459.947 869.2077 C 1462.156 869.2077 1463.947 870.9985 1463.947 873.2077 L 1463.947 930.2077 C 1463.947 932.4168 1462.156 934.2077 1459.947 934.2077 L 1377.947 934.2077 C 1375.7378 934.2077 1373.947 932.4168 1373.947 930.2077 L 1373.947 873.2077 C 1373.947 870.9985 1375.7378 869.2077 1377.947 869.2077 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(1379.947 883.7077)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="5.174" y="13" textLength="71.5">Pledged to </tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="24.921" y="31" textLength="28.158">DAC</tspan>
+      </text>
+      <line x1="1418.4578" y1="774" x2="1418.896" y2="859.3078" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M 1377.947 1031.1105 L 1459.947 1031.1105 C 1462.156 1031.1105 1463.947 1032.9014 1463.947 1035.1105 L 1463.947 1092.1105 C 1463.947 1094.3197 1462.156 1096.1105 1459.947 1096.1105 L 1377.947 1096.1105 C 1375.7378 1096.1105 1373.947 1094.3197 1373.947 1092.1105 L 1373.947 1035.1105 C 1373.947 1032.9014 1375.7378 1031.1105 1377.947 1031.1105 Z" fill="white"/>
+      <path d="M 1377.947 1031.1105 L 1459.947 1031.1105 C 1462.156 1031.1105 1463.947 1032.9014 1463.947 1035.1105 L 1463.947 1092.1105 C 1463.947 1094.3197 1462.156 1096.1105 1459.947 1096.1105 L 1377.947 1096.1105 C 1375.7378 1096.1105 1373.947 1094.3197 1373.947 1092.1105 L 1373.947 1035.1105 C 1373.947 1032.9014 1375.7378 1031.1105 1377.947 1031.1105 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(1379.947 1045.6105)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="5.174" y="13" textLength="71.5">Pledged to </tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="9.0285" y="31" textLength="59.943">Milestone</tspan>
+      </text>
+      <line x1="1418.947" y1="934.2077" x2="1418.947" y2="1021.2105" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="1366.6597" y="799.295" width="104" height="28" fill="white"/>
+      <text transform="translate(1371.6597 804.295)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".2" y="13" textLength="93.6">Donate to DAC</tspan>
+      </text>
+      <rect x="1345.447" y="961.3063" width="147" height="28" fill="white"/>
+      <text transform="translate(1350.447 966.3063)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".2565" y="13" textLength="136.487">Delegate to Milestone</tspan>
+      </text>
+      <path d="M 1418.947 1096.1105 C 1418.947 1122.5614 1418.6952 1143.5112 1418.6382 1168.7146" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="1351.7938" y="1122.216" width="134" height="28" fill="white"/>
+      <text transform="translate(1356.7938 1127.216)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".0095" y="13" textLength="123.981">Approve Delegation</tspan>
+      </text>
+      <path d="M 1418.633 1244.6125 C 1418.633 1255.7521 1419.1488 1321.2038 1419.2986 1348.0723" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="1382.946" y="1263.631" width="72" height="64" fill="white"/>
+      <text transform="translate(1387.946 1268.631)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".06" y="13" textLength="61.88">Successful</tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="1.0285" y="31" textLength="59.943">Milestone</tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="1.646" y="49" textLength="40.43">Workfl</tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="42.076" y="49" textLength="18.278">ow</tspan>
+      </text>
+      <circle cx="1419.3389" cy="1372.9698" r="15.000024" fill="white"/>
+      <circle cx="1419.3389" cy="1372.9698" r="15.000024" stroke="#3f4243" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <circle cx="1419.3389" cy="1372.9698" r="10.500017" fill="#3f4243"/>
+      <text transform="translate(1439.828 1363.9698)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="2.4396574" y="13" textLength="26.494">Paid</tspan>
+      </text>
+      <path d="M 1377.947 1178.6125 L 1459.3066 1178.6125 C 1461.5157 1178.6125 1463.3066 1180.4034 1463.3066 1182.6125 L 1463.3066 1239.6125 C 1463.3066 1241.8217 1461.5157 1243.6125 1459.3066 1243.6125 L 1377.947 1243.6125 C 1375.7378 1243.6125 1373.947 1241.8217 1373.947 1239.6125 L 1373.947 1182.6125 C 1373.947 1180.4034 1375.7378 1178.6125 1377.947 1178.6125 Z" fill="white"/>
+      <path d="M 1377.947 1178.6125 L 1459.3066 1178.6125 C 1461.5157 1178.6125 1463.3066 1180.4034 1463.3066 1182.6125 L 1463.3066 1239.6125 C 1463.3066 1241.8217 1461.5157 1243.6125 1459.3066 1243.6125 L 1377.947 1243.6125 C 1375.7378 1243.6125 1373.947 1241.8217 1373.947 1239.6125 L 1373.947 1182.6125 C 1373.947 1180.4034 1375.7378 1178.6125 1377.947 1178.6125 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(1379.947 1184.1125)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="4.379305" y="13" textLength="72.449">Committed </tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="32.186305" y="31" textLength="12.987">to</tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="8.708305" y="49" textLength="59.943">Milestone</tspan>
+      </text>
+      <circle cx="1418.4578" cy="764" r="10.000016" fill="#3f4243"/>
+      <text transform="translate(1434.6433 754)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="0" y="13" textLength="88.075">New Donation</tspan>
+      </text>
+      <line x1="1463.947" y1="901.7077" x2="1583.047" y2="901.7077" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="1493.925" y="887.7077" width="70" height="28" fill="white"/>
+      <text transform="translate(1498.925 892.7077)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".386" y="13" textLength="59.228">Withdraw</tspan>
+      </text>
+      <circle cx="1607.947" cy="901.7077" r="15.000024" fill="white"/>
+      <circle cx="1607.947" cy="901.7077" r="15.000024" stroke="#3f4243" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <circle cx="1607.947" cy="901.7077" r="10.500017" fill="#3f4243"/>
+      <path d="M 1373.447 1063.6105 L 1362.047 1063.6105 L 1268.3732 1063.6105 L 1268.3732 989.9964 L 1268.3732 933.2197 L 1363.4149 933.2197 L 1364.7036 933.2197" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="1208.8732" y="1018.0141" width="119" height="28" fill="white"/>
+      <text transform="translate(1213.8732 1023.0141)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".082" y="13" textLength="108.836">Reject Delegation</tspan>
+      </text>
+      <path d="M 1373.447 1211.1125 L 1362.047 1211.1125 L 1178.2028 1211.1125 L 1178.2028 1202.215 L 1178.2028 901.8203 L 1227.2441 901.8203 L 1362.047 901.7077 L 1363.547 901.7077" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="1120.7028" y="1131.8592" width="115" height="28" fill="white"/>
+      <text transform="translate(1125.7028 1136.8592)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".3765" y="13" textLength="104.247">Cancel Milestone</tspan>
+      </text>
+      <path d="M 1464.447 1063.6105 L 1475.847 1063.6105 L 1563.925 1063.6105 L 1563.925 1080.1624 L 1563.925 1210.5 L 1563.925 1211.1125 L 1475.2066 1211.1125 L 1473.2066 1211.1125" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="1524.925" y="1105.2859" width="78" height="64" fill="white"/>
+      <text transform="translate(1529.925 1110.2859)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="7.519" y="13" textLength="52.962">Approve</tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".4145" y="31" textLength="67.171">Delegation</tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="10.171" y="49" textLength="47.658">timeout</tspan>
+      </text>
+      <text transform="translate(1630.977 892.7077)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="0" y="13" textLength="66.69">Withdrawn</tspan>
+      </text>
+      <path d="M 1462.579 870.1956 L 1474.479 870.1956 L 1607.947 870.1956 L 1607.947 886.7077 L 1607.947 874.8077 L 1607.947 876.8077" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="1493.5741" y="856.1956" width="83" height="28" fill="white"/>
+      <text transform="translate(1498.5741 861.1956)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".269" y="13" textLength="72.462">Cancel DAC</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
