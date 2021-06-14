@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="397 729 897 842" width="897pt" height="842pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.5 
+    <dc:date>2017-10-27 00:34:59 +0000</dc:date>
+  </metadata>
+  <defs>
+    <font-face font-family="Avenir" font-size="13" panose-1="2 11 7 3 2 2 3 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="480" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="bold">
+      <font-face-src>
+        <font-face-name name="Avenir-Heavy"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>DAC - Campaign Donation State Diagram</title>
+    <g>
+      <title>Layer 1</title>
+      <path d="M 804.2028 858.8874 L 886.2028 858.8874 C 888.412 858.8874 890.2028 860.6782 890.2028 862.8874 L 890.2028 919.8874 C 890.2028 922.0965 888.412 923.8874 886.2028 923.8874 L 804.2028 923.8874 C 801.9937 923.8874 800.2028 922.0965 800.2028 919.8874 L 800.2028 862.8874 C 800.2028 860.6782 801.9937 858.8874 804.2028 858.8874 Z" fill="white"/>
+      <path d="M 804.2028 858.8874 L 886.2028 858.8874 C 888.412 858.8874 890.2028 860.6782 890.2028 862.8874 L 890.2028 919.8874 C 890.2028 922.0965 888.412 923.8874 886.2028 923.8874 L 804.2028 923.8874 C 801.9937 923.8874 800.2028 922.0965 800.2028 919.8874 L 800.2028 862.8874 C 800.2028 860.6782 801.9937 858.8874 804.2028 858.8874 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(806.2028 873.3874)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="5.174" y="13" textLength="71.5">Pledged to </tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="24.921" y="31" textLength="28.158">DAC</tspan>
+      </text>
+      <line x1="844.7136" y1="763.6797" x2="845.152" y2="848.9875" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M 804.2028 1020.7902 L 886.2028 1020.7902 C 888.412 1020.7902 890.2028 1022.5811 890.2028 1024.7902 L 890.2028 1081.7902 C 890.2028 1083.9994 888.412 1085.7902 886.2028 1085.7902 L 804.2028 1085.7902 C 801.9937 1085.7902 800.2028 1083.9994 800.2028 1081.7902 L 800.2028 1024.7902 C 800.2028 1022.5811 801.9937 1020.7902 804.2028 1020.7902 Z" fill="white"/>
+      <path d="M 804.2028 1020.7902 L 886.2028 1020.7902 C 888.412 1020.7902 890.2028 1022.5811 890.2028 1024.7902 L 890.2028 1081.7902 C 890.2028 1083.9994 888.412 1085.7902 886.2028 1085.7902 L 804.2028 1085.7902 C 801.9937 1085.7902 800.2028 1083.9994 800.2028 1081.7902 L 800.2028 1024.7902 C 800.2028 1022.5811 801.9937 1020.7902 804.2028 1020.7902 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(806.2028 1035.2902)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="5.174" y="13" textLength="71.5">Pledged to </tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="8.3005" y="31" textLength="61.399">Campaign</tspan>
+      </text>
+      <line x1="845.2028" y1="923.8874" x2="845.2028" y2="1010.8902" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="792.9155" y="788.9747" width="104" height="28" fill="white"/>
+      <text transform="translate(797.9155 793.9747)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".2" y="13" textLength="93.6">Donate to DAC</tspan>
+      </text>
+      <rect x="771.2028" y="950.986" width="148" height="28" fill="white"/>
+      <text transform="translate(776.2028 955.986)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".0285" y="13" textLength="137.943">Delegate to Campaign</tspan>
+      </text>
+      <path d="M 804.7028 1182.6931 L 886.7028 1182.6931 C 888.912 1182.6931 890.7028 1184.484 890.7028 1186.6931 L 890.7028 1243.6931 C 890.7028 1245.9023 888.912 1247.6931 886.7028 1247.6931 L 804.7028 1247.6931 C 802.4937 1247.6931 800.7028 1245.9023 800.7028 1243.6931 L 800.7028 1186.6931 C 800.7028 1184.484 802.4937 1182.6931 804.7028 1182.6931 Z" fill="white"/>
+      <path d="M 804.7028 1182.6931 L 886.7028 1182.6931 C 888.912 1182.6931 890.7028 1184.484 890.7028 1186.6931 L 890.7028 1243.6931 C 890.7028 1245.9023 888.912 1247.6931 886.7028 1247.6931 L 804.7028 1247.6931 C 802.4937 1247.6931 800.7028 1245.9023 800.7028 1243.6931 L 800.7028 1186.6931 C 800.7028 1184.484 802.4937 1182.6931 804.7028 1182.6931 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(806.7028 1188.1931)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="4.6995" y="13" textLength="72.449">Committed </tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="32.5065" y="31" textLength="16.835">to </tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="8.3005" y="49" textLength="61.399">Campaign</tspan>
+      </text>
+      <path d="M 845.2028 1085.7902 C 845.2028 1112.4043 845.6007 1144.9097 845.6866 1172.7951" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="778.4419" y="1118.783" width="134" height="28" fill="white"/>
+      <text transform="translate(783.4419 1123.783)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".0095" y="13" textLength="123.981">Approve Delegation</tspan>
+      </text>
+      <line x1="845.7011" y1="1248.6931" x2="845.5403" y2="1340.5577" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="793.0976" y="1293.8026" width="105" height="28" fill="white"/>
+      <text transform="translate(798.0976 1298.8026)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".3165" y="13" textLength="94.367">Fund Milestone</tspan>
+      </text>
+      <path d="M 845.5292 1416.4576 C 845.5292 1427.5972 846.045 1493.049 846.1948 1519.9174" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="809.8422" y="1435.4761" width="72" height="64" fill="white"/>
+      <text transform="translate(814.8422 1440.4761)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".06" y="13" textLength="61.88">Successful</tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="1.0285" y="31" textLength="59.943">Milestone</tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="1.646" y="49" textLength="40.43">Workfl</tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="42.076" y="49" textLength="18.278">ow</tspan>
+      </text>
+      <circle cx="846.2352" cy="1544.815" r="15.000024" fill="white"/>
+      <circle cx="846.2352" cy="1544.815" r="15.000024" stroke="#3f4243" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <circle cx="846.2352" cy="1544.815" r="10.500017" fill="#3f4243"/>
+      <text transform="translate(866.7243 1535.815)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="2.4396574" y="13" textLength="26.494">Paid</tspan>
+      </text>
+      <path d="M 804.8432 1350.4577 L 886.2028 1350.4577 C 888.412 1350.4577 890.2028 1352.2485 890.2028 1354.4577 L 890.2028 1411.4577 C 890.2028 1413.6668 888.412 1415.4577 886.2028 1415.4577 L 804.8432 1415.4577 C 802.6341 1415.4577 800.8432 1413.6668 800.8432 1411.4577 L 800.8432 1354.4577 C 800.8432 1352.2485 802.6341 1350.4577 804.8432 1350.4577 Z" fill="white"/>
+      <path d="M 804.8432 1350.4577 L 886.2028 1350.4577 C 888.412 1350.4577 890.2028 1352.2485 890.2028 1354.4577 L 890.2028 1411.4577 C 890.2028 1413.6668 888.412 1415.4577 886.2028 1415.4577 L 804.8432 1415.4577 C 802.6341 1415.4577 800.8432 1413.6668 800.8432 1411.4577 L 800.8432 1354.4577 C 800.8432 1352.2485 802.6341 1350.4577 804.8432 1350.4577 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(806.8432 1355.9577)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="4.379305" y="13" textLength="72.449">Committed </tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="32.186305" y="31" textLength="12.987">to</tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="8.708305" y="49" textLength="59.943">Milestone</tspan>
+      </text>
+      <circle cx="844.7136" cy="753.6797" r="10.000016" fill="#3f4243"/>
+      <text transform="translate(860.8992 743.6797)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="0" y="13" textLength="88.075">New Donation</tspan>
+      </text>
+      <line x1="890.2028" y1="891.3874" x2="1009.3028" y2="891.3874" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="920.1809" y="877.3874" width="70" height="28" fill="white"/>
+      <text transform="translate(925.1809 882.3874)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".386" y="13" textLength="59.228">Withdraw</tspan>
+      </text>
+      <circle cx="1034.2028" cy="891.3874" r="15.000024" fill="white"/>
+      <circle cx="1034.2028" cy="891.3874" r="15.000024" stroke="#3f4243" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <circle cx="1034.2028" cy="891.3874" r="10.500017" fill="#3f4243"/>
+      <text transform="translate(1057.2329 882.3874)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="0" y="13" textLength="66.69">Withdrawn</tspan>
+      </text>
+      <path d="M 799.7028 1053.2902 L 788.3028 1053.2902 L 694.6291 1053.2902 L 694.6291 979.676 L 694.6291 922.8994 L 789.6707 922.8994 L 790.9595 922.8994" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="635.1291" y="1007.6938" width="119" height="28" fill="white"/>
+      <text transform="translate(640.1291 1012.6938)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".082" y="13" textLength="108.836">Reject Delegation</tspan>
+      </text>
+      <path d="M 800.7028 1215.1931 L 788.8028 1215.1931 L 604.4587 1215.1931 L 604.4587 1191.8947 L 604.4587 891.5 L 653.5 891.5 L 788.3028 891.3874 L 789.8028 891.3874" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="546.4587" y="1131.2067" width="116" height="28" fill="white"/>
+      <text transform="translate(551.4587 1136.2067)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".1485" y="13" textLength="105.703">Cancel Campaign</tspan>
+      </text>
+      <path d="M 890.7028 1053.2902 L 902.1028 1053.2902 L 990.1809 1053.2902 L 990.1809 1069.8421 L 990.1809 1207.7368 L 990.1809 1215.1931 L 902.6028 1215.1931 L 901.1028 1215.1931" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="951.1809" y="1101.3222" width="78" height="64" fill="white"/>
+      <text transform="translate(956.1809 1106.3222)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="7.519" y="13" textLength="52.962">Approve</tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".4145" y="31" textLength="67.171">Delegation</tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="10.171" y="49" textLength="47.658">timeout</tspan>
+      </text>
+      <path d="M 800.3432 1382.9577 L 788.9432 1382.9577 L 691.5 1382.9577 L 691.5 1280.5 L 691.5 1269.5 L 802.0707 1269.5 L 802.0707 1258.6052 L 802.0707 1257.2435" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="634" y="1316.7899" width="115" height="28" fill="white"/>
+      <text transform="translate(639 1321.7899)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".3765" y="13" textLength="104.247">Cancel Milestone</tspan>
+      </text>
+      <path d="M 888.8349 859.8753 L 900.7349 859.8753 L 1034.2028 859.8753 L 1034.2028 876.3874 L 1034.2028 864.4874 L 1034.2028 866.4874" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="917.8878" y="845.8753" width="83" height="28" fill="white"/>
+      <text transform="translate(922.8878 850.8753)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".269" y="13" textLength="72.462">Cancel DAC</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

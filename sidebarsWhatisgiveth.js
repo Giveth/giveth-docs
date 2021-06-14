@@ -1,5 +1,5 @@
 module.exports = {
-  whatisgiveth: {
-    'Giveth Introduction': ['whatisgiveth']
-  }
+  whatisgiveth: [
+     'whatisgiveth'
+   ],
 }
