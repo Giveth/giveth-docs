@@ -1,6 +1,6 @@
 ---
 id: entitiesAndRoles
-title: Giveth Entities and Roles
+title: Entities and Roles
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'
