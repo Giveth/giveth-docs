@@ -21,7 +21,7 @@ Once you've logged in it's recommended you fill in some info about yourself. Tra
 
 ## Donate
 
-More info on donating to a project are in the [user guide.](/guides/projectdonating)
+More info on donating to a project are in the [user guide.](./projectdonating)
 
 ## Create project
-Our User Guide page for creating a project can be found [here.](/guides/createproject)
+Our User Guide page for creating a project can be found [here.](./createproject)
