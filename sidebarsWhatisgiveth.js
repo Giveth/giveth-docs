@@ -1,5 +1,5 @@
 module.exports = {
   whatisgiveth: [
-     'whatisgiveth'
+     'whatisgiveth', "introDappDevelopment", 'adviceProcess', 'finances',
    ],
 }
