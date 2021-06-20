@@ -18,8 +18,8 @@ const features = [
     )
   },
   {
-    title: 'Giveth IO',
-    slug: 'givethio/',
+    title: 'Giveth.io',
+    slug: 'dapps/',
     imageUrl: 'img/givethIOfrontpage.png',
     description: (
       <>
@@ -29,7 +29,7 @@ const features = [
   },
   {
     title: 'Giveth TRACE',
-    slug: 'trace/',
+    slug: 'dapps/introTrace',
     imageUrl: 'img/content/trace/tracefrontpage.png',
     description: (
       <>
