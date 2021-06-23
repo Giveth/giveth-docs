@@ -10,11 +10,11 @@ When we are looking at available software for organization, open-source comes fi
 
 ### Chat
 The Giveth community mainly communicates through these platforms:
-[Discord]([https://](https://discord.gg/DAFkKdkykr)) is currently the recommended option for joining the community. We also have a telegram chat that is bridged to our server.
+[Discord](https://discord.gg/DAFkKdkykr) is currently the recommended option for joining the community. We also have a telegram chat that is bridged to our server.
 [Telegram](https://t.me/Givethio) is also used and the chat group is bridged to the general channel in Discord.
 
 ### Documents and Files
-The Giveth DAC uses cloud-storage services for transparent document management. Most of our working documents are hosted and shared within [Notion]([https://](https://www.notion.so/giveth/Giveth-2c97e0eca91e43238565c8f79dfe5e8d)).
+The Giveth DAC uses cloud-storage services for transparent document management. Most of our working documents are hosted and shared within [Notion](https://www.notion.so/giveth/Giveth-2c97e0eca91e43238565c8f79dfe5e8d).
 
 ### Organization
 Currently we are evaluating [AragonDAO](https://aragon.1hive.org/#/giveth/) which is an excellent decentralized solution for decision-making.
