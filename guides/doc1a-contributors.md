@@ -6,7 +6,7 @@ title: Contributor Guide
 ### Getting Started
 
 - Like, star and fork the [repo](https://github.com/Giveth/giveth-2) if you want to help with visibility.
-- Read all of the [docs on this site](/docs)!
+
 - Before starting any work, please introduce yourself on the [Giveth Discord](https://discord.gg/qf7XZ48gCU) in the `#Contribute` channel (see chat links here: https://giveth.io/join)
 - If you found the project via a Gitcoin bounty, please make sure to check the issue every few days until completion (Gitcoin requires some proof of life checks).
 - Please start a new branch on your fork named with the feature/fix you want to attempt and make a **pull request** when you are confident everything is ready to publish.
