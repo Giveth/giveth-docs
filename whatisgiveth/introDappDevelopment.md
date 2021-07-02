@@ -1,6 +1,6 @@
 ---
 id: introDappDevelopment
-title: Intro to DApp Development
+title: DApp Development
 ---
 Welcome to the Giveth DApp Development Circle!
 

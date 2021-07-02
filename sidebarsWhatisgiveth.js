@@ -1,5 +1,11 @@
 module.exports = {
   whatisgiveth: [
-     'whatisgiveth', "introDappDevelopment", 'adviceProcess', 'finances', 'introCommunications','introCommunity', 'toolsDecentralizedCommunities', 'givethCircles',
+     'whatisgiveth', 'givethCircles',
+      {
+        type: 'category',
+        label: 'Circles',
+        items: ['introCommunications', 'introCommunity', 'introDappDevelopment', 'introGovernance']
+      },
+     'adviceProcess', 'finances', 'toolsDecentralizedCommunities',  'brandBook',
    ],
 }

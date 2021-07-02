@@ -1,6 +1,6 @@
 ---
 id: introCommunications
-title: Intro to Communications
+title: Communications
 ---
 
 # **Giveth Communications**

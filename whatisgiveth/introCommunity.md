@@ -1,6 +1,6 @@
 ---
 id: introCommunity
-title: Intro to Community
+title: Community
 ---
 
 Welcome to the the Giveth Community Circle!
