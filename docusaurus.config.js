@@ -25,18 +25,11 @@ module.exports = {
           position: 'left'
         },
         {
-          to: 'givethio/',
-          activeBasePath: 'givethio',
-          label: 'Giveth.io',
+          to: 'dapps/',
+          activeBasePath: 'dapps/',
+          label: 'DApps',
           position: 'left'
         },
-        {
-          to: 'trace/',
-          activeBasePath: 'trace',
-          label: 'Giveth TRACE',
-          position: 'left'
-        },
-
        // {
           // to: 'givbacks/',
           // activeBasePath: 'givbacks',
@@ -69,11 +62,11 @@ module.exports = {
           items: [
             {
               label: 'Giveth.io',
-              to: 'givethio/'
+              to: 'dapps/'
             },
             {
               label: 'Giveth TRACE',
-              to: 'trace/'
+              to: 'dapps/introTrace'
             }
           ]
         },
@@ -112,40 +105,21 @@ module.exports = {
       '@docusaurus/plugin-content-docs',
 
       {
-        id: 'givethio',
+        id: 'dapps',
 
-        path: 'givethio',
+        path: 'dapps',
 
         editUrl: 'https://github.com/giveth/giveth-docs/edit/master/',
 
-        routeBasePath: 'givethio',
+        routeBasePath: 'dapps',
 
-        sidebarPath: require.resolve('./sidebarsGivethIO.js'),
+        sidebarPath: require.resolve('./sidebarsDapps.js'),
 
         showLastUpdateAuthor: true,
 
         showLastUpdateTime: true
       }
     ],
-      [
-        '@docusaurus/plugin-content-docs',
-
-        {
-          id: 'trace',
-
-          path: 'trace',
-
-          editUrl: 'https://github.com/giveth/giveth-docs/edit/master/',
-
-          routeBasePath: 'trace',
-
-          sidebarPath: require.resolve('./sidebarsGivethTRACE.js'),
-
-          showLastUpdateAuthor: true,
-
-          showLastUpdateTime: true
-        }
-      ],
     [
       '@docusaurus/plugin-content-docs',
 
