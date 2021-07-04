@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{83:function(e){e.exports=JSON.parse('{"pluginId":"jobs","version":"current","label":"Next","isLast":true,"docsSidebars":{"jobs":[{"collapsed":true,"type":"category","label":"Jobs","items":[{"type":"link","label":"Lead Solidity Developer","href":"/jobs/"}]}]},"permalinkToSidebar":{"/jobs/":"jobs"}}')}}]);

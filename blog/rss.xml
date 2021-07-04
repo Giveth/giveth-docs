@@ -70,5 +70,54 @@
             <pubDate>Mon, 01 Mar 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Hello dear contributor!]]></description>
         </item>
+        <item>
+            <title><![CDATA[The Future of Giving is Realigning Incentives]]></title>
+            <link>https://docs.giveth.io/blog/realigningIncentives</link>
+            <guid>realigningIncentives</guid>
+            <pubDate>Wed, 27 Mar 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[A Trade leaves things as they were, with no external Surplus. A Gift creates a Surplus as it spreads. ~ Seth Godin]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The Unicorn DAC, a Non-hierarchical Decentralized Governance Experiment]]></title>
+            <link>https://docs.giveth.io/blog/unicornDACexperiment</link>
+            <guid>unicornDACexperiment</guid>
+            <pubDate>Fri, 30 Nov 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[Why are bosses necessary? They aren’t. Self-managed organizations exist all over the world, but there is no template for how a decentralized self-managed organization should work. Let us try to change that.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The Future of Work: Distributed Teams & Decentralized Workspaces]]></title>
+            <link>https://docs.giveth.io/blog/futureOfWork</link>
+            <guid>futureOfWork</guid>
+            <pubDate>Tue, 20 Nov 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[The world is changing at a rapid pace. Gone are the days where you could work 30 years at a company, then get a fancy watch and a golden handshake into retirement. The industrial revolution of the early 1800’s brought more people out of the country and into factories and workshops, attracted by better pay.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Giveth Masterpiece Manifesto]]></title>
+            <link>https://docs.giveth.io/blog/masterpieceManifesto</link>
+            <guid>masterpieceManifesto</guid>
+            <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[We asked you (our community) to dig deep into your hearts and minds, to give us your best version of the Giveth Manifesto. The results did not disappoint.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How Decentralized Giving could have helped (and will help) increase Transparency and avoid Cases like Oxfam’s Scandal]]></title>
+            <link>https://docs.giveth.io/blog/decentralizedGiving</link>
+            <guid>decentralizedGiving</guid>
+            <pubDate>Thu, 22 Mar 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[Oxfam, consistently rated one of the best NGOs in the world and a household name in most western countries, is mired in a scandal over allegedly abusing of both people and funds in Haiti during the aid mission deployed after the hurricane Harvey. Not only this, but it is also accused of its employees exchanging aid for sexual favours, plain and simple sexual abuse. The case has opened the door for a cry of the nonprofit sector to uncover and denounce these practises, which seem to be more common than one would think.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Liquid Democracy…What That?!?]]></title>
+            <link>https://docs.giveth.io/blog/liquidDemocracy</link>
+            <guid>liquidDemocracy</guid>
+            <pubDate>Fri, 12 Jan 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to the future of voting.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[What is the Future of Giving?]]></title>
+            <link>https://docs.giveth.io/blog/futureOfGiving2017</link>
+            <guid>futureOfGiving2017</guid>
+            <pubDate>Thu, 26 Oct 2017 00:00:00 GMT</pubDate>
+            <description><![CDATA[An Overview of the Giveth Donation Application]]></description>
+        </item>
     </channel>
 </rss>

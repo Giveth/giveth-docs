@@ -70,4 +70,53 @@
         <updated>2021-03-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hello dear contributor!]]></summary>
     </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of Giving is Realigning Incentives]]></title>
+        <id>realigningIncentives</id>
+        <link href="https://docs.giveth.io/blog/realigningIncentives"/>
+        <updated>2019-03-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Trade leaves things as they were, with no external Surplus. A Gift creates a Surplus as it spreads. ~ Seth Godin]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Unicorn DAC, a Non-hierarchical Decentralized Governance Experiment]]></title>
+        <id>unicornDACexperiment</id>
+        <link href="https://docs.giveth.io/blog/unicornDACexperiment"/>
+        <updated>2018-11-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why are bosses necessary? They aren’t. Self-managed organizations exist all over the world, but there is no template for how a decentralized self-managed organization should work. Let us try to change that.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of Work: Distributed Teams & Decentralized Workspaces]]></title>
+        <id>futureOfWork</id>
+        <link href="https://docs.giveth.io/blog/futureOfWork"/>
+        <updated>2018-11-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The world is changing at a rapid pace. Gone are the days where you could work 30 years at a company, then get a fancy watch and a golden handshake into retirement. The industrial revolution of the early 1800’s brought more people out of the country and into factories and workshops, attracted by better pay.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giveth Masterpiece Manifesto]]></title>
+        <id>masterpieceManifesto</id>
+        <link href="https://docs.giveth.io/blog/masterpieceManifesto"/>
+        <updated>2018-05-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We asked you (our community) to dig deep into your hearts and minds, to give us your best version of the Giveth Manifesto. The results did not disappoint.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Decentralized Giving could have helped (and will help) increase Transparency and avoid Cases like Oxfam’s Scandal]]></title>
+        <id>decentralizedGiving</id>
+        <link href="https://docs.giveth.io/blog/decentralizedGiving"/>
+        <updated>2018-03-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Oxfam, consistently rated one of the best NGOs in the world and a household name in most western countries, is mired in a scandal over allegedly abusing of both people and funds in Haiti during the aid mission deployed after the hurricane Harvey. Not only this, but it is also accused of its employees exchanging aid for sexual favours, plain and simple sexual abuse. The case has opened the door for a cry of the nonprofit sector to uncover and denounce these practises, which seem to be more common than one would think.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liquid Democracy…What That?!?]]></title>
+        <id>liquidDemocracy</id>
+        <link href="https://docs.giveth.io/blog/liquidDemocracy"/>
+        <updated>2018-01-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the future of voting.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Future of Giving?]]></title>
+        <id>futureOfGiving2017</id>
+        <link href="https://docs.giveth.io/blog/futureOfGiving2017"/>
+        <updated>2017-10-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An Overview of the Giveth Donation Application]]></summary>
+    </entry>
 </feed>
