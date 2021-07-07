@@ -15,7 +15,7 @@ Everyone is empowered to make proposals but must consider that they will also be
 
 ### Where does the Advice Process happen?
 
-Our most active channel for discussion is the [Giveth Discord](https://discord.gg/GMQFKmdSGy). The Advice Process can be implemented publicly or privately; however, to remain aligned with our value of transparency, we heavily encourage community discussion to remain in public channels whenever appropriate to do so.
+Our most active channel for discussion is the [Giveth Forum](https://forum.giveth.io/). The Advice Process can be implemented publicly or privately; however, to remain aligned with our value of transparency, we heavily encourage community discussion to remain in public channels whenever appropriate to do so.
 
 In our current DAO configuration, anyone can make a proposal on our [Aragon DAO Template](https://aragon.1hive.org/#/giveth/). rGiv Governance Token Holders can then vote on these proposals. This process is usually reserved for more critical decisions affecting the organization.
 
