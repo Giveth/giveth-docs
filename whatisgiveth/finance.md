@@ -13,7 +13,7 @@ If you prefer to donate directly to our address or via MyCrypto or MetaMask, you
 **Operational Expenses**
 Giveth related expenses can be claimed by creating a Trace in a Giveth Circle's Campaign at trace.giveth.io. If you have not had an expense with Giveth before, you need to [contact the team](https://discord.gg/cCsYnNDkq2) first.
 
-The individual Circles (see [Giveth Circles]**ADD INTERNAL LINK**) are responsible for expenses of their members, including but not limited to:
+The individual Circles (see [Giveth Circles](https://docs.giveth.io/whatisgiveth/givethCircles)) are responsible for expenses of their members, including but not limited to:
 
 - Office expenses (rent, utility bills, equipment, groceries for Giveth Team Meetups)
 - Transportation to and from official Giveth Team Meetups
