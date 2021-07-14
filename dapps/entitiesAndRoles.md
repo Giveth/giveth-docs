@@ -194,7 +194,7 @@ Based on these rules we can have **four types of Traces** with their own distinc
 **Payments are compensation to Campaign members for the work they have done. Payments can be uncapped or capped for the funding they can receive.**
 
  *The Lifecycle for Payments with NO cap is as follows:*
- ![Lifecycle of Payment w/o Cap](https://i.imgur.com/3JoQygP.png)
+ 
  <img alt="Lifecycle of Payments without Cap" src={useBaseUrl('img/content/trace/paymentNoCap.png')} />
 
 
