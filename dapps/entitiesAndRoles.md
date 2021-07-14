@@ -120,7 +120,7 @@ Giveth TRACE on a technical level is a system for managing currency. Terms refer
 * **Delegation:** When a Campaign Manager or Community Manager sends money from the Campaign or Community account to Trace account on behalf of the original Giver. A Giver can reject Delegation within 72 hours, after which the Currency transfer becomes irreversible.
 * **Refund:** A Giver who has contributed to a Community can withdraw their funds as long as they are not yet committed to a Campaign or Trace. A Giver contributing to a Campaign can withdraw their funds as long as they are not yet committed to a Trace.
 
-<img alt="Currency Flow on Giveth TRACE" src={useBaseUrl('img/content/trace/currencyFlow.png')} />
+<img alt="Currency Flow on Giveth TRACE" src={useBaseUrl('img/content/trace/currencyFlow.svg')} />
 
 ###### Currency Flow on Giveth TRACE
 
