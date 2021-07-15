@@ -17,7 +17,7 @@ This document explains how different interactions within the Giveth DApp can be 
 We have eight roles in Giveth TRACE. In this section we explain in-depth each role, their function, how to become one and the power each role has.
 1. <a href="#giver"><strong>Giver</strong></a>
 2. <a href="#communityManager"><strong>Community Manager</strong></a>
-3. <a href="#communityManager"><strong>Campaign Manager</strong></a>
+3. <a href="#campaignManager"><strong>Campaign Manager</strong></a>
 4. <a href="#campaignReviewer"><strong>Campaign Reviewer</strong></a>
 5. <a href="#traceManager"><strong>Trace Manager</strong></a>
 6. <a href="#traceReviewer"><strong>Trace Reviewer</strong></a>
