@@ -57,14 +57,15 @@ A Community Manager is the registered user owning a Community. They can delegate
 ***Note:** In order to initiate a delayed delegation, they should go to the Traces or Campaign page and click the `Delegate Funds` button.*
 
 ### <a name="campaignManager">Campaign Manager</a>
-A Campaign Manager is a registered user who has created a Campaign, and therefore acquires sole ownership of the new Campaign. The role of the Campaign manager is to create Traces through which they can fund the work of people and the cost of resources behind the project.
+Campaign Managers are Giveth.io users who have chosen to make their project traceable and have passed the project verification process. The role of the Campaign manager is to create Traces through which they can fund the work of people and the cost of resources behind the project.
+
 #### How to become a Campaign Manager
-* A user can create a Campaign to become the Campaign Manager
+* Verify their giveth.io project and request to become traceable, upgrading to a Campaign on TRACE and becoming the Campaign Manager of said Campaign 
 #### Power of a Campaign Manager
 * Edit their Campaign
 * Send Campaign funds (via Delegation) to Traces within their Campaign
 * Reject or accept proposed Traces to their Campaign
-* Create or edit Traces in their own Campaign - in this case the Campaign Manager and Trace Manager would be the same user.
+* Create or edit Traces in their own Campaign
 
 ***Note:** A Trace has to belong to at least one Campaign and needs to be approved by the Campaign Manager.*
 
