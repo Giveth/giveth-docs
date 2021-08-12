@@ -1,22 +1,45 @@
 ---
 id: introDappDevelopment
-title: DApp Development
+title: Platform 
 ---
-Welcome to the Giveth DApp Development Circle!
 
-The Giveth DApp Development Circle is building open source platforms to realize our vision for the future of giving.
+**DESIGN**… the best user experience in a beautifully simplistic interface.
 
-We have created and are continuing to improve two unique DApps to facilitate donations to for-good projects on the Ethereum blockchain. [Giveth TRACE](https://beta.giveth.io/) has a larger scope - offering unique features for customization and traceability. Giveth.io offers a streamlined UI and an overall easier user experience.
+**DEVELOP**… innovative, feature-rich, safe and productive tools for transparency.
 
-DApp Development meetings are held weekly online and can be found scheduled on the [Giveth calendar](https://calendar.google.com/calendar/u/0/r?cid=givethdotio@gmail.com). For Giveth TRACE, the meeting room can be found [here](https://breakout.interspace.chat/giveth1-dev) and the Discord channel is [here](https://discord.gg/3CakWxZt). For Giveth.io, the meeting room can be found [here](https://breakout.interspace.chat/giveth2-dev) and the Discord channel is [here](https://discord.gg/Ckfu4GrA), feel free to join us! If you want to get a feel of what we discuss during our weekly meetings, all of them can be found on our [Giveth Transparency YouTube channel](https://www.youtube.com/channel/UCdqmP4axeI1hNmX20aZsOwg).
+**DELIVER**… seamlessly connected products (giveth.io and TRACE) that work well together.
 
-Giveth DApp Development is tracked and deployed from our [GitHub](https://github.com/Giveth). Check out what we're working on, fork our code, or find out how you can use your skills for "Blockchain for Good". Below you can find an overview of the goals we are working towards.
+## Welcome to the Giveth Platform Circle!
 
-If you have any questions or are interested in contributing, feel free to reach out to someone in the [#givethtrace-dev](https://discord.gg/3CakWxZt) or [#givethio-dev](https://discord.gg/Ckfu4GrA) channels on Discord!
+This Giveth Platform Circle is the terminal for designers, developers, testers, systems engineers and product managers alike, and is where the Future of Giving is being built. We collaborate with the Community Circle to get feedback from our users and design experiences that make it easy for people to create, give, receive and trace.
+
+The Platform Circle, while building high-quality products, proclaims success by encouraging its members to learn, grow, collaborate and celebrate achievement together. By building workflows that are inclusive, transparent and well-structured, we thereby build strong teams of talented and inspired contributors.
+
+## Mission
+
+To empower our contributors with the knowledge and resources to build and maintain platforms that bridge communities, meet user needs and advance blockchain technology.
 
 ## Goals
-- **Fund Public Goods:** Develop free, open-source platforms that serve as bridges between the Makers of "for-good" impact projects and Giver support using the revolutionary funding opportunities of the cryptospace.
-- **Incentivize Donations**: Design an economy of giving where users are incentivized and rewarded for donating to legitimate social and environmental impact projects.
-- **Create Whitelabel**: Design whitelabel and support other communities in their use of our open-source code.
-- **Support Fiat and Crypto Donations:** Allow seamless integration of fiat donations and chain-agnostic (multi-chain support) crypto contributions.
-- **Improve Useability:** Create a user-friendly interface to allow an easy onboarding process for the new-to-crypto.
+
+* **Develop Digital Public Goods** that serve as open-source, efficient and free platforms that bridge Givers and project owners, harnessing the revolutionary funding opportunities of digital currencies.
+
+* **Product Development and Maintenance** that empowers contributors to research emerging technology and implement best practices to create robust, stable, secure and scalable platforms.
+* **Improve User Experience, Usability and Accessibility of Blockchain Technology** by engineering and continually creating intuitive interfaces and powerful user experiences to make donating easy, rewarding and effective.
+* **Build DApps by and for the Community** by implementing user feedback to create products that meet their needs and maintain a high level of transparency to support a network of value-aligned projects.
+
+## Our Products
+
+We maintain two Donation Applications that facilitate contributions to for-good projects on the Ethereum blockchain:
+
+* [**Giveth.io**](http://giveth.io/) - Boasting a streamlined UI and an easy user experience, it offers direct peer-to-peer giving. Giveth.io grants anyone the ability to create projects and receive funding in minutes.
+
+* [**Giveth TRACE**](http://trace.giveth.io) - Our original DApp, has a larger scope - offering enhanced complexity and traceability for projects. It also allows users to specify and track their donations.
+
+The **GIVeconomy** is also being built by this circle and will involve the creation and deployment of on-chain systems to ensure the yet-to-launch Giveth Token Economy remains secure, efficient and accessible.
+
+## How to Engage
+
+* Weekly Developer meetings are held in the[ Giveth Discord](https://discord.gg/vaTcgqMwVp) -[ Add to your calendar](https://calendar.google.com/calendar/u/0/r?cid=givethdotio@gmail.com)
+* Join the[ #all-dev](https://discord.gg/vaTcgqMwVp) or[ #design](https://discord.gg/T6SYzH3rnD) channels in Discord to follow development and design discussions
+* Watch meeting recordings on the[ Giveth Transparency Youtube](https://www.youtube.com/channel/UCdqmP4axeI1hNmX20aZsOwg)
+* Track development and fork our code on[ Github](https://github.com/Giveth)

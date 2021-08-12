@@ -4,7 +4,7 @@ module.exports = {
       {
         type: 'category',
         label: 'Circles',
-        items: ['introCommunications', 'introCommunity', 'introDappDevelopment', 'introGovernance']
+        items: ['introCommunity', 'introDappDevelopment', 'introGovernance']
       },
      'adviceProcess', 'finances', 'toolsDecentralizedCommunities',  'brandBook',
    ],
