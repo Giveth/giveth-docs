@@ -1,5 +1,5 @@
 ---
-id: introGovernance
+id: introGIVernance
 title: GIVernance
 ---
 
@@ -17,7 +17,7 @@ We value transparent, holistic governance and hope to be a shining example of it
 
 Our circle is uniting the power of our [Decentralized Autonomous Community (DAC)](https://trace.giveth.io/community/giveth-dac) with the non-profit advantages of our [Donor Advised Foundation (DAF)](https://www.sdgimpactfund.org/giveth-foundation) to iterate upon creation of our governing [Decentralized Autonomous Organization (DAO)](https://aragon.1hive.org/#/giveth/).
 
-## Mission 
+## Mission
 
 We are progressively decentralizing the Giveth decision-making process by building a community and a token-based economy around our platform that recognizes contributions, values participation and rewards altruism.
 
