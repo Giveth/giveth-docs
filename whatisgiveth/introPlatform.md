@@ -1,6 +1,6 @@
 ---
-id: introDappDevelopment
-title: Platform 
+id: introPlatform
+title: Platform
 ---
 
 **DESIGN**… the best user experience in a beautifully simplistic interface.
@@ -11,7 +11,7 @@ title: Platform
 
 ## Welcome to the Giveth Platform Circle!
 
-This Giveth Platform Circle is the terminal for designers, developers, testers, systems engineers and product managers alike, and is where the Future of Giving is being built. We collaborate with the Community Circle to get feedback from our users and design experiences that make it easy for people to create, give, receive and trace.
+The Giveth Platform Circle is the terminal for designers, developers, testers, systems engineers and product managers alike, and is where the Future of Giving is being built. We collaborate with the Community Circle to get feedback from our users and design experiences that make it easy for people to create, give, receive and trace.
 
 The Platform Circle, while building high-quality products, proclaims success by encouraging its members to learn, grow, collaborate and celebrate achievement together. By building workflows that are inclusive, transparent and well-structured, we thereby build strong teams of talented and inspired contributors.
 
@@ -22,7 +22,6 @@ To empower our contributors with the knowledge and resources to build and mainta
 ## Goals
 
 * **Develop Digital Public Goods** that serve as open-source, efficient and free platforms that bridge Givers and project owners, harnessing the revolutionary funding opportunities of digital currencies.
-
 * **Product Development and Maintenance** that empowers contributors to research emerging technology and implement best practices to create robust, stable, secure and scalable platforms.
 * **Improve User Experience, Usability and Accessibility of Blockchain Technology** by engineering and continually creating intuitive interfaces and powerful user experiences to make donating easy, rewarding and effective.
 * **Build DApps by and for the Community** by implementing user feedback to create products that meet their needs and maintain a high level of transparency to support a network of value-aligned projects.
