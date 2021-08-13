@@ -17,7 +17,7 @@ This circle is held down by the Communications team yet comprised of representat
 
 ## GIVernance
 
-iveth aims to be a donor-focused organization that GIVs back to those who use our platform to transparently and accountably support change in the world.
+Giveth aims to be a donor-focused organization that GIVs back to those who use our platform to transparently and accountably support change in the world.
 
 We value transparent, holistic governance and hope to be a shining example of it. We explore and readily adopt new innovations that support us in embodying these values. We believe in the self-organizing power of sociocracy, which we apply in the organization of tasks, participation in the [Proposal and Advice Process](https://forum.giveth.io/c/givernance/proposals), and facilitation of our governance meetings.
 
