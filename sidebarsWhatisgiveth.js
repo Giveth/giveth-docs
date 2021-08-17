@@ -6,6 +6,6 @@ module.exports = {
         label: 'Circles',
         items: ['introCommunity', 'introPlatform', 'introGIVernance']
       },
-     'adviceProcess','meetingsGuide', 'finances', 'toolsDecentralizedCommunities',  'brandBook',
+     'adviceProcess','meetingsGuide', 'finances','introDiscord', 'toolsDecentralizedCommunities',  'brandBook',
    ],
 }
