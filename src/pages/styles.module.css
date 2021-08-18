@@ -11,7 +11,17 @@
   position: relative;
   overflow: hidden;
 }
+#givethio {
+  height: 63px;
+  margin-top: 5px;
+  margin-bottom: 4px;
+}
 
+ #whatisgiveth {
+  height: 95px;
+  margin-top: -25px;
+  margin-bottom: 2px;
+}
 @media screen and (max-width: 966px) {
   .heroBanner {
     padding: 2rem;
@@ -22,21 +32,41 @@
   display: flex;
   align-items: center;
   justify-content: center;
+
 }
 
 .features {
   display: flex;
   align-items: center;
+  margin: 10px 30px;
   padding: 2rem 0;
-  width: 100%;
+  /* width: 100%; */
 }
+/* .featureImage:hover {
+  background-color: #5326EC26
+} */
 
 .featureImage {
-  height: 200px;
-  width: 450px;
+  height: 71px;
+  padding: 10px 10px 20px 10px;
+  text-decoration: none;
 }
-a.button.button--outline.button--lg:hover
+.getStarted:hover
 {
-  background-color: #fff;
+  background-color: #8668fc94;
+}
+.getStarted {
+  font-size:1.25rem;
+  border-width: 2px;
+  background-color: #8668fc2e;
+}
 
+h3 {
+  font-size: 1.45rem;
+}
+
+.formatHero {
+  font-weight: bold;
+  font-size: 1.45rem;
+  color: indigo;
 }

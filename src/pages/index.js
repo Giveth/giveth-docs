@@ -5,54 +5,61 @@ import Link from '@docusaurus/Link'
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext'
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from './styles.module.css'
+import useThemeContext from '@theme/hooks/useThemeContext'
 
 const features = [
   {
     title: 'What is Giveth?',
     slug: 'whatisgiveth/',
-    imageUrl: 'img/giveth-logo.svg',
+    id: 'whatisgiveth',
+    imageUrl: 'img/givethLogoIndigo.svg',
     description: (
       <>
-        If you're curious to know more about <strong>what giveth is.</strong> have a look over here.
+        <p id='introText'>Everything you need to know about how we do things at Giveth. If you're a new contributor, start here!</p>
       </>
     )
   },
   {
     title: 'Giveth.io',
     slug: 'dapps/',
-    imageUrl: 'img/givethIOfrontpage.png',
+    id: 'givethio',
+    imageUrl: 'img/givethio-salmon.svg',
     description: (
       <>
-        User Guides, Developer Documentation and much more for the Giveth.io DApp
+        User Guides, Developer Documentation and all things technical for the Giveth.io DApp.
       </>
     )
   },
   {
     title: 'Giveth TRACE',
     slug: 'dapps/introTrace',
-    imageUrl: 'img/content/trace/tracefrontpage.png',
+    id: 'givethTrace',
+    imageUrl: 'img/givethTRACELogoGreen.svg',
     description: (
       <>
-        A comprehensive Guide to the Giveth TRACE DApp including User Guides, Developer Documentation and <strong>much</strong> much more! An updated Fork of Giveth Wiki (2017)
+        A comprehensive tour of the Giveth TRACE DApp including User Guides, Developer Documentation and Smart Contract Wizardry.
       </>
     )
   }
-
 ]
-
-function Feature ({ imageUrl, slug, title, description }) {
-  const imgUrl = useBaseUrl(imageUrl)
+function Feature ({ imageUrl, slug, id, title, description }) {
+  const {isDarkTheme} = useThemeContext();
+  let imgUrl = useBaseUrl(imageUrl);
+  if(id === 'whatisgiveth' && isDarkTheme){
+    imgUrl = useBaseUrl('img/givethLogoWhite.svg')
+   }
   return (
     <div className={clsx('col col--4', styles.feature)}>
       {imgUrl && (
         <div className='text--center'>
-          <img className={styles.featureImage} src={imgUrl} alt={title} />
+            <img className={styles.featureImage} id={styles[id]} src={imgUrl} alt={title} />
+
         </div>
       )}
 
       <h3>
         {' '}
-        <Link className='formatLink' to={useBaseUrl(slug)}>
+        <Link className={styles.formatLink} to={useBaseUrl(slug)}>
           {title}
         </Link>
       </h3>
@@ -64,29 +71,39 @@ function Feature ({ imageUrl, slug, title, description }) {
 
 function Home () {
   const context = useDocusaurusContext()
-  const { siteConfig = {} } = context
+  const { siteConfig = {} } = context;
+  function HeaderContent () {
+      const {isDarkTheme} = useThemeContext();
+      return (
+        <header className={clsx('hero hero--primary', styles.heroBanner )} style={{backgroundImage: isDarkTheme && "url('/img/GivethDocsLogo.svg')"   }}>
+          <div className='container hero--primary'>
+            <div className={styles.formatHero} style={{color: isDarkTheme && "white" }}>
+              <h1 className='hero__title'>{siteConfig.title}</h1>
+                <p className='hero__subtitle'>{siteConfig.tagline}</p>
+
+            <div className={styles.buttons}>
+              <Link
+                className={clsx(
+                  'button button--outline button--lg',
+                  styles.getStarted
+                )}
+                to={useBaseUrl('whatisgiveth/')}
+              >
+                Get Started
+              </Link>
+             </div>
+            </div>
+          </div>
+        </header>
+      )
+    }
+
   return (
     <Layout
       title={`${siteConfig.title}`}
       description='Comprehensive Documentation for Contributors and Developers to the Giveth DApps and about Giveth as an organisation'
     >
-      <header className={clsx('hero hero--primary', styles.heroBanner)}>
-        <div className='container hero--primary'>
-          <h1 className='hero__title'>{siteConfig.title}</h1>
-          <p className='hero__subtitle'>{siteConfig.tagline}</p>
-          <div className={styles.buttons}>
-            <Link
-              className={clsx(
-                'button button--outline button--lg',
-                styles.getStarted
-              )}
-              to={useBaseUrl('whatisgiveth/')}
-            >
-              Get Started
-            </Link>
-          </div>
-        </div>
-      </header>
+      <HeaderContent  siteConfig={siteConfig}/>
       <main>
         {features && features.length > 0 && (
           <section className={styles.features}>
