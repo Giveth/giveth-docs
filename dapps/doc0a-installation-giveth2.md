@@ -11,11 +11,11 @@ title: Run Giveth2
 <br />
 
 
-## Giveth v2
+## Giveth.io
 
 
 ### 🚀 Quick start
-Giveth-2 is a reimagined version of the ["Giveth donation application"](https://github.com/Giveth/giveth-dapp). Users leverage the Ethereum blockchain to distribute and track their donations or enable unstoppable funding for their campaign.
+Giveth.io is a reimagined version of the ["Giveth donation application"](https://github.com/Giveth/giveth-dapp). Users leverage the Ethereum blockchain to distribute and track their donations or enable unstoppable funding for their campaign.
 
 The projects aims to simplify the application's options to enable new users without blockchain experience a frictionless experience.
 
@@ -43,9 +43,9 @@ If you want to contribute, pls say hello to us in chat -  [https://giveth.io/joi
 	cd giveth-2
 	npm i
 	```
-    
+
 1.  **Set up the development environment**
-	
+
 	```bash
 	cp .env.example .env.development
 	```
@@ -70,5 +70,5 @@ If you want to contribute, pls say hello to us in chat -  [https://giveth.io/joi
     Your site is now running at `http://localhost:8000`!
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
-    
+
     Save your changes and the browser will update in real time!

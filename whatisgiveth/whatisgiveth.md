@@ -39,7 +39,7 @@ The Giveth Donation Applications (DApps) create bridges between for-good project
 
 **Giveth.io** has been designed to facilitate ease of use so that anyone can get involved. Creating an account is easy; donating to and creating projects can be done in minutes. Giveth is home to a wide range of philanthropic ventures and is widely recognized across the Ethereum ecosystem, so naturally it's a great place to get exposure for your mission!
 
-**Giveth TRACE** is our original DApp that has been continually evolving since 2017. It offers a robust system to allow project owners to define their funding objectives via [tiered donation entities](https://docs.giveth.io/dapps/entitiesAndRoles). Givers benefit from this extra layer through the ability to specify and trace the movement of their donations on the DApp. Giveth pioneered the first bridge between Ethereum networks and this is where it was built. We leverage a Mainnet and Rinkeby bridge to make managing, tracing and withdrawing funds easy and gas-less.
+**Giveth TRACE** is our original DApp that has been continually evolving since 2017. It offers a robust system to allow project owners to define their funding objectives via [tiered donation entities](../dapps/entitiesAndRoles). Givers benefit from this extra layer through the ability to specify and trace the movement of their donations on the DApp. Giveth pioneered the first bridge between Ethereum networks and this is where it was built. We leverage a Mainnet and Rinkeby bridge to make managing, tracing and withdrawing funds easy and gas-less.
 
 ## **Why should I donate to a project on Giveth?**
 
