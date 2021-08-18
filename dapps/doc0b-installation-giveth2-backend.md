@@ -5,11 +5,11 @@ title: Run backend for Giveth2
 
 In order to develop locally you need to clone the backend server as well. We are using https://github.com/topiahq/impact-graph for this. Under the hood it is running Apollo.
 
-Please follow the readme of `impact-graph` to install it. 
-	
+Please follow the readme of `impact-graph` to install it.
+
 Here are more detailed instructions specific to giveth2:
 
-## Impact graph for Giveth2
+## Impact graph for Giveth.io
 These instructions were executed on Ubuntu 18.04 but should stay the same regardless of operating system (ymmv).
 
 ### Install Prerequisites
