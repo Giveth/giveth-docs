@@ -21,8 +21,8 @@ We need a team member with innovative ideas and effective communication skills. 
 - Fluent in written and verbal English.
 - Maintain confidentiality.
 
-*Previous experience with blockchain and cryptocurrency is a huge bonus, but not necessary for the right candidate!
-Desired skills: UX / UI, Product
+**Previous experience with blockchain and cryptocurrency is a huge bonus, but not necessary for the right candidate!
+Desired skills: UX / UI, Product*
 
 ## Who are We at the Giveth Galaxy?
 The Giveth Galaxy is composed of four organizations. Our mission is to build the future of giving; to connect people, ideas and resources by building free, open-source decentralized applications to bridge the non-profit and blockchain worlds. We are creating an interface between the prosocial, value-driven, collective-focused magic-makers of the world and the revolutionary funding streams that the crypto space, especially Ethereum, have opened up. We are dedicated to building systems that appreciate value creation in the care work and stewardship of Public Goods which is currently under-appreciated in our global economy.
