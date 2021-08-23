@@ -23,7 +23,7 @@ const features = [
     title: 'Giveth.io',
     slug: 'dapps/',
     id: 'givethio',
-    imageUrl: 'img/givethio-salmon.svg',
+    imageUrl: 'img/givethIOlight.svg',
     description: (
       <>
         User Guides, Developer Documentation and all things technical for the Giveth.io DApp.
@@ -34,7 +34,7 @@ const features = [
     title: 'Giveth TRACE',
     slug: 'dapps/introTrace',
     id: 'givethTrace',
-    imageUrl: 'img/givethTRACELogoGreen.svg',
+    imageUrl: 'img/givethTRACElight.svg',
     description: (
       <>
         A comprehensive tour of the Giveth TRACE DApp including User Guides, Developer Documentation and Smart Contract Wizardry.
@@ -48,6 +48,12 @@ function Feature ({ imageUrl, slug, id, title, description }) {
   if(id === 'whatisgiveth' && isDarkTheme){
     imgUrl = useBaseUrl('img/givethLogoWhite.svg')
    }
+   if(id === 'givethio' && isDarkTheme){
+     imgUrl = useBaseUrl('img/givethIOdark.svg')
+    }
+    if(id === 'givethTrace' && isDarkTheme){
+      imgUrl = useBaseUrl('img/givethTRACEdark.svg')
+     }
   return (
     <div className={clsx('col col--4', styles.feature)}>
       {imgUrl && (

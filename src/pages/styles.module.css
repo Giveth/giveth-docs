@@ -11,17 +11,7 @@
   position: relative;
   overflow: hidden;
 }
-#givethio {
-  height: 63px;
-  margin-top: 5px;
-  margin-bottom: 4px;
-}
 
- #whatisgiveth {
-  height: 95px;
-  margin-top: -25px;
-  margin-bottom: 2px;
-}
 @media screen and (max-width: 966px) {
   .heroBanner {
     padding: 2rem;
@@ -45,12 +35,12 @@
 /* .featureImage:hover {
   background-color: #5326EC26
 } */
-
 .featureImage {
-  height: 71px;
-  padding: 10px 10px 20px 10px;
-  text-decoration: none;
+  max-width:140%;
+  width: 140%;
+  height: auto;
 }
+
 .getStarted:hover
 {
   background-color: #8668fc94;
