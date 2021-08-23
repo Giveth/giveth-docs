@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Giveth Docs',
-  tagline: 'User and Developer Guides, Technical Documentation and much more!',
+  tagline: 'The Future of Giving, Documented',
   url: 'https://docs.giveth.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',

@@ -35,8 +35,10 @@ iframe {
   text-decoration: none;
 }
 
-.hero {background-image: url('/img/hero.jpg');
-background-size: cover;}
+.hero {background-image: url('/img/GivethDocsLogoLight.svg');
+background-size: cover;
+border-bottom: 2px solid #E1458D;
+}
 
 #contentimg
 {
@@ -44,6 +46,7 @@ background-size: cover;}
   border-radius: 15px;
   margin: 20px;
 }
+
 img.leftfloat {
   float: left;
   margin:15px;
