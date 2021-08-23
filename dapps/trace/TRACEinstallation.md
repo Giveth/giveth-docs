@@ -1,0 +1,285 @@
+---
+id: TRACEinstallation
+title: Installing Giveth TRACE for Local Development
+---
+import useBaseUrl from '@docusaurus/useBaseUrl'
+
+ This is a comprehensive guide that will walk through new contributors on how to run Giveth TRACE locally. We'll be dealing with 2 repos found in the Giveth Github the [**`giveth-dapp`**](https://github.com/Giveth/giveth-dapp) for the front-end and [**`feathers-giveth`**](https://github.com/Giveth/feathers-giveth) for smart contract interfacing and the back-end database.
+
+## Feathers Installation
+<img alt='Feathers Installation Header' src={useBaseUrl('img/content/trace/feathers-header.png')} />
+
+#### Packages and Applications Needed:
+- yarn
+- NodeJS v10.24.0
+- MongoDB
+- Redis
+- MetaMask
+
+
+#### Linux
+  If your operating system is any distrubution of linux you can use an All-in-One installation scripts special thanks to Dapp contributor Jurek Brisbane, available [here](https://github.com/Giveth/giveth-dapp/files/3674808/givethBuildStartScripts_2019-09-29.zip) along with a youtube [video](https://www.youtube.com/watch?v=rzLhxxAz73k&feature=youtu.be)
+
+
+#### Any OS
+  1. Click **Star** on this repo near the top-right corner of this web page (if you want to).
+  2. Join our [Contributors Discord](https://discord.gg/EndTUw9955) if you haven't already.
+  3. Fork this repo by clicking **Fork** button in top-right corner of this web page. Continue to follow instruction steps from your own feathers-giveth repo.
+  5. The rest of these steps must be done from your machine's command line. Clone your own "feathers-giveth" repo. Copy the link from the "Clone or download" button near the top right of this repo's home page.
+      ```bash
+      git clone git@github.com:Giveth/feathers-giveth.git
+      ```
+  6. Change directories to feathers-giveth:
+      ```bash
+      cd feathers-giveth/
+      ```
+  5. Make sure you have [NodeJS](https://nodejs.org/) (v10.24.0), [yarn](https://www.yarnpkg.com/) (v0.27.5 or higher), and npm (5.4.1 or higher) installed.
+  6. Install dependencies from within feathers-giveth directory:
+      ```bash
+      yarn install
+      ```
+  7. Install Mongo (we recommend installing via [Brew](https://treehouse.github.io/installation-guides/mac/mongo-mac.html))
+  8. Run Mongo in a terminal window `mongod` or in the background `mongod --fork --syslog`
+  9. Install Redis (we recommend install via Brew `brew install redis`)   
+  10. Run Redis in terminal window `redis-server` or in the background `redis-server --daemonize yes`   
+  11. (optionally) Install [IPFS](https://ipfs.io/docs/install/) (we recommend installing via [Brew](https://brew.sh/))  
+     **If you don't install ipfs, image uploading will be affected. You can update the config `ipfsGateway` value to use a public ipfs gateway ex. [https://ipfs.io/ipfs/](https://ipfs.io/ipfs/), however your uploads will be removed at some point*
+
+### Run server
+The feathers server will need to connect to an ethereum node via websockets. Typically this will be a local TestRPC instance.
+The configuration param `blockchain.nodeUrl` is used to establish a connection. The default nodeUrl is `ws://localhost:8545`
+
+1. We need to deploy any contract to that we intend to call. *NOTE:* The following cmd will clear the `data` dir, thus starting off in a clean state.
+
+   ```bash
+   yarn deploy-local
+   ```
+
+   After deploying local, make sure to copy-paste the MiniMeToken address in default.json
+
+2. We provide an easy way to start the bridge & 2 ganache-cli instances. *VERY IMPORTANT:* this command enables Home Ganache and Foreign Ganache networks, if you are using MetaMask you will need to **add a Custom RPC** to your networks config,`http://localhost:8546` will be Foreign Ganache, and Home Ganache is normally added by default which is `http://localhost:8545` if needed.
+
+    ```bash
+    yarn start:networks
+    ```
+3. Since the bridge & ganache-cli is now running, open a new terminal window and navigate to the same feathers-giveth directory.
+
+4. Optionally open a new terminal window and start the ipfs daemon
+
+   ```bash
+   ipfs daemon
+   ```
+5. Run db migration files ( if this the first time you want to start application, it's not needed to run migrations)
+   ```bash
+    ./node_modules/.bin/migrate-mongo up
+   ```
+5. Start your app
+
+    ```bash
+    yarn start
+    ```
+
+### Kill Ganache
+If you run into errors like wallet balance not loading, it is very likely that Ganache is stuck
+`netstat -vanp tcp | grep 8545`
+Find the process that is listening on `*.8545` and `127.0.0.1.8545` and kill it with `kill -9 PID` (which is in the last colomn)
+
+### IPFS Support
+If the `ipfsApi` is a valid ipfs node that we can connect to, we will pin every ipfs hash that is stored in feathers. We currently do not remove any orphaned (hashes with no references in feathers) ipfs hashs. In the future we will provide a script that you can run as a cronjob to unpin any orphaned hashes.
+
+### Video Walkthrough
+Video tutorial walkthrough here: https://tinyurl.com/y9lx6jrl
+
+## Deploying
+
+1. Start a production server
+
+    ```bash
+    yarn serve
+    ```
+
+### Scripts
+
+The `feathers-giveth/scripts` directory contains a few scripts to help development.
+
+* `deploy.js` - deploys a new vault & liquidPledging contract
+
+* `getState.js` - prints the current state of the deployed vault & liquidPledging contracts.
+
+* `confirm.js` - confirms any payments that are pending in the vault
+
+* `makeUserAdmin.js` - make a user admin
+
+### Testing
+
+Simply run `yarn test` and all your tests in the `/src` directory will be run.
+It's included some integration tests so for running tests, you need to run a mongodb in your local system (on port 27017)
+
+### Debugging
+
+You can control the logging level with the `LOG_LEVEL` env variable. Available levels can be found at: https://github.com/winstonjs/winston/tree/2.x#logging-levels
+
+To enable debug logging simply start the server with `LOG_LEVEL=debug yarn start`
+
+### Usage
+
+Each of these services are available via rest or websockets:
+
+```
+campaigns
+communities
+donations
+donationsHistory
+traces
+uploads
+users
+emails
+homePaymentsTransactions
+subscriptions
+```
+If the server is using default configurations, you can see data for any of these services through your web browser at `http://localhost:3030/SERVICE_NAME`
+
+PS: For accessing all features like creating `communities` and `campaigns` it's suggested to
+make `isAdmin` field true, for your user in you local MongoDb
+
+## Giveth DApp (Giveth TRACE front-end) Installation
+<img alt='Giveth-DApp Installation Header' src={useBaseUrl('img/content/trace/giveth-dapp-header.png')} />
+
+### Getting Started
+In the following sections you will learn all you need to know to run the DApp locally and to start contributing. All the steps are also described in this amazing [Video Tutorial Walkthrough](https://tinyurl.com/y9lx6jrl) by Oz.
+
+#### Prerequisites
+- NodeJS v10 LTS.
+- yarn (v1.22.10 or higher)
+- [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+
+### Install
+1. Click **Star** on this repo near the top-right corner of this web page (if you want to).
+2. Join us on [Element](http://join.giveth.io) or [Discord](https://discord.gg/Uq2TaXP9bC) if you haven't already.
+3. Fork this repo by clicking **Fork** button in top-right corner of this web page. Continue to follow instruction steps from your own giveth-dapp repo.
+4. Clone your own "giveth-dapp" repo. Copy the link from the "Clone or download" button near the top right of this repo's home page.
+5. The rest of these steps must be done from your machine's command line. See the [OSX and Linux](#for-osx-and-linux) or [Windows](#for-windows) section to continue.
+
+#### <a id='for-osx-and-linux'>OSX and Linux</a>
+If your operative system is any distribution of linux you can use an All-in-One installation scripts special thanks to Dapp contributor Jurek Brisbane, available [here](https://github.com/Giveth/giveth-dapp/files/3674808/givethBuildStartScripts_2019-09-29.zip) along with a youtube [video](https://www.youtube.com/watch?v=rzLhxxAz73k&feature=youtu.be), otherwise try the following:
+
+1. From the desired directory you wish to copy the "giveth-dapp" folder with source files to.
+    ```bash
+    git clone {paste your own repo link here}
+    ```
+   NOTE: Please use `develop` branch for contributing.
+    ```bash
+    git clone -b develop {paste your own repo link here}
+    ```
+2. Change directories to giveth-dapp:
+    ```bash
+    cd giveth-dapp
+    ```
+3. Make sure you have [NodeJS](https://nodejs.org/) (v10) and [yarn](https://yarnpkg.com/) (v1.22.10 or higher) installed.
+4. Install dependencies from within giveth-dapp directory:
+    ```bash
+    yarn install
+    ```
+5. That is it, you are now ready to run the giveth-dapp! Head to the [Run DApp](#run) section for further instructions.
+
+#### <a id='for-windows'>Windows</a>
+1. Install the latest version of Python from this [Link](https://www.python.org/downloads/). (make sure python is added to $PATH)
+2. Install Microsoft Visual Studio 2017 (double-check the version) from this [link](https://download.visualstudio.microsoft.com/download/pr/3e542575-929e-4297-b6c6-bef34d0ee648/639c868e1219c651793aff537a1d3b77/vs_buildtools.exe). Giveth-Dapp needs the node-gyp module and node-gyp needs VS C++ 2017 Build Tools to be installed.
+3. After downloading, install the packages marked from this [image](https://cdn.discordapp.com/attachments/849682448102457374/850480734291623946/unknown.png).
+4. Then run command below in command prompt
+   ```bash
+   npm config set msvs_version 2017
+   ```
+5. After installing the above, you should install NodeJS version 10 [LTS](https://nodejs.org/dist/latest-v10.x/) (it is better to be v10.24.1 LTS).
+6. Download and run the node-v10.24.1-x64.msi installer and then continue through the installation as normal. Be sure to have the "Enable in PATH" option enabled before installing.
+7. Open the command line in administrator mode by right-clicking on the cmd.exe application and selecting "Run as administrator"
+8. In the administrator command prompt, change to the directory where you want to store this repository.
+   ```bash
+   cd C:\some\directory\for\repositories
+   ```
+9. Double-check the node version with CMD command:
+   ```bash
+   node -v
+   ```
+10. After that, install the latest version of Yarn.  Be careful not to install packages with NPM. If you have already tried "npm install", you should first delete "node modules" folder.
+    ```bash
+    yarn install
+    ```
+11. That is it, you are now ready to run the giveth-dapp! Head to the [Run dapp](#run-dapp) section for further instructions.
+
+### Run
+1. The Giveth dapp will need to connect to a [feathers-giveth](https://github.com/Giveth/feathers-giveth) server. Follow the feathers-giveth readme instructions to install and run server before proceeding further. Alternatively, you could change the configuration to connect to the `develop` environment, see the [Configuration](#configuration) section.
+2. Start the dapp.
+    ```bash
+    yarn start
+    ```
+3. Once the dapp is up in your browser, click "Sign In" from the main menu.
+4. For testing locally, choose any of the wallet files found in the `giveth-dapp/keystores/` folder using the wallet password: `password`. **DO NOT USE THESE ON ANY MAINNET EVMs.**
+
+5. Using the test token
+   To use the test token you need to import the keystore.json you use for your account to MetaMask.
+   After importing, click on 'Add token' > 'Custom token' and enter the MiniMe Token address that can be found when deploying the contracts
+   (should be `0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab` by default but make sure to check)
+   The token balance should show up automatically, and the token symbol is MMT.
+   However, in the dApp the token symbol is referred to as ANT, b/c the dapp needs to be able to fetch a conversion rate.
+
+NOTE:
+When resetting feathers or redeploying the contracts, you need to remove the keystore from metamask and follow this procedure again.
+
+### Build
+```bash
+yarn run build
+```
+
+NOTE: due to some web3 libraries that are not transpiled from es6, we have to use our [giveth-react-scripts](https://github.com/Giveth/create-react-app/tree/master/packages/react-scripts) fork of react-scripts .
+
+### Configuration
+The DApp has several node environment variables which can be used to alter the DApp behaviour without changing the code. You can set them through `.env` or `.env.local` files in the DApp folder.
+
+Variable name | Default Value | Description |
+---|---|---|
+PORT | 3010 | Port on which the DApp runs |
+REACT_APP_ENVIRONMENT | 'localhost' | To which feathers environment should the DApp connect. By default it connects to localhost feathers. Allowed values are: `localhost`, `develop`, `release`, `alpha`, `mainnet`. See [Deployment Environments](#deploy-environments). |
+REACT_APP_DECIMALS | 8 | How many decimal should be shown for cryptocurrency values. Note that the calculations are still done with 18 decimals. |
+REACT_APP_FEATHERJS_CONNECTION_URL | Differs per REACT_APP_ENVIRONMENT | Overwrites the environment injected feathers connection URL. |
+REACT_APP_NODE_CONNECTION_URL | Differs per REACT_APP_ENVIRONMENT | Overwrites the EVM node connection URL for making EVM transactions. |
+REACT_APP_LIQUIDPLEDGING_ADDRESS | Differs per REACT_APP_ENVIRONMENT | Overwrites the Liquid Pledging contract address. |
+REACT_APP_DAC_FACTORY_ADDRESS | Differs per REACT_APP_ENVIRONMENT | Overwrites the Communities contract address. |
+REACT_APP_CAMPAIGN_FACTORY_ADDRESS | Differs per REACT_APP_ENVIRONMENT | Overwrites the Campaign Factory contract address. |
+REACT_APP_MILESTONE_FACTORY_ADDRESS | Differs per REACT_APP_ENVIRONMENT | Overwrites the MilestoneFactory contract address. |
+REACT_APP_TOKEN_ADDRESSES | Differs per REACT_APP_ENVIRONMENT | Overwrites the bridged token addresses. This is a JSON object string w/ token name : token address. |
+REACT_APP_BLOCKEXPLORER | Differs per REACT_APP_ENVIRONMENT | Overwrites the block explorer base URL. The DApp assumes such blockexplorer api is `\<BLOCKEXPLORER\>/tx/\<TRANSACTION_HASH\>` |
+REACT_APP_DEFAULT_GASPRICE | 10 | Overwrites the default gasPrice that is used if ethgasstation service is down. The value is in gwei. |
+REACT_APP_ANALYTICS_KEY | "" | Overwrites `Segment` analytics key
+
+Example of `.env.local` file that makes the DApp run on port 8080, connects to the **develop** environment and uses custom blockexplorer:
+
+```bash
+PORT=8080
+REACT_APP_ENVIRONMENT='develop'
+REACT_APP_BLOCKEXPLORER='www.awesomeopensourceexplorer.io'
+```
+
+The rest of the configuration can be found in `configuration.js`
+
+### Analytics
+Segment Analytics can be enabled by setting REACT_APP_ANALYTICS_KEY
+
+### Query Strings
+The milestone creation/proposal view now supports query string arguments!
+The following arguments are available:
+
+| Argument | Expected Values | Type |
+|------------------|------------------------------------------------------------|--------|
+| title | The title of the milestone | string |
+| description | The description of the milestone | string |
+| recipientAddress | The address of the recipient | string |
+| reviewerAddress | The address of the reviewer | string |
+| selectedFiatType | A valid fiat type (i.e. USD) | string |
+| date | A valid milestone date string | string |
+| token | A valid token symbol (i.e. DAI) | string |
+| tokenAddress | A valid token address | string |
+| maxAmount | A valid max amount of ETH or token | number |
+| fiatAmount | A valid max amount of fiat (dependant on selectedFiatType) | number |
+| isCapped | Determines whether the milestone should be capped | 0 or 1 (boolean) |
+| requireReviewer | Determines whether the milestone should require a reviewer | 0 or 1 (boolean) |

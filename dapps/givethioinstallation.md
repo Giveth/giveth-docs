@@ -8,7 +8,7 @@ import styles from '../src/css/custom.css'
 
 This guide will document the steps to set up and run Giveth.io locally for the purposes of development.The setup process was documented using Ubuntu 20.04 LTS.
 
-**You'll need a couple prerequisites to get started.**
+#### **You'll need a couple prerequisites to get started.**
 
  - [Redis](https://redis.io/topics/quickstart)
  - [Postgres](https://www.postgresql.org/download)
@@ -17,7 +17,7 @@ This guide will document the steps to set up and run Giveth.io locally for the p
  - npm
  - Your favourite Code Editor (VScode for linting presets)
 
- **Giveth IO leverages notable packages, applications and architectures including:**
+#### **Giveth IO leverages notable packages, applications and architectures including:**  
  - Ethereum
  - NextJS
  - Apollo GraphQL
@@ -27,13 +27,13 @@ This guide will document the steps to set up and run Giveth.io locally for the p
 ### Install the back-end (impact-graph) from GitHub
 In order to develop locally you need to clone the back-end server. We are using https://github.com/Giveth/impact-graph for this.
 
-- via SSH on the CLI:
-    ```bash
+*via SSH on the CLI:*
+```bash
     git clone git@github.com:Giveth/impact-graph.git
     cd impact-graph
     npm i
     cp .env.example .env
-    ```
+```
 
 
 ### Create a Database and User in Postgres using psql
@@ -48,8 +48,9 @@ postgres=# create user <userName> with encrypted password '<passwordHere>';
 postgres=# grant all privileges on database <databaseName> to <userName>;
 ```
 ### Clone and Install the Frontend
-  Head on over to https://github.com/Giveth/giveth-next and clone the repo.
-  - via the CLI:
+  Head on over to https://github.com/Giveth/giveth-next and clone the repo.  
+
+  *via SSH on the CLI:*
   ```bash
   git clone git@github.com:Giveth/giveth-next.git
   cd giveth-next
@@ -59,11 +60,20 @@ postgres=# grant all privileges on database <databaseName> to <userName>;
 ### Get the Environment Variables
  In order to run the local build for Giveth.io you'll need to ask for the environment variables. Head on over to our [Contributors Discord](https://discord.gg/EndTUw9955) say Hi and get in touch with one of the developers.
 
+
 ### Launch the Development Server and Environment
  Start up the `impact-graph` backend server and redis.
   - Run redis by using the command `redis-server`
   - From the impact-graph repo start with `npm start`
 
+### Run the Migrations to Setup the Database
+In a separate terminal `cd` into the `impact-graph`
+run this command in the terminal
+```bash
+npm run typeorm:cli -- migration:run
+```
+
+### Deploy the Front-end
  To take advantage of linting presets, please use **VSCODE**:
  * Select *File -> Open Workspace*
  * Navigate into the giveth-next directory

@@ -27,7 +27,7 @@ module.exports = {
    {
     type: 'category',
     label: 'Giveth TRACE',
-    items: [ 'trace/introTrace', 'trace/entitiesAndRoles',
+    items: [ 'trace/introTrace','trace/TRACEinstallation', 'trace/entitiesAndRoles',
       {
         type: 'category',
         label: 'DApp Documentation',
