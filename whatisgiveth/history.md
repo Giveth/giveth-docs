@@ -22,7 +22,7 @@ A first version of the Donation Application (DApp) is [launched](https://medium.
 ### July
 [Team meeting](https://youtube.com/playlist?list=PL4Artm1rmCWFUC5cP7Vw0y9wp7l0y5Fq0) in Barcelona to set a governance structure for team organization and to talk about the Giveth culture and the technology that has to be built.
 
-**From now on the Giveth team understands itself as a [Decentralized Altruistic Community](https://medium.com/giveth/giveth-introduces-decentralized-altruistic-communities-dacs-d1155a79bdc4)**, as Unicorns, finding their way to #maketheworldabetterplace.
+**The Giveth team declares itself to be a [Decentralized Altruistic Community](https://medium.com/giveth/giveth-introduces-decentralized-altruistic-communities-dacs-d1155a79bdc4)** of Unicorns finding their way to #maketheworldabetterplace.
 
 
 ### August
@@ -50,14 +50,14 @@ Giveth [introduces](https://youtu.be/U3ajJiKLetY) it’s new logo to the world.
 Discussions about Governance structure, projects, and budgeting that had been initiated before Devcon are discussed in the aftermath of the conference. A consolidation and reduction of roles is considered.
 
 ### December
-Reduction of roles - especially those requiring regular contribution. The team is still in the process of finding the right way to organize themselves. For now the team is organized in four Circles:
+A reduction of roles occurs - especially of those requiring regular rewards. The team is still in the process of finding the right way to organize themselves. For now the team is organized in four Circles:
 
   - **Governance** (modeling the DAC, organization & administration of the team, Reward DAO)
   - **Communications** (for the external communications of Giveth)
   - **Dapp Development** (all aspects concerning the Giveth DApp and its integration with the Ethereum blockchain)
   - **Social Coding** (as a laboratory for open source culture, tool and infrastructure-focused software development)
 
-  Due to the new budget, certain people have to change their roles within the team. Governance meetings are ongoing and holacracy is still the preferred organizational structure. The team's effort as a decentralized community is ongoing. In finding what works best, we realize it takes a whole lot of adaptability and trust when structures are in a constant flux (in our case established through familiarity between members). It takes bravery to look upon emerging technologies and dive in, looking for consensus. Alas, this is the nature of an exploratory venture.
+Due to the new budget, certain people have to change their roles within the team. Governance meetings are ongoing and holacracy is still the preferred organizational structure. The team's effort as a decentralized community is ongoing. In finding what works best, we realize it takes a whole lot of adaptability and trust when structures are in a constant flux (in our case established through familiarity between members). It takes bravery to look upon emerging technologies and dive in, looking for consensus. Alas, this is the nature of an exploratory venture.
 
 ## 2018
 
@@ -82,7 +82,7 @@ We meet an enthusiastic young engineer who calls himself Dapplion. He will becom
 Giveth [participates](https://youtu.be/nBfqUcbkuxw) in Edcon’s Super Demo in Toronto and [wins first place](https://twitter.com/Givethio/status/992891817904562177)!
 
 ### June
-Another, smaller scale meetup, follows shortly. We discuss many internal things and try to resolve differences about the direction Giveth wants to take going forward.
+Another, smaller scale, meetup follows. We discuss many internal things and try to resolve differences about the direction Giveth wants to take going forward.
 
 DAppNode is being split off the core Giveth team as a separate team with Edu leading development, Dapplion coding full stack and Jordi as a guardian angel and first product owner.
 
@@ -95,7 +95,7 @@ A [collaboration with Aragon](https://aragon.org/blog/aragon-dac-a-new-community
 [`Camp Decentral`](http://www.decentralizeddanceparty.com/2017/09/07/camp-d%CE%BEcentral-at-burning-man-was-a-success/) is erected at Burning Man, Black Rock City - giving talks about crypto, blockchain and digital sovereignty all week.
 
 ### October
-`Devcon 4`, the Ethereum developers conference, is coming to Prague and Giveth is present again with a huge delegation. Many new and old acquaintances are made and important connections within the blockchain space are formed. A blockchain enthusiast called Willy is handed a T-shirt by Lorie and Dani - this is actually a significant event as demonstrated later in our history.
+`Devcon 4`, the Ethereum developers conference, is coming to Prague and Giveth is present again with a huge delegation. Many new and old acquaintances are made and important connections within the blockchain space are formed. A blockchain enthusiast called Willy is handed a T-shirt by Lorelei and Dani - this is actually a significant event as demonstrated later in our history.
 
 ## 2019
 
@@ -106,25 +106,25 @@ We meet up at our headquarters in Barcelona because it is time to move to a bigg
 A delegation from Giveth and other friendly Devs tramp to the biggest hackathon in the world (they claim) - ODYSSEY in Groningen, NL - to hack together on some core concepts of the newly imagined ["Commons Stack"](https://medium.com/giveth/the-commons-stack-scaling-the-commons-to-re-prioritize-people-and-the-planet-fdc076aec4eb).
 
 ### June
-The Giveth team has a [big meeting](https://youtube.com/playlist?list=PL6oqELoqsEmpP1JQJFrtVj1OWMPHZX6kL) at their new headquarters in Barcelona. We spend almost a week reshaping roles and goals for Giveth. The agenda is seemingly endless and we touch all the points that are important to us, the DAO, the DApp and how we want to shape the future of Giveth and the Commons Stack.
+The Giveth team has a [big meeting](https://youtube.com/playlist?list=PL6oqELoqsEmpP1JQJFrtVj1OWMPHZX6kL) at their new headquarters in Barcelona. We spend almost a week reshaping roles and goals for Giveth. The agenda is seemingly endless and we touch on all the points that are important to us: the DAO, the DApp and how we want to shape the future of Giveth and the Commons Stack.
 
 ### July
-The crypto bear market takes its toll. It had become more and more quiet with the Giveth team as funding continued to be scarce. The decision is made to continue in "maintenance mode" - essentially quitting all of Giveth's non-essential operations. Feature development on the DApp is halted and Comms Circle goes into submarine mode, emerging only to sparsely tweet from time to time.
+The crypto bear market takes its toll. It has become more and more quiet with the Giveth team as funding continues to be scarce. The decision is made to continue in "maintenance mode" - essentially quitting all of Giveth's non-essential operations. Feature development on the DApp is halted and Comms Circle goes into submarine mode, emerging only to sparsely tweet from time to time.
 
 ### Winter
 Amin - a contributor to the DApp who surfaced through Gitcoin is starting to "freshen up" the DApp little by little.
 
 ## 2020
 ### February
-While Griff attends EthDenver 2020 as a judge, he meets Willy who, together with a couple of friends, realized their own donation platform during the hackathon. Their app is called "Coz" (Cause) and [wins](https://youtu.be/VU56KNY5uFc) the "Impact Track". Full of enthusiasm, Griff captures the crew with the idea to build a new DApp - a new Giveth together with the Coz team.
+Griff attends EthDenver 2020 as a judge where he meets Willy who, together with a couple of friends, realize their own donation platform during the hackathon. Their app is called "Coz" (Cause) and [wins](https://youtu.be/VU56KNY5uFc) the "Impact Track". Full of enthusiasm, Griff captures the crew with the idea to build a new DApp - a new Giveth together with the Coz team.
 
 ### July
-The pace is picking up again. The first design phases for "Giveth 2"(Giveth.io) are finished by Marko.
+The pace is picking up again. The first design phases for "Giveth 2" (later called Giveth.io) are finished by Marko.
 
 Some old team members flock back to the mother goose to work on developing the new DApp (Giveth.io). Organizational patterns are re-introduced and more people are sought after to grow the team again.
 
 ### December
-Amin was able to make the original Giveth DApp (now Giveth TRACE) beautiful, functional and stable within the last year - and now assembles a team of rockstars to help him make it even better. There are two distinct teams now, working on two distinct DApps.
+Amin was able to make the original Giveth DApp (now Giveth TRACE) beautiful, functional and stable within the last year.  He now assembles a team of rockstars to help him make it even better. Two distinct teams form to work on the two distinct DApps.
 
 Dani brings in a bunch of enthusiastic people to build out the Community and Communications Circles. Giveth is now in "full swing" again.
 
@@ -136,13 +136,13 @@ Hiring spree on full time contributors. The Costa Rica Team emerges, significant
 ### March
 “Giveth 2” officially [launches](https://medium.com/giveth/the-future-of-giving-is-here-d480388a3338) with the name **Giveth.io**. Boasting a simple UX, easy project creation and peer-to-peer donations with functionality on both Mainnet and xDai network.
 
-Amin’s team of developers become a force to be reckoned with, dubbed the Middle East team. Their main focus is still, at this time, to take the original Giveth DApp to the finish line and launch it out of beta.
+Amin’s team of developers become a force to be reckoned with, dubbed the Middle East team. Their main focus is still, at this time, to take the original Giveth DApp (now called “Giveth TRACE”) to the finish line and launch it out of beta.
 
 ### April
 Work begins in earnest on the next big Giveth project, rumours emerge about designing an “Economy of Giving”....
 
 ### June
-The Costa Rica team finally meets Griff face to face and there is a gathering of Giveth minds to revamp the Giveth Vision, Values and Roadmap. The Middle East team meets in person across the puddle and the two groups connect over the web.
+The Costa Rica team meets Griff face-to-face and there is a gathering of Giveth minds to revamp the Giveth Vision, Values and Roadmap. The Middle East team meets in person across the puddle and the two groups connect over the web.
 
 ### July
 The OG Giveth DApp from 2017 officially [launches](https://medium.com/giveth/giveth-trace-is-live-e91b0be1e1f6), with tremendous contributions from the Middle East Team. The flagship DApp sheds the husk of “beta” taking its final form as **Giveth TRACE**.
@@ -178,3 +178,5 @@ Quarterly, most of the team meets in person at a dedicated team meeting or a ver
 - **2017/07 Barcelona**
 - **2017/05 Berlin**
 - **2017/01 London**
+
+
