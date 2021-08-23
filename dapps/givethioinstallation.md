@@ -17,6 +17,13 @@ This guide will document the steps to set up and run Giveth.io locally for the p
  - npm
  - Your favourite Code Editor (VScode for linting presets)
 
+ **Giveth IO leverages notable packages, applications and architectures including:**
+ - Ethereum
+ - NextJS
+ - Apollo GraphQL
+ - Tor.us
+ - Theme UI
+
 ### Install the back-end (impact-graph) from GitHub
 In order to develop locally you need to clone the back-end server. We are using https://github.com/Giveth/impact-graph for this.
 
