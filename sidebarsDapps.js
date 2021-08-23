@@ -27,16 +27,16 @@ module.exports = {
    {
     type: 'category',
     label: 'Giveth TRACE',
-    items: [ 'introTrace', 'entitiesAndRoles',
+    items: [ 'trace/introTrace', 'trace/entitiesAndRoles',
       {
         type: 'category',
         label: 'DApp Documentation',
-        items: ['bridgeSecurity', 'leavingTraces', 'developmentProcess'],
+        items: ['trace/bridgeSecurity', 'trace/leavingTraces', 'trace/developmentProcess'],
       },
         {
           type: 'category',
           label: 'Reference',
-          items: ['technicalWhitePaper', 'exchangeRates', 'traceContracts']
+          items: ['trace/technicalWhitePaper', 'trace/exchangeRates', 'trace/traceContracts']
          },
        ],
      },

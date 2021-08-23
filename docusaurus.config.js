@@ -66,7 +66,7 @@ module.exports = {
             },
             {
               label: 'Giveth TRACE',
-              to: 'dapps/introTrace'
+              to: 'dapps/trace/introTrace'
             }
           ]
         },

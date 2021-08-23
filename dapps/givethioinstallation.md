@@ -13,14 +13,12 @@ This guide will document the steps to set up and run Giveth.io locally for the p
  - [Redis](https://redis.io/topics/quickstart)
  - [Postgres](https://www.postgresql.org/download)
  - Bash CLI
- - [Gatsby CLI](https://www.gatsbyjs.com/docs/reference/gatsby-cli/)
- - Configure NodeJS
-      * [For Linux](https://www.gatsbyjs.com/docs/how-to/local-development/gatsby-on-linux/)
-     * [For Windows](https://www.gatsbyjs.com/docs/how-to/local-development/gatsby-on-windows/)
- - Your Favourite Code Editor (VScode for linting presets)
+ - yarn
+ - npm
+ - Your favourite Code Editor (VScode for linting presets)
 
-### Install impact-graph from GitHub
-In order to develop locally you need to clone the backend server as well. We are using https://github.com/Giveth/impact-graph for this.
+### Install the back-end (impact-graph) from GitHub
+In order to develop locally you need to clone the back-end server. We are using https://github.com/Giveth/impact-graph for this.
 
 - via SSH on the CLI:
     ```bash
@@ -43,12 +41,12 @@ postgres=# create user <userName> with encrypted password '<passwordHere>';
 postgres=# grant all privileges on database <databaseName> to <userName>;
 ```
 ### Clone and Install the Frontend
-  Head on over to https://github.com/Giveth/giveth-2 and clone the repo.
+  Head on over to https://github.com/Giveth/giveth-next and clone the repo.
   - via the CLI:
   ```bash
-  git clone git@github.com:Giveth/giveth-2.git
-  cd giveth-2
-  npm i
+  git clone git@github.com:Giveth/giveth-next.git
+  cd giveth-next
+  yarn install
   ```
 
 ### Get the Environment Variables
@@ -61,19 +59,19 @@ postgres=# grant all privileges on database <databaseName> to <userName>;
 
  To take advantage of linting presets, please use **VSCODE**:
  * Select *File -> Open Workspace*
- * Navigate into the giveth-2 directory
+ * Navigate into the giveth-next directory
  * Open the workspace file `giveth2-full-stack.code-workspace`
  * Install recommended extensions (Prettier and StandardJS plugins)
 
- Then fire up the local development server.
+ Then fire up the front-end locally.
 
  ```bash
- gatsby develop
+ yarn run dev
  ```
 
 ### Start Editing!
 
-Open up the giveth2 repo on your code editor.
+Open up the giveth-next repo on your code editor.
 
 Giveth.io is now running locally at `http://localhost:8000`!
 
@@ -86,11 +84,11 @@ Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.o
 
 **Current Build Statuses**
 
-[master](https://v2.giveth.io)
+[master](https://giveth.io)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f914ac7e-ce27-4909-bd3e-14d749731a52/deploy-status)](https://app.netlify.com/sites/giveth2/deploys)
 
-[staging](https://staging.giveth.io)
+[staging](https://next.giveth.io)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2f325b5b-e159-443e-bac7-c5e15f3578c0/deploy-status)](https://app.netlify.com/sites/giveth-website-staging/deploys)
 <br />
