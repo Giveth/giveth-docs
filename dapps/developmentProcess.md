@@ -77,7 +77,7 @@ $ pm2 logs
 If the logs are clear, the last step is to deploy the latest master branch commit on [Netlify](http://netlify.com/) and locking the deploy.
 
 ## API Keys
-If you're a new contributor and would like more information on all the API keys currently offered by Giveth TRACE check out our pages on **Swagger** for both Production and Staging deployments:
+If you're a new contributor and would like more in depth documentation on all the API keys services from Giveth TRACE check out our pages on **Swagger** for both Production and Staging deployments:
 
 [feathers-giveth Production](https://feathers.beta.giveth.io/docs/?url=/docs#/)  
 [feathers-giveth Staging](https://feathers.develop.giveth.io/docs)
