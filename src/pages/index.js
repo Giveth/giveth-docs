@@ -29,7 +29,7 @@ const features = [
   },
   {
     title: 'Giveth TRACE',
-    slug: 'dapps/trace/introTrace',
+    slug: 'dapps/introTrace',
     imageUrl: 'img/content/trace/tracefrontpage.png',
     description: (
       <>

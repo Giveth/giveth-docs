@@ -20,23 +20,22 @@ module.exports = {
        label: 'Developer Documentation',
        items : ['givethioinstallation','contributors', 'testing-guidelines', 'dev-guidelines',
        ],
-     },
-       'styleguide',
+     }
      ],
    },
    {
     type: 'category',
     label: 'Giveth TRACE',
-    items: [ 'trace/introTrace','trace/TRACEinstallation', 'trace/entitiesAndRoles',
+    items: [ 'introTrace','TRACEinstallation', 'entitiesAndRoles',
       {
         type: 'category',
         label: 'DApp Documentation',
-        items: ['trace/bridgeSecurity', 'trace/leavingTraces', 'trace/developmentProcess'],
+        items: ['bridgeSecurity', 'leavingTraces', 'developmentProcess'],
       },
         {
           type: 'category',
           label: 'Reference',
-          items: ['trace/technicalWhitePaper', 'trace/exchangeRates', 'trace/traceContracts']
+          items: ['technicalWhitePaper', 'exchangeRates', 'traceContracts']
          },
        ],
      },

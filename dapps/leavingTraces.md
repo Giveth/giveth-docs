@@ -3,7 +3,7 @@ id: leavingTraces
 title: Leaving Traces (formerly Creating Milestones)
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../../src/css/custom.css'
+import styles from '../src/css/custom.css'
 
 *Welcome! If you are super new to Giveth, join the [#🔨contribute](https://discord.gg/qf7XZ48gCU) channel on Discord. You can introduce yourself and ask questions there! This is a living document and will change as bugs are fixed and features added to the DApp.*
 

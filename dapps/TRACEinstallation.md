@@ -151,10 +151,10 @@ In the following sections you will learn all you need to know to run the DApp lo
 #### Prerequisites
 - NodeJS v10 LTS.
 - yarn (v1.22.10 or higher)
-- [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+- [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ### Install
-1. Click **Star** on this repo near the top-right corner of this web page (if you want to).
+1. Click **Star** on the [`giveth-dapp`](https://github.com/Giveth/giveth-dapp) repo near the top-right corner of this web page (if you want to).
 2. Join us on [Element](http://join.giveth.io) or [Discord](https://discord.gg/Uq2TaXP9bC) if you haven't already.
 3. Fork this repo by clicking **Fork** button in top-right corner of this web page. Continue to follow instruction steps from your own giveth-dapp repo.
 4. Clone your own "giveth-dapp" repo. Copy the link from the "Clone or download" button near the top right of this repo's home page.
@@ -165,11 +165,11 @@ If your operative system is any distribution of linux you can use an All-in-One 
 
 1. From the desired directory you wish to copy the "giveth-dapp" folder with source files to.
     ```bash
-    git clone {paste your own repo link here}
+    git clone git@github.com:Giveth/giveth-dapp.git
     ```
    NOTE: Please use `develop` branch for contributing.
     ```bash
-    git clone -b develop {paste your own repo link here}
+    git clone -b develop git@github.com:Giveth/giveth-dapp.git
     ```
 2. Change directories to giveth-dapp:
     ```bash
@@ -205,9 +205,9 @@ If your operative system is any distribution of linux you can use an All-in-One 
     ```bash
     yarn install
     ```
-11. That is it, you are now ready to run the giveth-dapp! Head to the [Run dapp](#run-dapp) section for further instructions.
+11. That is it, you are now ready to run the giveth-dapp!
 
-### Run
+### <a id='run'>Run</a>
 1. The Giveth dapp will need to connect to a [feathers-giveth](https://github.com/Giveth/feathers-giveth) server. Follow the feathers-giveth readme instructions to install and run server before proceeding further. Alternatively, you could change the configuration to connect to the `develop` environment, see the [Configuration](#configuration) section.
 2. Start the dapp.
     ```bash
@@ -233,7 +233,7 @@ yarn run build
 
 NOTE: due to some web3 libraries that are not transpiled from es6, we have to use our [giveth-react-scripts](https://github.com/Giveth/create-react-app/tree/master/packages/react-scripts) fork of react-scripts .
 
-### Configuration
+### <a id='configuration'>Configuration</a>
 The DApp has several node environment variables which can be used to alter the DApp behaviour without changing the code. You can set them through `.env` or `.env.local` files in the DApp folder.
 
 Variable name | Default Value | Description |
@@ -283,3 +283,31 @@ The following arguments are available:
 | fiatAmount | A valid max amount of fiat (dependant on selectedFiatType) | number |
 | isCapped | Determines whether the milestone should be capped | 0 or 1 (boolean) |
 | requireReviewer | Determines whether the milestone should require a reviewer | 0 or 1 (boolean) |
+
+### Local Development
+At first you would like to run the DApp locally. When running `testrpc` locally in `deterministic` mode, you can use any of the keystores in the `giveth-dapp/keystores` as your wallet.
+This will provide you access to the testrpc accounts for local development. Each keystore uses the same password: `password`. **DO NOT USE THESE ON ANY MAINNET EVMs**
+
+The keystores are seeded with 10.000 ANT tokens for testing donations. To get started with testing donations,
+make sure to add your account's keystore to MetaMask and swith MetaMask to Ganache. The donation modal should
+then show the appropriate balance when donating in ANT tokens.
+
+**NOTE**: If you get a nonce error in MetaMask or if the dapp fails to load with your metamask unlocked, it could be b/c metamask is confused. You should go to "settings" -> "Reset Account" in MetaMask in order to reset the nonce & cached account data.
+
+### Development and PR Testing
+1. The Giveth Dapp is auto deployed from the develop branch and is live on Rinkeby [develop.giveth.io](https://develop.giveth.io). All pull requests are autodeployed and the PR preview will be generated upon submission. To learn how to access PR previews see [Development Process & Quality Assurance](https://wiki.giveth.io/documentation/DApp/product-development-testing/) on our wiki.
+2. In order to use the dapp you will need to create account. If this is your first time, click "sign up" to create an account. If you already have a valid keychain file, use it to sign in.
+3. You will need test ether on the Rinkeby network. Go to the "wallet" page to see your new address (0x..). Copy that address and use the faucet to get some: https://faucet.rinkeby.io/
+
+
+### <a id='deploy-environments'>Deployment Environments</a>
+At Giveth, we are using the [gitflow](http://nvie.com/posts/a-successful-git-branching-model/) branching model to deploy to 4 different environments.
+
+Name | Blockchain | Branch Deployed | Auto Deploy | Use |
+-----|------------|-----------------|-------------|-----|
+[mainnet](https://mainnet.giveth.io) | Ethereum Main Network | master | no | Main network deployment for now abandoned due to high transaction costs until sustainable solution is found.
+[alpha](https://alpha.giveth.io)  | Rinkeby Test Network | master | no | Environment used as a production version until scalability is resolved.
+[release](https://release.giveth.io) | Rinkeby Test Network | release | yes | Environment for release candidate quality control testing by non-devs.
+[develop](https://develop.giveth.io) | Rinkeby Test Network | develop | yes | Development environment for integrating new features. Feature and pull request branches are also automatically deployed to this environment.
+
+You can change the environment to which the DApp connects through the node environment variables. See the [Configuration](#Configuration) section for more details.
