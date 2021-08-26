@@ -1,7 +1,6 @@
 ---
 id: introTrace
 title: Intro to Giveth TRACE
-slug: /introTrace
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'

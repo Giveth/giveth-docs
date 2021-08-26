@@ -60,7 +60,7 @@ A Community Manager is the registered user owning a Community. They can delegate
 Campaign Managers are Giveth.io users who have chosen to make their project traceable and have passed the project verification process. The role of the Campaign manager is to create Traces through which they can fund the work of people and the cost of resources behind the project.
 
 #### How to become a Campaign Manager
-* Verify their giveth.io project and request to become traceable, upgrading to a Campaign on TRACE and becoming the Campaign Manager of said Campaign 
+* Verify their giveth.io project and request to become traceable, upgrading to a Campaign on TRACE and becoming the Campaign Manager of said Campaign
 #### Power of a Campaign Manager
 * Edit their Campaign
 * Send Campaign funds (via Delegation) to Traces within their Campaign
@@ -195,7 +195,7 @@ Based on these rules we can have **four types of Traces** with their own distinc
 **Payments are compensation to Campaign members for the work they have done. Payments can be uncapped or capped for the funding they can receive.**
 
  *The Lifecycle for Payments with NO cap is as follows:*
- 
+
  <img alt="Lifecycle of Payments without Cap" src={useBaseUrl('img/content/trace/paymentNoCap.png')} />
 
 

@@ -20,14 +20,13 @@ module.exports = {
        label: 'Developer Documentation',
        items : ['givethioinstallation','contributors', 'testing-guidelines', 'dev-guidelines',
        ],
-     },
-       'styleguide',
+     }
      ],
    },
    {
     type: 'category',
     label: 'Giveth TRACE',
-    items: [ 'introTrace', 'entitiesAndRoles',
+    items: [ 'introTrace','TRACEinstallation', 'entitiesAndRoles',
       {
         type: 'category',
         label: 'DApp Documentation',
