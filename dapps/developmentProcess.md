@@ -76,8 +76,8 @@ $ pm2 logs
 
 If the logs are clear, the last step is to deploy the latest master branch commit on [Netlify](http://netlify.com/) and locking the deploy.
 
-## API Keys
-If you're a new contributor and would like more in depth documentation on all the API keys services from Giveth TRACE check out our pages on **Swagger** for both Production and Staging deployments:
+## Back-end Webservices Documentation
+If you're a new contributor and would like more in depth technical documentation on all the Webservices leveraged from the back-end (feathers-giveth) to the front-end (giveth-dapp), check out our pages on **Swagger** for both Production and Staging deployments:
 
 [feathers-giveth Production](https://feathers.beta.giveth.io/docs/?url=/docs#/)  
 [feathers-giveth Staging](https://feathers.develop.giveth.io/docs)
@@ -101,7 +101,7 @@ The QA testing is announced in the `Giveth-1 Dev` channel on [Discord](https://d
 
 Bug fixes are done ad-hoc as soon as discovered during the testing process. The bugs can be tackled by the DApp dev team or external contributors can be asked to help. Bug fixing has a priority over new development.
 
-**Who and how deploys?**
+**Who does deployments and how are they deployed?**
 
 The `develop` branch is autodeployed to its environment. The `master` branch is deployed by the dev team (`@aminlatifi`, `@RamRamez` and `@MohammadPCh`) once there are no new known bugs in the `develop` branch. The process is manual and there is a deployment procedure.
 
