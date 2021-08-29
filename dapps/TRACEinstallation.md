@@ -121,6 +121,56 @@ You can control the logging level with the `LOG_LEVEL` env variable. Available l
 
 To enable debug logging simply start the server with `LOG_LEVEL=debug yarn start`
 
+## Production
+
+We use docker-compose for orchestration of our docker containers in our production servers. 
+* make Make sure you have a file named `production.json` in config folder
+* Install docker and docker-compose on your server
+* run this command: `docker-compose -f docker-compose-production.yml up -d`
+
+PS: It's good to see [Github Actions config](./.github/workflows/CI-CD.yml) to better understanding of deploy structure
+## RSK
+
+1. You will need to download the [rsk node](https://github.com/rsksmart/rskj/wiki/Install-RskJ-and-join-the-RSK-Orchid-Mainnet-Beta). After installing, you will run the node w/ the `regtest` network for local development.
+
+  ```
+  java -jar rskj-core-0.5.2-ORCHID-all.jar co.rsk.Start --regtest
+  ```
+  or 
+  ```
+  java -Drsk.conf.file=rsk.conf -jar rskj-core-0.5.2-ORCHID-all.jar co.rsk.Start
+  ```
+
+2. We need to deploy any contracts that we intend to call. *NOTE:* You will also need to ensure that your rsk node is in a clean state (reset) for the configured addresses to be correct.
+
+   ```
+   npm run deploy-local:rsk
+   ```
+
+3. Optionally open a new terminal window and start the ipfs daemon
+
+   ```
+   ipfs daemon
+   ```
+    
+4. Start your app
+
+    ```
+    yarn start:rsk
+    ```
+
+## Audit Log
+The Audit log system logs every Create, Update, Patch and 
+Remove on **Campaigns**, **Traces**, **Events**, **Users**,
+**PledgeAdmins**, **Communities**, **Donations**
+For enabling audit log locally you should change `enableAuditLog`
+in config to `true`, then 
+* cd elk
+* docker-compose up
+
+And then after logging in `localhost:5601` with user:`elastic`, password: `changeme`
+you can see the logs
+
 ### Usage
 
 Each of these services are available via rest or websockets:
