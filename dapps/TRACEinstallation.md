@@ -121,7 +121,8 @@ We use docker-compose for orchestration of our docker containers in our producti
 * Install docker and docker-compose on your server
 * run this command: `docker-compose -f docker-compose-production.yml up -d`
 
-PS: It's good to see [Github Actions config](./.github/workflows/CI-CD.yml) to better understanding of deploy structure
+PS: It's good to see Github Actions config(`./.github/workflows/CI-CD.yml`) to better understanding of the deployment structure
+
 ## RSK
 
 1. You will need to download the [rsk node](https://github.com/rsksmart/rskj/wiki/Install-RskJ-and-join-the-RSK-Orchid-Mainnet-Beta). After installing, you will run the node w/ the `regtest` network for local development.
