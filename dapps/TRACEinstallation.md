@@ -121,7 +121,7 @@ We use docker-compose for orchestration of our docker containers in our producti
 * Install docker and docker-compose on your server
 * run this command: `docker-compose -f docker-compose-production.yml up -d`
 
-PS: It's good to see Github Actions config(`./.github/workflows/CI-CD.yml`) to better understanding of the deployment structure
+PS: It's good to see Github Actions config(`./.github/workflows/CI-CD.yml`) to better understand the deployment structure
 
 ## RSK
 
