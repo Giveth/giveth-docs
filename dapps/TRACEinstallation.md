@@ -90,13 +90,6 @@ If the `ipfsApi` is a valid ipfs node that we can connect to, we will pin every 
 ### Video Walkthrough
 Video tutorial walkthrough here: https://tinyurl.com/y9lx6jrl
 
-## Deploying
-
-1. Start a production server
-
-    ```bash
-    yarn serve
-    ```
 
 ### Scripts
 
