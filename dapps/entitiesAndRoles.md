@@ -136,7 +136,7 @@ Giveth TRACE, on a technical level, is a system for managing currency. The DAppâ
 
 ### <a name="communities">Communities</a>
 
-Communities, **formerly known as DACs**, are the most general entity in the Giveth System. The purpose of a Community is to unite Givers around a cause and provide them with the possibility to give money to a cause without having to do the research involved in finding the exact Campaign to contribute to. Any money donated to a Community can be retrieved by the Giver, however we strongly discourage Givers to do so. The funds remain in the Community until they are delegated to ~~either~~ a Campaign or a Trace, or withdrawn by the Giver. **Community Managers** can support any Campaign or Trace by sending currency to the account of the recipient.
+Communities, **formerly known as DACs**, are the most general entity in the Giveth System. The purpose of a Community is to unite Givers around a cause and provide them with the possibility to give money to a cause without having to do the research involved in finding the exact Campaign to contribute to. Any money donated to a Community can be retrieved by the Giver, however we strongly discourage Givers to do so. The funds remain in the Community until they are delegated to a Campaign or a Trace, or withdrawn by the Giver. **Community Managers** can support any Campaign or Trace by sending currency to the account of the recipient.
 
 <img alt="Community to Campaign delegation state diagram" src={useBaseUrl('img/content/trace/dac-campaign-donation-statediagram.svg')} />
 
@@ -151,7 +151,7 @@ Campaigns are in the middle of Giveth donation system. They are effectively tool
 
 Donations made to a Campaign are locked and unless the Campaign gets cancelled, the Giver no longer has control over the donation. The reason we lock the donations is to give the people behind the Campaign some level of certainty that they can count on getting the pledged donations and pledge them to one of their Traces.
 
-<img alt="Campaign Donation state diagram" src={useBaseUrl('img/content/trace/dcampaign-donation-statediagram.svg')} />
+<img alt="Campaign Donation state diagram" src={useBaseUrl('img/content/trace/campaign-donation-statediagram.svg')} />
 
 ##### **State diagram for donations made to Campaign.**
 
@@ -166,7 +166,7 @@ To tailor Traces to meet the specific needs of Communities and Campaigns there a
 * **Trace with Reviewer:** The funds cannot be collected or disbursed from this Trace without confirmation by an assigned Trace Reviewer.
 * **Specify Currency Received:** The Trace Creator is able to specify which of the whitelisted cryptocurrencies they would like to receive their funds in.
 
-Based on these rules we can have **four types of Traces** with their own distinct properties:
+Based on these rules we can have *four* types of Traces with their own distinct properties: **Milestones, Bounties, Expenses** and **Payments**. 
 
 
 ### **Milestones**
