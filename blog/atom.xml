@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.giveth.io/blog</id>
     <title>Giveth Docs Blog</title>
-    <updated>2021-05-14T00:00:00.000Z</updated>
+    <updated>2021-09-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.giveth.io/blog"/>
     <subtitle>Giveth Docs Blog</subtitle>
     <icon>https://docs.giveth.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Community Project Spotlight #2]]></title>
+        <id>communitySpotlight2</id>
+        <link href="https://docs.giveth.io/blog/communitySpotlight2"/>
+        <updated>2021-09-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re back with another fresh batch of amazing projects on Giveth.io. We have six projects from a wide range of causes that we are featuring in this project spotlight. This is also an extra special spotlight because Giveth.io itself is currently active and accepting donations on the latest round of Gitcoin Grants (GR11). If you feel inspired by the Giveth mission after reading this article then consider making a contribution via our Grants listing and learn about the magic of Quadratic Funding! More on that later…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Community Project Spotlight #1]]></title>
+        <id>communitySpotlight1</id>
+        <link href="https://docs.giveth.io/blog/communitySpotlight1"/>
+        <updated>2021-08-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re back with a silver platter of community curated projects to celebrate and highlight! Our Giveth contributors went through the list and chose their top picks. We’ve found six great projects that are live on Giveth now and looking for funding to meet their goals. Read on to discover some of our favourite projects from a diverse range of causes using our DApps.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Change-Makers: Final Round-up!]]></title>
+        <id>changeMakersRoundup2</id>
+        <link href="https://docs.giveth.io/blog/changeMakersRoundup2"/>
+        <updated>2021-07-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Giveth has been buzzing with action! While we’ve been hard at work behind-the-scenes building for our community, Giveth change-makers have been hard at work creating positive impact on the ground. We are excited to share with you one final round-up of projects in the Change-Maker Campaign.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Change-Maker Submissions — Round Up #2!]]></title>
         <id>changeMakersRoundup2</id>
