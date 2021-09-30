@@ -4,7 +4,7 @@ title: Cryptocurrency donations
 ---
 
 ## What is and why Cryptocurrency?
-Simply, it is a secure form of digital currency that can be transferred anywhere in the world peer-to-peer, similar to email (where the email's server is replaced with a decentralized network).
+Simply, it is a secure form of digital currency that can be transferred anywhere in the world peer-to-peer, similar to email (where the email's server is replaced with a decentralized network). test
 
 More technically, Bitcoin is a type of digital currency that uses cryptography and open source software to regulate the generation of units of currency and verify the transfer of funds, operating independently of a central bank. There is a distinction between Bitcoin, a digital currency, and blockchain the technology, which has many additional potential use cases beyond the currency.
 
@@ -22,6 +22,6 @@ A blockchain is a decentralized online ledger that is distributed across a netwo
 ## How does it work in the context of the application?
 One of these superpowers is to create dApps or Decentralized Applications, these are applications programmed onto the blockchain. dApps can be programmed to work as smart contracts receiving, holding and distributing currency as per the terms written into the contract. This feature removes the need for banks and/or lawyers, cutting through red tape and allowing project creators more autonomy.
 
-When you create or donate to a project, you are interacting with the Giveth dApp. Donations sent or received are recorded on the blockchain and can be viewed by anyone, anytime and anywhere. As donations are faciliated by the Giveth dApp's code, transactions thus can be done straight A -> B without anyone else needing to be involved. 
+When you create or donate to a project, you are interacting with the Giveth dApp. Donations sent or received are recorded on the blockchain and can be viewed by anyone, anytime and anywhere. As donations are faciliated by the Giveth dApp's code, transactions thus can be done straight A -> B without anyone else needing to be involved.
 
 One of the other superpowers is the ability for developers to create tokens or 'coins' which can create alternative economies based on the functionality programmed onto the coin. Giveth is in the works of implementing it's own version of a token which will amplify the potential of donations. ***More on this is in development!***
