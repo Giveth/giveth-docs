@@ -14,7 +14,7 @@ Giveth has been buzzing with action! While we’ve been hard at work behind-the-
 
 <img alt="Change Makers Going out to pasture" src={useBaseUrl('/img/blog/changeMakersFinalCover.jpeg')}  />
 
-Our [Calling All Change-Makers Campaign](https://medium.com/giveth/calling-all-change-makers-7fa964684c2b) launched in April 2021 as a way to highlight the unique stories of for-good projects on Giveth and bring extra attention to the work that they are doing to change the world for the better. Read on to discover the final submissions!
+Our [Calling All Change-Makers Campaign](/changeMakers) launched in April 2021 as a way to highlight the unique stories of for-good projects on Giveth and bring extra attention to the work that they are doing to change the world for the better. Read on to discover the final submissions!
 
 <img alt="Perfect Village Communities (PVC) in Burundi" src={useBaseUrl('/img/blog/changeMakersFinal1.png')}  />
 
