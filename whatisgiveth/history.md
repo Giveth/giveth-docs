@@ -20,6 +20,13 @@ A first version of the Donation Application (DApp) is [launched](https://medium.
 [Meeting](https://youtube.com/playlist?list=PL4Artm1rmCWGyz-BWv1-8Ip26XIauCLo9) of core contributors in Berlin to talk about the [concept and vision behind Giveth](https://youtu.be/i8kjxGxGSkA).
 
 ### July
+
+On July 19, the White Hat Group was finishing up a Giveth Product meeting when they heard that a hacker had stolen the equivalent of $32 million of ETH by breaching a wallet. The Giveth Devs immediately began protecting 500 susceptible wallets by taking advantage of the same vulnerabilities and emptying the wallets’ cryptocurrency before the other hacker could.
+
+In the only first account, they rescued a staggering 47,000 ETH! They went on to empty each of the 500 vulnerable wallets, siphoning the funds into a secure Giveth account. The Giveth team maintained transparency via Reddit so the wallet owners knew they would see their funds again.
+
+By July 31, the Giveth team had created new, secure wallets for each of these accounts, and gave access back to their rightful owners. At the time, they rescued over $208 million worth of crypto, and stated they would not be accepting any donations for their work.
+
 [Team meeting](https://youtube.com/playlist?list=PL4Artm1rmCWFUC5cP7Vw0y9wp7l0y5Fq0) in Barcelona to set a governance structure for team organization and to talk about the Giveth culture and the technology that has to be built.
 
 **The Giveth team declares itself to be a [Decentralized Altruistic Community](https://medium.com/giveth/giveth-introduces-decentralized-altruistic-communities-dacs-d1155a79bdc4)** of Unicorns finding their way to #maketheworldabetterplace.
