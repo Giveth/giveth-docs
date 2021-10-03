@@ -184,10 +184,14 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
+        blog: {
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css')
-        }
-      }
+        },
+      },
     ]
   ]
 }
