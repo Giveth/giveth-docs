@@ -1,6 +1,6 @@
 module.exports = {
   whatisgiveth: [
-     'whatisgiveth','covenant', 'givethCircles',
+     'whatisgiveth','codeofconduct', 'givethCircles',
       {
         type: 'category',
         label: 'Circles',
