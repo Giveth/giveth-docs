@@ -1,5 +1,5 @@
 ---
-slug: changeMakersRoundup2
+slug: changeMakersFinal
 title: "Change-Makers: Final Round-up!"
 author: Mitch
 author_image_url: /img/mitchAuthor.jpeg
