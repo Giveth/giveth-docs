@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgiveth_docs=self.webpackChunkgiveth_docs||[]).push([[2846],{6464:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/how-to","name":"how-to","count":1,"permalink":"/blog/tags/how-to"}')}}]);

@@ -13,6 +13,9 @@
         <link href="https://docs.giveth.io/blog/communitySpotlight2"/>
         <updated>2021-09-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We’re back with another fresh batch of amazing projects on Giveth.io. We have six projects from a wide range of causes that we are featuring in this project spotlight. This is also an extra special spotlight because Giveth.io itself is currently active and accepting donations on the latest round of Gitcoin Grants (GR11). If you feel inspired by the Giveth mission after reading this article then consider making a contribution via our Grants listing and learn about the magic of Quadratic Funding! More on that later…]]></summary>
+        <author>
+            <name>Mitch</name>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Community Project Spotlight #1]]></title>
@@ -20,6 +23,9 @@
         <link href="https://docs.giveth.io/blog/communitySpotlight1"/>
         <updated>2021-08-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We’re back with a silver platter of community curated projects to celebrate and highlight! Our Giveth contributors went through the list and chose their top picks. We’ve found six great projects that are live on Giveth now and looking for funding to meet their goals. Read on to discover some of our favourite projects from a diverse range of causes using our DApps.]]></summary>
+        <author>
+            <name>Mitch</name>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Giveth TRACE is Live 🚀]]></title>
@@ -27,6 +33,9 @@
         <link href="https://docs.giveth.io/blog/traceLaunch"/>
         <updated>2021-07-13T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We are pleased to announce the official full release of_** Giveth TRACE **_— a platform for traceable, accountable, effective donations powered by blockchain technology.]]></summary>
+        <author>
+            <name>Lauren</name>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Change-Makers: Final Round-up!]]></title>
@@ -34,6 +43,9 @@
         <link href="https://docs.giveth.io/blog/changeMakersFinal"/>
         <updated>2021-07-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Giveth has been buzzing with action! While we’ve been hard at work behind-the-scenes building for our community, Giveth change-makers have been hard at work creating positive impact on the ground. We are excited to share with you one final round-up of projects in the Change-Maker Campaign.]]></summary>
+        <author>
+            <name>Mitch</name>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Change-Maker Submissions — Round Up #2!]]></title>
@@ -41,6 +53,9 @@
         <link href="https://docs.giveth.io/blog/changeMakersRoundup2"/>
         <updated>2021-05-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We asked our community to add their projects to giveth.io and share their stories about how they are changing the world for the better using #giveth4change. Keep reading for our second round of submissions, or submit your story via twitter or reddit to be featured in our next round up.]]></summary>
+        <author>
+            <name>Mitch</name>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[What DAppened: April 21— May 5]]></title>
@@ -48,6 +63,9 @@
         <link href="https://docs.giveth.io/blog/whatDappened3"/>
         <updated>2021-05-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Upholding our values of Transparency and Accountability by sharing recent development updates from this past sprint.]]></summary>
+        <author>
+            <name>Lauren</name>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[The First Change-Maker Submission Roundup is In!]]></title>
@@ -55,6 +73,9 @@
         <link href="https://docs.giveth.io/blog/changeMakersRoundup1"/>
         <updated>2021-05-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We asked our community to add their projects to giveth.io and share their stories about how they are changing the world for the better using #giveth4change. Read on to discover our first round of submissions, or submit your story via twitter or reddit to be featured in our next summary.]]></summary>
+        <author>
+            <name>Mitch</name>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[What DAppened: March 31 — April 14]]></title>
@@ -62,6 +83,9 @@
         <link href="https://docs.giveth.io/blog/whatDappened2"/>
         <updated>2021-04-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We’re back with another development update from our recent sprint cycle! Read on to stay in-the-know on what’s dAppening at giveth.io]]></summary>
+        <author>
+            <name>Lauren</name>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Calling All Change-Makers!]]></title>
@@ -69,6 +93,9 @@
         <link href="https://docs.giveth.io/blog/changeMakers"/>
         <updated>2021-04-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Are you passionate about changing the world for the better? We want to hear how you’re taking action to improve upon a social or environmental issue that speaks to you. Tell us how you’re making a difference. Share your story.]]></summary>
+        <author>
+            <name>Mitch</name>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[What DAppened: March 17–31]]></title>
@@ -76,6 +103,9 @@
         <link href="https://docs.giveth.io/blog/whatDappened1"/>
         <updated>2021-04-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hello friends and fans of Giveth! This is one part of a series of short transparency posts where we keep you in the loop with updates on what’s in development for giveth.io.]]></summary>
+        <author>
+            <name>Lauren</name>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Two Flavors of Giveth.. Which One to Choose?]]></title>
@@ -83,6 +113,9 @@
         <link href="https://docs.giveth.io/blog/flavorsOfGiveth"/>
         <updated>2021-03-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Giveth TRACE and Giveth.io landing pages]]></summary>
+        <author>
+            <name>Mitch</name>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Future of Giving is Here]]></title>
@@ -90,6 +123,9 @@
         <link href="https://docs.giveth.io/blog/futureofGiving"/>
         <updated>2021-03-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We are very excited to announce the launch of Giveth at giveth.io — a free, open-source donation application for community philanthropy featuring an all-new UI/UX.]]></summary>
+        <author>
+            <name>Lauren</name>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to contribute to documentation]]></title>
@@ -97,6 +133,10 @@
         <link href="https://docs.giveth.io/blog/howToDocs"/>
         <updated>2021-03-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hello dear contributor!]]></summary>
+        <author>
+            <name>geleeroyale</name>
+            <uri>https://github.com/geleeroyale</uri>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Future of Giving is Realigning Incentives]]></title>
@@ -104,6 +144,9 @@
         <link href="https://docs.giveth.io/blog/realigningIncentives"/>
         <updated>2019-03-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A Trade leaves things as they were, with no external Surplus. A Gift creates a Surplus as it spreads. ~ Seth Godin]]></summary>
+        <author>
+            <name>Kris</name>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Unicorn DAC, a Non-hierarchical Decentralized Governance Experiment]]></title>
@@ -111,6 +154,9 @@
         <link href="https://docs.giveth.io/blog/unicornDACexperiment"/>
         <updated>2018-11-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Why are bosses necessary? They aren’t. Self-managed organizations exist all over the world, but there is no template for how a decentralized self-managed organization should work. Let us try to change that.]]></summary>
+        <author>
+            <name>Lanski</name>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Future of Work: Distributed Teams & Decentralized Workspaces]]></title>
@@ -118,6 +164,9 @@
         <link href="https://docs.giveth.io/blog/futureOfWork"/>
         <updated>2018-11-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The world is changing at a rapid pace. Gone are the days where you could work 30 years at a company, then get a fancy watch and a golden handshake into retirement. The industrial revolution of the early 1800’s brought more people out of the country and into factories and workshops, attracted by better pay.]]></summary>
+        <author>
+            <name>Agent Smith</name>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Giveth Masterpiece Manifesto]]></title>
@@ -125,6 +174,9 @@
         <link href="https://docs.giveth.io/blog/masterpieceManifesto"/>
         <updated>2018-05-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We asked you (our community) to dig deep into your hearts and minds, to give us your best version of the Giveth Manifesto. The results did not disappoint.]]></summary>
+        <author>
+            <name>Yalor</name>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[How Decentralized Giving could have helped (and will help) increase Transparency and avoid Cases like Oxfam’s Scandal]]></title>
@@ -132,6 +184,9 @@
         <link href="https://docs.giveth.io/blog/decentralizedGiving"/>
         <updated>2018-03-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Oxfam, consistently rated one of the best NGOs in the world and a household name in most western countries, is mired in a scandal over allegedly abusing of both people and funds in Haiti during the aid mission deployed after the hurricane Harvey. Not only this, but it is also accused of its employees exchanging aid for sexual favours, plain and simple sexual abuse. The case has opened the door for a cry of the nonprofit sector to uncover and denounce these practises, which seem to be more common than one would think.]]></summary>
+        <author>
+            <name>Lanski</name>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Liquid Democracy…What That?!?]]></title>
@@ -139,12 +194,18 @@
         <link href="https://docs.giveth.io/blog/liquidDemocracy"/>
         <updated>2018-01-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome to the future of voting.]]></summary>
+        <author>
+            <name>Yalor</name>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[What is the Future of Giving?]]></title>
         <id>futureOfGiving2017</id>
         <link href="https://docs.giveth.io/blog/futureOfGiving2017"/>
         <updated>2017-10-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An Overview of the Giveth Donation Application]]></summary>
+        <summary type="html"><![CDATA[Edit: for the current status of the development, more recent updates here]]></summary>
+        <author>
+            <name>Kris</name>
+        </author>
     </entry>
 </feed>
