@@ -14,7 +14,7 @@ module.exports = {
          items: ['torusUserGuide', 'torusonramp', 'donatingmetamask'],
        },
         'qualityscore', 'troubleshooting','faq'],
-     },
+     }, 'listedUnlisted' ,
      {
        type : 'category',
        label: 'Developer Documentation',
