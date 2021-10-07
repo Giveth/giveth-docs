@@ -3,7 +3,7 @@ id: listedUnlisted
 title: Project Quality Assurance Guide
 ---
 
-In order to ensure the quality of projects on our DApp, we have implemented a processes for pre-screening projects before they are featured on the Giveth homepage. All new projects are initially **unlisted** until they are reviewed and approved by a Giveth Unicorn. Unlisted projects can still receive donations and can be accessed via the project's URL. However, only **listed** projects will appear on the Giveth homepage & projects page, and using our sort, filter and search functionalities. 
+In order to ensure the quality of projects on our DApp, we have implemented a processes for pre-screening projects before they are featured on the Giveth homepage. All new projects are initially **unlisted** until they are reviewed and approved by a Giveth Unicorn. Unlisted projects can still receive donations and can be accessed via the project's URL. However, only **listed** projects will appear on the Giveth homepage & projects page, and using our sort, filter and search functionalities.
 
 Once reviewed and approved, listed projects will appear everywhere on the DApp! If a project does not meet the listed critera, the project owner will receive an email asking them to update the project. If the project updates their project, it will be reviewed again by our team.
 
@@ -14,7 +14,7 @@ The following guide is intended to support project owners in creating high quali
 
 ## Listed Projects
 In order for a project to be approved and listed on the DApp, it must have the following:
-- :heavy_check_mark: Clear project descriptions explaining who they are and what they want to do with the funds 
+- :heavy_check_mark: Clear project descriptions explaining who they are and what they want to do with the funds
 - :heavy_check_mark: A unique or custom banner photo
 - :heavy_check_mark: No violations of our [Covenant](https://hackmd.io/fasEfiHgRKelVVxAUCya1A?view) and/or **Terms of Use**
 - :heavy_check_mark: (Optional) Embedded photos, videos or legitimate external links
@@ -30,7 +30,7 @@ In order for a project to be approved and listed on the DApp, it must have the f
 
 ## Unlisted Projects
 A project is likely to remain unlisted due to the following:
-- :x: No project description 
+- :x: No project description
 - :x: Vague project description
 - :x: No unique or custom banner photo
 
@@ -62,6 +62,6 @@ Projects that are found to exhibit "unacceptable behaviour" and/or violate our [
 ### Examples of unacceptable behaviour include:
 - :x: The use of violent or sexualized language or imagery, and sexual attention or advances of any kind
 - :x: Trolling, insulting, derogatory, abusive or vulgar comments, and personal, political, or religious attacks
-- :x: Public or private harassment 
+- :x: Public or private harassment
 - :x: Publishing others’ private information, such as a physical or email address, without their explicit permission (including doxing)
 - :x: Other conduct which could reasonably be considered inappropriate in a professional setting
