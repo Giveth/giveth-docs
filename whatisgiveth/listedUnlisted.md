@@ -57,9 +57,9 @@ However, in order to remain active, the unlisted project must still exhibit:
 
 ## Cancelled Projects
 
-Projects that are found to exhibit "unacceptable behavior" and/or violate our [Covenant](https://hackmd.io/fasEfiHgRKelVVxAUCya1A?view) and/or **Terms of Use** will be cancelled immediately and an email will be send to the project owner.
+Projects that are found to exhibit "unacceptable behaviour" and/or violate our [Covenant](https://hackmd.io/fasEfiHgRKelVVxAUCya1A?view) and/or **Terms of Use** will be cancelled immediately and an email will be send to the project owner.
 
-### Examples of unacceptable behavior include:
+### Examples of unacceptable behaviour include:
 - :x: The use of violent or sexualized language or imagery, and sexual attention or advances of any kind
 - :x: Trolling, insulting, derogatory, abusive or vulgar comments, and personal, political, or religious attacks
 - :x: Public or private harassment 
