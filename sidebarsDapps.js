@@ -7,14 +7,14 @@ module.exports = {
        {
        type : 'category',
        label : 'User Guides',
-       items : ['gettingstarted', 'crypto',  'createproject','projectdonating',
+       items : ['gettingstarted', 'crypto',  'createproject','listedUnlisted' ,'projectdonating',
        {
          type: 'category',
          label: 'Wallets',
          items: ['torusUserGuide', 'torusonramp', 'donatingmetamask'],
        },
         'qualityscore', 'troubleshooting','faq'],
-     }, 'listedUnlisted' ,
+     },
      {
        type : 'category',
        label: 'Developer Documentation',
