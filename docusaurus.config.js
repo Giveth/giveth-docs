@@ -9,13 +9,27 @@ module.exports = {
   organizationName: 'giveth', // Usually your GitHub org/user name.
   projectName: 'giveth-docs', // Usually your repo name.
   themeConfig: {
+    algolia: {
+      apiKey: 'fe5b34ba5c3a21a81a7e6f77e6bb1b5e',
+      indexName: 'giveth',
+
+      // Optional: see doc section below
+      contextualSearch: false,
+
+      // Optional: see doc section below
+      appId: 'BH4D9OD16A',
+
+      // Optional: Algolia search parameters
+      searchParameters: {}
+
+      //... other Algolia params
+    },
     hideableSidebar: true,
     navbar: {
       title: 'Giveth Documentation',
       logo: {
         alt: 'Giveth Docs Logo',
-        src: 'img/logo.svg',
-
+        src: 'img/logo.svg'
       },
       items: [
         {
@@ -30,11 +44,11 @@ module.exports = {
           label: 'DApps',
           position: 'left'
         },
-       // {
-          // to: 'givbacks/',
-          // activeBasePath: 'givbacks',
-          // label: 'GIVBacks - The Giveth Token',
-          // position: 'left'
+        // {
+        // to: 'givbacks/',
+        // activeBasePath: 'givbacks',
+        // label: 'GIVBacks - The Giveth Token',
+        // position: 'left'
         // },
         {
           to: 'jobs/',
@@ -43,10 +57,10 @@ module.exports = {
           position: 'left'
         },
         {
-        to: 'blog',
-        label: 'Blog',
-        position: 'left',
-      },
+          to: 'blog',
+          label: 'Blog',
+          position: 'left'
+        },
         {
           href: 'https://github.com/giveth/giveth-docs',
           label: 'GitHub',
@@ -179,19 +193,18 @@ module.exports = {
     ]
   ],
 
-
   presets: [
     [
       '@docusaurus/preset-classic',
       {
         blog: {
           blogSidebarTitle: 'All posts',
-          blogSidebarCount: 'ALL',
+          blogSidebarCount: 'ALL'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css')
-        },
-      },
+        }
+      }
     ]
   ]
 }
