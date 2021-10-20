@@ -53,6 +53,21 @@ img.leftfloat {
   padding: 10px;
 
 }
+
+#resize50 {
+  width: 50%;
+  height: auto;
+}
+
+#resize35 {
+  width: 35%;
+  height: auto;
+}
+
+#resize25 {
+  width: 25%;
+  height: auto;
+}
 /* #gifborder
 {
   padding: 10px;
