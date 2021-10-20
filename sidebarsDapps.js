@@ -7,7 +7,7 @@ module.exports = {
        {
        type : 'category',
        label : 'User Guides',
-       items : ['gettingstarted', 'crypto',  'createproject','listedUnlisted' ,'projectdonating',
+       items : ['gettingstarted', 'crypto',  'createproject','listedUnlisted' ,'makeTraceableProject','projectdonating',
        {
          type: 'category',
          label: 'Wallets',
