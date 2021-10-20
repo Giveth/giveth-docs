@@ -13,7 +13,7 @@ module.exports = {
          label: 'Wallets',
          items: ['torusUserGuide', 'torusonramp', 'donatingmetamask'],
        },
-        'qualityscore', 'troubleshooting','faq'],
+        'troubleshooting','faq'],
      },
      {
        type : 'category',
