@@ -3,11 +3,11 @@ module.exports = {
     {
      type: 'category',
      label: "Giveth.io",
-     items: [
+     items: [ 'givethIO',
        {
        type : 'category',
        label : 'User Guides',
-       items : ['gettingstarted', 'crypto',  'createproject','listedUnlisted' ,'makeTraceableProject','projectdonating',
+       items : ['gettingStarted', 'crypto',  'createproject','listedUnlisted' ,'makeTraceableProject','projectdonating',
        {
          type: 'category',
          label: 'Wallets',
