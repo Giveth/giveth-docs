@@ -16,7 +16,7 @@ The following guide is intended to support project owners in creating high quali
 In order for a project to be approved and listed on the DApp, it must have the following:
 - :heavy_check_mark: Clear project descriptions explaining who they are and what they want to do with the funds
 - :heavy_check_mark: A unique or custom banner photo
-- :heavy_check_mark: No violations of our [Covenant](https://hackmd.io/fasEfiHgRKelVVxAUCya1A?view) and/or **Terms of Use**
+- :heavy_check_mark: No violations of our [Covenant](../whatisgiveth/covenant/) and/or **Terms of Use**
 - :heavy_check_mark: (Optional) Embedded photos, videos or legitimate external links
 - :heavy_check_mark: (Optional) For open-source projects, a link to their repository
 
@@ -35,7 +35,7 @@ A project is likely to remain unlisted due to the following:
 - :x: No unique or custom banner photo
 
 However, in order to remain active, the unlisted project must still exhibit:
-- :heavy_check_mark: No violations of our [Covenant](https://hackmd.io/fasEfiHgRKelVVxAUCya1A?view) and/or **Terms of Use**
+- :heavy_check_mark: No violations of our [Covenant](../whatisgiveth/covenant/) and/or **Terms of Use**
 
 ### Examples of Projects that do not pass "Listed" criteria
 
@@ -51,13 +51,13 @@ However, in order to remain active, the unlisted project must still exhibit:
 ![](https://i.imgur.com/e22OlGd.png)
 
 4. Cats
-    - Very minimalistic description: "We're collecting funds to give to the local cat shelter. we always need moar funding for cats"
-    - No website, no clear explanation of how they will use the funds to help cats
+   - Very minimalistic description: "We're collecting funds to give to the local cat shelter. we always need moar funding for cats"
+   - No website, no clear explanation of how they will use the funds to help cats
 ![](https://i.imgur.com/P0fvJXE.png)
 
 ## Cancelled Projects
 
-Projects that are found to exhibit "unacceptable behaviour" and/or violate our [Covenant](https://hackmd.io/fasEfiHgRKelVVxAUCya1A?view) and/or **Terms of Use** will be cancelled immediately and an email will be send to the project owner.
+Projects that are found to exhibit "unacceptable behaviour" and/or violate our [Covenant](../whatisgiveth/covenant) and/or **Terms of Use** will be cancelled immediately and an email will be send to the project owner.
 
 ### Examples of unacceptable behaviour include:
 - :x: The use of violent or sexualized language or imagery, and sexual attention or advances of any kind
