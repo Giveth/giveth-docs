@@ -1,6 +1,6 @@
 ---
 id: makeTraceableProject
-title: How to Make a Project Traceable
+title: Project Verification & Getting on TRACE
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'
