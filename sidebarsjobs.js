@@ -1,4 +1,4 @@
 module.exports = {
   jobs: ['soliditydev','hiringBackendDev'
-, 'digitalProductDesigner', 'UIdesigner'],
+, 'digitalProductDesigner', 'UIdesigner', 'technicalHiring', 'digitalMarketer'],
   }
