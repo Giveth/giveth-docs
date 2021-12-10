@@ -8,7 +8,8 @@ title: Digital Marketer - Twitter Specialist
 
 ## _Who is General Magic?_
 
-The General Magic team is an ideologically driven Web3 dev house. Our mission is to support Blockchain4good projects; to connect people, ideas and resources by building free, open-source decentralized applications. We are here to help the prosocial, value-driven, collective-focused magic-makers of the Web3 world when they need an extra boost. We are dedicated to building systems that appreciate societal value of creation and stewardship of Public Goods, which is currently under-appreciated in our global economy.
+We’re an elite squad of designers, developers, system architects, researchers, writers and seasoned Web3 professionals. Our Mission is to make magic happen! We do this by supporting crypto-philanthropic organizations and communities to reach their full potential, collaborating with them in a diverse range of capacities. We are dedicated to building systems that appreciate the societal value of creation and stewardship of Public Goods, which is currently under-appreciated in our global economy. The source of our magic thrives on the digital winds of the Blockchain4Good universe.
+
 
 ## _Who are we looking for?_
 
