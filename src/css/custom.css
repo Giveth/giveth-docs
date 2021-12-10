@@ -64,6 +64,10 @@ img.leftfloat {
   height: auto;
 }
 
+.rightAlign {
+  text-align: right;
+}
+
 #resize25 {
   width: 25%;
   height: auto;

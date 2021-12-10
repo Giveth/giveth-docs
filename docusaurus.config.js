@@ -45,9 +45,9 @@ module.exports = {
           position: 'left'
         },
         // {
-        // to: 'givbacks/',
-        // activeBasePath: 'givbacks',
-        // label: 'GIVBacks - The Giveth Token',
+        // to: 'giveconomy/',
+        // activeBasePath: 'giveconomy',
+        // label: 'GIVeconomy',
         // position: 'left'
         // },
         {
@@ -176,15 +176,15 @@ module.exports = {
       '@docusaurus/plugin-content-docs',
 
       {
-        id: 'givbacks',
+        id: 'giveconomy',
 
-        path: 'givbacks',
+        path: 'giveconomy',
 
         editUrl: 'https://github.com/giveth/giveth-docs/edit/master/',
 
-        routeBasePath: 'givbacks',
+        routeBasePath: 'giveconomy',
 
-        sidebarPath: require.resolve('./sidebarsgivbacks.js'),
+        sidebarPath: require.resolve('./sidebarsgiveconomy.js'),
 
         showLastUpdateAuthor: true,
 
