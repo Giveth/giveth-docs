@@ -1,15 +1,15 @@
 ---
-id: GIVgarden
+id: givgarden
 title: GIVgarden
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'
 
 
-Giveth has chosen the Gardens DAO governance platform developed by [1hive](_https://forum.1hive.org/t/welcome-to-1hive/7) to allow GIV token holders to manage the DAO configurations and allocate funds to projects that are aligned with its [mission, vision and values](https://docs.giveth.io/whatisgiveth/). Our unique Giveth Garden has been aptly named “the GIVgarden” and is deployed on the xDai Network. The main tools used for governance in the GIVgarden are Conviction Voting and Tao Voting.  
+Giveth has chosen the Gardens DAO governance platform developed by [1hive](_https://forum.1hive.org/t/welcome-to-1hive/7) to allow GIV token holders to manage the DAO configurations and allocate funds to projects that are aligned with its [mission, vision and values](/whatisgiveth/). Our unique Giveth Garden has been aptly named “the GIVgarden” and is deployed on the xDai Network. The main tools used for governance in the GIVgarden are Conviction Voting and Tao Voting.  
 
 
-The GIVgarden uses the [Giveth Community Covenant](https://docs.giveth.io/whatisgiveth/covenant) as a decentralized social contract that outlines standards for on-chain and off-chain behaviour.   
+The GIVgarden uses the [Giveth Community Covenant](/whatisgiveth/covenant) as a decentralized social contract that outlines standards for on-chain and off-chain behaviour.   
 
 ## Conviction Voting
 [**Conviction Voting**](https://forum.giveth.io/t/conviction-voting/154) allows requests for funding from the DAO and to suggest improvements, features or unique actions to Giveth and its platforms. Gardens highlights the fundamental concept of Conviction Voting in their documentation:
@@ -74,14 +74,14 @@ When a proposal is challenged in the GIVgarden, the proposal creator has a set a
 
 ## Proposal Lifecycle
 
-If you feel like you have a good grasp on Giveth and [how we work](https://docs.giveth.io/whatisgiveth/) and have something great to propose to the community, there are some processes you should respect in order to have the best possible chance of success.
+If you feel like you have a good grasp on Giveth and [how we work](/whatisgiveth/) and have something great to propose to the community, there are some processes you should respect in order to have the best possible chance of success.
 
 
 
 1. **Think of something awesome.** Come up with an idea that you think would be valuable for the Giveth’s Community or Platform. If your idea requires funding, consider how much and how you can justify its costs.
 2. **Create a forum post.** Post your idea in the [**Giveth Forum**](https://forum.giveth.io/) in the appropriate category and outline your proposal in detail. This allows the community to review and assess the impacts of your proposal. Proposals created in the GIVgarden must include a link to a Giveth forum post explaining its details.
 3. **Use Advice Process.** Following your forum post the community will give you feedback and express any concerns. [The Advice Process](https://docs.giveth.io/whatisgiveth/adviceProcess) will allow you to modify your proposal or address any concerns ensuring it is the best version possible and achieves maximum consensus.
-4. **Sign the Giveth Covenant. Signing that you agree to the [Giveth Covenant](https://docs.giveth.io/whatisgiveth/covenant) in the GIVgardens will permit you to begin using the governance tools it provides.
+4. **Sign the Giveth Covenant. Signing that you agree to the [Giveth Covenant](/whatisgiveth/covenant) in the GIVgardens will permit you to begin using the governance tools it provides.
 5. **Deposit GIV to the GIVgarden**. Every proposal requires a Proposal Deposit, i.e.a specified amount of GIV that you post as collateral. This discourages spamming proposals and can also be forfeited in the case of losing or conceding to a challenged proposal.
 6. **Submit your Proposal. **Draft and submit your proposal, along with the Proposal Deposit, providing the required information in the GIVgarden.
 7. **Remind the Community to Vote!** Now the community will deliberate on your final proposal, choosing whether or not to stake their GIV behind it. If it receives enough support, the proposal will pass.

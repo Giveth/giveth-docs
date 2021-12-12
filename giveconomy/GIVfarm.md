@@ -1,10 +1,10 @@
 ---
-id: GIVfarm
+id: givfarm
 title: GIVfarm
 ---
 
 
-The GIVfarm launched on (DATE OF LAUNCH). 3.5% of the total token supply, 35 Million GIV, has been allocated to the first GIVfarm round of 6 months. Farms are available on either **Ethereum Mainnet (ETH)** or **xDai Network**. Any farms you stake tokens into will yield GIV rewards and add to your **GIVstream flowrate** only for that corresponding chain. GIV reward distribution for the 6 pools available is as follows:
+The GIVfarm launched on **(DATE OF LAUNCH)**. 3.5% of the total token supply, 35 Million GIV, has been allocated to the first GIVfarm round of 6 months. Farms are available on either **Ethereum Mainnet (ETH)** or **xDai Network**. Any farms you stake tokens into will yield GIV rewards and add to your **GIVstream flowrate** only for that corresponding chain. GIV reward distribution for the 6 pools available is as follows:
 
 
 

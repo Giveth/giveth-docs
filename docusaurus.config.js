@@ -1,3 +1,6 @@
+const math = require('remark-math');
+const katex = require('rehype-katex');
+
 module.exports = {
   title: 'Giveth Docs',
   tagline: 'The Future of Giving, Documented',
@@ -81,7 +84,11 @@ module.exports = {
             {
               label: 'Giveth TRACE',
               to: 'dapps/introTrace'
-            }
+            },
+          //   {
+          //     label: 'GIVeconomy',
+          //     to: 'givecnomy/'
+          // }
           ]
         },
         {
@@ -188,7 +195,9 @@ module.exports = {
 
         showLastUpdateAuthor: true,
 
-        showLastUpdateTime: true
+        showLastUpdateTime: true,
+        remarkPlugins: [math],
+        rehypePlugins: [katex],
       }
     ]
   ],
@@ -204,7 +213,14 @@ module.exports = {
         theme: {
           customCss: require.resolve('./src/css/custom.css')
         }
-      }
-    ]
-  ]
+      },
+    ],
+  ],
+  stylesheets: [
+    {
+        href: "https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css",
+        integrity: "sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc",
+        crossorigin: "anonymous",
+    },
+  ],
 }
