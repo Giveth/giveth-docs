@@ -1,7 +1,6 @@
 ---
 id: givbacks
 title: GIVbacks
-slug: /
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
@@ -11,17 +10,17 @@ GIVbacks is revolutionary concept that rewards donors to verified projects with 
 ## GIVbacks Rounds
 GIVbacks rounds last two weeks. For each round, there is 1 million GIV available to be *given back* to the donors to verified projects.
 
-![](https://i.imgur.com/zTlSAYJ.png)
+<img alt='givbacks round 8 sample' src={useBaseUrl('/img/content/giveconomy/givBacks1.png')} />
 
 
 ## Project Verification
 Getting your project verified builds a relationship of trust with your donors by demonstrating your project's legitimacy and showing that the funds are being used to create positive change.
 
-To learn more about Project Verification check out our [documentation](https://docs.giveth.io/dapps/makeTraceableProject) or [apply for verification with this typeform](https://hlfkiwoiwhi.typeform.com/to/pXxk0HO5).
+To learn more about Project Verification check out our [documentation](/dapps/makeTraceableProject) or [apply for verification with this typeform](https://hlfkiwoiwhi.typeform.com/to/pXxk0HO5).
 
 Projects must submit their application forms by day 11 of the current round in order to qualify for the next round of the GIVbacks program. When a project becomes verified, its status is updated on Giveth and it is given a “Verified” badge on the Homepage and on the Project's Page.
 
-![](https://i.imgur.com/ojPfiPE.png)
+<img alt='givbacks round 8 sample' src={useBaseUrl('/img/content/givethProjectCards.png')} />
 
 Givers who donate to verified projects within an active round are eligible to receive GIVbacks. Note that Projects themselves do not receive GIV for donations to their own project.
 
@@ -44,12 +43,12 @@ where:
   - v  = Value (in USD) of the donation at the time of donation  
   - V  = Total value (in USD) of all donations to eligible projects during the round  
 
-GIV tokens earned through the GIVbacks program can be used throughout the GIVeconomy: for governance within the **GIVgarden**, to support the token by providing liquidity (and earning rewards!) in the **GIVfarm**, or for donating to projects on [Giveth](https://giveth.io).
+GIV tokens earned through the GIVbacks program can be used throughout the GIVeconomy: for governance within the [**GIVgarden**](./givgarden), to support the token by providing liquidity (and earning rewards!) in the [**GIVfarm**](./givfarm), or for donating to projects on [Giveth](https://giveth.io).
 
 ## Claiming GIVbacks
 GIVbacks are available to be claimed after the round ends and GIV is distributed to eligible donor addresses. This GIV can be claimed **here**. Please note that when you claim GIV rewards from any part of the GIVeconomy, our token distro contract sends you all liquid GIV allocated to your address on that network. For example, when you claim GIV rewards earned from staking LP tokens in the GIVfarm on xDai, you also claim rewards allocated to you from GIVbacks (if any) and the liquid amount from your GIVstream. This is broken down in the harvest popup that you encounter upon claim:
 
-![](https://i.imgur.com/RDaO5Xh.png)
+<img alt='givbacks round 8 sample' src={useBaseUrl('/img/content/giveconomy/givBacks2.png')} />
 
 
 ## **Disqualifying Factors for GIVbacks Program**
@@ -59,7 +58,7 @@ Once a GIVbacks round ends, there is a period of time granted to our team to rev
 1. **Giving/offering goods or services to donors in exchange for their donation.** A project owner cannot offer goods such as a sponsorship for a conference, girl scout cookie purchases or tickets for a dinner, even if the proceeds go to charity. Project owners cannot provide services like acting as a crypto exchange for their donors. They can explain how to use an exchange, but they cannot convert the money for their donors.
 2. **Circulating donations raised by other means.** Only “first touch” donations count for GIVbacks. If a project receives funding from a donor and is found to be circulating these donations within the Giveth platform to receive GIVbacks, they will be disqualified. For example, a project should not be sending fiat donations received elsewhere back to their donors and asking them to donate on Giveth with crypto.
 3. **The funds are not being used for what is expressed in the project page or submitted verification application.** Verified projects are responsible for keeping their projects up-to-date with information on how the funds are being used. If the project states explicitly that they are, for example, using the funds to develop education programs but are found to be using the funds to employ developers, they may be disqualified from the GIVbacks program.
-4. **Unscrupulous or fraudulent activity.** This can be the use of violence, breaking laws, or other behaviour that does not uphold the [values of the Giveth community](https://docs.giveth.io/whatisgiveth/). Projects found to be violating our [Terms and Conditions](https://giveth.io/tos) will not only lose their verification status, but also will be cancelled.
+4. **Unscrupulous or fraudulent activity.** This can be the use of violence, breaking laws, or other behaviour that does not uphold the [values of the Giveth community](/whatisgiveth/). Projects found to be violating our [Terms and Conditions](https://giveth.io/tos) will not only lose their verification status, but also will be cancelled.
 
 The Giveth Project Verification team is responsible for monitoring GIVbacks activity and the Project Verification system, and will ultimately use their discretion to determine whether a project’s actions are unscrupulous and/or disqualifying.
 

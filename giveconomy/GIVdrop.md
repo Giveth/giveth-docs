@@ -15,73 +15,41 @@ All addresses have **5 years** from **December 24, 2021** to claim their GIVdrop
 Eligible recipients of the GIVdrop and the associated GIVstream include:
 
 - Giveth Contributors 5.05%
-
 - Past donors to Giveth directly 4%
-
 - Blockchain4Good heroes 4%
-
 - Past donors to projects on Giveth 2%
-
 - Past users of beta Giveth TRACE 1%
-
 - Past donors to Gitcoin Grants in Rounds 1-7 1%
 
 The Blockchain4Good DAO heroes group includes a list of over 2500 unique addresses, with over 60 different groupings. The majority of addresses belong to people who have been identified as crypto donors, with the rest belonging to value-aligned DAO members that are working,directly or indirectly, to further Giveth's mission **add link**. You may have a GIVdrop if you are part of any of these groups:
 
 - 1Hive
-
 - BrightID
-
 - ChievMint
-
 - CirclesUBI
-
 - clr.fund
-
 - Commons Stack Trusted Seed
-
 - Crypto Commons Gathering
-
 - DAppNode
-
 - DoinGud
-
 - Ethereum Foundation
-
 - General Magic
-
 - Gitcoin
-
 - The Giving Block
-
 - MetaCartel DAO
-
 - MetaGame
-
 - MetaGammaDelta
-
 - MolochDAO
-
 - Omni Bridge on xDai
-
 - Panvala
-
 - RadicalxChange
-
 - STAKEhausDAO
-
 - TEC Hatchers
-
 - TrojanDAO
-
 - Trustlines
-
 - VitaDAO
-
 - Vocdoni
-
 - WeTrust
-
 - WhalerDAO
 
 The snapshot for past donors, contributors and users was taken in March 2021. The snapshot for contributors and Blockchain4Good DAO heroes was taken in September 2021. For donors to Gitcoin Grants, we used an anti-sybil attack measure to remove airdrop hunters from the list.
