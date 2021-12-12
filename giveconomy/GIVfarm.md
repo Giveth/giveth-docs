@@ -1,5 +1,5 @@
 ---
-id: GIVfarm
+id: givfarm
 title: GIVfarm
 ---
 

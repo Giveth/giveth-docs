@@ -1,5 +1,5 @@
 ---
-id: GIVgarden
+id: givgarden
 title: GIVgarden
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
