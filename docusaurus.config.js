@@ -84,7 +84,11 @@ module.exports = {
             {
               label: 'Giveth TRACE',
               to: 'dapps/introTrace'
-            }
+            },
+          //   {
+          //     label: 'GIVeconomy',
+          //     to: 'givecnomy/'
+          // }
           ]
         },
         {
