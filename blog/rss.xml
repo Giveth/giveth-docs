@@ -4,9 +4,30 @@
         <title>Giveth Docs Blog</title>
         <link>https://docs.giveth.io/blog</link>
         <description>Giveth Docs Blog</description>
-        <lastBuildDate>Fri, 10 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Giveth DAO: Community GIVernance]]></title>
+            <link>https://docs.giveth.io/blog/givethDAO</link>
+            <guid>givethDAO</guid>
+            <pubDate>Mon, 06 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Giveth has a long history of experimentation in the decentralized governance realms.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Community Project Spotlight #4]]></title>
+            <link>https://docs.giveth.io/blog/communitySpotlight4</link>
+            <guid>communitySpotlight4</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Wow, what an exciting month it’s been since our last update. The crypto market is hitting all-time highs across the board, there’s no better time to spread the joy and make some donations to projects that are working hard to make positive changes.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Community Project Spotlight #3]]></title>
+            <link>https://docs.giveth.io/blog/communitySpotlight3</link>
+            <guid>communitySpotlight3</guid>
+            <pubDate>Tue, 19 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[It’s time for another batch of great projects from Giveth.io, hand-picked by our contributors. We have six amazing projects to feature in this edition of the community spotlight.]]></description>
+        </item>
         <item>
             <title><![CDATA[Community Project Spotlight #2]]></title>
             <link>https://docs.giveth.io/blog/communitySpotlight2</link>

@@ -2,11 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.giveth.io/blog</id>
     <title>Giveth Docs Blog</title>
-    <updated>2021-09-10T00:00:00.000Z</updated>
+    <updated>2021-12-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.giveth.io/blog"/>
     <subtitle>Giveth Docs Blog</subtitle>
     <icon>https://docs.giveth.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Giveth DAO: Community GIVernance]]></title>
+        <id>givethDAO</id>
+        <link href="https://docs.giveth.io/blog/givethDAO"/>
+        <updated>2021-12-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Giveth has a long history of experimentation in the decentralized governance realms.]]></summary>
+        <author>
+            <name>Dani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Community Project Spotlight #4]]></title>
+        <id>communitySpotlight4</id>
+        <link href="https://docs.giveth.io/blog/communitySpotlight4"/>
+        <updated>2021-11-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Wow, what an exciting month it’s been since our last update. The crypto market is hitting all-time highs across the board, there’s no better time to spread the joy and make some donations to projects that are working hard to make positive changes.]]></summary>
+        <author>
+            <name>Mitch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Community Project Spotlight #3]]></title>
+        <id>communitySpotlight3</id>
+        <link href="https://docs.giveth.io/blog/communitySpotlight3"/>
+        <updated>2021-10-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s time for another batch of great projects from Giveth.io, hand-picked by our contributors. We have six amazing projects to feature in this edition of the community spotlight.]]></summary>
+        <author>
+            <name>Mitch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Community Project Spotlight #2]]></title>
         <id>communitySpotlight2</id>
