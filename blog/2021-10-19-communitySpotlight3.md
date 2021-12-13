@@ -103,7 +103,7 @@ That’s a wrap on this edition of the community project spotlight: Six unique p
 
 <img alt="Come with me if you want to give" src={useBaseUrl('img/blog/givethComeWithMeBanner.png')} />
 
-**Want to get more involved?**
+### Want to get more involved?
 
 *   Join us on [Discord](https://discord.gg/JftjK8Un3z) or [Telegram](http://t.me/givethio)
 *   Discover our [Docs](https://docs.giveth.io/)
