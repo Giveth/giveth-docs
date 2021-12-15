@@ -18,17 +18,17 @@ Getting your project verified builds a relationship of trust with your donors by
 
 To learn more about Project Verification check out our [documentation](/dapps/makeTraceableProject) or [apply for verification with this typeform](https://hlfkiwoiwhi.typeform.com/to/pXxk0HO5).
 
-Projects must submit their application forms by day 11 of the current round in order to qualify for the next round of the GIVbacks program. When a project becomes verified, its status is updated on Giveth and it is given a “Verified” badge on the Homepage and on the Project's Page.
+Projects must submit their application forms one week before the start of a round in order to qualify for that round. Once approved, a project will be qualified to participate in all subsequent GIVbacks rounds. When a project becomes verified, its status is updated on Giveth and it is given a “Verified” badge on the Homepage and on the Project's Page.
 
 <img alt='givbacks round 8 sample' src={useBaseUrl('/img/content/givethProjectCards.png')} />
 
-Givers who donate to verified projects within an active round are eligible to receive GIVbacks. Note that Projects themselves do not receive GIV for donations to their own project.
+Givers who donate to verified projects within an active round are eligible to receive GIVbacks. Note that Projects themselves do not receive GIV for donations made to their own project or other verified projects.
 
 ## Getting GIVbacks
 
 During each round, all donations to verified projects on the DApp are tracked and this data is used to calculate the amount of GIVbacks received by each Giver for that period.
 
-Givers are able to claim their GIV after the round ends via the **GIVBACKS PAGE**. A portion of the GIV will be liquid immediately and the rest will increase the flowrate of their **GIVSTREAM**. To learn more about the GIVstream and how it works, check out our **DOCUMENTATION**.
+Givers are able to harvest their GIV after the round ends via the **GIVBACKS PAGE**. A portion of the GIV will be liquid immediately and the rest will increase the flowrate of their **GIVSTREAM**. To learn more about the GIVstream and how it works, check out our **DOCUMENTATION**.
 
 The "total cumulative amount of GIV earned by each donor" is the sum of the amount liquid immediately and the total amount added to the GIVstream to become liquid gradually. This amount is calculated as follows:
 
@@ -45,8 +45,8 @@ where:
 
 GIV tokens earned through the GIVbacks program can be used throughout the GIVeconomy: for governance within the [**GIVgarden**](./givgarden), to support the token by providing liquidity (and earning rewards!) in the [**GIVfarm**](./givfarm), or for donating to projects on [Giveth](https://giveth.io).
 
-## Claiming GIVbacks
-GIVbacks are available to be claimed after the round ends and GIV is distributed to eligible donor addresses. This GIV can be claimed **here**. Please note that when you claim GIV rewards from any part of the GIVeconomy, our token distro contract sends you all liquid GIV allocated to your address on that network. For example, when you claim GIV rewards earned from staking LP tokens in the GIVfarm on xDai, you also claim rewards allocated to you from GIVbacks (if any) and the liquid amount from your GIVstream. This is broken down in the harvest popup that you encounter upon claim:
+## Harvesting GIVbacks
+GIVbacks are available to be harvested after the round ends and GIV is distributed to eligible donor addresses. This GIV can be harvested **here**. Please note that when you harvest GIV rewards from any part of the GIVeconomy, our token distro contract sends you all liquid GIV allocated to your address on that network. For example, when you harvest GIV rewards earned from staking LP tokens in the GIVfarm on xDai, you also harvest rewards allocated to you from GIVbacks (if any) and the liquid amount from your GIVstream. This is broken down in the harvest popup that you encounter upon claim:
 
 <img alt='givbacks round 8 sample' src={useBaseUrl('/img/content/giveconomy/givBacks2.png')} />
 
