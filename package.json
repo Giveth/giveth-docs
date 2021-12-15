@@ -21,6 +21,7 @@
     "hast-util-is-element": "^1.1.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
+    "react-player": "^2.9.0",
     "rehype-katex": "4.0.0",
     "remark-math": "^3.0.1"
   },

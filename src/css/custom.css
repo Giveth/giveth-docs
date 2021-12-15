@@ -54,6 +54,12 @@ img.leftfloat {
 
 }
 
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #resize50 {
   width: 50%;
   height: auto;
@@ -83,4 +89,9 @@ img.leftfloat {
   margin-left: auto;
   margin-right: auto;
   padding: 15px;
+}
+.react-player__play-icon {
+  margin-top: 15px;
+  border-width: 26px 0px 26px 45px !important;
+  border-color: transparent transparent transparent black !important;
 }
