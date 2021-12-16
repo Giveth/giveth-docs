@@ -38,63 +38,75 @@ Once you have joined the server, a bot will send you a message with a Captcha to
 ### Welcome (start here)
 **`#🤝welcome`** is our landing channel.  This is also where you can assign yourself the role of Giver and / or Maker.  
 **`#🚩mission`** is for feedback, critique, kudos and conversation on the vision and mission of Giveth. We'd also love to hear about your organization here too if you see a good match, let us know why/how you'd like to join forces!  
-**`#📚resources`** is where you will find announcements from Giveth and from our Galaxy partners.  
 **`#🔨contribute`** allows interested parties to align on opportunities for collaboration.  
+**`#✋assign-roles`** allows you to assign yourself to roles so you get tagged in WG-related posts.  
+**`#📢announcements`** is where you will find announcements from the Giveth community.  
+**`#📚partner-updates`** is where you will find announcements from our Galaxy partners.  
 
-### General
+
+### Community
 **`#general`** is where you will find us generally speaking to one another. Join us!  
 **`#📅scheduling`** is the place to get the when and where on meetings and events.  
 **`#📝meetingnotes`** is for information regarding agendas and notes from our meetings.  
-**`#🌐dao`** provides links to DAO proposals and informs the community when it's time to vote. You can discuss anything proposal-related in this channel.  
-**`#👍governance`** is where we experiment with decentralized governance and document anything that could be useful for future communities like ours.  
 **`#💡ideas`** is a place for you to share inspiration and creative suggestions.  
+**`#💬support`** channel provides assistance with any obstacles that you may be facing within the community or on the donation platforms.  
 **`#📣communications`** is the hub of the communications team (@Comms Stars). Here we discuss creating and editing content, performing outreach and all things related to the communications circle.  
-**`#💸fundraising`** is for discussing ways to expand fundraising frontiers in support of fulfilling the Giveth mission.  
 **`#🐦-tweeeeeter`** is where you find all things related to the Giveth Twitter. It can be used for suggesting / drafting tweets, feedback regarding twitter and sharing or promoting tweets to get more engagement.  
 **`#🐸memes`** are powerful! We host weekly meme parties where we listen to music and pump out spicy memes. The schedule can be found in the [calendar](https://calendar.giveth.io/).  
 **`#✨shtsnggls`** is for pure fun.  
 **`#❤praise`** is where you can rain praise upon your teammates! Let them know that you recognize the value they add to the Giveth projects and community by typing `!praise` *`@username`* for *`the awesome thing they did`*.  
-**`#💬support`** channel provides assistance with any obstacles that you may be facing within the community or on the donation platforms.  
-
-### DApps
 **`#🤝project-onboarding`** is where prospective project owners can go for suggestions or advice about the project creation flow and how to create engaging and impressive projects on the DApp.  
+**`#💸fundraising`** is for discussing ways to expand fundraising frontiers in support of fulfilling the Giveth mission.  
+
+
+### Governance
+**`#👍governance`** is where we experiment with decentralized governance and document anything that could be useful for future communities like ours.  
+**`#🌐dao`** provides links to DAO proposals and informs the community when it's time to vote. You can discuss anything proposal-related in this channel.   
 **`#giveth-trace-payments`** is used to communicate information about payment transactions happening on the Giveth TRACE bridge. You can find more information about how the bridge works [here](https://docs.giveth.io/dapps/bridgeSecurity).  
 
-### Buidl
+
+### Platform
+**`👌all-dev`** is the channel for general development discussions that include the Giveth Development Team as a whole.  
 **`#☝givethtrace-dev`** is the hub of communications for the Giveth TRACE DApp Development Team. It is used for discussing information involving the build process of our flagship DApp.  
-**`#✌givethio-dev`** is the hub of communications for the Giveth.io DApp Development Team. It is used for discussing information involving the build process of our newest DApp.  
-**`#🐇test-reports`** is for test reports and testing communication for both Giveth DApps.  
-**`#🐱github`** channel is to cross notify pull requests and new Issues in Github in order to increase transparency, and engagement on Github.  
+**`#✌givethio-dev`** is the hub of communications for the Giveth.io Development Team - used for discussing information involving the build process of our newest DApp.  
 **`#💹giv-economy`** is the place to share information about the upcoming roll out of GIVbacks and the underlying tokenomics.  
 **`#🌈design`** is for design idea sharing and creative activity on the look, feel and language of any UI or UX updates in the pipeline for Giveth products.  
+**`#🐇test-reports`** is for test reports and testing communication for both Giveth DApps.  
+**`#🐱github`** channel is to cross notify pull requests and new Issues in Github in order to increase transparency, and engagement on Github.  
 
-### Community (Bridged Channels)
+
+### Bridges
 **`#🐝1hive`** serves as bridge channel to our busy bee neighbors at [1Hive](https://about.1hive.org/).  
+**`#🌐te-commons`** links the Giveth server to the vast community of token engineers over at the [TEC](https://tecommons.org).    
 **`#🐙metagame`** bridges to a channel in the [Metagame](https://about.1hive.org/) discord server.  
 **`#🌱panvala`** allows our server to be connected to our friends at [Panvala](https://panvala.com/).  
-**`#🌐te-commons`** links the Giveth server to the vast community of token engineers over at the [TEC](https://tecommons.org).    
 **`#gaia-gives`** connects us with the [Gaia Gives](https://www.gaia.gives/) community telegram chat.  
 
 ### Voice Channels
 These channels are used for voice and / or video chats with community members.
 
-**`#groovy-playlist`** is a text channel used for typing Groovy Bot commands. <a href='#groovy'>(More about bot commands **below**)</a>  
-**`meme-party`** - We meet here for meme parties to jam out and make memes together.  
-**`DEV`** - is used as a meeting place for chats about DApp Development.  
-**`Community Calls`** - is where we meet weekly to share circle and working group updates.  
-**`DAO`** - is the voice channel for our weekly governance and dao discussions.  
+**`#groovy-playlist`** is a text channel used for typing Chip Bot commands. <a href='#chip'>(More about bot commands **below**)</a>  
+**`Stage`** - This is the channel used for hosting events and showcasing Giveth for the greater Ethereum community.  
+**`Community`** - is used as a meeting place for the Community Circle working groups as well as weekly Community Calls.  
+**`Platform`** - is a meeting place for the Platform Circle working groups.  
+**`Governance`** - is the voice channel for our weekly Governance and DAO working group discussions.  
+**`Communications`** - is where the Communications Team gathers for weekly syncs and hack sessions.  
 
 **All meeting times can be found on the [Giveth Calendar](https://calendar.giveth.io/).*
 
 ### Tagging
 You can tag certain roles by using "@" followed by the role. You also can tag an individual with "@" followed by the person's handle or nickname.
 
-### Roles:
+#### Roles:
 **@Giver** - People who love funding for-good projects. You can assign yourself this role in the `#🤝welcome` channel by reacting to the bot message with the 💝 emoji.  
-**@Maker** - People who are working hard to make the world a better place. This role can also be self assigned in the `#🤝welcome` channel by reacting to the bot message with a 🦄 emoji.
-**@Comms Stars** - Communications Team members.  
+**@Maker** - People who are working hard to make the world a better place. This role can also be self assigned in the `#🤝welcome` channel by reacting to the bot message with a 🦄 emoji.  
 **@Unicorn** - People who regularly attend calls and are very actively contributing to Giveth.  
 **@DAO** - rGIV token holders. You can obtain rGIV tokens by consistently contributing to the community.  
+**@Comms Stars** - Communications Team members.  
+**@Community Support** - Members of the Community Support working group.  
+**@Governance** - Members of the Governance wroking group.  
+**@Development** - Members of the Development working group.  
+**@Design** - Members of the Design working group.  
 
 ### Bot Commands
 
@@ -122,25 +134,24 @@ To create the poll shown above, you would simply type the command as follows:
 By following this template, you can create as many answers to the question you would like and community members can answer by reacting with the corresponding emoji.
 `/poll` `"Question"` `"Answer #1"` `"Answer#2"` `"Answer #3"` ..etc.
 
-#### <span id='groovy'>Groovy Bot</span>
+#### <span id='chip'>Chip Bot</span>
 
-[Groovy bot](https://groovy.bot/) can be invited to any of the voice channels on the server. Once you have invited the bot into the channel, anyone can type commands in the **`#groovy-playlist`** text channel to start playing or queuing songs. Here is a list of the available commands:
+[Chip bot](https://chipbot.gg/home) can be invited to any of the voice channels on the server. Once you have invited the bot into the channel, anyone can type commands in the **`#chip-playlist`** text channel to start playing or queuing songs. Here is a list of the available commands:
 
-**`/play`** *'`link or search query`'* - Loads your input and adds it to the queue; If there is no playing track, then it will start playing  
-**`/queue`** - Displays the current song queue  
-**`/skip`** - Skips to the next song  
-**`/back`** - Skips to the previous song  
-**`/clear`** - Removes all tracks from the queue  
-**`/jump`** *'`track position or title`'* - Skips to the specified track  
-**`/lyrics`** - Displays lyrics for the currently playing track  
-**`/pause`** - Pauses playback  
-**`/unpause`** - Resumes playback  
-**`/remove`** *'`track position or title`'* - Removes the specified track from the queue   
-**`/disconnect`** - Disconnects the bot from your voice channel and clears the queue  
-**`/shuffle`** - Randomizes the current order of tracks in the queue  
-**`/song` `[song]`** - Displays info about the specified track in the queue  
+**`ch!p`** *'`link or search query`'* - Loads your input and adds it to the queue; If there is no playing track, then it will start playing  
+**`ch!queue`** - Displays the current song queue  
+**`ch!skip`** - Skips to the next song  
+**`ch!clear`** - Removes all tracks from the queue  
+**`ch!skipto`** *'`track position or title`'* - Skips to the specified track  
+**`ch!lyrics`** - Displays lyrics for the currently playing track  
+**`ch!pause`** - Pauses playback  
+**`ch!resume`** - Resumes playback  
+**`ch!remove`** *'`track position or title`'* - Removes the specified track from the queue   
+**`ch!stop`** - Disconnects the bot from your voice channel and clears the queue  
+**`ch!shuffle`** - Randomizes the current order of tracks in the queue  
+**`ch!nowplaying` `[song]`** - Displays information about the current playing track.  
 
-Groovy bot can play music from a multitude of sources including Spotify, YouTube, Soundcloud, etc. In order to have Groovy bot play from Spotify just click on Share > Copy Playlist Link > copy this into your chat with the `-play` tag and you’re all set.
+Chip bot can play music from a multitude of sources including Spotify, YouTube, Soundcloud, etc. In order to have Chip bot play from Spotify just click on Share > Copy Playlist Link > copy this into your chat with the `ch!p` tag and you’re all set.
 
 ### Support
 If you run into any problems, or need to ask a question, please tag `@admin` or ask in the `#💬support` channel.
