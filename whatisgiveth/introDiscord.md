@@ -14,7 +14,7 @@ The bridging software used is matterbridge. - Shout out to `@geleeroyale` for ma
 ## Links
 Onboarding site - https://giveth.io/join
 
-Direct link to join Discord community - https://discord.gg/gdjfRzvqXU
+Direct link to join Discord community - https://discord.giveth.io/
 
 Direct link to join Telegram community - https://t.me/Givethio
 
@@ -25,7 +25,7 @@ Direct link to look through the old Riot rooms - http://riot.giveth.io
 Log in to Discord or make a new user. - https://discord.com/ or download the app ([iOS](https://apps.apple.com/us/app/discord-talk-chat-hang-out/id985746746), [Android](https://play.google.com/store/apps/details?id=com.discord&hl=en_CA&gl=US))
 [How to Use Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord) : Video ([Beginner to Advanced](https://www.youtube.com/watch?v=tNUq5Aqv60s))
 
-Join the Giveth community server https://discord.gg/gdjfRzvqXU
+Join the Giveth community server https://discord.giveth.io/
 Inside each server, you can have a unique nickname so feel free to change yours to whatever you would like to be known as.
 
 Once you have joined the server, a bot will send you a message with a Captcha to solve - you're not a robot are you? It should look something like this:
