@@ -149,7 +149,7 @@ By following this template, you can create as many answers to the question you w
 **`ch!remove`** *'`track position or title`'* - Removes the specified track from the queue   
 **`ch!stop`** - Disconnects the bot from your voice channel and clears the queue  
 **`ch!shuffle`** - Randomizes the current order of tracks in the queue  
-**`ch!nowplaying` `[song]`** - Displays information about the current playing track.  
+**`ch!nowplaying`** - Displays information about the current playing track.  
 
 Chip bot can play music from a multitude of sources including Spotify, YouTube, Soundcloud, etc. In order to have Chip bot play from Spotify just click on Share > Copy Playlist Link > copy this into your chat with the `ch!p` tag and you’re all set.
 
