@@ -9,7 +9,7 @@ This guide provides a framework for testing the [Giveth.io](https://giveth.io/) 
 Each use case has a corresponding issue (linked in the titles below) in our GitHub. These issues will be closed after testing each sprint and reopened for the following one. If you wish to take on testing a use case, please assign yourself to the issue for that sprint.
 
 ## Requirements
-* User testing should be done on https://staging.giveth.io
+* User testing should be done on https://next.giveth.io
 * Please use a modern browser. If you encounter a bug, please try the same thing with another browser. Please make an issue in any case, but tell us if the issue might be browser specific
 * Use issues in GitHub for reports and feedback
 
