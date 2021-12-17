@@ -11,7 +11,7 @@ Each use case has a corresponding issue (linked in the titles below) in our GitH
 ## Requirements
 * User testing should be done on https://next.giveth.io
 * Please use a modern browser. If you encounter a bug, please try the same thing with another browser. Please make an issue in any case, but tell us if the issue might be browser specific
-* Use issues in GitHub for reports and feedback
+* Use issues in [GitHub](https://github.com/Giveth/giveth-next) for reports and feedback
 
 ## Use Cases
 
