@@ -52,4 +52,5 @@ The GIVstream nurtures the GIVeconomy at inception by having only 10% of the tot
 - [Donate to Verified Projects](https://giveth.io/projects)
 - Vote in the GIVgarden **ADD LINK**, and
 - Provide liquidity in the GIVfarm **ADD LINK**
+
 Participants benefit from their GIVstream flowing as the GIVeconomy flourishes over time, therefore we ensure that Giveth is not just governed by people who buy tokens on the open market but by those who contribute in a more meaningful way.
