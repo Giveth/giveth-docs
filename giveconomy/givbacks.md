@@ -28,9 +28,12 @@ Givers who donate to verified projects within an active round are eligible to re
 
 During each round, all donations to verified projects on the DApp are tracked and this data is used to calculate the amount of GIVbacks received by each Giver for that period.
 
-Givers are able to harvest their GIV after the round ends via the **GIVBACKS PAGE**. A portion of the GIV will be liquid immediately and the rest will increase the flowrate of their **GIVSTREAM**. To learn more about the GIVstream and how it works, check out our **DOCUMENTATION**.
+Givers are able to claim their GIV after the round ends via the **GIVBACKS PAGE**. A portion of the GIV will be liquid immediately and the rest will increase the flowrate of their **GIVSTREAM**. To learn more about the GIVstream and how it works, check out our [documentation](./givstream). For the purposes of this documentation, we will refer to the sum of the liquid amount and the amount allocated to the GIVstream from GIVbacks as `cumulative GIVbacks`.
 
-The "total cumulative amount of GIV earned by each donor" is the sum of the amount liquid immediately and the total amount added to the GIVstream to become liquid gradually. This amount is calculated as follows:
+Note that, even with the GIVbacks program, a donation on Giveth is still a donation. The maximum value of the donor's `cumulative GIVbacks` is equal to 75% of the value of their donation, at the time of donation. If the value of the `1 million GIV` allocated to the GIVbacks round is more than 75% of the total value of all donations (at the time of each donation) during the round duration, then all eligible donors will get their respective maximum cumulative GIVbacks.
+
+If the total value of donations (at the time each donation) exceeds 75% of the `1 million GIV` allocated to the round, the `cumulative GIVbacks` for each donor is proportionately less and calculated as follows:
+
 
 $$
 n = N \frac{v}{V}
@@ -43,7 +46,8 @@ where:
   - v  = Value (in USD) of the donation at the time of donation  
   - V  = Total value (in USD) of all donations to eligible projects during the round  
 
-GIV tokens earned through the GIVbacks program can be used throughout the GIVeconomy: for governance within the [**GIVgarden**](./givgarden), to support the token by providing liquidity (and earning rewards!) in the [**GIVfarm**](./givfarm), or for donating to projects on [Giveth](https://giveth.io).
+GIV tokens earned through the GIVbacks program can be used throughout the GIVeconomy: for governance within the **GIVgarden**, to support the token by providing liquidity (and earning rewards!) in the **GIVfarm**, or for donating to projects on [Giveth](https://giveth.io).
+
 
 ## Harvesting GIVbacks
 GIVbacks are available to be harvested after the round ends and GIV is distributed to eligible donor addresses. This GIV can be harvested **here**. Please note that when you harvest GIV rewards from any part of the GIVeconomy, our token distro contract sends you all liquid GIV allocated to your address on that network. For example, when you harvest GIV rewards earned from staking LP tokens in the GIVfarm on xDai, you also harvest rewards allocated to you from GIVbacks (if any) and the liquid amount from your GIVstream. This is broken down in the harvest popup that you encounter upon claim:
