@@ -24,7 +24,7 @@ The amount claimable from rewards on the day of launch will be 10% with the othe
 
 ### Staking Contract Addresses (Mainnet)
 - Balancer v2 80GIV/ETH Pool -
-- Uniswap v2 50GIV/ETH Pool -
+- Uniswap v3 50GIV/ETH Pool -
 - GIV Staking  -
 ### Staking Contract Addresses (xDai)
 - GIV Staking -
@@ -73,4 +73,11 @@ The amount claimable from rewards on the day of launch will be 10% with the othe
 
 
 
-Further rounds may be launched after this period that could contain new pools and changes in distribution. And of course all rewards from GIVfarm will be affected the GIVstream. Read up on the GIVstream documentation for more information.  
+Further rounds may be launched after this period that could contain new pools and changes in distribution. And of course all rewards from GIVfarm will be affected the GIVstream. Read up on the GIVstream documentation for more information.
+
+### _*A note on Uniswap v3 Farms:_
+ Harvesting NFT rewards from Uni v3 collects rewards from all your NFTs staked (if you staked more than one). In this process each NFT is unstaked, rewards are harvested and your NFT is re-staked. If you have multiple NFTs this can become a gas intensive process.
+
+ When you Unstake your NFT you also harvest your rewards, If you have multiple NFTs staked when you Unstake one, you only harvest rewards from the single unstaked NFT.
+
+You can learn more about [Uniswap v3 Pools in this whitepaper](https://uniswap.org/whitepaper-v3.pdf)
