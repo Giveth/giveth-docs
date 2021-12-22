@@ -1,5 +1,5 @@
 module.exports = {
   giveconomy: [
-    'giveconomy','givbacks','givstream', 'givgarden', 'givdrop', 'givfarm'
+    'giveconomy', 'givdrop', 'givbacks','givstream', 'givgarden' , 'givfarm'
   ]
 }
