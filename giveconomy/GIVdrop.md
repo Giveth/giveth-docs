@@ -22,7 +22,7 @@ Eligible recipients of the GIVdrop and the associated GIVstream include:
 - Past users of beta Giveth TRACE 1%
 - Past donors to Gitcoin Grants in Rounds 1-7 1%
 
-The Blockchain4Good DAO heroes group includes a list of over 2500 unique addresses, with over 60 different groupings. The majority of addresses belong to people who have been identified as crypto donors, with the rest belonging to value-aligned DAO members that are working, directly or indirectly, to further [Giveth's mission](https://docs.giveth.io/whatisgiveth/). You may have a GIVdrop if you are part of any of these groups:
+The Blockchain4Good DAO heroes group includes a list of over 2500 unique addresses, with over 60 different groupings. The majority of addresses belong to people who have been identified as crypto donors, with the rest belonging to value-aligned DAO members that are working, directly or indirectly, to further [Giveth's mission](https://docs.giveth.io/whatisgiveth/). You may have a GIVdrop if you are part of any of these groups (and many others!):
 
 - 1Hive
 - ChievMint
