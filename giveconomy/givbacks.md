@@ -16,7 +16,7 @@ GIVbacks rounds last two weeks. For each round, there is 1 million GIV available
 ## Project Verification
 Getting your project verified builds a relationship of trust with your donors by demonstrating your project's legitimacy and showing that the funds are being used to create positive change.
 
-To learn more about Project Verification check out our [documentation](/dapps/makeTraceableProject) or [apply for verification with this typeform](https://hlfkiwoiwhi.typeform.com/to/pXxk0HO5).
+To learn more about Project Verification check out our [documentation](/dapps/makeTraceableProject) or [apply for verification with this typeform](https://giveth.typeform.com/verification).
 
 Projects must submit their application forms one week before the start of a round in order to qualify for that round. Once approved, a project will be qualified to participate in all subsequent GIVbacks rounds. When a project becomes verified, its status is updated on Giveth and it is given a “Verified” badge on the Homepage and on the Project's Page.
 
