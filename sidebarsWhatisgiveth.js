@@ -5,7 +5,7 @@ module.exports = {
         type: 'category',
         label: 'Circles',
         items: ['introCommunity', 'introPlatform', 'introGIVernance']
-      },
+      },'governanceProcess',
       {
         type: 'category',
         label:'Guides',
