@@ -33,7 +33,7 @@ GIV token holders can get involved in decision making via the <a href="https://g
 ## rGIV Token Holder
 
 
-This is a form of executive council held for trusted Giveth contributors. rDAO members hold rGIV and use an [Aragon DAO deployment](https://xdai.aragon.blossom.software/#/nrgiv/) to create and vote on proposals using simple Yes/No voting mechanics. Anyone can make a proposal, but only rGIV holders can vote. Proposals will remain open for voting for 3 days and must adhere to the Quorum and Support Required percentages or else it will fail. In order to get rGIV you must be a regular contributor to Giveth for at least 3 months. Lean how to become a contributor (and get rGIV) in our [Giveth Basics document](https://www.notion.so/giveth/Giveth-Basics-bff76dceaec64839b73aa89ba2fb8be4).  
+This is a form of executive council held for trusted Giveth contributors. rDAO members hold nrGIV and use an [Aragon DAO deployment](https://xdai.aragon.blossom.software/#/nrgiv/) to create and vote on proposals using simple Yes/No voting mechanics. Anyone can make a proposal, but only rGIV holders can vote. Proposals will remain open for voting for 3 days and must adhere to the Quorum and Support Required percentages or else it will fail. In order to get rGIV you must be a regular contributor to Giveth for at least 3 months. Lean how to become a contributor (and get rGIV) in our [Giveth Basics document](https://www.notion.so/giveth/Giveth-Basics-bff76dceaec64839b73aa89ba2fb8be4).  
 ## Informal Decisions
 Not all decisions require formal on-chain votes. There is room for making low-impact, agile decisions via a range of platforms that Giveth's community utilizes. For the most clarity we refer to the Covenant's section on [off-chain decision making](https://docs.giveth.io/whatisgiveth/covenant/#off-chain):
 
@@ -46,7 +46,7 @@ Not all decisions require formal on-chain votes. There is room for making low-im
 1. Make a <a href="#proposal">proposal</a> on the Giveth <a href="https://forum.giveth.io" target="_blank">forum</a>
     - Allow a minimum of 5 days for advice process
 2. Create a proposal in the DApp for on-chain voting, this should link to your forum proposal.
-    - GIVgardens for GIV token holders
-    - rDAO for rGIV token holders
+    - [GIVgardens](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98) for GIV token holders
+    - [rDAO](https://xdai.aragon.blossom.software/#/nrgiv/) for nrGIV token holders
 3. Wait for Results
 4. Execute required actions
