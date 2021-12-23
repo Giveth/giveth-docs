@@ -17,7 +17,7 @@ GIVbacks rounds last two weeks. For each round, there is 1 million GIV available
 ## Project Verification
 Getting your project verified builds a relationship of trust with your donors by demonstrating your project's legitimacy and showing that the funds are being used to create positive change.
 
-To learn more about Project Verification check out our [documentation](/dapps/makeTraceableProject) or [apply for verification with this typeform](https://giveth.typeform.com/verification).
+To learn more about Project Verification check out our [documentation](https://docs.giveth.io/dapps/makeTraceableProject) or [apply for verification with this typeform](https://giveth.typeform.com/verification).
 
 Projects must submit their application forms one week before the start of a round in order to qualify for that round. Once approved, a project will be qualified to participate in all subsequent GIVbacks rounds. When a project becomes verified, its status is updated on Giveth and it is given a “Verified” badge on the Homepage and on the Project's Page.
 
@@ -29,7 +29,7 @@ Givers who donate to verified projects within an active round are eligible to re
 
 During each round, all donations to verified projects on the DApp are tracked and this data is used to calculate the amount of GIVbacks received by each Giver for that period.
 
-Givers are able to claim their GIV after the round ends via the [GIVbacks page](https://giv.giveth.io/givbacks). A portion of the GIV will be liquid immediately and the rest will increase the flowrate of their [GIVstream](https://giv.giveth.io/givstream). To learn more about the GIVstream and how it works, check out our [documentation](./givstream). For the purposes of this documentation, we will refer to the sum of the liquid amount and the amount allocated to the GIVstream from GIVbacks as `cumulative GIVbacks`.
+Givers are able to claim their GIV after the round ends via the [GIVbacks page](https://giv.giveth.io/givbacks). A portion of the GIV will be liquid immediately and the rest will increase the flowrate of their [GIVstream](https://giv.giveth.io/givstream). To learn more about the GIVstream and how it works, check out our [documentation](https://docs.giveth.io/giveconomy/givstream/). For the purposes of this documentation, we will refer to the sum of the liquid amount and the amount allocated to the GIVstream from GIVbacks as `cumulative GIVbacks`.
 
 Note that, even with the GIVbacks program, a donation on Giveth is still a donation. The maximum value of the donor's `cumulative GIVbacks` is equal to 75% of the value of their donation, at the time of donation. If the value of the `1 million GIV` allocated to the GIVbacks round is more than 75% of the total value of all donations (at the time of each donation) during the round duration, then all eligible donors will get their respective maximum cumulative GIVbacks.
 
