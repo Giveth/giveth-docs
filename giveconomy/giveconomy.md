@@ -26,7 +26,7 @@ At launch, our community can participate in the GIVeconomy in the following ways
 
 ### Distribution
 
-An amount of 1 billion GIV tokens were minted at the onset of the GIVeconomy. 100 million of the GIV tokens are liquid and available for use immediately, and the other 900 million have been allocated to the [GIVstream](./givstream) and are being released continuously throughout the entire "GIViverse" over a period of 5 years (until December 24, 2026). The distribution of the total supply of GIV throughout the GIViverse is outlined in the following graphic:
+An amount of 1 billion GIV tokens were minted at the onset of the GIVeconomy. 100 million of the GIV tokens are liquid and available for use immediately, and the other 900 million have been allocated to the [GIVstream](./givstream) and are being released continuously throughout the entire "GIViverse" over a period of 5 years (until December 23, 2026). The distribution of the total supply of GIV throughout the GIViverse is outlined in the following graphic:
 
 <img alt='givbacks round 8 sample' src={useBaseUrl('/img/content/giveconomy/giveconomyDistro.jpg')} />
 
