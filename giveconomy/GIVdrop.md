@@ -91,7 +91,7 @@ In addition to the GIVdrop, you'll also receive a GIVstream which will continuou
 
 Click `HARVEST` to generate the transaction to claim your GIVdrop to your connected wallet.
 
-You're now equipped and ready to jump into the GIVeconomy - Discover all the great ways you can contribute to a thriving economy of Giving.(**ADD LINK TO GIVECONOMY OVERVIEW**)
+You're now equipped and ready to jump into the GIVeconomy - Discover all the great ways you can contribute to a [thriving economy of Giving](https://giv.giveth.io/)
 
 
 ---
@@ -113,7 +113,7 @@ Lastly, and most importantly, click `Explore the GIVeconomy` to jump into GIVeco
 Unfortunately the address provided didn't receive a GIVdrop. Check the wallet address you provided or that you've connected with the correct wallet address
 <img alt='you missed the GIVdrop' src={useBaseUrl('/img/content/giveconomy/claimMissed1.png')} />
 
-If you missed out don't fret, there are still other ways to get GIV! You can follow the link on the GIVfarm(**ADD GIVFARM LINK**) page to take you to your local friendly Decentralized Exchange (on Mainnet or xDai) to swap your crypto for some of that sweet sweet GIV.
+If you missed out don't fret, there are still other ways to get GIV! You can follow the link on the [GIVfarm](https://giv.giveth.io/givfarm) page to take you to your local friendly Decentralized Exchange (on Mainnet or xDai) to swap your crypto for some of that sweet sweet GIV.
 
 <img alt='buy tokens link from GIVfarm' src={useBaseUrl('/img/content/giveconomy/claimMissed2.png')} />
 
