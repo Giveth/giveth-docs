@@ -87,7 +87,7 @@ module.exports = {
             },
             {
               label: 'GIVeconomy',
-              to: 'givecnomy/'
+              to: 'giveconomy/'
           }
           ]
         },
