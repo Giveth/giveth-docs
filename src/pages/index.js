@@ -42,15 +42,15 @@ const features = [
 function Feature ({ imageUrl, slug, id, title, description }) {
   const {isDarkTheme} = useThemeContext();
   let imgUrl = useBaseUrl(imageUrl);
-  if(id === 'whatisgiveth' && isDarkTheme){
-    imgUrl = useBaseUrl('img/givethLogoWhite.svg')
-   }
-   if(id === 'givethio' && isDarkTheme){
-     imgUrl = useBaseUrl('img/givethIOdark.svg')
-    }
-    if(id === 'givethTrace' && isDarkTheme){
-      imgUrl = useBaseUrl('img/givethTRACEdark.svg')
-     }
+  // if(id === 'whatisgiveth' && isDarkTheme){
+  //   imgUrl = useBaseUrl('img/givethLogoWhite.svg')
+  //  }
+  //  if(id === 'givethio' && isDarkTheme){
+  //    imgUrl = useBaseUrl('img/givethIOdark.svg')
+  //   }
+  //   if(id === 'givethTrace' && isDarkTheme){
+  //     imgUrl = useBaseUrl('img/givethTRACEdark.svg')
+  //    }
   return (
     <div className={clsx('col col--4', styles.feature)}>
       {imgUrl && (
