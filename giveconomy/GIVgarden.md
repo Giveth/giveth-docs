@@ -8,8 +8,10 @@ import styles from '../src/css/custom.css'
 
 Giveth has chosen the Gardens DAO governance platform developed by [1hive](_https://forum.1hive.org/t/welcome-to-1hive/7) to allow GIV token holders to manage the DAO configurations and allocate funds to projects that are aligned with its [mission, vision and values](/whatisgiveth/). Our unique Giveth Garden has been aptly named “the GIVgarden” and is deployed on the xDai Network. The main tools used for governance in the GIVgarden are Conviction Voting and Tao Voting.  
 
-
 The GIVgarden uses the [Giveth Community Covenant](/whatisgiveth/covenant) as a decentralized social contract that outlines standards for on-chain and off-chain behaviour.   
+
+You can visit the [**GIVgarden** here](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98).  
+
 
 ## Conviction Voting
 [**Conviction Voting**](https://forum.giveth.io/t/conviction-voting/154) allows requests for funding from the DAO and to suggest improvements, features or unique actions to Giveth and its platforms. Gardens highlights the fundamental concept of Conviction Voting in their documentation:
@@ -43,7 +45,7 @@ When you delegate your voting power to a “delegate”, you are empowering them
 ## Wrapping GIV & Earning Rewards
 In order to vote on proposals in the GIVgarden you’ll have to wrap your tokens. This exchanges your GIV tokens for GIVgarden-compatible gGIV tokens that can be staked on proposals. You earn rewards for all wrapped GIV, regardless of whether or not you use your wrapped GIV (gGIV) to vote on proposals. You can choose to wrap your GIV and get gGIV [in the GIVgarden](https://1hive.gitbook.io/gardens/actions-for-community-members/getting-started/wrap-your-tokens), or via the GIVfarm by participating in the single-asset GIV staking pool on xDai. When you unwrap your GIV in the GIVgarden or unstake your GIV from the single-asset GIVfarm your gGIV tokens will be burned, removing your voting power, and your GIV tokens will be returned to you.
 
-You can see the APR for wrapped GIV on our **GIVfarm page.(ADD LINK)** The more GIV you stake, the more rewards you get, and the higher your flowrate will be in the GIVstream. Being an active community member is rewarding in more ways than one!
+You can see the APR for wrapped GIV on our [**GIVfarm page**](https://giv.giveth.io/givfarm). The more GIV you stake, the more rewards you get, and the higher your flowrate will be in the GIVstream. Being an active community member is rewarding in more ways than one!
 
 
 
@@ -61,7 +63,7 @@ To learn more about how the GIVgarden works, visit the Gardens overview in the [
 
 
 ## Covenant
-In order to participate in the GIVgarden you’ll first need to sign the [Giveth Covenant](https://docs.giveth.io/whatisgiveth/covenant). This is our decentralized social contract which outlines standards for on-chain and off-chain community behaviour. In the event that a proposal is challenged, the covenant shall be used as a baseline for what defines acceptable and not acceptable proposals within that GIVgarden.
+In order to participate in the GIVgarden you’ll first need to sign the [Giveth Covenant](/whatisgiveth/covenant). This is our decentralized social contract which outlines standards for on-chain and off-chain community behaviour. In the event that a proposal is challenged, the covenant shall be used as a baseline for what defines acceptable and not acceptable proposals within that GIVgarden.
 
 
 ## Disputability
@@ -80,7 +82,7 @@ If you feel like you have a good grasp on Giveth and [how we work](/whatisgiveth
 
 1. **Think of something awesome.** Come up with an idea that you think would be valuable for the Giveth’s Community or Platform. If your idea requires funding, consider how much and how you can justify its costs.
 2. **Create a forum post.** Post your idea in the [**Giveth Forum**](https://forum.giveth.io/) in the appropriate category and outline your proposal in detail. This allows the community to review and assess the impacts of your proposal. Proposals created in the GIVgarden must include a link to a Giveth forum post explaining its details.
-3. **Use Advice Process.** Following your forum post the community will give you feedback and express any concerns. [The Advice Process](https://docs.giveth.io/whatisgiveth/adviceProcess) will allow you to modify your proposal or address any concerns ensuring it is the best version possible and achieves maximum consensus.
+3. **Use Advice Process.** Following your forum post the community will give you feedback and express any concerns. [The Advice Process](/whatisgiveth/adviceProcess) will allow you to modify your proposal or address any concerns ensuring it is the best version possible and achieves maximum consensus.
 4. **Sign the Giveth Covenant. Signing that you agree to the [Giveth Covenant](/whatisgiveth/covenant) in the GIVgardens will permit you to begin using the governance tools it provides.
 5. **Deposit GIV to the GIVgarden**. Every proposal requires a Proposal Deposit, i.e.a specified amount of GIV that you post as collateral. This discourages spamming proposals and can also be forfeited in the case of losing or conceding to a challenged proposal.
 6. **Submit your Proposal. **Draft and submit your proposal, along with the Proposal Deposit, providing the required information in the GIVgarden.
