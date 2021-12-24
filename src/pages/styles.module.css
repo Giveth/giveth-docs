@@ -18,6 +18,8 @@
   }
 }
 
+
+
 .buttons {
   display: flex;
   align-items: center;
@@ -51,8 +53,12 @@
   background-color: #8668fc2e;
 }
 
-h3 {
-  font-size: 1.45rem;
+.features h3 {
+  font-size: 2.8rem;
+}
+
+.features p {
+  font-size: 1.3rem;
 }
 
 .formatHero {

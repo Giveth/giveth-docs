@@ -47,12 +47,12 @@ module.exports = {
           label: 'DApps',
           position: 'left'
         },
-        // {
-        // to: 'giveconomy/',
-        // activeBasePath: 'giveconomy',
-        // label: 'GIVeconomy',
-        // position: 'left'
-        // },
+        {
+        to: 'giveconomy/',
+        activeBasePath: 'giveconomy',
+        label: 'GIVeconomy',
+        position: 'left'
+        },
         {
           to: 'jobs/',
           activeBasePath: 'jobs',
@@ -85,10 +85,10 @@ module.exports = {
               label: 'Giveth TRACE',
               to: 'dapps/introTrace'
             },
-          //   {
-          //     label: 'GIVeconomy',
-          //     to: 'givecnomy/'
-          // }
+            {
+              label: 'GIVeconomy',
+              to: 'giveconomy/'
+          }
           ]
         },
         {
