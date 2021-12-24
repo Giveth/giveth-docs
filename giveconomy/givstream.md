@@ -15,7 +15,7 @@ All GIVstreams flow until December 24, 2026, at which point the GIVeconomy will 
 
 
 ## How it Works
-At launch, 10% of the total token supply of 1 billion GIV will be liquid and distributed across the [GIVeconomy](/). The rest supplies the GIVstream which flows for 5 years, releasing more liquid GIV every second. After the 5 year period, 100% of GIV tokens will be liquid.
+At launch, 10% of the total token supply of 1 billion GIV will be liquid and distributed across the [GIVeconomy](https://docs.giveth.io/giveconomy/). The rest supplies the GIVstream which flows for 5 years, releasing more liquid GIV every second. After the 5 year period, 100% of GIV tokens will be liquid.
 
 The following table explains what percentage of GIV is liquid and distributed throughout the GIViverse, and which part is still yet to flow from the GIVstream.
 
