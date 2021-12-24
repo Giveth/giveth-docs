@@ -21,7 +21,7 @@ To learn more about Project Verification check out our [documentation](https://d
 
 Projects must submit their application forms one week before the start of a round in order to qualify for that round. Once approved, a project will be qualified to participate in all subsequent GIVbacks rounds. When a project becomes verified, its status is updated on Giveth and it is given a “Verified” badge on the Homepage and on the Project's Page.
 
-<img alt='givbacks round 8 sample' src={useBaseUrl('/img/content/givethProjectCards.png')} />
+<img alt='givbacks schedule' src={useBaseUrl('/img/content/giveconomy/GIVBacks_Rounds2.png')} />
 
 Givers who donate to verified projects within an active round are eligible to receive GIVbacks. Note that Projects themselves do not receive GIV for donations made to their own project or other verified projects.
 
