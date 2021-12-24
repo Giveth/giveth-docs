@@ -12,7 +12,6 @@ const features = [
     title: 'What is Giveth?',
     slug: 'whatisgiveth/',
     id: 'whatisgiveth',
-    imageUrl: 'img/givethLogoIndigo.svg',
     description: (
       <>
         <p id='introText'>Everything you need to know about how we do things at Giveth. If you're a new contributor, start here!</p>
@@ -20,24 +19,22 @@ const features = [
     )
   },
   {
-    title: 'Giveth.io',
+    title: 'Giveth DApps',
     slug: 'dapps/',
-    id: 'givethio',
-    imageUrl: 'img/givethIOlight.svg',
+    id: 'dapps',
     description: (
       <>
-        User Guides, Developer Documentation and all things technical for the Giveth.io DApp.
+        User Guides, Developer Documentation and all things technical for Giveth.io and Giveth TRACE.
       </>
     )
   },
   {
-    title: 'Giveth TRACE',
-    slug: 'dapps/introTrace',
-    id: 'givethTrace',
-    imageUrl: 'img/givethTRACElight.svg',
+    title: 'GIVeconomy',
+    slug: 'giveconomy/',
+    id: 'giveconomy',
     description: (
       <>
-        A comprehensive tour of the Giveth TRACE DApp including User Guides, Developer Documentation and Smart Contract Wizardry.
+        All you need to know about the GIVeconomy; contract addresses, functionality, tutorials and more!
       </>
     )
   }
