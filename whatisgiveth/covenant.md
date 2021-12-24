@@ -43,7 +43,7 @@ Giveth uses the [Gardens](https://gardens.1hive.org/#/home/) governance platform
 
 On-chain decision making mechanisms for the GIVgarden include [Conviction Voting](https://forum.tecommons.org/t/conviction-voting-tl-dr/308?u=liviade) and [Tao Voting](https://forum.tecommons.org/t/tao-voting-formerly-disputable-voting-parameters-general-discussion/267). Conviction Voting should be used primarily for funds allocation. Tao Voting should be used for updating parameters, bug fixes, adding new features to the DAO and/or for emergency situations such as an attack to the DAO treasury. 
 
-Additional polycentric governance processes used by Giveth are specified in [this living document](add link to governance processes) and might change according to the community’s decisions.
+Additional polycentric governance processes used by Giveth are specified in [this living document](https://docs.giveth.io/whatisgiveth/governanceProcess) and might change according to the community’s decisions.
 
 ### Enforcement
 
