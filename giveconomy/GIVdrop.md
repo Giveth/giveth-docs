@@ -42,7 +42,7 @@ The Blockchain4Good DAO heroes group includes a list of over 2500 unique address
 - WeTrust
 - WhalerDAO
 
-The snapshot for past donors, contributors and users was taken in March 2021. The snapshot for contributors and Blockchain4Good DAO heroes was taken in September 2021. For donors to Gitcoin Grants, we used an anti-sybil attack measure to remove airdrop hunters from the list.
+The snapshot for past donors and Giveth users was taken in March 2021. The snapshot for contributors (builders) and Blockchain4Good DAO heroes was taken in September 2021. For donors to Gitcoin Grants, GIVdrop eligibility was for those who donated in at least two rounds from rounds 1-8. Our snapshot was taken at those times because the token development was all public, and we didn't want to give all of the GIV to the airdrop hunters that have proliferated throughout the past year.
 
 **IMPORTANT:** We have made every effort to include all valid addresses in this GIVdrop made at our discretion. Not every person who has ever interacted with Giveth is eligible. If you did not receive GIV, that is because you were not eligible or the wallet that stores the address that was eligible can not be accessed. We will not review past transactions or consider other addresses for inclusion. We appreciate your understanding.
 
