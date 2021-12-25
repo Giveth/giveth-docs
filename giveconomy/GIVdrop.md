@@ -58,9 +58,9 @@ First thing is to head over to [the GIVdrop claim page](https://giv.giveth.io/cl
 
 <img alt='check GIVdrop eligibility' src={useBaseUrl('/img/content/giveconomy/claimConnect1.png')} />
 
-From here you have two options to check your GIVdrop eligibility - either connect your web3 wallet to the DApp or manually enter an ethereum address into the input field provided.
+From here you have need to connect your web3 wallet to the DApp to check your eligibility.
 
-After inserting an ethereum address one of three situations will happen:
+After connecting, one of three situations will happen:
 
 1. <a href="#1-givdrop-to-claim">You have a GIVdrop to claim, NICE!</a>
 2. <a href="#2-the-address-provided-has-already-claimed-its-givdrop">The address provided has already claimed its GIVdrop, GREAT!</a>
