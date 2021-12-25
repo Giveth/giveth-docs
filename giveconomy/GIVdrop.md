@@ -58,7 +58,7 @@ First thing is to head over to [the GIVdrop claim page](https://giv.giveth.io/cl
 
 <img alt='check GIVdrop eligibility' src={useBaseUrl('/img/content/giveconomy/claimConnect1.png')} />
 
-From here you have need to connect your web3 wallet to the DApp to check your eligibility.
+From here you will need to connect your web3 wallet to the DApp to check your eligibility.
 
 After connecting, one of three situations will happen:
 
