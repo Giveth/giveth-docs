@@ -9,7 +9,7 @@ import ReactPlayer from 'react-player'
 
 Welcome to the expanding GIViverse! The GIVstream aligns community members with the long term success of Giveth and the GIVeconomy. With the GIVstream, anyone who adds value to the GIVeconomy receives GIV continuously for up to 5 years from the GIVeconomy launch date. The GIVeconomy begins humbly, but as time passes, the GIViverse expands: More GIV becomes liquid is streamed to our community of GIVernauts.
 
-All GIVstreams flow until December 24, 2026, at which point the GIVeconomy will be in full swing! [Watch your GIVstream flow](https://giv.giveth.io/givstream).
+All GIVstreams flow until December 23, 2026, at which point the GIVeconomy will be in full swing! [Watch your GIVstream flow](https://giv.giveth.io/givstream).
 
 <ReactPlayer playing light='/video/givstream_thumbnail.png'  loop={true} controls url='/video/GIF_GIVETHiverse.mp4' />
 
