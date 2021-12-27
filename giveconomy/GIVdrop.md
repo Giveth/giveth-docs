@@ -42,11 +42,14 @@ The Blockchain4Good DAO heroes group includes a list of over 2500 unique address
 - WeTrust
 - WhalerDAO
 
-The snapshot for past donors and Giveth users was taken in March 2021. The snapshot for contributors (builders) and Blockchain4Good DAO heroes was taken in September 2021. For donors to Gitcoin Grants, GIVdrop eligibility was for those who donated in at least two rounds from rounds 1-8. Our snapshot was taken at those times because the token development was all public, and we didn't want to give all of the GIV to the airdrop hunters that have proliferated throughout the past year.
 
-**IMPORTANT:** We have made every effort to include all valid addresses in this GIVdrop made at our discretion. Not every person who has ever interacted with Giveth is eligible. If you did not receive GIV, that is because you were not eligible or the wallet that stores the address that was eligible can not be accessed. We will not review past transactions or consider other addresses for inclusion. We appreciate your understanding.
+<span id="givdropImportant">The snapshot for past donors and Giveth users was taken in March 2021.</span> The snapshot for contributors (builders) and Blockchain4Good DAO heroes was taken in September 2021. <span id="givdropImportant">For donors to Gitcoin Grants, GIVdrop eligibility was for those who donated in <i><u>at least two rounds</u></i> from rounds 1-8.</span> Our snapshot was taken at those times because the token development was all public, and we didn't want to give all of the GIV to the airdrop hunters that have proliferated throughout the past year.
+
+:::info
+We have made every effort to include all valid addresses in this GIVdrop made at our discretion. Not every person who has ever interacted with Giveth is eligible. If you did not receive GIV, that is because you were not eligible or the wallet that stores the address that was eligible can not be accessed. We will not review past transactions or consider other addresses for inclusion. We appreciate your understanding.
 
 If you did not receive the GIVdrop, check out our [GIVbacks program](https://giv.giveth.io/givbacks) to find out how to get GIV!
+:::
 
 **NOTE:** If you received the GIVdrop but no longer have access to the eligible address, it is possible for us to redirect the allocation to another ETH address. However, you need to prove who you are and that you do have tokens allocated to you. If this is you, reach out to our team for support. FYI - if no one in the Giveth team knows you, it probably won't work out.
 

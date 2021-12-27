@@ -54,6 +54,12 @@ img.leftfloat {
 
 }
 
+#givdropImportant
+{
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
 img.center {
   display: block;
   margin-left: auto;
