@@ -47,6 +47,8 @@ Giveth plans to implement donation matching to projects on Giveth using "Causes"
 ### **GIVfi**
 The intention with GIVfi is to create a sustainable way of maintaining funds in the GIVgarden common pool. While donations on the DApp are waiting to be disbursed, they will be generating interest that can be used to send GIV to the GIVgarden for funding initiatives using Conviction Voting.
 
+<img alt="GIVfi diagram" src={useBaseUrl('img/content/giveconomy/GIVfi.jpg')} />
+
 ### **GURVES**
 Our biggest dream is to support for-good projects on Giveth to become their own microeconomies. The idea is when a donor gives to a verified project on Giveth, they get some GIV from the GIVbacks program. When this happens, some GIV is put into a [bonding curve](https://thegraph.academy/curators/introduction-to-bonding-curves/) that is uniquely generated for the project. The donor then receives freshly minted "project tokens" from the bonding curve. Projects are in effect being gifted their own token economy, opening up endless possibilities for incentives and system design!
 
