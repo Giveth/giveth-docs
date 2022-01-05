@@ -4,7 +4,6 @@ title: GIVbacks
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-
 GIVbacks is revolutionary concept that rewards donors to verified projects with GIV tokens. When you give to verified projects during a GIVbacks round, you become eligible to receive GIV back after the round ends. You can see live information --- including round schedule & your claimable GIV --- on the [GIVbacks page](https://giv.giveth.io/givbacks).
 
 ## GIVbacks Rounds
@@ -49,13 +48,16 @@ where:
 
 GIV tokens earned through the GIVbacks program can be used throughout the GIVeconomy: for governance within the [GIVgarden](https://giv.giveth.io/givgarden), to support the token by providing liquidity (and earning rewards!) in the [GIVfarm](https://giv.giveth.io/givfarm), or for donating to projects on [Giveth](https://giveth.io).
 
+## **Tokens Eligible for GIVbacks**
+A donor can donate any ERC-20 token to projects on Giveth.io on xDai or Mainnet. However, only donations to Verified Projects in **certain tokens** are eligible for GIVbacks. This restriction ensures that we are able to get accurate price data for donations (a requirement for fair distribution of GIVbacks), and prevents bad actors from gaming the GIVbacks program. To see the full list of eligible tokens, visit [this forum post](https://forum.giveth.io/t/givbacks-token-list/253)
+
 
 ## Harvesting GIVbacks
 GIVbacks are available to be harvested after the round ends and GIV is distributed to eligible donor addresses. This GIV can be harvested [here](https://giv.giveth.io/givbacks). Please note that when you harvest GIV rewards from any part of the GIVeconomy, our token distro contract sends you all liquid GIV allocated to your address on that network. For example, when you harvest GIV rewards earned from staking LP tokens in the GIVfarm on xDai, you also harvest rewards allocated to you from GIVbacks (if any) and the liquid amount from your GIVstream. This is broken down in the harvest popup that you encounter upon claim:
 
 ![image](https://user-images.githubusercontent.com/75490971/147270876-3fe6bc26-8edd-46b9-b934-c8465c53784f.png)
 
-## **Disqualifying Factors for GIVbacks Program**
+## Disqualifying Factors for GIVbacks Program
 
 Once a GIVbacks round ends, there is a period of time granted to our team to review flagged projects for the following disqualifying factors before GIV is distributed to donors. A project could have their Verified status revoked if any disqualifying factors are found. Donors to projects who are found with any of the following activity may also be denied GIVbacks for that round.
 
@@ -66,21 +68,23 @@ Once a GIVbacks round ends, there is a period of time granted to our team to rev
 
 The Giveth Project Verification team is responsible for monitoring GIVbacks activity and the Project Verification system, and will ultimately use their discretion to determine whether a project’s actions are unscrupulous and/or disqualifying.
 
-## **Graduated Sanctions**
+## Graduated Sanctions
 
 Verified projects and donations that are flagged for any of the disqualifying factors above will be analysed and discerned according to the graduated sanctions outlined here.
 
-### **Projects**
+### Projects
 
 The activity and donation history of Verified Projects will be periodically reviewed. If disqualifying factors are found, the following actions will be taken:
 
 - A project that has been flagged and deemed to be disqualified for the **first time** will be notified and their donors will not receive GIVbacks for that round and the next. They will not, however, lose their ‘Verified’ status immediately and will have the opportunity to make any changes necessary to keep it.
 - A project that has been flagged and deemed to be disqualified for the **second time** will be notified that they have been demoted and the donors for that round and all future rounds will not be receiving GIVbacks. Once a project has received a second flag, it will lose it’s ‘Verified’ badge.
 
-### **Donors**
+### Donors
 
 A donor whose GIVbacks were revoked because they donated to a disqualified project will receive an email with the complaint and evidence that was submitted. Donations cannot be refunded and GIVbacks cannot be “unrevoked” if the project was disqualified from the round. Donations are donations and they go directly to the project. The GIVbacks program was created to additionally empower our donors with GIV & therefore governance rights, but you should not make a donation purely out of the expectation of receiving GIV. We appreciate your understanding.
 
----
+## **Tokens Eligible for GIVbacks**
+Only certain tokens donated are eligible for GIVbacks - to see a full list, visit [this forum post](https://forum.giveth.io/t/givbacks-token-list/253)
 
+---
 The GIVbacks program is our way of giving back to those who give. It’s our exit to the community - empowering real donors with governance power over the future of Giveth and hence, the Future of Giving. To get GIVbacks, [start donating to verified projects today](https://giveth.io/projects)!
