@@ -6,8 +6,6 @@ title: GIVfarm
 
 The GIVfarm launched on **December 24, 2021**. 3.5% of the total token supply, 35 Million GIV, has been allocated to the first GIVfarm round of 6 months. Farms are available on either **Ethereum Mainnet (ETH)** or **xDai Network**. Any farms you stake tokens into will yield GIV rewards and add to your [GIVstream flowrate](https://docs.giveth.io/giveconomy/givstream) only for that corresponding chain. GIV reward distribution for the 6 pools available is as follows:
 
-
-
 | Pool                          | Tokens Allocated |
 | ----------------------------- | ---------------- |
 | GIV/ETH Uniswap v3 on Mainnet | 10 Million GIV   |
@@ -41,6 +39,8 @@ GIV xDai - 0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75
 - GIV/HNY Honeyswap -0x08ea9f608656A4a775EF73f5B187a2F1AE2ae10e
 - GIV/WETH SushiSwap -  0x55FF0cef43F0DF88226E9D87D09fA036017F5586
 
+## GIVfarming the GIVgarden
+The GIVeconomy implements a unique feature in it's GIV Staking pool on xDAI. When you stake tokens in this farm you are also wrapping those GIV in the GIVgarden. This means that while collecting rewards from the GIVfarm you also unlock voting power within the [GIVgarden](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98) as long as you stay staked in this farm. Conversely, while wrapping GIV in the GIVgarden you are also staking tokens into the aforementioned GIV staking pool.
 
 ### Weekly Distribution
 
@@ -79,9 +79,12 @@ GIV xDai - 0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75
 
 Further rounds may be launched after this period that could contain new pools and changes in distribution. All rewards from GIVfarm will be affected by the GIVstream. Read up on the [GIVstream documentation](./givstream) for more information.
 
-### _*A note on Uniswap v3 Farms:_
+
+:::info
+### A Note on Uniswap v3 Farms:  
 Harvesting NFT rewards from Uni v3 collects rewards from all your NFTs staked (if you staked more than one). In this process each NFT is unstaked, rewards are harvested and your NFT is re-staked. If you have multiple NFTs this can become a gas intensive process.
 
 When you Unstake your NFT you also harvest your rewards, If you have multiple NFTs staked when you Unstake one, you only harvest rewards from the single unstaked NFT.
 
 You can learn more about [Uniswap v3 Pools in this whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+:::
