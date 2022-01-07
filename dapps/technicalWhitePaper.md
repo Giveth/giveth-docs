@@ -1,6 +1,7 @@
 ---
 id: technicalWhitePaper
 title: Technical White Paper
+slug: technicalWhitePaper
 ---
 
 

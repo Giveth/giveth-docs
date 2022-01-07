@@ -1,6 +1,7 @@
 ---
 id: createproject
 title: Create a project
+slug: dapps/createproject
 ---
 
 ## Contemplate the vision for your project
@@ -12,7 +13,7 @@ Think about the project which you want to create, do you have concrete goals and
 
  - The name of your organization or the administrator of your project (perhaps it is yourself).
 
- - Describe what your project is. 
+ - Describe what your project is.
 
  - Pick relevant categories to add 'keywords' to your project.
 
@@ -26,4 +27,3 @@ Think about the project which you want to create, do you have concrete goals and
 
 ## Editing my project after it's been published
 If you made a mistake or need to change something on your project it's super simple to go back and update it. If you're on the homepage go to the top right and click on your account and then select `My Projects`. Once you're there you should see a page of your projects, hover over the project you wish to edit and then click the `EDIT` button. You should see your project's contents, you can scroll through and change the content you wish and once you're done just hit save!
-

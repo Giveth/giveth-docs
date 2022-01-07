@@ -1,6 +1,7 @@
 ---
 id: torusUserGuide
 title: Using the Torus Wallet
+slug: torusUserGuide
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'

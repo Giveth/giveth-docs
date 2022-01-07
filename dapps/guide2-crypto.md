@@ -1,6 +1,7 @@
 ---
 id: crypto
 title: Cryptocurrency donations
+slug: dapps/crypto
 ---
 
 ## What is and why Cryptocurrency?

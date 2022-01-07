@@ -1,6 +1,7 @@
 ---
 id: leavingTraces
 title: Leaving Traces (formerly Creating Milestones)
+slug: dapps/leavingTraces
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'

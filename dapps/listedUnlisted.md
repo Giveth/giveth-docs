@@ -1,6 +1,7 @@
 ---
 id: listedUnlisted
 title: Project Quality Assurance Guide
+slug: dapps/listedUnlisted
 ---
 
 In order to ensure the quality of projects on our DApp, we have implemented a processes for pre-screening projects before they are featured on the Giveth homepage. All new projects are initially **unlisted** until they are reviewed and approved by a Giveth Unicorn. Unlisted projects can still receive donations and can be accessed via the project's URL. However, only **listed** projects will appear on the Giveth homepage & projects page, and using our sort, filter and search functionalities.

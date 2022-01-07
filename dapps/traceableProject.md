@@ -1,6 +1,7 @@
 ---
 id: makeTraceableProject
 title: Project Verification & Getting on TRACE
+slug: dapps/makeTraceableProject
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'

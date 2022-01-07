@@ -1,6 +1,7 @@
 ---
 id: projectdonating
 title: How do I donate to a Project?
+slug: dapps/projectdonating 
 ---
 
 ## Find a project that you like.

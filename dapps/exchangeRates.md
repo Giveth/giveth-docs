@@ -1,6 +1,7 @@
 ---
 id: exchangeRates
 title: Exchange Rates
+slug: dapps/exchangeRates
 ---
 
 When you leave a Trace within [Giveth TRACE](https://beta.giveth.io), you can enter an amount in ether or in fiat. Our system then automatically calculates the conversion rate based on the date of the Trace.
