@@ -1,6 +1,7 @@
 ---
 id: bridgeSecurity
 title: Giveth Bridge Security Implementation
+slug: dapps/bridgeSecurity
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'

@@ -1,6 +1,7 @@
 ---
 id: developmentProcess
 title: Development Process
+slug: dapps/developmentProcess
 ---
 
 *This section details the Giveth TRACE development process, deployments, and how merging and testing is handled.*

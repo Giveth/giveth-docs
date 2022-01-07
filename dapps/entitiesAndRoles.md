@@ -1,6 +1,7 @@
 ---
 id: entitiesAndRoles
 title: Giveth Entities and Roles
+slug: dapps/entitiesAndRoles
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'
@@ -166,7 +167,7 @@ To tailor Traces to meet the specific needs of Communities and Campaigns there a
 * **Trace with Reviewer:** The funds cannot be collected or disbursed from this Trace without confirmation by an assigned Trace Reviewer.
 * **Specify Currency Received:** The Trace Creator is able to specify which of the whitelisted cryptocurrencies they would like to receive their funds in.
 
-Based on these rules we can have *four* types of Traces with their own distinct properties: **Milestones, Bounties, Expenses** and **Payments**. 
+Based on these rules we can have *four* types of Traces with their own distinct properties: **Milestones, Bounties, Expenses** and **Payments**.
 
 
 ### **Milestones**

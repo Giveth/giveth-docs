@@ -1,8 +1,9 @@
 ---
 id: traceContracts
 title: Contracts, Bridges and Multisigs Technical Information
+slug: dapps/traceContracts
 ---
- 
+
 ## Contracts:
 * GivethBridge on Mainnet
 * ForeignGivethBridge on Rinkeby

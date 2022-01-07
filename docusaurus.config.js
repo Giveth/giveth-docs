@@ -132,13 +132,15 @@ module.exports = {
 
         editUrl: 'https://github.com/giveth/giveth-docs/edit/master/',
 
-        routeBasePath: 'dapps',
+        routeBasePath: '/',
 
         sidebarPath: require.resolve('./sidebarsDapps.js'),
 
         showLastUpdateAuthor: true,
 
-        showLastUpdateTime: true
+        showLastUpdateTime: true,
+        remarkPlugins: [math],
+        rehypePlugins: [katex],
       }
     ],
     [
@@ -179,27 +181,27 @@ module.exports = {
         showLastUpdateTime: true
       }
     ],
-    [
-      '@docusaurus/plugin-content-docs',
-
-      {
-        id: 'giveconomy',
-
-        path: 'giveconomy',
-
-        editUrl: 'https://github.com/giveth/giveth-docs/edit/master/',
-
-        routeBasePath: 'giveconomy',
-
-        sidebarPath: require.resolve('./sidebarsgiveconomy.js'),
-
-        showLastUpdateAuthor: true,
-
-        showLastUpdateTime: true,
-        remarkPlugins: [math],
-        rehypePlugins: [katex],
-      }
-    ]
+    // [
+    //   '@docusaurus/plugin-content-docs',
+    //
+    //   {
+    //     id: 'giveconomy',
+    //
+    //     path: 'giveconomy',
+    //
+    //     editUrl: 'https://github.com/giveth/giveth-docs/edit/master/',
+    //
+    //     routeBasePath: 'giveconomy',
+    //
+    //     sidebarPath: require.resolve('./sidebarsgiveconomy.js'),
+    //
+    //     showLastUpdateAuthor: true,
+    //
+    //     showLastUpdateTime: true,
+    //     remarkPlugins: [math],
+    //     rehypePlugins: [katex],
+    //   }
+    // ]
   ],
 
   presets: [

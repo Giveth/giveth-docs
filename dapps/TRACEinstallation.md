@@ -1,6 +1,7 @@
 ---
 id: TRACEinstallation
 title: Installing Giveth TRACE for Local Development
+slug: dapps/TRACEinstallation
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
@@ -116,7 +117,7 @@ To enable debug logging simply start the server with `LOG_LEVEL=debug yarn start
 
 ## Production
 
-We use docker-compose for orchestration of our docker containers in our production servers. 
+We use docker-compose for orchestration of our docker containers in our production servers.
 * make Make sure you have a file named `production.json` in config folder
 * Install docker and docker-compose on your server
 * run this command: `docker-compose -f docker-compose-production.yml up -d`
@@ -130,7 +131,7 @@ PS: It's good to see Github Actions config(`./.github/workflows/CI-CD.yml`) to b
   ```
   java -jar rskj-core-0.5.2-ORCHID-all.jar co.rsk.Start --regtest
   ```
-  or 
+  or
   ```
   java -Drsk.conf.file=rsk.conf -jar rskj-core-0.5.2-ORCHID-all.jar co.rsk.Start
   ```
@@ -146,7 +147,7 @@ PS: It's good to see Github Actions config(`./.github/workflows/CI-CD.yml`) to b
    ```
    ipfs daemon
    ```
-    
+
 4. Start your app
 
     ```
@@ -154,11 +155,11 @@ PS: It's good to see Github Actions config(`./.github/workflows/CI-CD.yml`) to b
     ```
 
 ## Audit Log
-The Audit log system logs every Create, Update, Patch and 
+The Audit log system logs every Create, Update, Patch and
 Remove on **Campaigns**, **Traces**, **Events**, **Users**,
 **PledgeAdmins**, **Communities**, **Donations**
 For enabling audit log locally you should change `enableAuditLog`
-in config to `true`, then 
+in config to `true`, then
 * cd elk
 * docker-compose up
 

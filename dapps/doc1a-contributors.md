@@ -1,6 +1,7 @@
 ---
 id: contributors
 title: Contributor Guide
+slug: dapps/contributors
 ---
 
 ### Getting Started

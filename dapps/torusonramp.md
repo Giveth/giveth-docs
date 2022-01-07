@@ -1,6 +1,7 @@
 ---
 id: torusonramp
 title: Donating with Fiat via the Torus on-ramp
+slug: dapps/torusonramp
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'

@@ -1,7 +1,8 @@
 ---
 id: faq
 title: Frequently Asked Questions
-author: Giveth 
+author: Giveth
+slug: dapps/faq
 ---
 **What is Torus?**
 For the most detailed answer, see https://docs.tor.us/
@@ -25,7 +26,7 @@ We are a very inclusive Community and would love your help, in any way possible,
 Oh, and one more thing. If you hold any cryptocurrency, you know that securing your keys is paramount. The Giveth core team uses the Ledger Nano S and by ordering yours via this link Giveth will receive a donation worth 15% of the cost. Protect yourself and support our cause!
 
 **What types of projects are prohibited?**
-Projects relating to violence, political dissent, porn (art excluded) 
+Projects relating to violence, political dissent, porn (art excluded)
 
 **Are there fees for creating a project?**
 Nope! Giveth will never charge any additional fees for creating projects on our platform. If you create a project on Giveth.io it creates an entry in our database that directly points to your chosen Ethereum wallet. You can do this as well with a brand new account that holds zero funds.

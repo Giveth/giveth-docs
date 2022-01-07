@@ -1,6 +1,7 @@
 ---
 id: donatingmetamask
 title: Donating with Metamask
+slug: dapps/donatingmetamask
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'

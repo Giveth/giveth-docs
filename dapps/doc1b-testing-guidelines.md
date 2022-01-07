@@ -1,6 +1,7 @@
 ---
 id: testing-guidelines
 title: Testing Guidelines
+slug: dapps/testing-guidelines
 ---
 
 

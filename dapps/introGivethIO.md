@@ -1,7 +1,7 @@
 ---
 id: givethIO
 title: Intro to Giveth.io
-slug: /
+slug: dapps/givethIO
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'
