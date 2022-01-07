@@ -17,7 +17,7 @@ At launch, our community can participate in the GIVeconomy in the following ways
 - Donors to [verified projects](https://giveth.io/projects) on Giveth get rewards from [**GIVbacks**](./givbacks)
 - Liquidity providers and stakers can earn rewards in the [**GIVfarm**](./givfarm)
 - All GIV holders can create and/or vote on proposals in the [**GIVgarden**](./givgarden)
-- Anyone who claims GIV from their participation in the GIVeconomy gets a continuous flow of GIV from the [GIVstream](./givstream) until December 23, 2026
+- Anyone who claims GIV from their participation in the GIVeconomy gets a continuous flow of GIV from the [**GIVstream**](./givstream) until December 23, 2026
 
 ### Token Info
 
