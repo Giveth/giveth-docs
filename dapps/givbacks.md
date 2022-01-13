@@ -23,7 +23,7 @@ Projects must submit their application forms one week before the start of a roun
 
 <img alt='givbacks schedule' src={useBaseUrl('/img/content/giveconomy/GIVBacks_Rounds2.png')} />
 
-Givers who donate to verified projects within an active round are eligible to receive GIVbacks. Note that Projects themselves do not receive GIV for donations made to their own project or other verified projects.
+Givers who donate to verified projects within an active round are eligible to receive GIVbacks. Note that Project addresses will not receive GIV for donations made to their own project or other verified projects.
 
 ## Getting GIVbacks
 
