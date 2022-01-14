@@ -21,7 +21,7 @@ Eligible recipients of the GIVdrop and the associated GIVstream include:
 - Blockchain4Good heroes 4%
 - Past donors to projects on Giveth 2%
 - Past users of beta Giveth TRACE 1%
-- Past donors to Gitcoin Grants in Rounds 1-7 1%
+- Past donors to Giveth's Gitcoin Grants in Rounds 1-7 1%
 
 The Blockchain4Good DAO heroes group includes a list of over 2500 unique addresses, with over 60 different groupings. The majority of addresses belong to people who have been identified as crypto donors, with the rest belonging to value-aligned DAO members that are working, directly or indirectly, to further [Giveth's mission](https://docs.giveth.io/whatisgiveth/). You may have a GIVdrop if you are part of any of these groups (and many others!):
 
@@ -44,7 +44,7 @@ The Blockchain4Good DAO heroes group includes a list of over 2500 unique address
 - WhalerDAO
 
 
-<span id="givdropImportant">The snapshot for past donors and Giveth users was taken in March 2021.</span> The snapshot for contributors (builders) and Blockchain4Good DAO heroes was taken in September 2021. <span id="givdropImportant">For donors to Gitcoin Grants, GIVdrop eligibility was for those who donated in <i><u>at least two rounds</u></i> from rounds 1-8.</span> Our snapshot was taken at those times because the token development was all public, and we didn't want to give all of the GIV to the airdrop hunters that have proliferated throughout the past year.
+<span id="givdropImportant">The snapshot for past donors and Giveth users was taken in March 2021.</span> The snapshot for contributors (builders) and Blockchain4Good DAO heroes was taken in September 2021. <span id="givdropImportant">For donors to Giveth's Gitcoin Grants, GIVdrop eligibility was for those who donated in <i><u>at least two rounds</u></i> from rounds 1-8.</span> Our snapshot was taken at those times because the token development was all public, and we didn't want to give all of the GIV to the airdrop hunters that have proliferated throughout the past year.
 
 :::info
 We have made every effort to include all valid addresses in this GIVdrop made at our discretion. Not every person who has ever interacted with Giveth is eligible. If you did not receive GIV, that is because you were not eligible or the wallet that stores the address that was eligible can not be accessed. We will not review past transactions or consider other addresses for inclusion. We appreciate your understanding.
