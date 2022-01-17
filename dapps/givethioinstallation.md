@@ -1,6 +1,6 @@
 ---
 id: givethioinstallation
-title: Installing Giveth.io for Local development
+title: Installing Giveth.io for Local Development
 slug: dapps/givethioinstallation
 ---
 
@@ -13,17 +13,18 @@ This guide will document the steps to set up and run Giveth.io locally for the p
 
  - [Redis](https://redis.io/topics/quickstart)
  - [Postgres](https://www.postgresql.org/download)
- - Bash CLI
+ - Node 14+
  - yarn
  - npm
  - Your favourite Code Editor (VScode for linting presets)
 
 #### **Giveth IO leverages notable packages, applications and architectures including:**  
  - Ethereum
+ - React
  - NextJS
  - Apollo GraphQL
  - Tor.us
- - Theme UI
+ - theme-ui
 
 ### Install the back-end (impact-graph) from GitHub
 In order to develop locally you need to clone the back-end server. We are using https://github.com/Giveth/impact-graph for this.
@@ -59,13 +60,19 @@ postgres=# grant all privileges on database <databaseName> to <userName>;
   ```
 
 ### Get the Environment Variables
- In order to run the local build for Giveth.io you'll need to ask for the environment variables. Head on over to our [Contributors Discord](https://discord.gg/EndTUw9955) say Hi and get in touch with one of the developers.
+ In order to run the local build for Giveth.io you'll need to ask for the environment variables. Head on over to our [Contributors Discord](https://discord.giveth.io) say Hi and get in touch with our product manager, @MoeNick or one of the developers.
 
 
 ### Launch the Development Server and Environment
  Start up the `impact-graph` backend server and redis.
   - Run redis by using the command `redis-server`
   - From the impact-graph repo start with `npm start`
+
+  :::info
+  ### Using the Staging Database for Development
+  If you don't need to setup a local database for your development purposes you can use the staging database instead. Set `NEXT_PUBLIC_APOLLO_SERVER` to `https://serve.giveth.io/graphql` (this uses the same database you see on https://next.giveth.io)
+  :::
+
 
 ### Run the Migrations to Setup the Database
 In a separate terminal `cd` into the `impact-graph`

@@ -24,7 +24,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl'
 
 #### Any OS
   1. Click **Star** on this repo near the top-right corner of this web page (if you want to).
-  2. Join our [Contributors Discord](https://discord.gg/EndTUw9955) if you haven't already.
+  2. Join our [Contributors Discord](https://discord.giveth.io) if you haven't already.
   3. Fork this repo by clicking **Fork** button in top-right corner of this web page. Continue to follow instruction steps from your own feathers-giveth repo.
   5. The rest of these steps must be done from your machine's command line. Clone your own "feathers-giveth" repo. Copy the link from the "Clone or download" button near the top right of this repo's home page.
       ```bash

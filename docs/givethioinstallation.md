@@ -51,7 +51,7 @@ postgres=# grant all privileges on database <databaseName> to <userName>;
   ```
 
 ### Get the Environment Variables
- In order to run the local build for Giveth.io you'll need to ask for the environment variables. Head on over to our [Contributors Discord](https://discord.gg/EndTUw9955) say Hi and get in touch with one of the developers.
+ In order to run the local build for Giveth.io you'll need to ask for the environment variables. Head on over to our [Contributors Discord](https://discord.giveth.io) say Hi and get in touch with one of the developers.
 
 ### Launch the Development Server and Environment
  Start up the `impact-graph` backend server and redis.

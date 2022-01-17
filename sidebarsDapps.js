@@ -46,17 +46,17 @@ module.exports = {
      items: [ {
        type: 'category',
        label: 'Giveth.io',
-       items: ['givethioinstallation','contributors', 'testing-guidelines', 'dev-guidelines']
+       items: ['givethioinstallation','contributors', 'testing-guidelines']
      }, {
        type: 'category',
        label: "Giveth TRACE",
-       items: ['TRACEinstallation','bridgeSecurity', 'leavingTraces', 'developmentProcess']
+       items: ['TRACEinstallation','bridgeSecurity', 'developmentProcess']
      },
-    // {
-    //   type: 'category',
-    //   label: 'GIVeconomy',
-    //   items: []
-    // }
+    {
+      type: 'category',
+      label: 'GIVeconomy',
+      items: ['installGIVeconomy']
+    }
   ]
    },
    //     {
