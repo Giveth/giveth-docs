@@ -3,7 +3,7 @@ id: governanceProcess
 title: Governance Process
 ---
 
-Giveth Governance benefits from a robust design and utilizes several platforms to aggregrate and foster advice, consensus, signalling, voting  and all the other wonderful actions enabled by Web3 decion-making systems.
+Giveth Governance benefits from a robust design and utilizes several platforms to aggregrate and foster advice, consensus, signalling, voting  and all the other wonderful actions enabled by Web3 decision-making systems.
 
 We can divide governance participants into three categories based on their possible actions and the platforms they can use to participate. They are **GIV token holders**, **rDAO members**, and **the greater community** (or simply, the community).
 
