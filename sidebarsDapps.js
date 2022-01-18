@@ -43,10 +43,10 @@ module.exports = {
     {
      type: 'category',
      label: "Developer Guides",
-     items: [ {
+     items: [ 'contributors', {
        type: 'category',
        label: 'Giveth.io',
-       items: ['givethioinstallation','contributors', 'testing-guidelines']
+       items: ['givethioinstallation', 'testing-guidelines']
      }, {
        type: 'category',
        label: "Giveth TRACE",
@@ -55,7 +55,7 @@ module.exports = {
     {
       type: 'category',
       label: 'GIVeconomy',
-      items: ['installGIVeconomy']
+      items: ['installGIVeconomy', 'testingGIVeconomy']
     }
   ]
    },
