@@ -208,15 +208,15 @@ Framework: We’re practicing mostly Scrum, in biweekly iterations (called sprin
 ### What is Scrum?
 In scrum, the sprint is a set period of time where all the work is done. However, before you can leap into action you have to set up the sprint. You need to decide on how long the time box is going to be, the sprint goal, and where you're going to start. The sprint planning session kicks off the sprint by setting the agenda and focus.
 
-- The What –  The product owner describes the objective(or goal) of the sprint and what backlog items contribute to that goal. The scrum team decides what can be done in the coming sprint and what they will do during the sprint to make that happen.
+- **The What** –  The product owner describes the objective(or goal) of the sprint and what backlog items contribute to that goal. The scrum team decides what can be done in the coming sprint and what they will do during the sprint to make that happen.
 
-- The How – The development team plans the work necessary to deliver the sprint goal. Ultimately, the resulting sprint plan is a negotiation between the development team and product owner based on value and effort.
+- **The How** – The development team plans the work necessary to deliver the sprint goal. Ultimately, the resulting sprint plan is a negotiation between the development team and product owner based on value and effort.
 
-- The Who – You cannot do sprint planning without the product owner or the development team. The product owner defines the goal based on the value that they seek. The development team needs to understand how they can or cannot deliver that goal. If either is missing from this event it makes planning the sprint almost impossible.
+- **The Who** – You cannot do sprint planning without the product owner or the development team. The product owner defines the goal based on the value that they seek. The development team needs to understand how they can or cannot deliver that goal. If either is missing from this event it makes planning the sprint almost impossible.
 
-- The Inputs – A great starting point for the sprint plan is the product backlog as it provides a list of ‘stuff’ that could potentially be part of the current sprint. The team should also look at the existing work done in the increment and have a view to capacity.
+- **The Inputs** – A great starting point for the sprint plan is the product backlog as it provides a list of ‘stuff’ that could potentially be part of the current sprint. The team should also look at the existing work done in the increment and have a view to capacity.
 
-- The Outputs – The most important outcome for the sprint planning meeting is that the team can describe the goal of the sprint and how it will start working toward that goal. This is made visible in the sprint backlog.
+- **The Outputs** – The most important outcome for the sprint planning meeting is that the team can describe the goal of the sprint and how it will start working toward that goal. This is made visible in the sprint backlog.
 
 <img alt="sprint planning" width='75%' src={useBaseUrl('img/content/sprintInfo.png')} />
 
@@ -226,7 +226,7 @@ Before the iteration starts, you may need to have your expected total contributi
 
 It helps the Product Managers (PMs) to plan for the resources better and know if they are able to meet the milestone in each sprint or not. If you couldn’t find time to fill out the spreadsheet, you may be asked to do so during the meeting or whenever you can have an estimate, just DM it to PMs or put it in the dev channel.
 
-The usual sprint planning is going to be like this:
+The usual sprint planning goes like this:
 
 1. PMs bring the issues (Preferably User Stories to the planning meeting, describe it and make sure it’s clear for the team to start implementing.
 2. PM facilitates talks between devs to make it as clear as it can be.
@@ -252,14 +252,14 @@ The usual sprint planning is going to be like this:
 
 ## Installation Guides for Local Development
 
-- [Giveth.io](./dapps/givethioinstallation)
-- [Giveth TRACE](./dapps/TRACEinstallation)
-- [GIVeconomy](./dapps/installGIVeconomy)
+- [Giveth.io](./givethioinstallation)
+- [Giveth TRACE](./TRACEinstallation)
+- [GIVeconomy](./installGIVeconomy)
 
 ## Testing Guidelines
 
-- [Giveth.io](./dapps/testing-guidelines)
-- [GIVeconomy](./dapps/testingGIVeconomy)
+- [Giveth.io](./testing-guidelines)
+- [GIVeconomy](./testingGIVeconomy)
 
 ## Tools we Use
 
