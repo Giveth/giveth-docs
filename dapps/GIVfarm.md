@@ -21,8 +21,8 @@ The GIVfarm launched on **December 24, 2021**. 3.5% of the total token supply, 3
 The amount claimable from rewards on the day of launch will be 10% with the other 90% allocated to flow out from the GIVstream. The GIVstream will flow for 5 years and as time passes, the greater the amount immediately claimable from rewards will be. As you earn rewards in the GIVfarm, you also increase the flow rate of your GIVstream.
 
 ### Token Addresses
-GIV Mainnet - 0x900db999074d9277c5da2a43f252d74366230da0
-GIV xDai - 0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75
+- GIV Mainnet - 0x900db999074d9277c5da2a43f252d74366230da0
+- GIV xDai - 0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75
 
 ### Staking Contract Addresses (Mainnet)
 - Balancer v2 80GIV/ETH Pool -0xc0dbDcA66a0636236fAbe1B3C16B1bD4C84bB1E1
