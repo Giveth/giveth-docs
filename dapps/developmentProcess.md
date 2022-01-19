@@ -14,7 +14,7 @@ Giveth TRACE has transitioned from passive to active development for post-beta r
 
 Name | Blockchain | Branch Deployed | Auto Deploy | Use |
 -----|------------|-----------------|-------------|-----|
-[beta](https://beta.giveth.io) | Mainnet/Rinkeby | master | no | Bridged deployment; Rinkeby for internal contract interactions, Mainnet for sending and receiving real funds.
+[beta](https://trace.giveth.io) | Mainnet/Rinkeby | master | no | Bridged deployment; Rinkeby for internal contract interactions, Mainnet for sending and receiving real funds.
 [develop](https://develop.giveth.io) | Ropsten Test Network | develop | yes | Development environment for integrating and testing new features. Feature and pull request branches are deployed to this environment.
 
 The two branches below  are being used in the gitflow.
