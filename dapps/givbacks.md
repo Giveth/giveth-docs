@@ -14,7 +14,7 @@ GIVbacks rounds last two weeks. For each round, there is 1 million GIV available
 
 Givers who donate to verified projects within an active round are eligible to receive GIVbacks. Note that addresses of verified projects will not receive GIV for donations made to their own project or other verified projects.
 
-![](https://i.imgur.com/sgQqoWL.png)
+![](https://i.imgur.com/aklPnKC.png)
 
 
 ## Project Verification
