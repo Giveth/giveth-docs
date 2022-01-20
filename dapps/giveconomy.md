@@ -52,6 +52,20 @@ The intention with GIVfi is to create a sustainable way of maintaining funds in 
 ### **GURVES**
 Our biggest dream is to support for-good projects on Giveth to become their own microeconomies. The idea is when a donor gives to a verified project on Giveth, they get some GIV from the GIVbacks program. When this happens, some GIV is put into a [bonding curve](https://thegraph.academy/curators/introduction-to-bonding-curves/) that is uniquely generated for the project. The donor then receives freshly minted "project tokens" from the bonding curve. Projects are in effect being gifted their own token economy, opening up endless possibilities for incentives and system design!
 
+
+<details>
+  <summary><h3><i>*Interacting using the Torus Wallet</i></h3></summary>
+  <div><p>To interact with the <a href='https://giv.giveth.io/' target='_blank'>GIVeconomy</a> and other dApps using the Torus wallet you will have to connect your wallet. To connect, click the “Connect Wallet” icon in the upper right corner of the site, then select Torus and use your email to verify the login.</p>
+
+  <img alt="Signing in with Torus on the GIVeconomy" width="50%" height="auto" class='center' src={useBaseUrl('img/content/giveconomyTorusConnect.png')} />
+
+  <p>If you are using the Brave browser, you will need to turn off Brave’s Shield feature. To do this, click the Brave logo to the right of the search bar, then toggle the Shield to off.</p>
+
+  <img alt="Turning shields off with Brave" class='center'  width="35%" height="auto" src={useBaseUrl("img/content/giveconomyShieldsDown.png")} />
+  </div>
+</details>
+
+
 -----
 
 Giveth's mission is to reward and empower those who give. [The GIVeconomy](https://giv.giveth.io/) is a major milestone in the Future of Giving and is enabling our collective of projects, donors, builders, and community members to give in new ways that support projects, society & the world!
