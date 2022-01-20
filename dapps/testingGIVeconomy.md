@@ -128,4 +128,4 @@ The GIVstream is available on both Gnosis Chain and Kovan. Make sure you have pe
 
 ---
 
-Don’t forget to participate in the Platform Circle’s weekly meetings to stay in the loop. Read up on our Development Contributor’s guide (ADD LINK) for all the information you need to become a regular contributor to Giveth Development & Testing.
+Don’t forget to participate in the Platform Circle’s weekly meetings to stay in the loop. Read up on our [Development Contributor’s guide](./contributors) for all the information you need to become a regular contributor to Giveth Development & Testing.
