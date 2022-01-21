@@ -54,8 +54,7 @@ module.exports = {
         position: 'left'
         },
         {
-          to: 'jobs/',
-          activeBasePath: 'jobs',
+          href: 'https://giveth.recruitee.com/',
           label: 'Jobs',
           position: 'left'
         },
@@ -79,7 +78,7 @@ module.exports = {
           items: [
             {
               label: 'Giveth.io',
-              to: 'dapps/'
+              to: 'dapps/givethIO'
             },
             {
               label: 'Giveth TRACE',
@@ -109,7 +108,7 @@ module.exports = {
           items: [
             {
               label: 'Jobs',
-              to: 'jobs'
+              href: 'https://giveth.recruitee.com/'
             },
             {
               label: 'GitHub',
@@ -162,25 +161,25 @@ module.exports = {
         showLastUpdateTime: true
       }
     ],
-    [
-      '@docusaurus/plugin-content-docs',
-
-      {
-        id: 'jobs',
-
-        path: 'jobs',
-
-        editUrl: 'https://github.com/giveth/giveth-docs/edit/master/',
-
-        routeBasePath: 'jobs',
-
-        sidebarPath: require.resolve('./sidebarsjobs.js'),
-
-        showLastUpdateAuthor: true,
-
-        showLastUpdateTime: true
-      }
-    ],
+    // [
+    //   '@docusaurus/plugin-content-docs',
+    //
+    //   {
+    //     id: 'jobs',
+    //
+    //     path: 'jobs',
+    //
+    //     editUrl: 'https://github.com/giveth/giveth-docs/edit/master/',
+    //
+    //     routeBasePath: 'jobs',
+    //
+    //     sidebarPath: require.resolve('./sidebarsjobs.js'),
+    //
+    //     showLastUpdateAuthor: true,
+    //
+    //     showLastUpdateTime: true
+    //   }
+    // ],
     // [
     //   '@docusaurus/plugin-content-docs',
     //

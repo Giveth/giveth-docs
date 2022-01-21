@@ -19,17 +19,17 @@ module.exports = {
         label: 'Giveth.io',
         collapsed: true,
         link: {type: 'doc', id: 'givethIO'},
-        items: ['gettingStarted','crypto','createproject','listedUnlisted','makeTraceableProject','projectdonating' ,{
+        items: ['gettingStarted','crypto','createproject','listedUnlisted','projectVerification','projectdonating' ,{
            type: 'category',
            label: 'Wallets',
-           items: ['torusUserGuide', 'torusonramp', 'donatingmetamask'],
+           items: ['torusUserGuide', 'torusonramp','importTorusMM', 'donatingmetamask'],
          },
           'troubleshooting','faq'],
        },{
         type: 'category',
         label: 'Giveth TRACE',
         link: {type: 'doc', id:'introTrace'},
-        items: [ 'entitiesAndRoles','leavingTraces', 'technicalWhitePaper', 'exchangeRates', 'traceContracts' ]
+        items: [ 'entitiesAndRoles','makeTraceableProject','leavingTraces', 'technicalWhitePaper', 'exchangeRates', 'traceContracts' ]
          },
         { type: 'category',
           label: 'GIVeconomy',
