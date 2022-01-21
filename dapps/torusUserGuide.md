@@ -52,7 +52,7 @@ To send crypto you own to another wallet use `Transfer`. You will need Ethereum(
 
 ### Interacting with the GIVeconomy
 
-To interact with the [GIVeconomy](https://giv.giveth.io/) and other dApps using the Torus wallet you will have to connect your wallet. To connect, click the “Connect Wallet” icon in the upper right corner of the site, then select Torus and use your email to verify the login.
+To interact with the [GIVeconomy](https://giv.giveth.io/) and other dApps using the Torus wallet you will have to connect your wallet. To connect, click the “Connect Wallet” icon in the upper right corner of the site, then select Torus and verify. The Torus wallet allows users to sign in with accounts from many different web services, so be sure to sign in with the same account you used to set up the wallet. 
 
 <img alt="Signing in with Torus on the GIVeconomy" width="75%" height="auto" class='center' src={useBaseUrl('img/content/giveconomyTorusConnect.png')} />
 
