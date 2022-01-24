@@ -7,9 +7,9 @@ Giveth Governance benefits from a robust design and utilizes several platforms t
 
 We can divide governance participants into three categories based on their possible actions and the platforms they can use to participate. They are **GIV token holders**, **rDAO members**, and **the greater community** (or simply, the community).
 
-:::info
-Skip to the <a href="#TLDR">**TL;DR**</a>
-:::
+
+#### (Or skip to the <a href="#TLDR">**TL;DR**</a>)
+
 
 ## The Community
 Being part of the community has no requirements. If you know about Giveth and want to get engaged then we welcome you openly with our highest of vibes and spiciest of memes.
@@ -24,7 +24,10 @@ Anyone in the community can create a proposal, however there are some considerat
 
 If all conditions have been met, including time requirements for Advice Process, proposals can move on into either the GIVgarden or the rDAO DApps for voting.  In order to participate in these DApps you must hold either GIV or rGIV, respectively. All Giveth Governance DApps are deployed on xDai network.
 
-***A note on soft-conensus** : We often use polls inside the forum or on Discord to get soft-consensus for preferred outcomes. It's acceptable to use these same methods for [informal or low-impact decisions](#Informal-Decisions). However, for formal proposals they must indicate a clear intended outcome to keep objectives as clear as possible. The on-chain voting systems we use do not support multiple-choice voting.*
+:::note
+### Soft-Consensus
+ We often use polls inside the forum or on Discord to get soft-consensus for preferred outcomes. It's acceptable to use these same methods for [informal or low-impact decisions](#Informal-Decisions). However, for formal proposals they must indicate a clear intended outcome to keep objectives as clear as possible. The on-chain voting systems we use do not support multiple-choice voting.*
+:::
 
 ## GIV Token Holder
 
@@ -32,8 +35,13 @@ GIV token holders can get involved in decision making via the <a href="https://g
 
 ## rGIV Token Holder
 
+This is a form of executive council held for trusted Giveth contributors. rDAO members hold nrGIV and use an [Aragon DAO deployment](https://xdai.aragon.blossom.software/#/nrgiv/) to create and vote on proposals using simple Yes/No voting mechanics. Anyone can make a proposal, but only nrGIV holders can vote. Proposals will remain open for voting for 3 days and must adhere to the Quorum and Support Required percentages or else it will fail. In order to get nrGIV you must be a regular contributor to Giveth for at least 3 months. nrGIV is distributed quarterly to eligible current contributors.
 
-This is a form of executive council held for trusted Giveth contributors. rDAO members hold nrGIV and use an [Aragon DAO deployment](https://xdai.aragon.blossom.software/#/nrgiv/) to create and vote on proposals using simple Yes/No voting mechanics. Anyone can make a proposal, but only rGIV holders can vote. Proposals will remain open for voting for 3 days and must adhere to the Quorum and Support Required percentages or else it will fail. In order to get rGIV you must be a regular contributor to Giveth for at least 3 months. Lean how to become a contributor (and get rGIV) in our [Giveth Basics document](https://www.notion.so/giveth/Giveth-Basics-bff76dceaec64839b73aa89ba2fb8be4).  
+:::info
+When the first tokens are minted for a quarterly nrGIV distribution, all eligible contributors have 1 month from that date to request tokens. After this period the round is closed and no more token requests will be accepted for this period. Eligible contributors will still be able to request tokens for the next token distribution.
+:::
+
+Learn how to become a contributor (and get rGIV) in our [Giveth Basics document](https://www.notion.so/giveth/Giveth-Basics-bff76dceaec64839b73aa89ba2fb8be4).  
 ## Informal Decisions
 Not all decisions require formal on-chain votes. There is room for making low-impact, agile decisions via a range of platforms that Giveth's community utilizes. For the most clarity we refer to the Covenant's section on [off-chain decision making](https://docs.giveth.io/whatisgiveth/covenant/#off-chain):
 
