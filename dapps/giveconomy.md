@@ -13,7 +13,7 @@ Giveth is building a culture of giving that empowers and rewards those to give -
 GIV is the governance token that fuels and directs the GIVeconomy. GIV holders are empowered to collectively coordinate around shared resources and fund initiatives that shape the Future of Giving.
 
 At launch, our community can participate in the GIVeconomy in the following ways:
-- Starting on December 24, 2021, eligible recipients can claim their [**GIVdrop**](./givdrop) on xDai
+- Starting on December 24, 2021, eligible recipients can claim their [**GIVdrop**](./givdrop) on Gnosis Chain (formerly xDai Network)
 - Donors to [verified projects](https://giveth.io/projects) on Giveth get rewards from [**GIVbacks**](./givbacks)
 - Liquidity providers and stakers can earn rewards in the [**GIVfarm**](./givfarm)
 - All GIV holders can create and/or vote on proposals in the [**GIVgarden**](./givgarden)
@@ -22,7 +22,7 @@ At launch, our community can participate in the GIVeconomy in the following ways
 ### Token Info
 
 - Token Address on Mainnet: 0x900db999074d9277c5da2a43f252d74366230da0
-- Token Address on xDai (Gnosis Chain): 0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75
+- Token Address on Gnosis Chain (formerly xDai Network): 0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75
 
 ### Distribution
 
