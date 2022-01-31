@@ -1,7 +1,6 @@
 ---
 id: soliditydev
 title: Lead Solidity Developer
-slug: /
 ---
 ## [We Are Hiring a Lead Solidity Developer!](https://cryptojobslist.com/jobs/lead-solidity-smart-contract-developer-at-giveth-remote)
 
