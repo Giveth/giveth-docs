@@ -1,9 +1,10 @@
 module.exports = {
   whatisgiveth: [
-     'whatisgiveth','covenant','codeofconduct', 'givethCircles',
+     'whatisgiveth','covenant','codeofconduct','communityCommsGuide',
       {
         type: 'category',
         label: 'Circles',
+        link: {type: 'doc', id: 'givethCircles'},
         items: ['introCommunity', 'introPlatform', 'introGIVernance']
       },'governanceProcess',
       {
