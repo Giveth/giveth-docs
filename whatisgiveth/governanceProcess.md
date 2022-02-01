@@ -17,12 +17,12 @@ Being part of the community has no requirements. If you know about Giveth and wa
 The best place for formal conversations around Giveth take place on our [Discourse forum](https://forum.giveth.io/). Our forum invites a wide variety of topics for anyone to introduce in-depth discussion, however more importantly, this is the quintessential launchpad where any legitimate governance proposal must start from.
 
 Anyone in the community can create a proposal, however there are some considerations to make:
-- <a id="proposal">Proposals</a> ideally have a clearly defined intention defined that outline actions to be taken, potential consequences and funds requested (if applicable).
+- <a id="proposal">Proposals</a> ideally have a clearly defined intention that outlines actions to be taken, potential consequences and funds requested (if applicable).
 -  We adhere to a [**Community Covenant**](./covenant) which is our main reference point for any disputes or contentions.
 -  We use [**Advice Process**](./adviceProcess) to gather feedback and refine proposals.
 - Proposals must remain on the forum, open for Advice Process, for a **minimum of 5 days**.
 
-If all conditions have been met, including time requirements for Advice Process, proposals can move on into either the GIVgarden or the rDAO DApps for voting.  In order to participate in these DApps you must hold either GIV or rGIV, respectively. All Giveth Governance DApps are deployed on xDai network.
+If all conditions have been met, including time requirements for Advice Process, proposals can move on into either the GIVgarden or the rDAO DApps for voting.  In order to participate in these DApps you must hold either GIV or rGIV, respectively. All Giveth Governance DApps are deployed on Gnosis Chain (formerly xDai Network).
 
 :::note
 ### Soft-Consensus
@@ -51,10 +51,10 @@ Not all decisions require formal on-chain votes. There is room for making low-im
 
 <h2 id="TLDR">TL;DR</h2>
 
-1. Make a <a href="#proposal">proposal</a> on the Giveth <a href="https://forum.giveth.io" target="_blank">forum</a>
-    - Allow a minimum of 5 days for advice process
-2. Create a proposal in the DApp for on-chain voting, this should link to your forum proposal.
+1. Make a <a href="#proposal">proposal</a> on the Giveth <a href="https://forum.giveth.io" target="_blank">forum</a>.
+    - Allow a minimum of 5 days for advice process.
+2. Create a proposal in the DApp for on-chain voting; this should link to your forum proposal.
     - [GIVgardens](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98) for GIV token holders
     - [rDAO](https://xdai.aragon.blossom.software/#/nrgiv/) for nrGIV token holders
-3. Wait for Results
-4. Execute required actions
+3. Wait for results.
+4. Execute required actions.
