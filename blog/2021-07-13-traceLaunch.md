@@ -3,7 +3,7 @@ slug: traceLaunch
 title: "Giveth TRACE is Live 🚀"
 author: Lauren
 author_image_url: /img/laurenAuthor.png
-image: /img/blog/traceLaunchCover.png
+image: /img/blog/traceLiveBanner.png
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'
