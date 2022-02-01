@@ -59,10 +59,16 @@ module.exports = {
           position: 'left'
         },
         {
+          to: 'newsletter',
+          label: 'Newsletter',
+          position: 'left'
+        },
+        {
           to: 'blog',
           label: 'Blog',
           position: 'left'
         },
+
         {
           href: 'https://github.com/giveth/giveth-docs',
           label: 'GitHub',
@@ -160,6 +166,24 @@ module.exports = {
 
         showLastUpdateTime: true
       }
+    ],
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        /**
+         * Required for any multi-instance plugin
+         */
+        id: 'newsletter',
+        /**
+         * URL route for the blog section of your site.
+         * *DO NOT* include a trailing slash.
+         */
+        routeBasePath: 'newsletter',
+        /**
+         * Path to data on filesystem relative to site dir.
+         */
+        path: './newsletter',
+      },
     ],
     // [
     //   '@docusaurus/plugin-content-docs',
