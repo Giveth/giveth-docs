@@ -3,7 +3,7 @@ slug: flavorsOfGiveth
 title: Two Flavors of Giveth.. Which One to Choose?
 author: Mitch
 author_image_url: /img/mitchAuthor.jpeg
-image: /img/blog/givethsSIDEbySIDE.png
+image: /img/blog/twoFlavoursBanner.png
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'

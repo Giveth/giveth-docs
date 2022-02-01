@@ -3,7 +3,7 @@ slug: givethDAO
 title: "The Giveth DAO: Community GIVernance"
 author: Dani
 author_image_url: /img/blog/DaniAuthor.jpg
-image: /img/blog/rgivDAOtraceHeader.png
+image: /img/blog/givethDAOblog.png
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'
