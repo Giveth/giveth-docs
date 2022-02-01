@@ -11,7 +11,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 - Yarn
 - npm
-- your own [Infura](https://infura.io/) nodes for Kovan and xDai Networks
+- your own [Infura](https://infura.io/) nodes for Kovan Network and Gnosis Chain (formerly xDai Network)
 - your favourite code editor (We recommend VSCode)
 
 
