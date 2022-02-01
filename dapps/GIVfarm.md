@@ -5,16 +5,16 @@ slug: giveconomy/givfarm
 ---
 
 
-The GIVfarm launched on **December 24, 2021**. 3.5% of the total token supply, 35 Million GIV, has been allocated to the first GIVfarm round of 6 months, 65 million tokens are held in a multisig for future liquidity provision. Farms are available on either **Ethereum Mainnet (ETH)** or **xDai Network**. Any farms you stake tokens into will yield GIV rewards and add to your [GIVstream flowrate](https://docs.giveth.io/giveconomy/givstream) only for that corresponding chain. GIV reward distribution for the 6 pools available is as follows:
+The GIVfarm launched on **December 24, 2021**. 3.5% of the total token supply, 35 Million GIV, has been allocated to the first GIVfarm round of 6 months, 65 million tokens are held in a multisig for future liquidity provision. Farms are available on either **Ethereum Mainnet (ETH)** or **Gnosis Chain** (formerly xDai Network). Any farms you stake tokens into will yield GIV rewards and add to your [GIVstream flowrate](https://docs.giveth.io/giveconomy/givstream) only for that corresponding chain. GIV reward distribution for the 6 pools available is as follows:
 
 | Pool                          | Tokens Allocated |
 | ----------------------------- | ---------------- |
 | GIV/ETH Uniswap v3 on Mainnet | 10 Million GIV   |
 |80GIV/20ETH Balancer on Mainnet|2.5 Million GIV|
 |GIV Staking on Mainnet|2.5 Million GIV|
-|GIV/HNY Honeyswap on xDai|10 Million GIV|
-|GIV/WETH Sushiswap on xDai|2.5 Million GIV|
-|GIVgardens Staking on xDai|7.5 Million GIV|
+|GIV/HNY Honeyswap on Gnosis Chain (formerly xDai Network)|10 Million GIV|
+|GIV/WETH Sushiswap on Gnosis Chain (formerly xDai Network)|2.5 Million GIV|
+|GIVgardens Staking on Gnosis Chain (formerly xDai Network)|7.5 Million GIV|
 
 
 
@@ -22,13 +22,13 @@ The amount claimable from rewards on the day of launch will be 10% with the othe
 
 ### Token Addresses
 GIV Mainnet - 0x900db999074d9277c5da2a43f252d74366230da0
-GIV xDai - 0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75
+GIV Gnosis Chain (formerly xDai Network) - 0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75
 
 ### Staking Contract Addresses (Mainnet)
 - Balancer v2 80GIV/ETH Pool -0xc0dbDcA66a0636236fAbe1B3C16B1bD4C84bB1E1
 - Uniswap v3 50GIV/ETH Pool - 0x4B9EfAE862a1755F7CEcb021856D467E86976755
 - GIV Staking  - 0x3115e5aAa3D6f742d09fbB649150dfE285a9c2A3
-### Staking Contract Addresses (xDai)
+### Staking Contract Addresses (Gnosis Chain (formerly xDai Network))
 - GIV Staking - 0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2
 - GIV/HNY Honeyswap - 0x4B9EfAE862a1755F7CEcb021856D467E86976755
 - GIV/WETH SushiSwap -  0xfB429010C1e9D08B7347F968a7d88f0207807EF0
@@ -36,12 +36,12 @@ GIV xDai - 0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75
 ### LP Token Addresses (Mainnet)
 - Balancer v2 - 0x7819f1532c49388106f7762328c51ee70edd134c
 - Uniswap v3 Pool - 0xc763b6b3d0f75167db95daa6a0a0d75dd467c4e1
-### LP Token Addresses (xDai)
+### LP Token Addresses (Gnosis Chain (formerly xDai Network))
 - GIV/HNY Honeyswap -0x08ea9f608656A4a775EF73f5B187a2F1AE2ae10e
 - GIV/WETH SushiSwap -  0x55FF0cef43F0DF88226E9D87D09fA036017F5586
 
 ## GIVfarming the GIVgarden
-The GIVeconomy implements a unique feature in it's GIV Staking pool on xDAI. When you stake tokens in this farm you are also wrapping those GIV in the GIVgarden. This means that while collecting rewards from the GIVfarm you also unlock voting power within the [GIVgarden](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98) as long as you stay staked in this farm. Conversely, while wrapping GIV in the GIVgarden you are also staking tokens into the aforementioned GIV staking pool.
+The GIVeconomy implements a unique feature in it's GIV Staking pool on Gnosis Chain (formerly xDai Network). When you stake tokens in this farm you are also wrapping those GIV in the GIVgarden. This means that while collecting rewards from the GIVfarm you also unlock voting power within the [GIVgarden](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98) as long as you stay staked in this farm. Conversely, while wrapping GIV in the GIVgarden you are also staking tokens into the aforementioned GIV staking pool.
 
 ### Weekly Distribution
 
