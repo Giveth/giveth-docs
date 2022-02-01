@@ -1,27 +1,27 @@
 ---
 id: adviceProcess
-title: The Advice Process
+title: Advice Process
 ---
 
 *(freely adopted from ['Reinventing Organizations'](https://reinventingorganizationswiki.com/theory/decision-making/) by Frédéric Laloux)*
 
 *****************************************************************
 
-Giveth, as a decentralized organization, relies on the principles of self-management. Giveth is a team individuals with aligned values who decide to act together towards a common purpose. We have different backgrounds, expertise, methodologies and mental frameworks, and through self-management we are tapping into the potential of such different perspectives to solve Giveth's challenges.
+Giveth, as a decentralized organization, relies on the principles of self-management. Giveth is a team of individuals with aligned values who decide to act together towards a common purpose. We have different backgrounds, expertise, methodologies and mental frameworks, and through self-management we are tapping into the potential of such different perspectives to solve Giveth's challenges.
 
-**The Advice Process** is used whenever proposing an action or making a decision that will have an impact on the community. Any decision, big or small, should use the advice process. Before formally making a proposal, it is important to get feedback from the people it will impact, and from the person who has the most relevant expertise around the subject. The intentions are to improve proposals before they are made, preemptively resolve conflicts and to inform related parties. Compromise is a great solution, but not always plausible. Advice process allows objections to be heard and for proposal creators to consider the potential consequences before taking action.
+**Advice Process** is used whenever proposing an action or making a decision that will have an impact on the community. Any decision, big or small, should use Advice Process. Before formally making a proposal, it is important to get feedback from the people it will impact, and from the person who has the most relevant expertise around the subject. The intentions are to improve proposals before they are made, preemptively resolve conflicts and to inform related parties. Compromise is a great solution, but not always plausible. The advice process allows objections to be heard and for proposal creators to consider the potential consequences before taking action.
 
-Everyone is empowered to make proposals but must consider that they will also be held accountable for the effects of the outcome. However,if the advice process has been followed, there will be an idea of the reasons why one takes an initiative and all affiliated parties will have contributed to bring the initiative to the best possible outcome (or to not start it at all). If the proposal fails or has challenging consequences after properly using the Advice process it is therefore hard to fault the instigator for trying. **It's OK to fail, as long as you do it properly!**
+Everyone is empowered to make proposals but must consider that they will also be held accountable for the effects of the outcome. However, if Advice Process has been followed, there will be an idea of the reasons why one takes an initiative and all affiliated parties will have contributed to bring the initiative to the best possible outcome (or to not start it at all). If the proposal fails or has challenging consequences after properly using Advice Process it is therefore hard to fault the instigator for trying. **It's OK to fail, as long as you do it properly!**
 
-### Where does the Advice Process happen?
+### Where does Advice Process happen?
 
-Our most active channel for discussion is the [Giveth Forum](https://forum.giveth.io/). The Advice Process can be implemented publicly or privately; however, to remain aligned with our value of transparency, we heavily encourage community discussion to remain in public channels whenever appropriate to do so.
+Our most active channel for discussion is the [Giveth Forum](https://forum.giveth.io/). Advice Process can be implemented publicly or privately; however, to remain aligned with our value of transparency, we heavily encourage community discussion to remain in public channels whenever appropriate to do so.
 
 In our current DAO configuration, anyone can make a proposal on our [Aragon DAO Template](https://aragon.1hive.org/#/giveth/). rGiv Governance Token Holders can then vote on these proposals. This process is usually reserved for more critical decisions affecting the organization.
 
 ---
 
-With this system, tensions might arise over whether a decision was taken properly or not. Therefore, in order to **decentralize power** there needs to be a process that one can refer to. This process ensures that, even if there are disagreements with a proposal, it  was made with the best intention for the organization, and has taken into account feedback and advice from all relevant parties.
+With this system, tensions might arise over whether a decision was made properly or not. Therefore, in order to **decentralize power** there needs to be a process to which one can refer. This process ensures that, even if there are disagreements with a proposal, it  was made with the best intentions for the organization and has taken into account feedback and advice from all relevant parties.
 
 
 ### The Advice Process Flow:
@@ -31,7 +31,7 @@ With this system, tensions might arise over whether a decision was taken properl
     In ideation, problems or opportunities are taken on by the person who notices them, or deferred to someone better-qualified. Self-management implies **responsibility**. Tensions are not passed along a hierarchy as in traditional organizations, but are rather addressed by the person with the necessary energy or expertise.
 
 
-    ***Channels:*** The channel for communication in this phase is open. This can be informal so chat, make time for a call, have discussions, fireside chats, generate ideas
+    ***Channels:*** The channel for communication in this phase is open. This can be informal so chat, make time for a call, have discussions, fireside chats, generate ideas.
 
 
 2.  **Sounding / Meta thinking**:
@@ -80,9 +80,9 @@ With this system, tensions might arise over whether a decision was taken properl
 
 ## Underlying mindsets (adapted from [Reinventing Organizations website](https://reinventingorganizationswiki.com/theory/decision-making/)):
 
-The advice process is a tool that helps decision-making via collective intelligence. Much depends on the spirit in which people approach it. When the advice process is introduced, it might be worthwhile to consider not only the mechanics but also the mindset underlying effective use.
+Advice Process is a tool that helps decision-making via collective intelligence. Much depends on the spirit in which people approach it. When the advice process is introduced, it might be worthwhile to consider not only the mechanics but also the mindset underlying effective use.
 
-The advice process can proceed in several ways, depending on the mindset people bring to it:
+Advice Process can proceed in several ways, depending on the mindset people bring to it:
 
 *   The initiator can approach it authoritatively ("I don't care about what others have said" or, alternatively, "I fully comply with what others have said").
 *   They can approach from a perspective of negotiation or compromise ("I'll do some of what they say so they're happy, but I will feel a little frustrated").
@@ -93,6 +93,6 @@ The advice process can proceed in several ways, depending on the mindset people 
 
 ### Disclaimer
 **This document is not:**
-*   A process to run governance meetings: As a decentralized organization, there are challenges with taking decisions in a confined time slot. The governance meeting should be seen as the right moment to do some stages of the advice process and take decisions if all the affected parties are present.
+*   A process to run governance meetings: as a decentralized organization, there are challenges with making decisions in a confined time slot. The governance meeting should be seen as the right moment to engage in some stages of Advice Process and make decisions if all the affected parties are present.
 *   A dispute mechanism: Giveth is currently in the process of redefining our conflict resolution process.. Stay tuned!
-*   A stone tablet of rules: This document has been created through advice process and it can be modified by it as well.
+*   A stone tablet of rules: this document has been created through Advice Process and it can be modified by it as well.
