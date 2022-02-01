@@ -7,7 +7,7 @@ title: Discord Introduction and Tutorial
 ## Background - Migration to Discord
 We have moved the majority of our community chat and contributor collaboration from Riot.im (now Element Chat) to a new server on Discord.
 
-We are using a message relay bridge between Discord, Telegram and Element Chat that reliably mirrors the messages of a few chosen channels between the three applications. If Discord isn't for you, fear not! You can still interact with us using Telegram or Element chat.
+We are using a message relay bridge between Discord, Telegram and Element Chat that reliably mirrors the messages of a few chosen channels between the three applications. If Discord isn't for you, fear not! You can still interact with us using Telegram or Element Chat.
 
 The bridging software used is matterbridge. - Shout out to `@geleeroyale` for making the magic happen!
 
@@ -36,7 +36,7 @@ Once you have joined the server, a bot will send you a message with a Captcha to
 ## Channel Descriptions
 
 ### Welcome (start here)
-**`#🤝welcome`** is our landing channel.  This is also where you can assign yourself the role of Giver and / or Maker.  
+**`#🤝welcome`** is our landing channel.  This is also where you can assign yourself the role of Giver and/or Maker.  
 **`#🚩mission`** is for feedback, critique, kudos and conversation on the vision and mission of Giveth. We'd also love to hear about your organization here too if you see a good match, let us know why/how you'd like to join forces!  
 **`#🔨contribute`** allows interested parties to align on opportunities for collaboration.  
 **`#✋assign-roles`** allows you to assign yourself to roles so you get tagged in WG-related posts.  
@@ -113,7 +113,7 @@ You can tag certain roles by using "@" followed by the role. You also can tag an
 #### PraiseBot
 At Giveth, we love to acknowledge the value that each member brings to the community and provide recognition for the awesomeness that they contribute. The praise given is tracked by PraiseBot and used to calculate rewards for active contributors.
 
-You can praise a fellow community member in any channel by typing **`!praise`** followed by "@" and their username. Dont forget to mention why your praising them.
+You can praise a fellow community member in any channel by typing **`!praise`** followed by "@" and their username. Dont forget to mention why you're praising them.
 
 **For example:** `!praise @WhyldWanderer for creating such an amazing Discord Guide` :stuck_out_tongue:
 
