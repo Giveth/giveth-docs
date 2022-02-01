@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.giveth.io/blog</id>
     <title>Giveth Docs Blog</title>
-    <updated>2021-12-06T00:00:00.000Z</updated>
+    <updated>2022-01-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.giveth.io/blog"/>
     <subtitle>Giveth Docs Blog</subtitle>
     <icon>https://docs.giveth.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[What if giving gave back? Using web3 to evolve philanthropy.]]></title>
+        <id>evolvingPhilanthropy</id>
+        <link href="https://docs.giveth.io/blog/evolvingPhilanthropy"/>
+        <updated>2022-01-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Giveth mission is to reward & empower those who give — to projects, to society, and to the world. With GIVbacks, we’re rewarding givers by giving GIV to donors to verified projects on Giveth.]]></summary>
+        <author>
+            <name>Lauren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to the GIVeconomy]]></title>
+        <id>welcomeGIVeconomy</id>
+        <link href="https://docs.giveth.io/blog/welcomeGIVeconomy"/>
+        <updated>2021-12-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It is our great pleasure to officially introduce the GIVeconomy — an economy that rewards and empowers those who give to projects, to societies, and to the world.]]></summary>
+        <author>
+            <name>Lauren</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Giveth DAO: Community GIVernance]]></title>
         <id>givethDAO</id>

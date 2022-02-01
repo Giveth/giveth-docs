@@ -4,9 +4,23 @@
         <title>Giveth Docs Blog</title>
         <link>https://docs.giveth.io/blog</link>
         <description>Giveth Docs Blog</description>
-        <lastBuildDate>Mon, 06 Dec 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[What if giving gave back? Using web3 to evolve philanthropy.]]></title>
+            <link>https://docs.giveth.io/blog/evolvingPhilanthropy</link>
+            <guid>evolvingPhilanthropy</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Giveth mission is to reward & empower those who give — to projects, to society, and to the world. With GIVbacks, we’re rewarding givers by giving GIV to donors to verified projects on Giveth.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to the GIVeconomy]]></title>
+            <link>https://docs.giveth.io/blog/welcomeGIVeconomy</link>
+            <guid>welcomeGIVeconomy</guid>
+            <pubDate>Fri, 24 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[It is our great pleasure to officially introduce the GIVeconomy — an economy that rewards and empowers those who give to projects, to societies, and to the world.]]></description>
+        </item>
         <item>
             <title><![CDATA[The Giveth DAO: Community GIVernance]]></title>
             <link>https://docs.giveth.io/blog/givethDAO</link>
