@@ -1,5 +1,4 @@
 ---
-id: january2022
 title: January 2022
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';

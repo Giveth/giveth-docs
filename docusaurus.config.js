@@ -168,21 +168,14 @@ module.exports = {
       }
     ],
     [
-      '@docusaurus/plugin-content-blog',
+      '@docusaurus/plugin-content-docs',
       {
-        /**
-         * Required for any multi-instance plugin
-         */
+
         id: 'newsletter',
-        /**
-         * URL route for the blog section of your site.
-         * *DO NOT* include a trailing slash.
-         */
         routeBasePath: 'newsletter',
-        /**
-         * Path to data on filesystem relative to site dir.
-         */
-        path: './newsletter',
+        sidebarPath: require.resolve('./sidebarNewsletter.js'),
+
+        path: 'newsletter',
       },
     ],
     // [
