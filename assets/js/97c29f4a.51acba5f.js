@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgiveth_docs=self.webpackChunkgiveth_docs||[]).push([[8169],{4970:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"January 2022","permalink":"/newsletter/2022/01/31/January2022"}]}')}}]);
