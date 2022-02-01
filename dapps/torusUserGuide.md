@@ -25,7 +25,7 @@ From the [Torus page](https://app.tor.us/) you can check your wallet balance acr
 
 <img alt="Torus Account Homepage" src={useBaseUrl('img/content/givethio/torusAccountpage.png')} />
 
-Presently, Giveth projects can receive donations either on xDai network or Mainnet. By default, Torus will show you your Mainnet wallet balance. If you received donations on xDai you can check your balance by going to `Settings` and  selecting `xDai Network` from the `Network` drop down menu. If you naviagte back to `Home`, you should see your xDai wallet balance.
+Presently, Giveth projects can receive donations either on Gnosis Chain (formerly xDai Network) or Mainnet. By default, Torus will show you your Mainnet wallet balance. If you received donations on Gnosis Chain (formerly xDai Network) you can check your balance by going to `Settings` and  selecting `Gnosis Network` from the `Network` drop down menu. If you naviagte back to `Home`, you should see your xDai wallet balance.
 
 ### Finding your Tokens
 If you received a donation to your project but it doesn't show up in your Torus Wallet, you likely have to specify which token Torus should look for. This is done by adding the Token Address. Check your project's donations page on Giveth.io to see in which token(s) you've received donations.
