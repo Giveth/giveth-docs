@@ -18,21 +18,21 @@ Giveth is a community focused on **Building the Future of Giving** using blockch
 
 **Giveth encourages Decentralization:**
 
-- Giveth offers innovative open-source solutions built on blockchain technology, which is inherently decentralized
-- Giveth is pioneering and experimenting with decentralized governance and communication techniques and supporting their adoption by other communities
+- Giveth offers innovative open-source solutions built on blockchain technology, which is inherently decentralized.
+- Giveth is pioneering and experimenting with decentralized governance and communication techniques and supporting their adoption by other communities.
 
 **Giveth promotes Altruism:**
 
-- Giveth is an open, non-hierarchical global initiative empowering social, environmental and humanistic impact projects with modern technologies
-- Giveth supports many like-minded initiatives that are adding value to the world without necessarily having a direct profit motive
-- Giveth is building a self-sustaining giving economy that encourages and rewards altruistic intention
+- Giveth is an open, non-hierarchical global initiative empowering social, environmental and humanistic impact projects with modern technologies.
+- Giveth supports many like-minded initiatives that are adding value to the world without necessarily having a direct profit motive.
+- Giveth is building a self-sustaining giving economy that encourages and rewards altruistic intention.
 
 **Giveth believes in the power of Community:**
 
-- Giveth is an inclusive community united around a common goal
-- Giveth is a community-owned platform, building and developing our DApps based on feedback from our members
-- Giveth enables trust within communities by increasing transparency and accountability through blockchain technology
-- Giveth proactively reaches out to similar initiatives which we see as potential collaborators, as opposed to competitors
+- Giveth is an inclusive community united around a common goal.
+- Giveth is a community-owned platform, building and developing our DApps based on feedback from our members.
+- Giveth enables trust within communities by increasing transparency and accountability through blockchain technology.
+- Giveth proactively reaches out to similar initiatives which we see as potential collaborators, as opposed to competitors.
 
 ---
 
