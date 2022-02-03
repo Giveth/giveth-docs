@@ -4,13 +4,13 @@ title: Project Quality Assurance Guide
 slug: dapps/listedUnlisted
 ---
 
-In order to ensure the quality of projects on our DApp, we have implemented a processes for pre-screening projects before they are featured on the Giveth homepage. All new projects are initially **unlisted** until they are reviewed and approved by a Giveth Unicorn. Unlisted projects can still receive donations and can be accessed via the project's URL. However, only **listed** projects will appear on the Giveth homepage & projects page, and using our sort, filter and search functionalities.
+In order to ensure the quality of projects on our DApp, we have implemented a processus for pre-screening projects before they are featured on the Giveth homepage. All new projects are initially **unlisted** until they are reviewed and approved by a Giveth Unicorn. Unlisted projects can still receive donations and can be accessed via the project's URL. However, only **listed** projects will appear on the Giveth homepage & projects page, and using our sort, filter and search functionalities.
 
-Once reviewed and approved, listed projects will appear everywhere on the DApp! If a project does not meet the listed critera, the project owner will receive an email asking them to update the project. If the project updates their project, it will be reviewed again by our team.
+Once reviewed and approved, listed projects will appear everywhere on the DApp! If a project does not meet the listed critera, the project owner will receive an email asking them to update the project. If the project owner updates their project, it will be reviewed again by our team.
 
-If a project is reviewed and found to violate our **Terms of Use**, it will be **cancelled** immediately and the project owner will be notified via email.
+If a project is reviewed and found to violate our **Terms of Use**, it will be **cancelled** immediately, and the project owner will be notified via email.
 
-The following guide is intended to support project owners in creating high quality listings, and support Giveth Unicorns in the review process.
+The following guide is intended to support project owners in creating high quality listings and to support Giveth Unicorns in the review process.
 
 
 ## Listed Projects
@@ -47,18 +47,18 @@ However, in order to remain active, the unlisted project must still exhibit:
 ![](https://i.imgur.com/TV9lNqw.jpg)
 
 3. Pritesh
-   - Very minimalistic description: "We are helping poor bangladeshi people after the crash. We are giving out rice and clothes to people around us"
-    - No clarity given in the details of what crash and exactly the process for "giving rice and clothes"
+   - Very minimalistic description: "We are helping poor Bangladeshi people after the crash. We are giving out rice and clothes to people around us."
+    - No clarity given in the details of what crash and the exact process for "giving rice and clothes"
 ![](https://i.imgur.com/e22OlGd.png)
 
 4. Cats
-   - Very minimalistic description: "We're collecting funds to give to the local cat shelter. we always need moar funding for cats"
+   - Very minimalistic description: "We're collecting funds to give to the local cat shelter. We always need moar funding for cats."
    - No website, no clear explanation of how they will use the funds to help cats
 ![](https://i.imgur.com/P0fvJXE.png)
 
 ## Cancelled Projects
 
-Projects that are found to exhibit "unacceptable behaviour" and/or violate our [Covenant](../whatisgiveth/covenant) and/or **Terms of Use** will be cancelled immediately and an email will be send to the project owner.
+Projects that are found to exhibit "unacceptable behaviour" and/or violate our [Covenant](../whatisgiveth/covenant) and/or **Terms of Use** will be cancelled immediately, and an email will be send to the project owner.
 
 ### Examples of unacceptable behaviour include:
 - :x: The use of violent or sexualized language or imagery, and sexual attention or advances of any kind
