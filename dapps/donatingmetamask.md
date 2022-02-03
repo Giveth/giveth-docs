@@ -27,4 +27,4 @@ We'll walk you through the process of making a crypto donation via Metamask here
  <img id="contentimg" alt='Successful Donation' src={useBaseUrl('img/content/metamaskSuccessfulDonation.png')} />
 
 ### To Donate with xDai
-If you're tired of paying outrageous gas fees on Mainnet Giveth supports donations on xDai. To get Metamask [setup on the Gnosis Chain (formerly xDai Network) go here](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup). Log in with Gnosis Chain (formerly xDai Network) via MetaMask on Giveth.io. You can follow the same process for making donations on Gnosis Chain (formerly xDai Network) as on Mainnet.
+If you're tired of paying outrageous gas fees on Mainnet Giveth supports donations on the Gnosis Chain (formerly xDai Network). To get Metamask [setup on the Gnosis Chain (formerly xDai Network) go here](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup). Log in with Gnosis Chain (formerly xDai Network) via MetaMask on Giveth.io. You can follow the same process for making donations on Gnosis Chain (formerly xDai Network) as on Mainnet.
