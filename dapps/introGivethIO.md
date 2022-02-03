@@ -14,9 +14,9 @@ Giveth.io, [launched in March 2021](https://medium.com/giveth/the-future-of-givi
 
 [Giveth.io](https://giveth.io) boasts a smooth onboarding process for donors and projects. Creating a project can be done in minutes, making donations can be done in seconds. Finding quality projects making social or environmental change is easy.
 
-Our Donation Application uses a direct peer-to-peer donation framework, funds donated are sent to the project owner's Ethereum address. Giveth does not collect any fees from interactions on the platform.
+Our Donation Application uses a direct peer-to-peer donation framework; funds donated are sent to the project owner's Ethereum address. Giveth does not collect any fees from interactions on the platform.
 
-Giveth.io is currently deployed on both Ethereum mainnet and xDai networks.
+Giveth.io is currently deployed on both Ethereum mainnet and Gnosis chain (formerly xDai Network).
 
 ## Verification and Traceable Projects
 
