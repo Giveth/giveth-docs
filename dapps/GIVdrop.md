@@ -96,14 +96,14 @@ In addition to the GIVdrop, you'll also receive a GIVstream which will continuou
 
 Click `HARVEST` to generate the transaction to claim your GIVdrop to your connected wallet.
 
-You're now equipped and ready to jump into the GIVeconomy - Discover all the great ways you can contribute to a [thriving economy of Giving](https://giv.giveth.io/)
+You're now equipped and ready to jump into the GIVeconomy - Discover all the great ways you can contribute to a [thriving economy of Giving](https://giv.giveth.io/).
 
 
 ---
 
 ### 2. The address provided has already claimed its GIVdrop
 
-You already claimed the GIVdrop for the address you provided. However, you have no shortage of options now at your disposal. Give us a shout out on Twitter and join our Discord to see the action happening in our Community.
+You already claimed the GIVdrop for the address you provided. However, you have no shortage of options now at your disposal. Give us a shout out on Twitter, and join our Discord to see the action happening in our Community.
 
 <img alt='you already claimed' src={useBaseUrl('/img/content/giveconomy/claimClaimed1.png')} />
 
@@ -118,7 +118,7 @@ Lastly, and most importantly, click `Explore the GIVeconomy` to jump into GIVeco
 Unfortunately the address provided didn't receive a GIVdrop. Check the wallet address you provided or that you've connected with the correct wallet address.
 <img alt='you missed the GIVdrop' src={useBaseUrl('/img/content/giveconomy/claimMissed1.png')} />
 
-If you missed out don't fret, there are still other ways to get GIV! You can follow the link on the [GIVfarm](https://giv.giveth.io/givfarm) page to take you to your local friendly Decentralized Exchange (on Mainnet or Gnosis Chain [formerly xDai Network]) to swap your crypto for some of that sweet sweet GIV.
+If you missed out, don't fret; there are still other ways to get GIV! You can follow the link on the [GIVfarm](https://giv.giveth.io/givfarm) page to take you to your local friendly Decentralized Exchange (on Mainnet or Gnosis Chain [formerly xDai Network]) to swap your crypto for some of that sweet, sweet GIV.
 
 <img alt='buy tokens link from GIVfarm' src={useBaseUrl('/img/content/giveconomy/claimMissed2.png')} />
 
@@ -126,12 +126,12 @@ Or if you want to be a real GIVhero, participate in the GIVbacks program. You ca
 
 ---
 
-### *If you get stuck in the GIVdrop claim:
+### If you get stuck in the GIVdrop claim:
 You could find yourself stuck in the GIVdrop Connect page for a variety of reasons including:
 - Declining to connect your wallet in MetaMask
 - Not connected to Gnosis Chain (formerly xDai Network)
 
-To remedy this, open up your MetaMask extension and verify your connection:
+To remedy this, open up your MetaMask extension, and verify your connection:
 <img alt='troubleshooting getting stuck' src={useBaseUrl('/img/content/giveconomy/claimStuck1.png')} />
 
-Ensure you're on Gnosis Chain (formerly xDai Network), and connect the wallet you'd like to claim for to the DApp. If the page doesn't update automatically just give it a quick refresh (F5) and you should be good to go!
+Ensure you're on Gnosis Chain (formerly xDai Network), and connect the wallet you'd like to claim for to the DApp. If the page doesn't update automatically just give it a quick refresh (F5), and you should be good to go!
