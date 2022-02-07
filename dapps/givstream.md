@@ -60,6 +60,6 @@ Note: When earning rewards in the GIVfarm, it does not matter if you harvest rew
 The GIVstream nurtures the GIVeconomy at inception by having only 10% of the total supply of GIV liquid and transferrable to start. As the GIVeconomy grows & stabilizes, more GIV becomes liquid and available for everyone. We want to empower those who support the Giveth ecosystem with steadily increasing governance rights, this includes participants who:
 - [Donate to Verified Projects](https://giveth.io/projects)
 - Vote in the [GIVgarden](https://giv.giveth.io/givgarden), and
-- Provide liquidity in the [GIVfarm](https://giv.giveth.io/givfarm)
+- Provide liquidity in the [GIVfarm](https://giv.giveth.io/givfarm) 
 
 Participants benefit from their GIVstream flowing as the GIVeconomy flourishes over time, therefore we ensure that Giveth is not just governed by people who buy tokens on the open market but by those who contribute in a more meaningful way.
