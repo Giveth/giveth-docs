@@ -147,4 +147,4 @@ Each person has an opportunity to share a closing reflection on this meeting. No
 #### 7. Transparency Publishing
 The Note Taker posts the meeting notes in the #meetingnotes channel on the Giveth Discord.
 
-The Livestream Recorder publishes the audio/video recording of the meeting in the Giveth Transparency YouTube channel.
+The Livestream Recorder publishes the audio/video recording of the meeting in the Giveth Transparency YouTube channel. 

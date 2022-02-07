@@ -7,7 +7,7 @@ slug: dapps/givethioinstallation
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'
 
-This guide will document the steps to set up and run Giveth.io locally for the purposes of development.The setup process was documented using Ubuntu 20.04 LTS.
+This guide will document the steps to set up and run Giveth.io locally for the purposes of development. The setup process was documented using Ubuntu 20.04 LTS.
 
 #### **You'll need a couple prerequisites to get started.**
 
@@ -50,7 +50,7 @@ postgres=# create user <userName> with encrypted password '<passwordHere>';
 postgres=# grant all privileges on database <databaseName> to <userName>;
 ```
 ### Clone and Install the Frontend
-  Head on over to https://github.com/Giveth/giveth-next and clone the repo.  
+  Head on over to https://github.com/Giveth/giveth-next, and clone the repo.  
 
   *via SSH on the CLI:*
   ```bash
@@ -60,35 +60,34 @@ postgres=# grant all privileges on database <databaseName> to <userName>;
   ```
 
 ### Get the Environment Variables
- In order to run the local build for Giveth.io you'll need to ask for the environment variables. Head on over to our [Contributors Discord](https://discord.giveth.io) say Hi and get in touch with our product manager, @MoeNick or one of the developers.
+ In order to run the local build for Giveth.io you'll need to ask for the environment variables. Head on over to our [Contributors Discord](https://discord.giveth.io), say Hi and get in touch with our product manager, @MoeNick or one of the developers.
 
 
 ### Launch the Development Server and Environment
  Start up the `impact-graph` backend server and redis.
-  - Run redis by using the command `redis-server`
-  - From the impact-graph repo start with `npm start`
+  - Run redis by using the command `redis-server`.
+  - From the impact-graph repo start with `npm start`.
 
   :::info
   ### Using the Staging Database for Development
-  If you don't need to setup a local database for your development purposes you can use the staging database instead. Set `NEXT_PUBLIC_APOLLO_SERVER` to `https://serve.giveth.io/graphql` (this uses the same database you see on https://next.giveth.io)
+  If you don't need to setup a local database for your development purposes you can use the staging database instead. Set `NEXT_PUBLIC_APOLLO_SERVER` to `https://serve.giveth.io/graphql` (this uses the same database you see on https://next.giveth.io).
   :::
 
 
 ### Run the Migrations to Setup the Database
 In a separate terminal `cd` into the `impact-graph`
-run this command in the terminal
+run this command in the terminal:
 ```bash
 npm run typeorm:cli -- migration:run
 ```
 
 ### Deploy the Front-end
  To take advantage of linting presets, please use **VSCODE**:
- * Select *File -> Open Workspace*
- * Navigate into the giveth-next directory
- * Open the workspace file `giveth2-full-stack.code-workspace`
- * Install recommended extensions (Prettier and StandardJS plugins)
-
- Then fire up the front-end locally.
+ * Select *File -> Open Workspace*.
+ * Navigate into the giveth-next directory.
+ * Open the workspace file `giveth2-full-stack.code-workspace`.
+ * Install recommended extensions (Prettier and StandardJS plugins).
+ * Then fire up the front-end locally.
 
  ```bash
  yarn run dev
@@ -102,10 +101,10 @@ Giveth.io is now running locally at `http://localhost:8000`!
 
 <img id="contentimg" alt='Giveth Running Locally' src={useBaseUrl('img/content/givethlocalresized.png')} />
 
-You can also expiremnt with querying your data via GraphQL - you'll find it at this link here - `http://localhost:8000/___graphql`
+You can also expiremnt with querying your data via GraphQL. You'll find it at this link here: `http://localhost:8000/___graphql`
 Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).
 
-  Save your changes and the browser will update in real time!
+  Save your changes, and the browser will update in real time!
 
 **Current Build Statuses**
 
