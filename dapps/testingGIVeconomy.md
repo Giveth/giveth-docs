@@ -30,7 +30,7 @@ The following actions are defined as core functionality. If one of these steps i
 
 
 ### GIVgarden
-The GIVgarden staging deployment uses both Gnosis Chain (formerly xDai). The token used for this deployment is *DRGIV3*
+The GIVgarden staging deployment uses both Kovan Network and Gnosis Chain (formerly xDai Network). The token used for this deployment is *DRGIV3*.
 
 :::info
 DRGIV3 can be wrapped in the [DRGIV3 Garden](https://gardens-staging.1hive.org/#/xdai/garden/0x16388d99199a74810fc572049b3d4d657e7d5deb) to receive gDRGIV3. This is the same action as staking your DRGIV3 in the GIVgarden Staking in the GIVfarm on Gnosis Chain.
@@ -43,7 +43,7 @@ DRGIV3 can be wrapped in the [DRGIV3 Garden](https://gardens-staging.1hive.org/#
 
 
 ### GIVfarm
-The GIVfarm staging deployment uses both Gnosis Chain and Kovan (mainnet) Networks. The token used for this deployment is *DRGIV3*:
+The GIVfarm staging deployment uses both Gnosis Chain and Kovan (Mainnet) Network. The token used for this deployment is *DRGIV3*:
 - `0x83a8eea6427985C523a0c4d9d3E62C051B6580d3` on Gnosis Chain
 - `0x29434a25abd94ae882aa883eea81585aaa5b078d` on Kovan
 
@@ -97,21 +97,21 @@ On Kovan, regular Kovan ETH is used for providing liquidity and paying gas.
 
 ## GIVbacks
 
-To learn how to create a test GIVback distribution, contact a Developer or mitch(divine_comedian#5493) on Discord to help you.
+To learn how to create a test GIVback distribution, contact a Developer or mitch (divine_comedian#5493) on Discord to help you.
 
 You'll have to make a legitimate donation to a verified project on Giveth.io in order to test GIVbacks with your own Ethereum Address.
 
  Once you have executed a test distribution you can verify a few pieces of the `GIVbacks` page:
 
 :::info
-GIVbacks are only available on Gnosis Chain (formerly xDai Network)
+GIVbacks are only available on Gnosis Chain (formerly xDai Network).
 :::
 
 - Verify your GIVbacks Reward amount, checking that the calculations align with the donations you made to a verified project during your defined GIVbacks period.
-- Your GIVbacks claimable amount should be a set amount (not increasing like GIVfarm rewards)
-- Your GIVbacks streaming amount should be in the GIVstream history table at the time of GIVbacks distribution
-- Harvest GIVbacks is successful
-- `DONATE` and `VERIFY` buttons work
+- Your GIVbacks claimable amount should be a set amount (not increasing like GIVfarm rewards).
+- Your GIVbacks streaming amount should be in the GIVstream history table at the time of GIVbacks distribution.
+- Harvest GIVbacks is successful.
+- `DONATE` and `VERIFY` buttons work.
 
 ## GIVstream
 The GIVstream is available on both Gnosis Chain and Kovan. Make sure you have pending farming rewards on both networks to fully test the GIVstream.
