@@ -6,23 +6,23 @@ slug: giveconomy/
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 
-Giveth is building a culture of giving that empowers and rewards those to give --- to projects, to society, and to the world. We aim to inspire our community to participate in an ecosystem of collective support, abundance and value-creation. **Welcome to the GIVeconomy.**
+Giveth is building a culture of giving that empowers and rewards those who give -- to projects, to society, and to the world. We aim to inspire our community to participate in an ecosystem of collective support, abundance and value-creation. **Welcome to the GIVeconomy.**
 
 ## About GIV
 
 GIV is the governance token that fuels and directs the GIVeconomy. GIV holders are empowered to collectively coordinate around shared resources and fund initiatives that shape the Future of Giving.
 
 At launch, our community can participate in the GIVeconomy in the following ways:
-- Starting on December 24, 2021, eligible recipients can claim their [**GIVdrop**](./givdrop) on xDai
-- Donors to [verified projects](https://giveth.io/projects) on Giveth get rewards from [**GIVbacks**](./givbacks)
-- Liquidity providers and stakers can earn rewards in the [**GIVfarm**](./givfarm)
-- All GIV holders can create and/or vote on proposals in the [**GIVgarden**](./givgarden)
-- Anyone who claims GIV from their participation in the GIVeconomy gets a continuous flow of GIV from the [**GIVstream**](./givstream) until December 23, 2026
+- From December 24, 2021 onward, eligible recipients can claim their [**GIVdrop**](./givdrop) on Gnosis Chain (formerly xDai Network).
+- Donors to [verified projects](https://giveth.io/projects) on Giveth get rewards from [**GIVbacks**](./givbacks).
+- Liquidity providers and stakers can earn rewards in the [**GIVfarm**](./givfarm).
+- All GIV holders can create and/or vote on proposals in the [**GIVgarden**](./givgarden).
+- Anyone who claims GIV from their participation in the GIVeconomy gets a continuous flow of GIV from the [**GIVstream**](./givstream) until December 23, 2026.
 
 ### Token Info
 
 - Token Address on Mainnet: 0x900db999074d9277c5da2a43f252d74366230da0
-- Token Address on xDai (Gnosis Chain): 0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75
+- Token Address on Gnosis Chain (formerly xDai Network): 0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75
 
 ### Distribution
 
@@ -55,7 +55,7 @@ Our biggest dream is to support for-good projects on Giveth to become their own 
 
 <details>
   <summary><h3><i>*Interacting using the Torus Wallet</i></h3></summary>
-  <div><p>To interact with the [GIVeconomy](https://giv.giveth.io/) and other dApps using the Torus wallet you will have to connect your wallet. To connect, click the “Connect Wallet” icon in the upper right corner of the site, then select Torus and verify. The Torus wallet allows users to sign in with accounts from many different web services, so be sure to sign in with the same account you used to set up the wallet.</p>
+  <div><p>To interact with the [GIVeconomy](https://giv.giveth.io/) and other dApps using the Torus wallet, you will have to connect your wallet. To connect, click the “Connect Wallet” icon in the upper right corner of the site, then select Torus and verify. The Torus wallet allows users to sign in with accounts from many different web services, so be sure to sign in with the same account you used to set up the wallet.</p>
 
   <img alt="Signing in with Torus on the GIVeconomy" width="50%" height="auto" class='center' src={useBaseUrl('img/content/giveconomyTorusConnect.png')} />
 

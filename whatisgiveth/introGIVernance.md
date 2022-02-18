@@ -15,7 +15,7 @@ Giveth aims to be a donor-focused organization that GIVs back to those who use o
 
 We value transparent, holistic governance and hope to be a shining example of it. We explore and readily adopt new innovations that support us in embodying these values. We believe in the self-organizing power of sociocracy, which we apply in the organization of tasks, participation in the [Proposal and Advice Process](https://forum.giveth.io/c/givernance/proposals), and facilitation of our governance meetings.
 
-Our circle is uniting the power of our [Decentralized Autonomous Community (DAC)](https://trace.giveth.io/community/giveth-dac) with the non-profit advantages of our [Donor Advised Foundation (DAF)](https://www.sdgimpactfund.org/giveth-foundation) to iterate upon creation of our governing [Decentralized Autonomous Organization (DAO)](https://aragon.1hive.org/#/giveth/).
+Our circle is uniting the power of our [Decentralized Autonomous Community (DAC)](https://trace.giveth.io/community/giveth-dac) with the non-profit advantages of our [Donor Advised Foundation (DAF)](https://www.sdgimpactfund.org/giveth-foundation) to iterate upon the creation of our governing [Decentralized Autonomous Organization (DAO)](https://aragon.1hive.org/#/giveth/).
 
 ## Mission
 
@@ -24,7 +24,7 @@ We are progressively decentralizing the Giveth decision-making process by buildi
 ## Goals
 
 - **Demonstrate Fiscal Accountability** by responsibly provisioning funds and skills toward team structure, conflict resolution, administration, financial transparency, organization of team gatherings and quality assurance. Meet the resource needs of the Giveth community, platform and economy.
-- **Innovate Internal Governance** through experimenting with and documenting decentralized governance systems within the Giveth DAO structure (e.g. Sociocracy, RewardDAO, Conviction Voting, SourceCred, etc.) that could prove useful for future Decentralized Altruistic Organizations to learn from and implement their own versions.
+- **Innovate Internal Governance** through experimenting with and documenting decentralized governance systems within the Giveth DAO structure (e.g. Sociocracy, RewardDAO, Conviction Voting, SourceCred, etc.) that could prove useful for future Decentralized Autonomous Organizations to learn from and implement their own versions.
 - **Collaborate with the Ethereum Ecosystem** to develop collaborative tools that generate mutual benefit and success by partnering with and participating in the governance of other mission-aligned organizations such as: [Commons Stack](https://commonsstack.org/), [Token Engineering Commons](https://forum.tecommons.org/),  [DAppNode](https://dappnode.io/),  [BrightID](https://www.brightid.org/),  [1Hive](https://about.1hive.org/),  [GitCoin](https://gitcoin.co/) and [MetaGame](https://wiki.metagame.wtf/).
 - **Create Regenerative Value** that nurtures and grows the Giveth Token Economy (GIVeconomy) by empowering individuals toward inclusive decentralized decision making with outcomes that have real impact on the organization and positive change in the world when cascaded through our listed projects.
 

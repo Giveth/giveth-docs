@@ -154,4 +154,4 @@ By following this template, you can create as many answers to the question you w
 Chip bot can play music from a multitude of sources including Spotify, YouTube, Soundcloud, etc. In order to have Chip bot play from Spotify just click on Share > Copy Playlist Link > copy this into your chat with the `ch!p` tag and you’re all set.
 
 ### Support
-If you run into any problems, or need to ask a question, please tag `@admin` or ask in the `#💬support` channel.
+If you run into any problems, or need to ask a question, please tag `@admin` or ask in the `#💬support` channel. 

@@ -57,4 +57,4 @@ Not all decisions require formal on-chain votes. There is room for making low-im
     - [GIVgardens](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98) for GIV token holders
     - [rDAO](https://xdai.aragon.blossom.software/#/nrgiv/) for nrGIV token holders
 3. Wait for results.
-4. Execute required actions.
+4. Execute required actions. 

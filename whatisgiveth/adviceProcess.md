@@ -95,4 +95,4 @@ Advice Process can proceed in several ways, depending on the mindset people brin
 **This document is not:**
 *   A process to run governance meetings: as a decentralized organization, there are challenges with making decisions in a confined time slot. The governance meeting should be seen as the right moment to engage in some stages of Advice Process and make decisions if all the affected parties are present.
 *   A dispute mechanism: Giveth is currently in the process of redefining our conflict resolution process.. Stay tuned!
-*   A stone tablet of rules: this document has been created through Advice Process and it can be modified by it as well.
+*   A stone tablet of rules: this document has been created through Advice Process and it can be modified by it as well. 
