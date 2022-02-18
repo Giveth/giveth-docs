@@ -14,21 +14,21 @@ It is one of our wallet options alongside https://metamask.io/
 
 
 **I’m a project. How do I receive my donations?**
-Connect MetaMask Wallet. *note:* wallet must be connected to the Ropsten network.
+Connect MetaMask Wallet. *Note:* wallet must be connected to the Ropsten network.
 You’ll find donations are already in your wallet!
 
 **I’m a donor. How do I know projects are getting my money?**
-Each project description page shows a list of all donations made to that project and by who. We believe that every human being should be able to transparently see their funds create good in the world. Transparency is the key to staying focused on the work at hand. You will get to see photos and receive frequent updates on the status of each project you've donated to.
+Each project description page shows a list of all donations made to that project and by whom. We believe that every human being should be able to transparently see their funds create good in the world. Transparency is the key to staying focused on the work at hand. You will get to see photos and receive frequent updates on the status of each project you've donated to.
 
-**I like your project but right now I have no funds to donate, how else can I contribute?**
-We are a very inclusive Community and would love your help, in any way possible, just [join](https://https://giveth.io/join/) and come talk to us! We even have a special channel for you: #contributors.
+**I like your project, but right now I have no funds to donate --how else can I contribute?**
+We are a very inclusive community and would love your help in any way possible. Just [join](https://https://giveth.io/join/), and come talk to us! We even have a special channel for you: #contributors.
 
-Oh, and one more thing. If you hold any cryptocurrency, you know that securing your keys is paramount. The Giveth core team uses the Ledger Nano S and by ordering yours via this link Giveth will receive a donation worth 15% of the cost. Protect yourself and support our cause!
+Oh, and one more thing. If you hold any cryptocurrency, you know that securing your keys is paramount. The Giveth core team uses the Ledger Nano S, and by ordering yours via this link, Giveth will receive a donation worth 15% of the cost. Protect yourself and support our cause!
 
 **What types of projects are prohibited?**
-Projects relating to violence, political dissent, porn (art excluded)
+Projects relating to violence, political dissent, porn (explicit art does not fall in this category).
 
 **Are there fees for creating a project?**
 Nope! Giveth will never charge any additional fees for creating projects on our platform. If you create a project on Giveth.io it creates an entry in our database that directly points to your chosen Ethereum wallet. You can do this as well with a brand new account that holds zero funds.
 
-There are minor fees when using the ethereum network, and if you use other exchanges or services, there are likely associated fees.
+There are minor fees when using the Ethereum network, and if you use other exchanges or services, there are likely associated fees.
