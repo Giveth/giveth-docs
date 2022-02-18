@@ -62,7 +62,7 @@ This use case is partially automated to ensure functionality before changes are 
 
 This use case does not include any automated testing and must be fully user-tested.
 
-* Donate in different tokens: ETH, ERC20, Ropsten (Mainnet), xDai (Gnosis Chain)
+* Donate with different tokens: ETH and ERC-20 tokens on Ropsten (Mainnet) and xDAI, ERC-20 tokens on Gnosis Chain (formerly xDai Network)
 * Donate with alternate wallets (other than sign in)
 * Check that funds leave wallet
 * Check that funds received/tracked by project
