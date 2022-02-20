@@ -30,20 +30,19 @@ Here is the information you will need to provide in the application:
 
 1. Your full name
 2. Your email address
-3. Links and/or usernames to the social media accounts that are owned by both you and the organization. eg. Twitter, Github, Discord, Facebook, etc.
-4. The name of your project
-5. A link to your Giveth.io project page
-6. Information about the history of your project, e.g., when it was founded, which milestones your organization/project has achieved since conception, etc. Please provide links to photos, videos, testimonials or other evidence of your project's impact.
-7. The funds raised are expected to be used for public benefit and not for personal gain - Giveth will need to know how you will use the funds that your project raises. We are looking for detailed funding goals as well as an overall roadmap/action plan of the project.
-8. A list of all wallet addresses used for managing funds within your project.
-9. In order to ensure that you are actually a representative of the project you're applying for, we ask that you post/share a link to your Giveth project **from the organization's Twitter or social media account.** You will need to provide a link to the Twitter or social media post.
-10. Confirm “Yes”: We pledge that funds raised will be used for public benefit, not for personal gain.
-11. Confirm “Yes”: We understand Giveth will be analyzing all donations looking for fraud or abuse. If Giveth has any reason to suspect abuse, we understand our donors may not receive any GIVbacks and that Giveth may share any evidence of fraud publicly.
-12. Confirm “Yes”: We will only accept new, external donations through Giveth, and we understand that if we are found to be recirculating our own funds through Giveth, this will be considered abuse of the system.
-13. Confirm “Yes”: We understand our donation data will be reviewed, and if it seems like in any way we are abusing the system, our donors will not receive GIVbacks, and we will lose our verified status.
-14. Our goal is to ensure there is no fraudulent use of GIVbacks. We will need to know what reputation is at stake for you and/or your project if you were to be found participating in malicious activity. *Please provide links to proof of reputation if available.
-15. If your project is part of a registered non-profit organization, you will need to upload documentation to prove your registered status. Having obtained non-profit status is not a requirement, but it is helpful for the verification process.
-16. If your project is not a registered non-profit, the team will need to know how your organization is structured.
+3. If your project is part of a registered non-profit organization, you will need to upload documentation to prove your registered status. Having obtained non-profit status is not a requirement, but it is helpful for the verification process.
+4. If your project is not a registered non-profit, the team will need to know how your organization is structured.
+5. Links and/or usernames to the social media accounts that are owned by both you and the organization. eg. Twitter, Github, Discord, Facebook, etc.
+6. The name of your project
+7. Information about the history of your project, e.g., when it was founded, which milestones your organization/project has achieved since conception, etc. Please provide links to photos, videos, testimonials or other evidence of your project's impact.
+8. The funds raised are expected to be used for public benefit and not for personal gain - Giveth will need to know how you will use the funds that your project raises. We are looking for detailed funding goals as well as an overall roadmap/action plan of the project.
+9. A list of all wallet addresses used for managing funds within your project.
+10. In order to ensure that you are actually a representative of the project you're applying for, we ask that you post/share a link to your Giveth project **from the organization's Twitter or social media account.** You will need to provide a link to the Twitter or social media post.
+11. Confirm “Yes”: We pledge that funds raised will be used for public benefit, not for personal gain.
+12. Confirm “Yes”: We understand Giveth will be analyzing all donations looking for fraud or abuse. If Giveth has any reason to suspect abuse, we understand our donors may not receive any GIVbacks and that Giveth may share any evidence of fraud publicly.
+13. Confirm “Yes”: We will only accept new, external donations through Giveth, and we understand that if we are found to be recirculating our own funds through Giveth, this will be considered abuse of the system.
+14. Confirm “Yes”: We understand our donation data will be reviewed, and if it seems like in any way we are abusing the system, our donors will not receive GIVbacks, and we will lose our verified status.
+15. Our goal is to ensure there is no fraudulent use of GIVbacks. We will need to know what reputation is at stake for you and/or your project if you were to be found participating in malicious activity. *Please provide links to proof of reputation if available.
 
 If you are a project owner who would like to apply to receive a `Verified` badge, encourage more Givers and also give back to those who have helped you reach your goals, please [fill out this form](https://giveth.typeform.com/verification).
 
