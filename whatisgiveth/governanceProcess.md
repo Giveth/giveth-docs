@@ -24,6 +24,8 @@ Anyone in the community can create a proposal, however there are some considerat
 
 If all conditions have been met, including time requirements for Advice Process, proposals can move on into either the GIVgarden or the rDAO DApps for voting.  In order to participate in these DApps you must hold either GIV or rGIV, respectively. All Giveth Governance DApps are deployed on Gnosis Chain (formerly xDai Network).
 
+**If a proposal desires to skip or shorten the Advice Process,** in the case of financial urgency for example, they may do so while providing a written disclaimer and a reason for doing so on their proposal. Skipping or shortening the Advice Process decreases the chances of a proposal passing, **do so with great discretion!**
+
 :::note
 ### Soft-Consensus
  We often use polls inside the forum or on Discord to get soft-consensus for preferred outcomes. It's acceptable to use these same methods for [informal or low-impact decisions](#Informal-Decisions). However, for formal proposals they must indicate a clear intended outcome to keep objectives as clear as possible. The on-chain voting systems we use do not support multiple-choice voting.*
@@ -57,4 +59,4 @@ Not all decisions require formal on-chain votes. There is room for making low-im
     - [GIVgardens](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98) for GIV token holders
     - [rDAO](https://xdai.aragon.blossom.software/#/nrgiv/) for nrGIV token holders
 3. Wait for results.
-4. Execute required actions. 
+4. Execute required actions.
