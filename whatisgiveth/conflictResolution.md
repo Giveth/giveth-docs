@@ -1,6 +1,6 @@
 ---
 id: conflictResolution
-title: Conflict Resolution Working Group test
+title: Conflict Resolution Working Group
 ---
 
 # **Conflict Resolution Working Group**
