@@ -12,12 +12,10 @@ We aim to bring people together and promote resilience in the Giveth DAO by trai
 
 ### What is Gravity?
 
-Gravity aims to establish a culture of voluntary compliance around Giveth’s[ Community Covenant](https://docs.giveth.io/whatisgiveth/covenant),[ Code of Conduct](https://docs.giveth.io/whatisgiveth/codeofconduct), and[ Community Communications Guide](https://docs.giveth.io/whatisgiveth/communityCommsGuide). It proposes the recognition and application of conflict management mechanisms to shape harmonious interactions between the members of its community.
+Gravity aims to establish a culture of voluntary compliance around Giveth’s [Community Covenant](https://docs.giveth.io/whatisgiveth/covenant), [Code of Conduct](https://docs.giveth.io/whatisgiveth/codeofconduct), and [Community Communications Guide](https://docs.giveth.io/whatisgiveth/communityCommsGuide). It proposes the recognition and application of conflict management mechanisms to shape harmonious interactions between the members of its community.
 
 
 ### What is a Giveth Graviton?
-
-
 
 * Someone enthusiastic about conscious communication, conflict resolution, authentic relating and connection
 * Has completed Gravity’s Graviton training
@@ -63,21 +61,17 @@ The training is offered 2 times a year with the intention to form Gravitons - th
 
 ### Main Actions
 
-
-
-* Everyone in the community can fill the Gravity[ typeform](https://the-commons-stack.typeform.com/to/rCVsK5RK) _(currently utilizing the Gravity form, but plan to create a unique one for Giveth)_ or approach any of the Gravitons to request support for conflicts and any sort of uncomfortable or undesired situations.
+* Everyone in the community can fill the Gravity [typeform](https://the-commons-stack.typeform.com/to/rCVsK5RK) _(currently utilizing the Gravity form, but plan to create a unique one for Giveth)_ or approach any of the Gravitons to request support for conflicts and any sort of uncomfortable or undesired situations.
 * In case of conflict, Gravitons can approach the parties involved to collect information on the issues.
-* Gravitons can take actions to[ regulate unwanted behavior according to the graduated sanctions](https://forum.tecommons.org/t/scale-of-conflicts-graduated-sanction-guideline/234) _(Giveth Conflict Resolution Working Group is currently utilizing TEC Gravity’s graduated sanctions while concurrently meeting to adapt our own)._
+* Gravitons can take actions to [regulate unwanted behavior according to the graduated sanctions](https://forum.tecommons.org/t/scale-of-conflicts-graduated-sanction-guideline/234) _(Giveth Conflict Resolution Working Group is currently utilizing TEC Gravity’s graduated sanctions while concurrently meeting to adapt our own)._
 * All community members can propose new methodologies to approach **graduated sanctions** and **mutual monitoring** as well as upgrade current ones through [Advice Process](https://token-engineering-commons.gitbook.io/tec-handbook/tec-agreements-1/collective-agreements/advice-process) and [Forum Voting](https://forum.giveth.io/).
 * Gravitons can submit conflicts or issues to the Gravity Registry, that is a database of the cases managed by Gravity.
 * Conflict resolution calls and chats are closed to Gravitons and parties involved to respect privacy and vulnerability.
 * The Giveth Conflict Resolution working group can facilitate safe spaces, skills up leveling workshops, and collaborate with TEC’s Gravity working group to host training and capacitate individuals to become Gravitons.
     * The Gravity training is free and open for all.
-* Gravity can remove proposals from all the voting categories if they receive **flags** and/or are seen as harmful for the community based on our rules, boundaries, T&C’s,[ Community Covenant](https://docs.giveth.io/whatisgiveth/covenant),[ Code of Conduct](https://docs.giveth.io/whatisgiveth/codeofconduct), and[ Community Communications Guide](https://docs.giveth.io/whatisgiveth/communityCommsGuide).
+* Gravity can remove proposals from all the voting categories if they receive **flags** and/or are seen as harmful for the community based on our rules, boundaries, T&C’s, [Community Covenant](https://docs.giveth.io/whatisgiveth/covenant),[ Code of Conduct](https://docs.giveth.io/whatisgiveth/codeofconduct), and [Community Communications Guide](https://docs.giveth.io/whatisgiveth/communityCommsGuide).
 
 **What actions or outcomes are required or encouraged?**
-
-
 
 * All members should be aware of the [guidelines for scale of conflict and graduated sanctions](https://forum.tecommons.org/t/scale-of-conflicts-graduated-sanction-guideline/234).
 * All members should commit to respect the protocol for [Giveth Meetings](https://docs.giveth.io/whatisgiveth/meetingsGuide).
@@ -89,8 +83,6 @@ The training is offered 2 times a year with the intention to form Gravitons - th
 * All members should respect the arrangements made about the situations issued.
 
 **What actions or outcomes are discouraged?**
-
-
 
 * Violating the agreements stated in this working group’s documentation on this page.
 * Violating the requirements for the Graviton Role (Any member can monitor Gravitons actions and report to other Gravitons, fill in the typeform, or contact community stewards.)
