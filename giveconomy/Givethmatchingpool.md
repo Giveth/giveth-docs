@@ -1,6 +1,6 @@
 ---
 id: givethMatchingPool
-title: The Giveth Matching Pool
+title: Giveth Matching Pool
 ---
 
 The [Giveth Matching Pool](https://giveth.io/project/Giveth-Matching-Pool-0) is raising funds to distribute to [verified projects](https://docs.giveth.io/dapps/projectVerification/) on Giveth. It is perfect for donors who want to have a broad impact for public goods while getting rewarded with GIVbacks. 
