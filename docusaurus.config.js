@@ -11,6 +11,23 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'giveth', // Usually your GitHub org/user name.
   projectName: 'giveth-docs', // Usually your repo name.
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['es'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+        direction: 'ltr',
+        htmlLang: 'en-US',
+      },
+      // You can omit a locale (e.g. fr) if you don't need to override the defaults
+      es: {
+        label: 'Español',
+        direction: 'ltr',
+        htmlLang: 'es-MX'
+      },
+    },
+  },
   themeConfig: {
     algolia: {
       apiKey: 'fe5b34ba5c3a21a81a7e6f77e6bb1b5e',
@@ -68,7 +85,10 @@ module.exports = {
           label: 'Blog',
           position: 'left'
         },
-
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        },
         {
           href: 'https://github.com/giveth/giveth-docs',
           label: 'GitHub',

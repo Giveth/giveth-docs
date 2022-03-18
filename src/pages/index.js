@@ -5,7 +5,7 @@ import Link from '@docusaurus/Link'
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext'
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from './styles.module.css'
-import useThemeContext from '@theme/hooks/useThemeContext'
+import {useColorMode} from '@docusaurus/theme-common'
 
 const features = [
   {
@@ -40,7 +40,7 @@ const features = [
   }
 ]
 function Feature ({ imageUrl, slug, id, title, description }) {
-  const {isDarkTheme} = useThemeContext();
+  // const {isDarkTheme} =  ();
   let imgUrl = useBaseUrl(imageUrl);
   // if(id === 'whatisgiveth' && isDarkTheme){
   //   imgUrl = useBaseUrl('img/givethLogoWhite.svg')
@@ -76,7 +76,7 @@ function Home () {
   const context = useDocusaurusContext()
   const { siteConfig = {} } = context;
   function HeaderContent () {
-      const {isDarkTheme} = useThemeContext();
+      const {isDarkTheme} = useColorMode();
       return (
         <header className={clsx('hero hero--primary', styles.heroBanner )} style={{backgroundImage: isDarkTheme && "url('/img/GivethDocsLogo.svg')"   }}>
           <div className='container hero--primary'>
