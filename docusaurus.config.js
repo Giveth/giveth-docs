@@ -1,5 +1,5 @@
-const math = require('remark-math');
-const katex = require('rehype-katex');
+const math = require('remark-math')
+const katex = require('rehype-katex')
 
 module.exports = {
   title: 'Giveth Docs',
@@ -13,12 +13,12 @@ module.exports = {
   projectName: 'giveth-docs', // Usually your repo name.
   i18n: {
     defaultLocale: 'en',
-    locales: ['es'],
+    locales: ['en', 'es', 'de'],
     localeConfigs: {
       en: {
         label: 'English',
         direction: 'ltr',
-        htmlLang: 'en-US',
+        htmlLang: 'en-US'
       },
       // You can omit a locale (e.g. fr) if you don't need to override the defaults
       es: {
@@ -26,7 +26,12 @@ module.exports = {
         direction: 'ltr',
         htmlLang: 'es-MX'
       },
-    },
+      de: {
+        label: 'Deutsch',
+        direction: 'ltr',
+        htmlLang: 'de-DE'
+      }
+    }
   },
   themeConfig: {
     algolia: {
@@ -65,10 +70,10 @@ module.exports = {
           position: 'left'
         },
         {
-        to: 'giveconomy/',
-        activeBasePath: 'giveconomy',
-        label: 'GIVeconomy',
-        position: 'left'
+          to: 'giveconomy/',
+          activeBasePath: 'giveconomy',
+          label: 'GIVeconomy',
+          position: 'left'
         },
         {
           href: 'https://giveth.recruitee.com/',
@@ -87,7 +92,7 @@ module.exports = {
         },
         {
           type: 'localeDropdown',
-          position: 'right',
+          position: 'right'
         },
         {
           href: 'https://github.com/giveth/giveth-docs',
@@ -113,7 +118,7 @@ module.exports = {
             {
               label: 'GIVeconomy',
               to: 'giveconomy/'
-          }
+            }
           ]
         },
         {
@@ -165,7 +170,7 @@ module.exports = {
 
         showLastUpdateTime: true,
         remarkPlugins: [math],
-        rehypePlugins: [katex],
+        rehypePlugins: [katex]
       }
     ],
     [
@@ -190,14 +195,13 @@ module.exports = {
     [
       '@docusaurus/plugin-content-docs',
       {
-
         id: 'newsletter',
         routeBasePath: 'newsletter',
         sidebarPath: require.resolve('./sidebarNewsletter.js'),
 
-        path: 'newsletter',
-      },
-    ],
+        path: 'newsletter'
+      }
+    ]
     // [
     //   '@docusaurus/plugin-content-docs',
     //
@@ -251,14 +255,15 @@ module.exports = {
         theme: {
           customCss: require.resolve('./src/css/custom.css')
         }
-      },
-    ],
+      }
+    ]
   ],
   stylesheets: [
     {
-        href: "https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css",
-        integrity: "sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc",
-        crossorigin: "anonymous",
-    },
-  ],
+      href: 'https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css',
+      integrity:
+        'sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc',
+      crossorigin: 'anonymous'
+    }
+  ]
 }
