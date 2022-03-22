@@ -2375,7 +2375,7 @@
     "@types/react" "*"
     prop-types "^15.6.2"
 
-"@docusaurus/theme-classic@2.0.0-beta.17", "@docusaurus/theme-classic@^2.0.0-beta.17":
+"@docusaurus/theme-classic@2.0.0-beta.17":
   version "2.0.0-beta.17"
   resolved "https://registry.yarnpkg.com/@docusaurus/theme-classic/-/theme-classic-2.0.0-beta.17.tgz#1f7a1dd714993819f266ce422d06dd4533d4ab3a"
   integrity sha512-xfZ9kpgqo0lP9YO4rJj79wtiQJXU6ARo5wYy10IIwiWN+lg00scJHhkmNV431b05xIUjUr0cKeH9nqZmEsQRKg==
