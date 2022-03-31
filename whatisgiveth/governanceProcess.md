@@ -3,9 +3,9 @@ id: governanceProcess
 title: Governance Process
 ---
 
-Giveth Governance benefits from a robust design and utilizes several platforms to aggregrate and foster advice, consensus, signalling, voting  and all the other wonderful actions enabled by Web3 decision-making systems.
+Giveth Governance benefits from a robust design and utilizes several platforms to aggregrate and foster advice, consensus, signalling, voting and all the other wonderful actions enabled by Web3 decision-making systems.
 
-We can divide governance participants into three categories based on their possible actions and the platforms they can use to participate. They are **GIV token holders**, **nrDAO members**, and **the greater community** (or simply, the community).
+We can divide governance participants into three categories based on their possible actions and the platforms they can use to participate. They are **GIV token holders**, **rDAO members**, and **the greater community** (or simply, the community).
 
 
 #### (Or skip to the <a href="#TLDR">**TL;DR**</a>)
@@ -22,7 +22,7 @@ Anyone in the community can create a proposal, however there are some considerat
 -  We use [**Advice Process**](./adviceProcess) to gather feedback and refine proposals.
 - Proposals must remain on the forum, open for Advice Process, for a **minimum of 5 days**.
 
-If all conditions have been met, including time requirements for Advice Process, proposals can move on into either the GIVgarden or the nrDAO DApps for voting.  In order to participate in these DApps you must hold either GIV or nrGIV, respectively. All Giveth Governance DApps are deployed on Gnosis Chain (formerly xDai Network).
+If all conditions have been met, including time requirements for Advice Process, proposals can move on into either the GIVgarden or the rDAO DApps for voting.  In order to participate in these DApps you must hold either GIV or nrGIV, respectively. All Giveth Governance DApps are deployed on Gnosis Chain (formerly xDai Network).
 
 **If a proposal desires to skip or shorten the Advice Process,** in the case of financial urgency for example, they may do so while providing a written disclaimer and a reason for doing so on their proposal. Skipping or shortening the Advice Process decreases the chances of a proposal passing, **do so with great discretion!**
 
