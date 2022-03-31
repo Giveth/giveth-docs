@@ -54,7 +54,7 @@ View Public Profile Page - when you click on the project owner
 * Make sure the USD value is accurate
 * Test copy address of the user and also test the external link
 
-<img alt='testingaddress' src={useBaseUrl('img/testingguidelines/testingguideline3.png')} />
+<img alt='testingadress' src={useBaseUrl('img/testingguidelines/testingguideline3.png')} />
 
 ### **Projects Page**
 
