@@ -8,7 +8,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 This guide provides a framework for testing the [Giveth.io](https://giveth.io/) DApp.
 
 ## Requirements
-* User testing should be done on https://next.giveth.io - **Our staging environment is deployed on both Ropsten (Mainnet) and Gnosis Chain** (formerly xDai Network).
+* User testing should be done on https://staging.giveth.io - **Our staging environment is deployed on both Ropsten (Mainnet) and Gnosis Chain** (formerly xDai Network).
 * Please use a modern browser. If you encounter a bug, please try the same thing with another browser. Please make an issue in any case, but tell us if the issue might be browser specific.
 * Use issues in [GitHub](https://github.com/Giveth/giveth-next/issues) for reports and feedback.
 
@@ -203,8 +203,8 @@ This use case does not include any automated testing and must be fully user-test
 * Do it with an insufficient token number
 * Do it with too tiny amounts
 * Check the project card view beside the donation token
-* Donating with a custom token - copy and paste the address
-* GIVING block - GIV donations should load a Twitter modal about Gemini
+* Search bar for tokens to donate - tokens show up appropriately when searching
+* Giving Block - GIV donations should load a Twitter modal about Gemini
 * Success Page with eligible and with non-eligible token should differ - on GIVback eligible token donation you may see a banner saying you are eligible for GIVbacks
 * Anonymous donations should not show in public profile view
 
