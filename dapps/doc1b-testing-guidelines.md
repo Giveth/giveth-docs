@@ -3,7 +3,7 @@ id: testing-guidelines
 title: Giveth.io Testing Guidelines
 slug: dapps/testing-guidelines
 ---
-
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 This guide provides a framework for testing the [Giveth.io](https://giveth.io/) DApp.
 

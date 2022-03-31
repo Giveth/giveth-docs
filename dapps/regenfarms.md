@@ -2,6 +2,7 @@
 id: regenFarms
 title: RegenFarms
 ---
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 
 # RegenFarms
@@ -14,10 +15,12 @@ We use [snapshot](https://snapshot.org/#/giv.eth/) to get approval from GIV toke
 ## Use of Funds
 RegenFarm DAOs provide the funds to reward their Liquidity Providers. Before initiating the farm, 1% of these funds are sent to the [Giveth liquidity multisig](https://blockscout.com/xdai/mainnet/address/0xf924fF0f192f0c7c073161e0d62CE7635114e74f/transactions) to support $GIV and the GIVeconomy, and an additional 1% of these funds are sent to the [Giveth Matching Pool](https://giveth.io/project/donation-eth) to fund donations to verified for-good projects on the [Giveth donation platform](https://giveth.io/projects).
 ## RegenFarms UI
-![](https://i.imgur.com/Di5ia7O.png)
+
+<img alt='shapeshift' src={useBaseUrl('img/Regenfarm1.png')} />
 
 Liquidity mining opportunities for RegenFarms can be found on the [GIVfarm page](https://giveth.io/givfarm). You can provide liquidity (by following the “provide liquidity” link at the bottom of the card) and stake LP tokens to begin earning rewards. When you "harvest" your earnings, the liquid part will be sent to your wallet, and the streaming part will kickstart your corresponding RegenStream. Liquid rewards earned from your RegenStream are claimable at the bottom right. Note that when you harvest rewards from the RegenFarm card, all liquid rewards from your RegenStream are also sent to your wallet.
-![](https://i.imgur.com/2F50VgM.png)
+
+<img alt='foxfarm' src={useBaseUrl('img/Regenfarm2.png')} />
 
 To learn more about the RegenFarm's mission, click the "?" in the top right corner of the Regen Farm Card.
 —-
