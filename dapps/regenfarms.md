@@ -1,11 +1,10 @@
 ---
 id: regenFarms
-title: RegenFarms
+title: Regen Farms
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 
-# RegenFarms
 [RegenFarms](https://giveth.io/givfarm) is the next generation of ReFi liquidity mining opportunities for DAOs and regens alike. Using our contracts for the [GIVfarm](https://giveth.io/givfarm) and the [GIVstream](https://giveth.io/givstream), we are empowering other for-good DAOs to launch liquidity mining incentive programs, “RegenFarms”, with streams of their own.
 ## Background
 Utilizing the [GIVstream](https://docs.giveth.io/giveconomy/givstream), all rewards earned in the [GIVfarm](https://giveth.io/givfarm) (until December 23, 2026) include some part liquid and some part streaming. This allows the GIVfarm to offer high APRs without creating excessive sell pressure. Thanks to the GIVstream, Giveth has pioneered an elegant evolution to traditional liquidity mining that offers lucrative rewards while attracting and rewarding long-term hodlers, and keeping participants invested in the project for years to come. 
