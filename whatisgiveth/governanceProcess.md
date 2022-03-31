@@ -3,7 +3,7 @@ id: governanceProcess
 title: Governance Process
 ---
 
-Giveth Governance benefits from a robust design and utilizes several platforms to aggregrate and foster advice, consensus, signalling, voting  and all the other wonderful actions enabled by Web3 decision-making systems.
+Giveth Governance benefits from a robust design and utilizes several platforms to aggregrate and foster advice, consensus, signalling, voting and all the other wonderful actions enabled by Web3 decision-making systems.
 
 We can divide governance participants into three categories based on their possible actions and the platforms they can use to participate. They are **GIV token holders**, **rDAO members**, and **the greater community** (or simply, the community).
 
@@ -22,7 +22,7 @@ Anyone in the community can create a proposal, however there are some considerat
 -  We use [**Advice Process**](./adviceProcess) to gather feedback and refine proposals.
 - Proposals must remain on the forum, open for Advice Process, for a **minimum of 5 days**.
 
-If all conditions have been met, including time requirements for Advice Process, proposals can move on into either the GIVgarden or the rDAO DApps for voting.  In order to participate in these DApps you must hold either GIV or rGIV, respectively. All Giveth Governance DApps are deployed on Gnosis Chain (formerly xDai Network).
+If all conditions have been met, including time requirements for Advice Process, proposals can move on into either the GIVgarden or the rDAO DApps for voting.  In order to participate in these DApps you must hold either GIV or nrGIV, respectively. All Giveth Governance DApps are deployed on Gnosis Chain (formerly xDai Network).
 
 **If a proposal desires to skip or shorten the Advice Process,** in the case of financial urgency for example, they may do so while providing a written disclaimer and a reason for doing so on their proposal. Skipping or shortening the Advice Process decreases the chances of a proposal passing, **do so with great discretion!**
 
@@ -35,7 +35,7 @@ If all conditions have been met, including time requirements for Advice Process,
 
 GIV token holders can get involved in decision making via the <a href="https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98" target="_blank">GIVgarden</a>. It leverages [Conviction Voting](https://forum.giveth.io/t/conviction-voting/154) and [Tao Voting](https://forum.giveth.io/t/tao-voting-explained/155) systems to allow GIV token holders to create, signal and vote on proposals using their GIV tokens. Decisions made in here revolve around community funding requests and suggestions as well as any metagovernance modifications. To learn more [visit our documentation regarding the GIVgarden](../giveconomy/givgarden).
 
-## rGIV Token Holder
+## nrGIV Token Holder
 
 This is a form of executive council held for trusted Giveth contributors. rDAO members hold nrGIV and use an [Aragon DAO deployment](https://xdai.aragon.blossom.software/#/nrgiv/) to create and vote on proposals using simple Yes/No voting mechanics. Anyone can make a proposal, but only nrGIV holders can vote. Proposals will remain open for voting for 3 days and must adhere to the Quorum and Support Required percentages or else it will fail. In order to get nrGIV you must be a regular contributor to Giveth for at least 3 months. nrGIV is distributed quarterly to eligible current contributors.
 
