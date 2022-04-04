@@ -14,8 +14,11 @@ Utilizing the [GIVstream](https://docs.giveth.io/giveconomy/givstream), all rewa
 We are now offering this technology [as a service](https://forum.giveth.io/t/crazy-idea-stream-as-a-service-giviverse-multiverse-now-called-regenfarms/295) to other [Blockchain4Good](https://twitter.com/search?q=%23blockchain4good&src=typed_query) DAOs! Interested DAOs must be able to prove that they are a “Regen Economy”, i.e., are creating a positive impact for society such as by supporting or building public goods in some way. **If your DAO is interested in applying to kickstart a RegenFarm, [fill out this form](https://giveth.typeform.com/regenfarms).**
 We use [snapshot](https://snapshot.org/#/giv.eth/) to get approval from GIV token holders before accepting a new DAO for RegenFarms. Once accepted, the interested DAO will need to work with our team to provide their RegenFarm [parameters](https://www.notion.so/giveth/Regen-Farm-Parameters-a5b474e75f334d03ad1c1c43f5d923d4) and the funds to kickstart their farm.
 
-## Use of Funds
-RegenFarm DAOs provide the funds to reward their Liquidity Providers. Before initiating the farm, a small percentage of these funds are sent to the [Giveth liquidity multisig](https://blockscout.com/xdai/mainnet/address/0xf924fF0f192f0c7c073161e0d62CE7635114e74f/transactions) to support $GIV and the GIVeconomy, and an additional 1% of these funds are sent to the [Giveth Matching Pool](https://giveth.io/project/donation-eth) to fund donations to verified for-good projects on the [Giveth donation platform](https://giveth.io/projects).
+## Funding
+To justify the cost of initiating the farm, a base fee of $5000 (equivalent USD value in the DAO’s token) is provided by the RegenFarm DAO to Giveth. $2500 of this will be sent to donation.eth for the [Giveth Matching Pool](https://giveth.io/project/donation-eth) to fund donations to verified for-good projects. The remaining $2500 will be sent to the [Giveth liquidity multisig](https://blockscout.com/xdai/mainnet/address/0xf924fF0f192f0c7c073161e0d62CE7635114e74f/transactions) and will be used by Giveth provide $GIV / [DAO token] liquidity.
+
+RegenFarm DAOs also provide the funds to reward their Liquidity Providers. Before initiating the farm, 1% of these funds are sent to the [Giveth liquidity multisig](https://blockscout.com/xdai/mainnet/address/0xf924fF0f192f0c7c073161e0d62CE7635114e74f/transactions) to be used, as above, for liquidity, and an additional 1% of these funds are sent to the [Giveth Matching Pool](https://giveth.io/project/donation-eth) to fund donations to verified projects.
+
 ## RegenFarms UI
 
 <img alt='shapeshift' src={useBaseUrl('img/Regenfarm1.png')} />
