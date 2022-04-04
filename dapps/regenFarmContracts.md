@@ -67,7 +67,7 @@ const config: IRegenConfig = {
     alreadyDeployedTokenDistroAddress: "",
     newTokenDistroParams: {
         startTime: <start time timestamp>
-        cliffPeriod: <cliff time duration seconts>
+        cliffPeriod: <cliff time duration seconds>
         duration: <duration seconds>
         initialPercentage: <percentage number, like 20_00>, // two decimals of precision, 20_00 means 20%
         tokenAddress: <Reward token address>
