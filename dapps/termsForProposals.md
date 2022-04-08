@@ -1,6 +1,7 @@
 ---
 id: termsForProposals
 title: Terms & Conditions for Submitting or Challenging a Proposal
+slug: giveconomy/termsForProposals
 ---
 
 ### 1. **ACCEPTANCE OF TERMS**
