@@ -10,8 +10,8 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <img alt='givnews' src={useBaseUrl('img/newsletter/Feb1.png')} />
 
-Welcome to the first edition of our community newsletter  _GIVnews_!  
-  
+### Welcome to the second edition of our community newsletter  _GIVnews_!  
+
 We'll be sharing inspiring stories, updates from Giveth, and ways to get involved in the Future of Giving 🙌
 
 # The GIVeconomy is in full swing!
@@ -36,7 +36,7 @@ To see more GIVeconomy Analytics, check out this  [amazing dashboard](https://du
 
 [📊 PARTICIPATE IN THE GIVECONOMY](https://giv.giveth.io/)
 
-<img alt='givnews' src={useBaseUrl('img/newsletter/Feb3.png')} /> 
+<img alt='givnews' src={useBaseUrl('img/newsletter/Feb3.png')} />
 
 ## Your Giving in Action
 
@@ -47,7 +47,8 @@ This month's highlighted project is  [**Feed the Hungry in Chilliwack BC Canada*
 [🙌 SUPPORT THIS PROJECT](https://giveth.io/project/Feed-the-Hungry-in-Chilliwack-BC-Canada-0)
 
 
-<img alt='givnews' src={useBaseUrl('img/newsletter/Feb4.png')} /> 
+<img alt='givnews' src={useBaseUrl('img/newsletter/Feb4.png')} />
+
 ## Help Us Build The Future of Giving!
 
 From full time dev ops roles, to part time technical writers, we're hiring smart people, that care about the Future of Giving just like you!

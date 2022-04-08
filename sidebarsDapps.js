@@ -34,7 +34,8 @@ module.exports = {
         { type: 'category',
           label: 'GIVeconomy',
           link: {type: 'doc', id: 'giveconomy'},
-          items: [ 'givdrop', 'givbacks', 'givethMatchingPool', 'givstream', 'givgarden' , 'givfarm', 'regenFarms' 
+
+          items: [ 'givdrop', 'givbacks', 'givethMatchingPool', 'givstream', 'givgarden' , 'givfarm','regenFarms'
 ]
           }
         ]
@@ -55,7 +56,7 @@ module.exports = {
     {
       type: 'category',
       label: 'GIVeconomy',
-      items: ['installGIVeconomy', 'testingGIVeconomy']
+      items: ['installGIVeconomy', 'testingGIVeconomy', 'regenFarmContracts']
     }
   ]
    },
