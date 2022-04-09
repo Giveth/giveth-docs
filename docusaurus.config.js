@@ -26,6 +26,11 @@ module.exports = {
         direction: 'ltr',
         htmlLang: 'es-MX'
       },
+      pt: {
+        label: 'Portugués',
+        direction: 'ltr',
+        htmlLang: 'pt-BR' 
+      },
       de: {
         label: 'Deutsch',
         direction: 'ltr',
