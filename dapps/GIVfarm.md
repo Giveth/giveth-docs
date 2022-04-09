@@ -9,14 +9,16 @@ The GIVfarm launched on **December 24, 2021**. 3.5% of the total token supply, 3
 
 | Pool                          | Tokens Allocated |
 | ----------------------------- | ---------------- |
-| GIV/ETH Uniswap v3 on Mainnet | 10 Million GIV   |
 |80GIV/20ETH Balancer on Mainnet|2.5 Million GIV|
 |GIV Staking on Mainnet|2.5 Million GIV|
 |GIV/HNY Honeyswap on Gnosis Chain (formerly xDai Network)|10 Million GIV|
 |GIV/WETH Sushiswap on Gnosis Chain (formerly xDai Network)|2.5 Million GIV|
 |GIVgardens Staking on Gnosis Chain (formerly xDai Network)|7.5 Million GIV|
 
-
+:::info
+### A Note:  
+10 Million GIV was originally allocated as rewards for a GIV/ETH Uniswap V3 pool on Mainnet. However, we detected one actor that was abusing a vulnerability in the system to earn rewards disproportionately and then dump the GIV. The community voted to terminate the Univ3 rewards program ([snapshot](https://snapshot.org/#/giv.eth/proposal/0xfad6aa3baa36d5f2d7acdf135752aafca06201b77a80aee79baf6ff3f5bbaae5)), and they were shut off on March 21st, 2022. You can learn more about it [here](https://twitter.com/Givethio/status/1505981603293585410).
+:::
 
 The amount claimable from rewards on the day of launch will be 10% with the other 90% allocated to flow out from the GIVstream. The GIVstream will flow for 5 years, and as time passes, the greater the amount immediately claimable from rewards will be. As you earn rewards in the GIVfarm, you also increase the flow rate of your GIVstream.
 
@@ -26,7 +28,6 @@ GIV Gnosis Chain (formerly xDai Network) - 0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD
 
 ### Staking Contract Addresses (Mainnet)
 - Balancer v2 80GIV/ETH Pool -0xc0dbDcA66a0636236fAbe1B3C16B1bD4C84bB1E1
-- Uniswap v3 50GIV/ETH Pool - 0x4B9EfAE862a1755F7CEcb021856D467E86976755
 - GIV Staking  - 0x3115e5aAa3D6f742d09fbB649150dfE285a9c2A3
 ### Staking Contract Addresses (Gnosis Chain (formerly xDai Network))
 - GIV Staking - 0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2
@@ -35,7 +36,6 @@ GIV Gnosis Chain (formerly xDai Network) - 0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD
 
 ### LP Token Addresses (Mainnet)
 - Balancer v2 - 0x7819f1532c49388106f7762328c51ee70edd134c
-- Uniswap v3 Pool - 0xc763b6b3d0f75167db95daa6a0a0d75dd467c4e1
 ### LP Token Addresses (Gnosis Chain (formerly xDai Network))
 - GIV/HNY Honeyswap -0x08ea9f608656A4a775EF73f5B187a2F1AE2ae10e
 - GIV/WETH SushiSwap -  0x55FF0cef43F0DF88226E9D87D09fA036017F5586
@@ -77,15 +77,6 @@ The GIVeconomy implements a unique feature in its GIV Staking pool on Gnosis Cha
 | Week 26       | 2.00%        | 700,000          |
 
 
+Note that, as a result of the termination of the Univ3 rewards program in week 13 there is approximately 5M GIV, previously earmarked for these rewards, that are no longer part of the GIVfarm allocation.
 
 Further rounds may be launched after this period that could contain new pools and changes in distribution. All rewards from GIVfarm will be affected by the GIVstream. Read up on the [GIVstream documentation](./givstream) for more information.
-
-
-:::info
-### A Note on Uniswap v3 Farms:  
-Harvesting NFT rewards from Uni v3 collects rewards from all your NFTs staked (if you staked more than one). In this process each NFT is unstaked, rewards are harvested, and your NFT is re-staked. If you have multiple NFTs, this can become a gas intensive process.
-
-When you Unstake your NFT you also harvest your rewards. If you have multiple NFTs staked when you unstake one, you only harvest rewards from the single unstaked NFT.
-
-You can learn more about [Uniswap v3 Pools in this whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-:::

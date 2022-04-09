@@ -24,7 +24,7 @@ The individual Circles (see [Giveth Circles](https://docs.giveth.io/whatisgiveth
 By default, only expenses with valid receipt are covered. Expenses must be submitted via trace.giveth.io. The refund will be made at earliest convenience for the requested token to recipient wallet provided.
 
 **Regular Rewards**
-The members working full-time for Giveth are regularly compensated. Regular Reward requests and payments are managed by the Governance Circle following the approval process through Giveth's Reputation DAO (rGIV token holders) every 4 weeks.
+The members working full-time for Giveth are regularly compensated. Regular Reward requests and payments are managed by the Governance Circle following the approval process through Giveth's Reputation DAO (nrGIV token holders) every 4 weeks.
 
 **RewardDAO**
 Special contributions to building the Future of Giving with us by participating in the Giveth Community on Discord, attending Giveth calls and completing tasks, and fulfilling special assignments may be rewarded via the [RewardDAO Campaign](https://www.trace.giveth.io/campaign/rewarddao). Simply create a TRACE describing what you did and come to a Governance call to represent yourself!
