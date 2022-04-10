@@ -30,7 +30,7 @@ We are progressively decentralizing the Giveth decision-making process by buildi
 
 ## How to Engage
 
-- The [Discord channel for all things Governance can be found here](https://discord.com/channels/679428761438912522/762764762164887562). If you haven’t already joined our Giveth Discord server, [we invite you to connect with us here!](https://discord.gg/965AGEaz)
+- The [Discord channel for all things Governance can be found here](https://discord.com/channels/679428761438912522/762764762164887562). If you haven’t already joined our Giveth Discord server, [we invite you to connect with us here!](https://discord.com/invite/965AGEaz)
 - Participate in the weekly GIVernance Meeting online, as scheduled on the [Giveth calendar](https://calendar.google.com/calendar/embed?src=givethdotio%40gmail.com&ctz=America%2FCosta_Rica). To get a feel of what we discuss during our weekly meetings, recordings of past calls can be found on our [Giveth Transparency YouTube channel](https://www.youtube.com/channel/UCdqmP4axeI1hNmX20aZsOwg).
 - Anyone can create and submit a proposal to members of [Giveth's Reputation DAO](https://aragon.1hive.org/#/giveth/)! We request that proposals go through an Advice Process by starting with a [discussion on our Forum](https://forum.giveth.io/).
 - You can read more about all of our initiatives on our [Medium blog](https://medium.com/giveth/), and find documentation in the [Governance 2 folder](https://drive.google.com/drive/folders/1Jv2xcYsbMTqmUtDOfWV6yT0vy51PVW1J?usp=sharing) on Google Drive. Historical information on previous Giveth Governance iterations are archived in this [Trace Governance folder](https://drive.google.com/drive/folders/15LF6NQx9KJDRtT1hACKIrNFr1rwAbAgZ?usp=sharing).
