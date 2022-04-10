@@ -52,7 +52,7 @@ Once you have joined the server, a bot will send you a message with a Captcha to
 **`#💬support`** channel provides assistance with any obstacles that you may be facing within the community or on the donation platforms.  
 **`#📣communications`** is the hub of the communications team (@Comms Stars). Here we discuss creating and editing content, performing outreach and all things related to the communications circle.  
 **`#🐦-tweeeeeter`** is where you find all things related to the Giveth Twitter. It can be used for suggesting / drafting tweets, feedback regarding twitter and sharing or promoting tweets to get more engagement.  
-**`#🐸memes`** are powerful! We host weekly meme parties where we listen to music and pump out spicy memes. The schedule can be found in the [calendar](https://calendar.giveth.io/).  
+**`#🐸memes`** are powerful! We host weekly meme parties where we listen to music and pump out spicy memes. The schedule can be found in the [calendar](https://calendar.google.com/calendar/u/0/embed?src=givethdotio@gmail.com&ctz=America/Costa_Rica).  
 **`#✨shtsnggls`** is for pure fun.  
 **`#❤praise`** is where you can rain praise upon your teammates! Let them know that you recognize the value they add to the Giveth projects and community by typing `!praise` *`@username`* for *`the awesome thing they did`*.  
 **`#🤝project-onboarding`** is where prospective project owners can go for suggestions or advice about the project creation flow and how to create engaging and impressive projects on the DApp.  
@@ -92,7 +92,7 @@ These channels are used for voice and / or video chats with community members.
 **`Governance`** - is the voice channel for our weekly Governance and DAO working group discussions.  
 **`Communications`** - is where the Communications Team gathers for weekly syncs and hack sessions.  
 
-**All meeting times can be found on the [Giveth Calendar](https://calendar.giveth.io/).*
+**All meeting times can be found on the [Giveth Calendar](https://calendar.google.com/calendar/u/0/embed?src=givethdotio@gmail.com&ctz=America/Costa_Rica).*
 
 ### Tagging
 You can tag certain roles by using "@" followed by the role. You also can tag an individual with "@" followed by the person's handle or nickname.
