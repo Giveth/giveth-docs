@@ -16,17 +16,17 @@ Your [private key](https://www.coinbase.com/learn/crypto-basics/what-is-a-privat
 ## Get Torus Private Key
 Once you’re signed in to your Torus wallet, navigate to the `Settings` page using the menu at the top of the page. Once on the `Settings` page, click `Account Details` in the `Privacy and Security` section. This will open a pop-up with two options for getting your private key.
 
-<img alt='Download Private Key in Torus' width='80%' height='auto' class='center' src={useBaseUrl('img/content/toruspk.png')} />
+<img alt='Download Private Key in Torus' width='75%' height='auto' class='center' src={useBaseUrl('img/content/toruspk.png')} />
 
 The first option is to download a soft copy of your private key as a JSON file. When you select this option you will be prompted to create a password that will later be used to import the file into MetaMask. Create your password, then download the file.
 The second option is to show the private key and copy it. This method is less secure since it both shows the private key and copies it to your operating system clipboard. Once copied, your private key can be pasted into MetaMask to import the private key. If you use this option, do not save a copy of your private key. If your system is ever compromised, your private key will be as well.
 ## Import Private Key
 Assuming you are set up and logged in with your Metamask wallet, the next step is to import your private key into MetaMask. First, click the circular icon in the top right corner of your MetaMask wallet. This will open the accounts menu. Click the `Import Account` option in this menu. Here you can use the `Select Type` option to select which option you’d like to use to import your private key.
 
-<img alt='Import Private Key into MetaMask' height='525px' width='auto' class='center' src={useBaseUrl('img/content/mmimportkey.png')} />
+<img alt='Import Private Key into MetaMask' width='50%' height='auto' class='center' src={useBaseUrl('img/content/mmimportkey.png')} />
 
 
 If you copied your private key from Torus, the `Private Key` option will let you paste the key into MetaMask. If you downloaded the JSON file, select `JSON File`, then use the `Choose File` button to select the private key JSON you downloaded from Torus. Enter the password you created to download the private key file from Torus, then click `Import`. Your new account should now appear in MetaMask and be ready to interact with the GIVeconomy dApps!
 
-<img alt='Paste Private Key' height='475px' width='auto' class='leftfloat' src={useBaseUrl('img/content/mmimportkey1.png')} />
-<img alt='Select Private Key File' height='475px' width='auto' src={useBaseUrl('img/content/mmimportkey2.png')} />
+<img alt='Paste Private Key' height='auto' width='40%' class='leftfloat' src={useBaseUrl('img/content/mmimportkey1.png')} />
+<img alt='Select Private Key File' height='auto' width='40%' src={useBaseUrl('img/content/mmimportkey2.png')} />
