@@ -1,57 +1,59 @@
 ---
 id: whatisgiveth
-title: What is Giveth?
+title: ¿Qué es Giveth?
 slug: /
 ---
 
+Giveth es una comunidad enfocada en **Construir el futuro de la generosidad** utilizando la tecnología blockchain. Nuestra intención es apoyar y recompensar la financiación de bienes públicos mediante la creación de un acceso abierto, transparente y gratuito a las revolucionarias oportunidades de financiación disponibles en el ecosistema Ethereum. Consulte nuestro [Calendario](https://calendar.google.com/calendar/u/1?cid=Z2l2ZXRoZG90aW9AZ21haWwuY29t) y [Página de membresía](https://giveth.io/join) para participar más.
 
-Giveth is a community focused on **Building the Future of Giving** using blockchain technology. Our intention is to support and reward the funding of public goods by creating open, transparent and free access to the revolutionary funding opportunities available within the Ethereum ecosystem. Check out our [Calendar](https://calendar.google.com/calendar/u/1?cid=Z2l2ZXRoZG90aW9AZ21haWwuY29t) and [Join Page](https://giveth.io/join) to get more involved.
+## Nuestra misión
 
-## **Our Mission**
-**To build a culture of giving that rewards and empowers those who give - to projects, to society, and to the world.**
+**Construir una cultura de generosidad que recompense y empodere a quienes dan, a los proyectos, a la sociedad y al mundo.**
 
-## **Our Vision**
+## Nuestra visión
 
-**Giving is effortless and people all around the world are rewarded for creating positive change.**
+**Dar es fácil y las personas de todo el mundo son recompensadas por crear un cambio positivo.**
 
-## **Our Values**
 
-**Giveth encourages Decentralization:**
+## Nuestros valores
 
-- Giveth offers innovative open-source solutions built on blockchain technology, which is inherently decentralized.
-- Giveth is pioneering and experimenting with decentralized governance and communication techniques and supporting their adoption by other communities.
+**Giveth fomenta la descentralización:**
 
-**Giveth promotes Altruism:**
+- Giveth ofrece soluciones innovadoras de código abierto basadas en la tecnología blockchain, que es inherentemente descentralizada.
+- Giveth es pionera y está experimentando con técnicas de comunicación y gobierno descentralizado y apoyando su adopción por otras comunidades.
 
-- Giveth is an open, non-hierarchical global initiative empowering social, environmental and humanistic impact projects with modern technologies.
-- Giveth supports many like-minded initiatives that are adding value to the world without necessarily having a direct profit motive.
-- Giveth is building a self-sustaining giving economy that encourages and rewards altruistic intention.
+**Giveth promueve el altruismo:**
 
-**Giveth believes in the power of Community:**
+* Giveth es una iniciativa global abierta y no jerárquica que potencia proyectos de impacto social, ambiental y humano con tecnologías modernas.
+* Giveth apoya muchas iniciativas afines que agregan valor al mundo sin tener necesariamente un motivo de lucro directo.
+* Giveth está construyendo una economía de donaciones autosostenible que alienta y recompensa la intención altruista.
 
-- Giveth is an inclusive community united around a common goal.
-- Giveth is a community-owned platform, building and developing our DApps based on feedback from our members.
-- Giveth enables trust within communities by increasing transparency and accountability through blockchain technology.
-- Giveth proactively reaches out to similar initiatives which we see as potential collaborators, as opposed to competitors.
+**Giveth cree en el poder de la comunidad:**
+
+* Giveth es una comunidad inclusiva unida en torno a un objetivo común.
+* Giveth es una plataforma propiedad de la comunidad, que crea y desarrolla nuestras DApps en función de los comentarios de nuestros miembros.
+* Giveth permite la confianza en las comunidades al aumentar la transparencia y la responsabilidad a través de la tecnología blockchain.
+* Giveth se acerca de manera proactiva a iniciativas similares que vemos como contribuyentes potenciales, a diferencia de los competidores.
 
 ---
 
-## **What are the Giveth DApps?**
+## **¿Qué son las Giveth Daaps?**
 
-The Giveth Donation Applications (DApps) create bridges between for-good projects and Givers wanting to make a difference. Giveth has two Donation Applications (DApps), [Giveth TRACE](http://trace.giveth.io/) and [Giveth.io](http://giveth.io/), each with unique features and benefits for philanthropic projects looking for funding.
+Las aplicaciones de donaciones de Giveth (DApps) crean puentes entre los proyectos para el bien y los donantes que quieren marcar la diferencia. Giveth tiene dos aplicaciones de donación (DApps), [Giveth TRACE](http://trace.giveth.io/) y Giveth.io, cada una con características y beneficios únicos para proyectos filantrópicos que buscan financiamiento.
 
-**Giveth.io** has been designed to facilitate ease of use so that anyone can get involved. Creating an account is easy; donating to and creating projects can be done in minutes. Giveth is home to a wide range of philanthropic ventures and is widely recognized across the Ethereum ecosystem, so naturally it's a great place to get exposure for your mission!
+**Giveth.io** está diseñado para que sea fácil de usar y cualquiera pueda participar. Crear una cuenta es fácil; donar y crear proyectos se puede hacer en minutos. Giveth es el hogar de una amplia gama de esfuerzos filantrópicos y es ampliamente reconocido en todo el ecosistema Ethereum, por lo que, naturalmente, ¡es un gran lugar para obtener exposición para su misión!
 
-**Giveth TRACE** is our original DApp that has been continually evolving since 2017. It offers a robust system to allow project owners to define their funding objectives via [tiered donation entities](../dapps/entitiesAndRoles). Givers benefit from this extra layer through the ability to specify and trace the movement of their donations on the DApp. Giveth pioneered the first bridge between Ethereum networks and this is where it was built. We leverage a Mainnet and Rinkeby bridge to make managing, tracing and withdrawing funds easy and gas-less.
+Giveth TRACE es nuestra DApp original que ha evolucionado continuamente desde 2017. Ofrece un sistema sólido que permite a los propietarios de proyectos definir sus objetivos de financiación a través de [entidades de donación por niveles](https://docs.giveth.io/dapps/entitiesAndRoles). Los donantes se benefician de esta capa adicional a través de la capacidad de especificar y rastrear el movimiento de sus donaciones en la DApp. Giveth fue pionero en el primer puente entre las redes de Ethereum y ahí fue donde se construyó. Aprovechamos un puente de Mainnet y Rinkeby para que la gestión, el seguimiento y el retiro de fondos sean fáciles y sin gas.
 
-## **Why should I donate to a project on Giveth?**
+## **¿Por qué debo donar a un proyecto de Giveth?**
 
-The Giveth DApps use blockchain technology to track and record cryptocurrency donations, allowing them to be recorded and forever accessible. We build systems to provide potential donors with high-quality, verified projects and design economies that give back to those who give. Giveth has had a long and critical role in the development of Ethereum, and is one of the most trusted names in the blockchain community.
+Las DApps de Giveth utilizan la tecnología blockchain para rastrear y registrar las donaciones en criptomonedas, lo que les permite ser registradas y accesibles para siempre. Creamos sistemas para proporcionar a los donantes potenciales diseños verificados de alta calidad y ahorros de diseño que retribuyen al donante. Giveth ha jugado un papel largo y crítico en el desarrollo de Ethereum y es uno de los nombres más confiables en la comunidad de blockchain.
 
-## **Who owns Giveth?**
+## **¿Quién es el dueño de Giveth?**
 
-Giveth is governed by an ever expanding community of developers, designers, philanthropists, decentralists, visionaries, engineers, writers and blockchain enthusiasts. Our eclectic mix of humans from the Ethereum and non-profit worlds, are formally known as the Giveth Decentralized Altruistic Community (or DAC). We are passionate to provide the tools for anyone to build a global community around a cause. Our current DAO structure is based on a model of sociocracy, with governing rights distributed regularly to active contributors.
+Giveth está gobernado por una creciente comunidad de desarrolladores, diseñadores, filántropos, descentralistas, visionarios, ingenieros, escritores y entusiastas de blockchain. Nuestra mezcla ecléctica de humanos del mundo Ethereum y sin fines de lucro se conoce formalmente como la comunidad altruista descentralizada de Giveth (o DAC en sus siglas en ingles). Nos apasiona proporcionar las herramientas para que cualquier persona construya una comunidad global en torno a una causa. Nuestra estructura DAO actual se basa en un modelo de sociocracia, con derechos del gobierno distribuidos regularmente a los contribuyentes activos.
 
-## **Is Giveth recognized as an official charity?**
+## **¿Se reconoce a Giveth como una organización benéfica oficial?**
 
-Giveth is a part of the [SDG impact fund](https://www.sdgimpactfund.org/) which is a registered donor-advised fund. The Giveth organization, under this legal architecture, is represented as a non-profit 501c3 in the United States. We are a community-led project and do not derive any direct profit from the platform. We strive to model our organization as one of the first not-for-profit blockchain based entities. We guarantee all funds will get recycled back into the Community that is ensuring the Giveth Platform gets adopted widely. 
+Giveth es parte del [SDG impact fund](https://www.sdgimpactfund.org/), que es un fondo registrado y asesorado por donantes. La organización Giveth, bajo esta arquitectura legal, está representada como una organización sin fines de lucro 501c3 en los Estados Unidos. Somos un proyecto dirigido por la comunidad y no obtenemos ningún beneficio directo de la plataforma. Nos esforzamos por modelar nuestra organización como una de las primeras organizaciones sin fines de lucro basadas en blockchain. Garantizamos que todos los fondos se reciclarán de regreso a la Comunidad que garantiza que la Plataforma Giveth sea ampliamente adoptada.
+

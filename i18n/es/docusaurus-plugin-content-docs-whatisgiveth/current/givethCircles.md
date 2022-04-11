@@ -1,41 +1,46 @@
 ---
 id: givethCircles
-title: Giveth Circles
+title: Circulos de Giveth
 ---
 
-Our organization can be sub-divided into 3 internal circles: GIVernance, Platform, and Community. The goals of each individual circle are unique, but are aligned with our core values, our mission and our vision to build the future of giving. The circles and their respective goals are outlined in the sections below.
+Nuestra organización se puede subdividir en 3 círculos internos: GIVernance, Plataforma y Comunidad. Los objetivos de cada círculo individual son únicos, pero están alineados con nuestros valores fundamentales, nuestra misión y nuestra visión de construir el futuro de la generosidad. Los círculos y sus respectivos objetivos se describen en las secciones a continuación.
 
-## Community
-This circle is held down by the Communications team yet comprised of representatives from the other two Circles, as well as various working groups that may form. Here is where new contributors, project owners, campaign managers, collaborators, conspirateurs, catalysts and really all the cool cats come to play, learn, give and grow.
+## Comunidad
 
-### Goals
-* **Build Community around For-Good Projects** by nourishing relations between Givers, Makers and the greater community through meaningful engagement, outreach, trust facilitation and conflict resolution - creating a safe space for community members to communicate their passion projects, then recruit help or guidance from peers.
-* **Offer a Clear & Supportive Onboarding Process** as Giveth develops the Dapps, economy, DAO and ongoing new features. The community circle provides a well-defined, transparent and helpful onboarding process that supports the needs of Contributors, Communities, Campaigns, Projects and Donors as well as functions as a bridge for newcomers into the crypto space.
-* **Coordinate External and Internal Communications** when broadcasting or sharing activity and development progress externally through the Giveth channels and social media - ensuring that the voice of Giveth as an organization is aligned with our overarching Values, Vision, Mission and Goals and that all Giveth Circles are represented.
-* **Create a Network of Partners** by way of collaboration, relationship building and support of common goals with various strategic partner organizations as well as community members focused on blockchain4good and improving the ethereum commons - providing resources, education and sharing of best practices.
-*Partners currently include communities like [Commons Stack](https://commonsstack.org/), [TEC](https://forum.tecommons.org/), [DAppNode](https://dappnode.io/), [BrightID](https://www.brightid.org/), [1Hive](https://about.1hive.org/), [Panvala](https://panvala.com/), [GitCoin](https://gitcoin.co/) and [MetaGame](https://wiki.metagame.wtf/).*
+Este círculo lo lleva a cabo el equipo de Comunicación, que sigue estando integrado por representantes de los otros dos Círculos, así como por los distintos grupos de trabajo que se puedan formar. Aquí es donde los nuevos contribuyentes, propietarios de proyectos, directores de campaña, contribuyentes, conspiradores, catalizadores y todos los demás vienen a jugar, aprender, donar y crecer.
+
+### Objetivos
+
+- **Construir una comunidad en torno a proyectos que buscan el bien,** fomentando las relaciones entre los donantes, los creadores y la comunidad, a través de un compromiso significativo, el alcance, la facilitación de la confianza y la resolución de conflictos, creando un espacio seguro para que los miembros de la comunidad comuniquen sus proyectos y luego obtener ayuda u orientación de sus compañeros.
+- **Ofrecer un proceso de incorporación eficiente** a medida que Giveth desarrolla sus dapps, economía, DAO y nuevas características en el proceso de creación. El círculo de la comunidad proporciona un proceso de incorporación bien definido, transparente y útil que respalda las necesidades de los Colaboradores, las Comunidades, las Campañas, los Proyectos y los Donantes, además de actuar como un puente para los recién llegados al mundo de las criptomonedas.
+- **Coordinar las comunicaciones internas y externas** transmitiendo o compartiendo la actividad y el progreso del desarrollo con la comunidad a través de los canales de Giveth y las redes sociales, asegurando que la voz de Giveth como organización esté alineada con nuestros valores, visión, misión global y objetivos y que todo Giveth Se representan círculos.
+- **Crear una red de socios** colaborando, construyendo relaciones y apoyando objetivos comunes con varias organizaciones de socios estratégicos, así como miembros de la comunidad enfocados en blockchain4good y mejorando los bienes comunes de ethereum, brindando recursos, educación y compartiendo las mejores prácticas. Los miembros actualmente incluyen comunidades como [Commons Stack](https://commonsstack.org/), [TEC](https://forum.tecommons.org/), [DAppNode](https://dappnode.io/ ) , [BrightID](https://www.brightid.org/), [1Hive](https://about.1hive.org/), [Panvala](https://panvala.com/), [GitCoin](https://gitcoin.co/) y [MetaGame](https://wiki.metagame.wtf/).
 
 ## GIVernance
 
-Giveth aims to be a donor-focused organization that GIVs back to those who use our platform to transparently and accountably support change in the world.
+Giveth tiene como objetivo ser una organización centrada en los donantes que devuelve GIV a quienes usan nuestra plataforma para apoyar de manera transparente y responsable el cambio en el mundo.
 
-We value transparent, holistic governance and hope to be a shining example of it. We explore and readily adopt new innovations that support us in embodying these values. We believe in the self-organizing power of sociocracy, which we apply in the organization of tasks, participation in the [Proposal and Advice Process](https://forum.giveth.io/c/givernance/proposals), and facilitation of our governance meetings.
+Valoramos la gobernanza transparente y holística y esperamos ser un ejemplo brillante. Exploramos y adoptamos fácilmente innovaciones que nos ayudan a encarnar estos valores. Creemos en el poder de autoorganización de la sociocracia, que aplicamos para organizar tareas, participar en el [Proceso de propuesta y asesoramiento](https://forum.giveth.io/c/givernance/proposals) y facilitar nuestra gobernanza.
 
-Our circle is uniting the power of our [Decentralized Autonomous Community (DAC)](https://trace.giveth.io/community/giveth-dac) with the non-profit advantages of our [Donor Advised Foundation (DAF)](https://www.sdgimpactfund.org/giveth-foundation) to iterate upon creation of our governing [Decentralized Autonomous Organization (DAO)](https://aragon.1hive.org/#/giveth/).
+Nuestro círculo une el poder de nuestra [Comunidad Autónoma Descentralizada (DAC)](https://trace.giveth.io/community/giveth-dac) con las ventajas sin ánimo de lucro de nuestra [Fundación Guiada por Donantes (DAF)](https://www.sdgimpactfund.org/giveth-foundation) para iterar sobre la creación de nuestro gobernante [Organización Autónoma Descentralizada (DAO)](https://aragon.1hive.org/#/giveth/).
 
-### Goals
-- **Demonstrate Fiscal Accountability** by responsibly provisioning funds and skills toward team structure, conflict resolution, administration, financial transparency, organization of team gatherings and quality assurance. Meet the resource needs of the Giveth community, platform and economy.
-- **Innovate Internal Governance** through experimenting with and documenting decentralized governance systems within the Giveth DAO structure (e.g. Sociocracy, RewardDAO, Conviction Voting, SourceCred, etc.) that could prove useful for future Decentralized Altruistic Organizations to learn from and implement their own versions.
-- **Collaborate with the Ethereum Ecosystem** to develop collaborative tools that generate mutual benefit and success by partnering with and participating in the governance of other mission-aligned organizations such as: [Commons Stack](https://commonsstack.org/), [Token Engineering Commons](https://forum.tecommons.org/),  [DAppNode](https://dappnode.io/),  [BrightID](https://www.brightid.org/),  [1Hive](https://about.1hive.org/),  [GitCoin](https://gitcoin.co/) and [MetaGame](https://wiki.metagame.wtf/).
-- **Create Regenerative Value** that nurtures and grows the Giveth Token Economy (GIVeconomy) by empowering individuals toward inclusive decentralized decision making with outcomes that have real impact on the organization and positive change in the world when cascaded through our listed projects.
+### Objetivos
 
-## Platform
-The Giveth Platform Circle is the terminal for designers, developers, testers, systems engineers and product managers alike, and is where the Future of Giving is being built. We collaborate with the Community Circle to get feedback from our users and design experiences that make it easy for people to create, give, receive and trace.
+- **Demostrar responsabilidad fiscal** a través de la provisión responsable de fondos y habilidades para la estructura del equipo, resolución de conflictos, administración, transparencia financiera, organización de reuniones de equipo y control de calidad. Satisfacer las necesidades económicas, de plataforma y de recursos de la comunidad de Giveth.
+- **Innovar la Gobernanza Interna** a través de la experimentación y documentación de sistemas de gobernanza descentralizados dentro del marco de Giveth DAO (por ejemplo, Sociocracia, RewardDAO, Conviction Voting, SourceCred, etc.) que podrían resultar útiles para futuras Organizaciones Altruistas Descentralizadas que aprenden e implementan sus propios versiones.
+- **Colaborar con el ecosistema Ethereum** para desarrollar herramientas de colaboración que generen beneficios mutuos y éxito a través de asociaciones y participación en la gobernanza de otras organizaciones alineadas con la misión, como: [Commons Stack](https://commonsstack.org/) , [Comunes de ingeniería de tokens](https://forum.tecommons.org/), [DAppNode](https://dappnode.io/), [BrightID](https://www.brightid.org/), [ 1Hive](https://about.1hive.org/), [GitCoin](https://gitcoin.co/) y [MetaGame.](https://wiki.metagame.wtf/)
+- **Crear valor regenerativo** que alimenta y hace crecer la economía de tokens Giveth (GIVeconomy), empoderando a las personas para que tomen decisiones descentralizadas inclusivas con resultados con un impacto real en la organización y un cambio positivo en el mundo, cuando se combinan con nuestros proyectos listados en nuestra plataforma.
 
-The Platform Circle, while building high-quality products, proclaims success by encouraging its members to learn, grow, collaborate and celebrate achievement together. By building workflows that are inclusive, transparent and well-structured, we thereby build strong teams of talented and inspired contributors.
+## Plataforma
 
-### Goals
-* **Develop Digital Public Goods** that serve as open-source, efficient and free platforms that bridge Givers and project owners, harnessing the revolutionary funding opportunities of digital currencies.
-* **Product Development and Maintenance** that empowers contributors to research emerging technology and implement best practices to create robust, stable, secure and scalable platforms.
-* **Improve User Experience, Usability and Accessibility of Blockchain Technology** by engineering and continually creating intuitive interfaces and powerful user experiences to make donating easy, rewarding and effective.
-* **Build DApps by and for the Community** by implementing user feedback to create products that meet their needs and maintain a high level of transparency to support a network of value-aligned projects.
+El circulo de Plataforma es el lugar para diseñadores, desarrolladores, evaluadores, ingenieros de sistemas y gerentes de productos, y es donde se está construyendo el futuro de la generosidad. Colaboramos con el circulo de comunidad para obtener comentarios de nuestros usuarios y diseñar experiencias que faciliten a las personas crear, donar, recibir y realizar un seguimiento.
+
+El circulo de plataforma , mientras crea productos de alta calidad, proclama el éxito al alentar a sus miembros a aprender, crecer, colaborar y celebrar los logros juntos. Al crear flujos de trabajo que son inclusivos, transparentes y bien estructurados, construimos equipos sólidos de empleados talentosos e inspirados.
+
+### Metas
+
+- **Desarrollar bienes públicos digitales** que sirvan como plataformas abiertas, eficientes y gratuitas que cierren la brecha entre los donantes y los propietarios de proyectos, aprovechando las revolucionarias oportunidades de financiación de las monedas digitales.
+- **Desarrollo y mantenimiento de productos** que permite a los contribuyentes investigar tecnologías emergentes e implementar las mejores prácticas para crear plataformas robustas, estables, seguras y escalables.
+Mejore la experiencia del usuario, la usabilidad y
+- **Mejore la experiencia, la usabilidad y la accesibilidad de la tecnología Blockchain** diseñando y creando continuamente interfaces intuitivas y poderosas experiencias de usuario para que la donación sea fácil, gratificante y efectiva.
+- **Crear DApps por y para la comunidad** implementando los comentarios de los usuarios para crear productos que satisfagan sus necesidades y manteniendo un alto nivel de transparencia para respaldar una red de proyectos alineados con los valores de Giveth.

@@ -1,98 +1,85 @@
 ---
 id: adviceProcess
-title: Advice Process
+title: Proceso de Asesoramiento
 ---
 
-*(freely adopted from ['Reinventing Organizations'](https://reinventingorganizationswiki.com/theory/decision-making/) by Frédéric Laloux)*
+(adaptado libremente de "[Reinventing Organizations](https://reinventingorganizationswiki.com/theory/decision-making/)" de Frédéric Laloux)
 
-*****************************************************************
+Giveth, como organización descentralizada, se basa en los principios de la autogestión. Giveth es un equipo de personas con valores alineados que deciden actuar juntos hacia un objetivo común. Tenemos diferentes experiencias, habilidades, metodologías y modelos mentales, y a través de la autogestión exploramos el potencial de perspectivas tan diferentes para resolver los desafíos de Giveth.
 
-Giveth, as a decentralized organization, relies on the principles of self-management. Giveth is a team of individuals with aligned values who decide to act together towards a common purpose. We have different backgrounds, expertise, methodologies and mental frameworks, and through self-management we are tapping into the potential of such different perspectives to solve Giveth's challenges.
+El **Proceso de Asesoramiento** se utiliza cada vez que proponemos una acción o tomamos una decisión que tendrá un impacto en la comunidad. Cualquier decisión, grande o pequeña, debe utilizar el Proceso de Consejería. Antes de hacer una propuesta formalmente, es importante obtener retroalimentación de las personas que se verán afectadas y de la persona que tiene la experiencia más relevante en el tema. Las intenciones son mejorar las propuestas antes de que se realicen, resolver conflictos con anticipación e informar a las partes relacionadas. El compromiso es una gran solución, pero no siempre plausible. El proceso de asesoramiento permite que se escuchen las objeciones y que los creadores de propuestas consideren las posibles consecuencias antes de tomar medidas.
 
-**Advice Process** is used whenever proposing an action or making a decision that will have an impact on the community. Any decision, big or small, should use Advice Process. Before formally making a proposal, it is important to get feedback from the people it will impact, and from the person who has the most relevant expertise around the subject. The intentions are to improve proposals before they are made, preemptively resolve conflicts and to inform related parties. Compromise is a great solution, but not always plausible. The advice process allows objections to be heard and for proposal creators to consider the potential consequences before taking action.
+Todos tienen derecho a hacer propuestas, pero deben tener en cuenta que también serán responsables de los efectos del resultado. Sin embargo, si se ha seguido el proceso de mentoría, habrá una idea de por qué se toma una iniciativa y todas las partes involucradas habrán contribuido a llevar la iniciativa al mejor resultado posible (o no iniciarla en absoluto). Si la propuesta falla o tiene consecuencias desafiantes después del uso adecuado del proceso de asesoramiento, es difícil culpar al autor por intentarlo. ¡Está bien fallar siempre y cuando lo hagas correctamente!
 
-Everyone is empowered to make proposals but must consider that they will also be held accountable for the effects of the outcome. However, if Advice Process has been followed, there will be an idea of the reasons why one takes an initiative and all affiliated parties will have contributed to bring the initiative to the best possible outcome (or to not start it at all). If the proposal fails or has challenging consequences after properly using Advice Process it is therefore hard to fault the instigator for trying. **It's OK to fail, as long as you do it properly!**
+## ¿Dónde se lleva a cabo el Proceso de Consejería?
 
-### Where does Advice Process happen?
+Nuestro canal de discusión más activo es el [Foro Giveth](https://forum.giveth.io/). El Proceso de Consejería puede implementarse de manera pública o privada; sin embargo, para mantenernos alineados con nuestro valor de transparencia, recomendamos enfáticamente que la discusión comunitaria permanezca en los canales públicos siempre que sea apropiado hacerlo.
 
-Our most active channel for discussion is the [Giveth Forum](https://forum.giveth.io/). Advice Process can be implemented publicly or privately; however, to remain aligned with our value of transparency, we heavily encourage community discussion to remain in public channels whenever appropriate to do so.
+En nuestra configuración DAO actual, cualquiera puede hacer una propuesta en nuestra [Plantilla de Aragon DAO](https://aragon.1hive.org/#/giveth/). Los titulares del token rGiv Governance pueden votar estas propuestas. Este proceso normalmente se reserva para decisiones más críticas que afectan a la organización.
 
-In our current DAO configuration, anyone can make a proposal on our [Aragon DAO Template](https://aragon.1hive.org/#/giveth/). rGiv Governance Token Holders can then vote on these proposals. This process is usually reserved for more critical decisions affecting the organization.
+Con este sistema, pueden surgir tensiones sobre si una decisión se tomó correctamente o no. Por lo tanto, para descentralizar el poder se necesita un proceso que pueda ser apelado. Este proceso asegura que incluso si hay desacuerdos con una propuesta, se hizo con las mejores intenciones de la organización y se tomaron en cuenta las reacciones y consejos de todas las partes relevantes.
 
----
+El Flujo del Proceso de Consejería:
 
-With this system, tensions might arise over whether a decision was made properly or not. Therefore, in order to **decentralize power** there needs to be a process to which one can refer. This process ensures that, even if there are disagreements with a proposal, it  was made with the best intentions for the organization and has taken into account feedback and advice from all relevant parties.
+## 1- Idealización:
 
+En la idealización, los problemas u oportunidades son asumidos por la persona que los percibe, o se remiten a alguien más calificado. La autogestión implica responsabilidad. Las tensiones no se transmiten a lo largo de una jerarquía como en las organizaciones tradicionales, sino que las aborda la persona con la energía o la experiencia necesarias.
 
-### The Advice Process Flow:
+***Canales:*** El canal de comunicación en esta etapa está abierto. Esto puede ser informal, así que chatee, tómese un tiempo para una llamada, tenga discusiones, hable, genere ideas.
 
-1.  **Ideation**:
+## 2- Sondeo / Metapensamiento:
 
-    In ideation, problems or opportunities are taken on by the person who notices them, or deferred to someone better-qualified. Self-management implies **responsibility**. Tensions are not passed along a hierarchy as in traditional organizations, but are rather addressed by the person with the necessary energy or expertise.
+Antes de crear una propuesta, el tomador de decisiones puede "probar" las perspectivas antes de proponer una acción. Esta es la etapa en la que las ideas pueden contrastarse con los sentimientos de otras personas.
 
+Algunas preguntas para hacer:
 
-    ***Channels:*** The channel for communication in this phase is open. This can be informal so chat, make time for a call, have discussions, fireside chats, generate ideas.
+- ¿Generaré valor si persigo esta idea?
+- ¿Es un problema en el que quiero gastar mi tiempo?
+- ¿Tengo razón en mis suposiciones y estoy en línea con las opiniones de otras personas sobre el tema?
+- ¿Qué posibles opciones puedo sugerir y qué advertencias debo abordar antes de presentar una demanda?
 
+***Canales: El canal de comunicación para esta fase también es informal, como se indicó anteriormente.***
 
-2.  **Sounding / Meta thinking**:
+## 3- Asesoramiento:
 
-    Prior to a creating a proposal, the decision-maker may seek input to "sound out" perspectives before proposing action. This is the stage where ideas can be tested against other people's sentiments.
+El iniciador hace una propuesta y busca el consejo de las personas afectadas y personas con conocimientos especializados.
 
+Para decisiones menores, puede que no haya necesidad de buscar consejo. Para decisiones más importantes, el asesoramiento puede venir a través de una variedad de canales, incluidas conversaciones individuales, reuniones o debates comunitarios más amplios.
 
-    Some questions to ask:
+No hay un plazo específico para la recogida de asesoramiento. Dependerá del alcance de la decisión.
 
-    *   Am I generating value if I pursue this idea?
-    *   Is this a problem that I want to spend my time on?
-    *   Am I right in my assumptions and aligned with other people's views about the issue?
-    *   What are the possible options I can suggest and what are the caveats that I need to solve before I present an action?
+***Canales:*** Si es una decisión menor, puedes consultar individualmente o al grupo a través de Discord. Para decisiones más importantes, nuestro [Giveth DAO Plantilla de Aragon](https://aragon.1hive.org/#/giveth/) es el lugar para crear propuestas formales.
 
-    ***Channels:*** The communication channel for this phase is also informal, as above.
+*Es su responsabilidad comunicarse con las partes relacionadas, según la importancia de la propuesta.*
 
-3.  **Advice**:
+## 4- Toma de decisiones:
 
-    The initiator makes a proposal and seeks advice from those affected and those with expertise.
+Teniendo en cuenta el consejo, se hace la propuesta y su creador informa a quienes dieron el consejo.
 
+Canales: Los anuncios se pueden hacer en Giveth Discord, llamada comunitaria y/o llamada de gobierno.
 
-    For minor decisions, there may be no need to seek advice. For larger decisions, advice can come through various channels, including one-on-one conversations, meetings, or broader community discussions.
+## Beneficios (del [sitio web Reinventing Organizations](https://reinventingorganizationswiki.com/theory/decision-making/)):
 
+- **Comunidad:** atrae a personas cuyo consejo se busca para la pregunta en cuestión. Aprenden sobre el tema. Compartir información refuerza el sentimiento de comunidad. La persona cuyo consejo se busca se siente honrada y necesitada.
+- **Humildad:** pedir consejo es un acto de humildad, una de las características más importantes de un lugar de trabajo divertido. Sólo el acto dice: "Te necesito". El tomador de decisiones y el consejero están unidos por una relación más estrecha. Esto hace que sea casi imposible que el tomador de decisiones ignore el consejo.
+- **Aprendizaje:** Tomar decisiones es parte de la cultura laboral. Los consejos provienen de personas que comprenden la situación y se preocupan por el resultado. Ninguna otra forma de educación o capacitación puede igualar esta experiencia en tiempo real.
+- **Mejores decisiones:** Las posibilidades de llegar a la mejor decisión de esta manera son más altas que usando la lógica *de arriba hacia abajo*. El creador de la propuesta tiene la ventaja de estar más cerca del problema y tiene que lidiar con las consecuencias del resultado de la propuesta. La consejería proporciona opiniones diversas, planteando temas importantes y nuevas perspectivas.
+- **Diversión:** El proceso es divertido para quien toma las decisiones porque refleja la alegría que se siente al jugar deportes en equipo. El proceso de tutoría fomenta la iniciativa y la creatividad, reforzada por la sabiduría de personas con conocimientos en otras partes de la organización.
 
-    There is no specific time frame to gather advice. It will depend on the scope of the decision.
+## Mentalidades estructurales (adaptado del [sitio web Reinventing Organizations](https://reinventingorganizationswiki.com/theory/decision-making/)):
 
+El Proceso de Orientación es una herramienta que ayuda a la toma de decisiones a través de la inteligencia colectiva. Mucho depende del espíritu con el que la gente lo aborde. Cuando se introduce el proceso de consejería, puede valer la pena considerar no solo la mecánica sino también la mentalidad estructural como una utilidad efectiva.
 
-    ***Channels:*** If it is a minor decision, you can consult individuals or the group via Discord. For larger decisions, our [Giveth DAO Aragon Template](https://aragon.1hive.org/#/giveth/) is the place to create formal proposals.
+El Proceso de Consejería puede proceder de varias maneras, dependiendo de la mentalidad que tengan las personas:
 
-    *It is your responsibility to reach out to related parties, depending on the importance of the proposal.*
+- El iniciador puede abordarlo con autoridad ("No me importa lo que otros hayan dicho" o, en su defecto, "Cumplo plenamente con lo que otros hayan dicho").
+- Puede acercarse desde una perspectiva de negociación o compromiso ("Haré lo que digan para hacerlos felices, pero me sentiré un poco frustrado").
+- Pueden abordarlo creativamente, el espíritu del proceso de consejería ("Escucharé a los demás, entenderé la necesidad real en lo que dicen y pensaré creativamente en una solución elegante").
 
-4.  **Decision Making:**
+## Declaración de exención de responsabilidad
 
-    Taking advice into account, the proposal is made and its creator informs those who have given advice.
+**Este documento no es:**
 
-    ***Channels:*** Announcements can be made in the Giveth Discord, community call and/or governance call.
-
-## Benefits (from [Reinventing Organizations website](https://reinventingorganizationswiki.com/theory/decision-making/)):
-
-*   **Community**: It draws people whose advice is sought into the question at hand. They learn about the issue. The sharing of information reinforces the feeling of community. The person whose advice is sought feels honoured and needed.
-*   **Humility**: Asking for advice is an act of humility, which is one of the most important characteristics of a fun workplace. The act alone says, "I need you". The decision maker and the adviser are pushed into a closer relationship. This makes it nearly impossible for the decision-maker to ignore the advice.
-*   **Learning**: Making decisions is on-the-job education. Advice comes from people who have an understanding of the situation and care about the outcome. No other form of education or training can match this real-time experience.
-*   **Better decisions:** The chances of reaching the best decision are greater than under conventional top-down approaches. The proposal maker has the advantage of being closer to the issue and has to deal with the consequences of the proposal outcome. Advice provides diverse input, uncovering important issues and new perspectives.
-*   **Fun:** The process is just plain fun for the decision-maker, because it mirrors the joy found in playing team sports. The advice process stimulates initiative and creativity, which are enhanced by the wisdom from knowledgeable people elsewhere in the organization.
-
-
-## Underlying mindsets (adapted from [Reinventing Organizations website](https://reinventingorganizationswiki.com/theory/decision-making/)):
-
-Advice Process is a tool that helps decision-making via collective intelligence. Much depends on the spirit in which people approach it. When the advice process is introduced, it might be worthwhile to consider not only the mechanics but also the mindset underlying effective use.
-
-Advice Process can proceed in several ways, depending on the mindset people bring to it:
-
-*   The initiator can approach it authoritatively ("I don't care about what others have said" or, alternatively, "I fully comply with what others have said").
-*   They can approach from a perspective of negotiation or compromise ("I'll do some of what they say so they're happy, but I will feel a little frustrated").
-*   They can approach it **co-creatively**, *which is the spirit of the advice process* ("I will listen to others, understand the real need in what they say, and think creatively about an elegant solution").
-
-
-
-
-### Disclaimer
-**This document is not:**
-*   A process to run governance meetings: as a decentralized organization, there are challenges with making decisions in a confined time slot. The governance meeting should be seen as the right moment to engage in some stages of Advice Process and make decisions if all the affected parties are present.
-*   A dispute mechanism: Giveth is currently in the process of redefining our conflict resolution process.. Stay tuned!
-*   A stone tablet of rules: this document has been created through Advice Process and it can be modified by it as well. 
+- Un proceso para gestionar las reuniones de gobierno: como organización descentralizada, existen desafíos para tomar decisiones en un espacio de tiempo limitado. La reunión de gobierno debe verse como el momento adecuado para participar en algunas fases del proceso de asesoramiento y tomar decisiones si todas las partes afectadas están presentes.
+- Un mecanismo de disputa: Giveth se encuentra actualmente en el proceso de restablecer nuestro proceso de resolución de disputas. ¡Manténganse al tanto!
+- Un cuadro de reglas: este documento fue creado a través del Proceso de Consejería y también puede ser modificado por el mismo.

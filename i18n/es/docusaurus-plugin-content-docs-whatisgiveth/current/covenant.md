@@ -1,69 +1,73 @@
 ---
 id: covenant
-title: Giveth Community Covenant
+title: Pacto Comunitario de Giveth
 ---
 
-The Giveth DAO is a self-governed organization dedicated to revolutionizing philanthropy and "Building the Future of Giving" by bridging the Ethereum and non-profit worlds. Giveth's mission is to build a culture of giving that empowers and rewards those who give - to projects, to society, and to the world.
+Giveth DAO es una organización autónoma dedicada a revolucionar la filantropía y "Construir el futuro de la generosidad", cerrando la brecha entre Ethereum y los mundos sin fines de lucro. La misión de Giveth es construir una cultura de generosidad que empodere y recompense a quienes dan, a los proyectos, a la sociedad y al mundo.
 
-Giveth envisions a future in which giving is effortless and people all around the world are rewarded for creating positive change. The Giveth platforms aim to be free for donors and projects, globally accessible and self-sustaining. Giveth aims to facilitate the efficient, transparent flow of funds directly to where they have the most positive impact.
+Giveth visualiza un futuro en el que dar es fácil y las personas de todo el mundo son recompensadas por crear un cambio positivo. Las plataformas de Giveth pretenden ser gratuitas para donantes y proyectos, accesibles a nivel mundial y autosuficientes. Giveth tiene como objetivo facilitar el flujo eficiente y transparente de fondos directamente a donde tienen el impacto más positivo.
 
-The Giveth community [values](https://docs.giveth.io/whatisgiveth/) decentralization, innovation, altruism, empowerment, trust, transparency and collaboration. This social layer is the foundation on which our DAO is built.
+La comunidad de Giveth [valora](https://docs.giveth.io/whatisgiveth/) la descentralización, la innovación, el altruismo, el empoderamiento, la confianza, la transparencia y la colaboración. Esta capa social es la base sobre la que se construye nuestra DAO.
 
-The GIVeconomy represents the economic layer where GIV is issued and distributed programmatically. GIV tokens will be allocated to fund proposals passed in the GIVgarden. GIV distribution from the GIVgarden is henceforth determined by the community who is empowered to use their GIV to vote.
+La GIVeconomy representa la capa económica donde el GIV se emite y distribuye programáticamente. Los tokens GIV se asignarán para financiar propuestas aprobadas en GIVgarden. La distribución del GIV de GIVgarden la determina la comunidad que tiene derecho a usar su GIV para votar.
 
-The growth of Giveth is directly related to the community's ability to foster an inclusive and welcoming culture that people feel proud and delighted to adopt as their own. When someone chooses to participate in the Giveth community, they are implicitly supporting the community's culture, values and norms.
+El crecimiento de GIV está directamente relacionado con la capacidad de la comunidad para fomentar una cultura inclusiva y acogedora que la gente se sienta orgullosa y feliz de adoptar como propia. Cuando alguien elige participar en la comunidad de Giveth, implícitamente está apoyando la cultura, los valores y las normas de la comunidad.
 
-Therefore, Giveth rests on an ever-evolving social contract, which sets expectations for how members should engage both with the protocol and with one another. The Giveth Community Covenant attempts to lay out this social contract. This Covenant first lays out our pledge to each other to make the Giveth community a welcoming and safe environment for everybody.  Second, the Covenant discusses the way both off-chain and on-chain decisions are made and how those decisions are judged to be successful.  As a community-driven DAO, the Covenant is subject to change via the community.  
+Entonces, Giveth se basa en un contrato social en constante evolución que establece expectativas sobre cómo los miembros deben comprometerse tanto con el protocolo como entre ellos. El Pacto Comunitario de Giveth intenta establecer este contrato social. Este pacto primero establece nuestro compromiso de hacer de la comunidad de Giveth un ambiente acogedor y seguro para todos. En segundo lugar, el Pacto analiza cómo se toman las decisiones fuera y dentro de la cadena y cómo se juzgan exitosas esas decisiones. Como una DAO impulsada por la comunidad, el Compact está sujeto a cambios a través de la comunidad.
 
-## The Pledge
-We as members, contributors and leaders pledge to make participation in Giveth a harassment-free experience for everyone, regardless of age, body shape, visible or invisible disability, ethnicity, sexual characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+### El Compromiso
 
-We pledge to act and interact in ways that are in agreement with the [Giveth mission, vision and values](https://docs.giveth.io/whatisgiveth/), and contribute to an open, welcoming, diverse, inclusive and healthy community.
+Nosotros, como miembros, colaboradores y líderes, estamos comprometidos a participar en Giveth sin acoso, independientemente de la edad, la forma del cuerpo, la discapacidad visible o invisible, el origen étnico, las características sexuales, la identidad y expresión de género, el nivel de experiencia, la educación, el estado socioeconómico, el origen nacional, apariencia personal, raza, religión u orientación e identidad sexual.
 
-### Our Standards
-Examples of behaviour that contributes to a positive environment for our community include: 
-- Demonstrating empathy and kindness toward other people 
-- Being respectful of differing opinions, viewpoints and experiences 
-- Giving and gracefully accepting constructive feedback 
-- Accepting responsibility and apologizing to those affected by our mistakes, while learning from the experience 
-- Focusing on what is best not just for us as individuals, but for the overall community
+Estamos comprometidos a actuar e interactuar para estar a la altura de [la misión, visión y valores de Giveth](https://docs.giveth.io/whatisgiveth/) y contribuir a una comunidad abierta, acogedora, diversa, inclusiva y saludable.
 
-Examples of unacceptable behaviour include: 
-- The use of sexualized language or imagery, and sexual attention or advances of any kind 
-- Trolling, insulting or derogatory comments, and personal or political attacks 
-- Public or private harassment 
-- Publishing others’ private information, such as a physical or email address, without their explicit permission (commonly called doxing)
-- Other conduct which could reasonably be considered inappropriate in a professional setting
+## Nuestros estándares
 
-## On-chain
+Los ejemplos de comportamiento que contribuyen a crear un ambiente positivo incluyen:
 
-### Decision Making
+- Uso de un lenguaje acogedor e inclusivo;
+- Respetar los diferentes puntos de vista y experiencias;
+- Aceptar la crítica constructiva;
+- Concentración en lo que es mejor para la comunidad;
+- Mostrar empatía hacia otros miembros de la comunidad;
 
-Giveth uses the [Gardens](https://gardens.1hive.org/#/home/) governance platform to manage the GIVgarden configurations and allocate funds to projects that are aligned with its [mission, vision and values](https://docs.giveth.io/whatisgiveth/). 
+Ejemplos de comportamiento inaceptable por parte de los participantes incluyen:
 
-On-chain decision making mechanisms for the GIVgarden include [Conviction Voting](https://forum.tecommons.org/t/conviction-voting-tl-dr/308?u=liviade) and [Tao Voting](https://forum.tecommons.org/t/tao-voting-formerly-disputable-voting-parameters-general-discussion/267). Conviction Voting should be used primarily for funds allocation. Tao Voting should be used for updating parameters, bug fixes, adding new features to the DAO and/or for emergency situations such as an attack to the DAO treasury. 
+- El uso de lenguaje o imágenes sexualizados e intenciones sexuales no deseadas;
+- Trolling, comentarios ofensivos y ataques personales o políticos;
+- Acoso público o privado;
+- Publicación de información privada de terceros, como una dirección física o electrónica, sin permiso explícito;
+- Comportamiento irrespetuoso, acosador, autoritario o de troleo relacionado con lanzamientos desde el aire;
+- Otras conductas que razonablemente podrían considerarse inapropiadas en un entorno profesional;
 
-Additional polycentric governance processes used by Giveth are specified in [this living document](https://docs.giveth.io/whatisgiveth/governanceProcess) and might change according to the community’s decisions.
+## On-Chain
 
-### Enforcement
+### Toma de decisiones
 
-The on-chain mechanism for enforcement depends on [Celeste](https://1hive.gitbook.io/celeste/) -  a subjective oracle that uses predictable, inclusive, and democratic means to resolve disputes arising from optimistic actions.
+Giveth usa la plataforma de gobierno de [Gardens](https://gardens.1hive.org/#/home/) para administrar los entornos de GIVgarden y asignar fondos a proyectos que están alineados con [su misión, visión y valores.](https://docs.giveth.io/whatisgiveth/)
 
-The ability for Giveth to enforce this covenant is limited to the direct interactions that community members have with the protocol, specifically the ability for community members to submit proposals to allocate GIV issuance or adjust protocol parameters.
+Los mecanismos de toma de decisiones en cadena para GIVgarden incluyen [Votación de convicción](https://forum.tecommons.org/t/conviction-voting-tl-dr/308?u=liviade) y [Tao Voting](https://forum.tecommons.org/t/tao-voting-formly-disputable-voting-parameters-general-discussion/267). La votación de convicción debe utilizarse principalmente para asignar fondos. Tao Voting debe usarse para actualizar parámetros, corregir errores, agregar nuevas funciones a DAO y/o para situaciones de emergencia como un ataque a la tesoreria de DAO.
 
-When using the GIVgarden, the proposer will be required to deposit GIV when submitting a proposal, attesting that the impact of the proposal could be reasonably considered to align with Giveth's social contract. A dispute can be created by another community member if they disagree with the proposer's attestation by challenging the proposal and staking an equivalent amount of GIV. If after being challenged the proposal is not withdrawn, a decentralized oracle (Celeste) will be used to settle the dispute. If the oracle responds in favour of the proposer, the proposal will be unlocked and the challenger’s stake will be transferred to the proposer. On the other hand, if the dispute resolves in favour of the challenger, the proposal will be removed from consideration and the proposer's stake will be given to the challenger.
+Los procesos de gobernanza policéntricos adicionales utilizados por Giveth se especifican [en este documento](https://docs.giveth.io/whatisgiveth/governanceProcess) y pueden cambiar según las decisiones de la comunidad.
 
-Participants in the dispute resolution protocol are expected to review the proposal, this covenant and related past disputes in order to provide a judgement that they feel best aligns with the established norms and intention of the Giveth community.
+### Aplicación de estándares
+
+El mecanismo de aplicación en cadena se basa en [Celeste](https://1hive.gitbook.io/celeste/), un oráculo subjetivo que utiliza medios predecibles,formas inclusivas y democráticas de resolver las controversias derivadas de acciones optimistas.
+
+La capacidad de Giveth para hacer cumplir este pacto se limita a las interacciones directas que los miembros de la comunidad tienen con el protocolo, específicamente la capacidad de los miembros de la comunidad de presentar propuestas para asignar la emisión del GIV o ajustar los parámetros del protocolo.
+
+Al utilizar GIVgarden, el licitador deberá depositar el GIV al presentar una oferta, lo que certifica que se podría considerar razonablemente que el impacto de la oferta se alinea con los estatutos de Giveth. La disputa puede ser creada por otro miembro de la comunidad si no está de acuerdo con la idea del proponente, impugnando la propuesta y depositando una cantidad equivalente de GIV. Si después de ser impugnada la propuesta no es retirada, se utilizará un oráculo descentralizado (Celeste) para resolver la disputa. Si el oráculo responde a favor del postor, se desbloqueará la puja y se trasladará al postor la parte del postor impugnado. Por otro lado, si la disputa se resuelve a favor del oponente, la propuesta será retirada de consideración y la parte del proponente será transferida al oponente.
+
+Se espera que los participantes en el protocolo de resolución de disputas revisen la propuesta, este pacto y las disputas anteriores relacionadas, para emitir un juicio que consideren que se alinea mejor con las normas establecidas y la intención de la comunidad de Giveth.
 
 ## Off-chain
 
-### Decision Making
+### Toma de decisiones
 
-Giveth uses an [Advice Process](https://docs.giveth.io/whatisgiveth/adviceProcess) as its primary practice for flat decision making to empower contributors with agency to move their cultural proposals forward. Advice Process is written in the Giveth documentation and promoted verbally in community calls. When a non-financial, no-code decision will likely affect a large part of the community, the use of off-chain voting using polls in the Discord or Forum is implemented. A decision is considered legitimate when it respects this covenant, is promoted to the awareness of the community and its results aren’t challenged within 2 weeks. 
+Giveth utiliza un [Proceso de asesoramiento](https://docs.giveth.io/es/whatisgiveth/adviceProcess) como su práctica central de toma de decisiones para empoderar a los contribuyentes para llevar a cabo sus propuestas culturales. El proceso de asesoramiento está escrito en la documentación de Giveth y se promueve verbalmente en llamadas comunitarias. Cuando una decisión sin impactos financieros o de código de protocolo podría afectar a una gran parte de la comunidad, se implementa el uso de votaciones fuera de la cadena mediante encuestas de Discord o Forum. Una decisión se considera legítima cuando respeta este pacto, se promueve a la conciencia de la comunidad y sus resultados no se impugnan dentro de las 2 semanas.
 
-Giveth community spaces, including the Giveth [Forum](https://forum.giveth.io/), [GitHub](https://github.com/Giveth) and [Discord](https://discord.gg/JxF38Tj364), as well as other off-chain forums that may emerge in the future, are expected to adhere to this covenant.
+Se espera que los espacios comunitarios de Giveth, incluidos [Giveth Forum](https://forum.giveth.io/), [GitHub](https://github.com/Giveth) y [Discord](https://discord.gg/JxF38Tj364), así como otros foros fuera de la cadena que puedan surgir en el futuro, cumplen con este pacto.
 
-### Enforcement
+### Aplicación de estándares
 
-Giveth intends to use [Gravity Conflict Management](https://forum.tecommons.org/t/gravity-general-process/173) and make use of its graduated sanctions in order to ensure community standards. 
-
+Giveth tiene la intención de utilizar [la gestión de conflictos por gravedad](https://forum.tecommons.org/t/gravity-general-process/173) y hacer uso de sanciones graduadas para garantizar los estándares de la comunidad.

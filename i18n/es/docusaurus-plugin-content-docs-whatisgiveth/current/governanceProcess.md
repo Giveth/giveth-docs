@@ -1,62 +1,66 @@
 ---
 id: governanceProcess
-title: Governance Process
+title: Proceso de Gobernanza
 ---
+Giveth Governance se beneficia de un diseño robusto, que utiliza múltiples plataformas para agregar e impulsar el asesoramiento, el consenso, la discusión, la votación y todas las demás acciones maravillosas que son posibles gracias a los sistemas de toma de decisiones basados ​​en web3.
 
-Giveth Governance benefits from a robust design and utilizes several platforms to aggregrate and foster advice, consensus, signalling, voting  and all the other wonderful actions enabled by Web3 decision-making systems.
+Podemos dividir a los participantes de la gobernanza en tres categorías, según sus posibles acciones y las plataformas que pueden usar para participar. **Son titulares de tokens GIV, miembros de rDAO y la gran comunidad (o simplemente, la comunidad).**
 
-We can divide governance participants into three categories based on their possible actions and the platforms they can use to participate. They are **GIV token holders**, **rDAO members**, and **the greater community** (or simply, the community).
+**(O vaya a [el resumen](#resumen))**
 
+## La comunidad
 
-#### (Or skip to the <a href="#TLDR">**TL;DR**</a>)
+No hay requisitos para ser parte de la comunidad. Si conoces a Giveth y realmente quieres unirte, entonces te damos la bienvenida con nuestras mejores vibraciones y los memes más divertidos.
 
+El mejor lugar para conversaciones formales sobre Giveth es nuestro [Foro de debate](https://forum.giveth.io/). Nuestro foro reúne una amplia variedad de temas para que cualquiera pueda introducir una discusión en profundidad, aunque lo más importante es que es aquí donde debe nacer cualquier propuesta legítima de gobernanza.
 
-## The Community
-Being part of the community has no requirements. If you know about Giveth and want to get engaged then we welcome you openly with our highest of vibes and spiciest of memes.
+Cualquier miembro de la comunidad puede crear una propuesta, sin embargo, hay algunas consideraciones:
 
-The best place for formal conversations around Giveth take place on our [Discourse forum](https://forum.giveth.io/). Our forum invites a wide variety of topics for anyone to introduce in-depth discussion, however more importantly, this is the quintessential launchpad where any legitimate governance proposal must start from.
+- Idealmente, **las propuestas** tienen una intención claramente definida que describe las acciones a tomar, las posibles consecuencias y los fondos solicitados (si corresponde).
+- Nos adherimos a un [Pacto comunitario](https://docs.giveth.io/whatisgiveth/covenant) que es nuestro principal punto de referencia para cualquier disputa o disputa.
+- Usamos el [Proceso de asesoramiento](https://docs.giveth.io/whatisgiveth/adviceProcess) para recopilar comentarios y refinar propuestas.
+- Las propuestas deberán permanecer en el foro, abierto en Proceso Consultivo, **por un mínimo de 5 días**.
 
-Anyone in the community can create a proposal, however there are some considerations to make:
-- <a id="proposal">Proposals</a> ideally have a clearly defined intention that outlines actions to be taken, potential consequences and funds requested (if applicable).
--  We adhere to a [**Community Covenant**](./covenant) which is our main reference point for any disputes or contentions.
--  We use [**Advice Process**](./adviceProcess) to gather feedback and refine proposals.
-- Proposals must remain on the forum, open for Advice Process, for a **minimum of 5 days**.
+Si se han cumplido todas las condiciones, incluidos los requisitos de tiempo para el proceso de asesoramiento, las propuestas pueden pasar a GIVgarden o a **rDAO *dapps* para votar. Para participar en estos *dapps* debes tener un GIV o nrGIV, respectivamente. Todos los *dapps* de Giveth Governance operan en la Cadena Gnosis (anteriormente red xDai).
 
-If all conditions have been met, including time requirements for Advice Process, proposals can move on into either the GIVgarden or the rDAO DApps for voting.  In order to participate in these DApps you must hold either GIV or rGIV, respectively. All Giveth Governance DApps are deployed on Gnosis Chain (formerly xDai Network).
+**Si una propuesta desea omitir o acortar el Proceso de asesoramiento**, en caso de urgencia financiera, por ejemplo, puede hacerlo mientras proporciona un descargo de responsabilidad por escrito y la razón para hacerlo en su propuesta. Omitir o acortar el Proceso de Asesoramiento disminuye las posibilidades de que se apruebe una propuesta, ¡hágalo con mucha discreción!
 
-**If a proposal desires to skip or shorten the Advice Process,** in the case of financial urgency for example, they may do so while providing a written disclaimer and a reason for doing so on their proposal. Skipping or shortening the Advice Process decreases the chances of a proposal passing, **do so with great discretion!**
+**NOTA
+Consenso tácito**
+A menudo usamos encuestas dentro del foro o en Discord para obtener un consenso tácito sobre los resultados preferidos. Es aceptable utilizar estos mismos métodos para decisiones informales o de bajo impacto. Sin embargo, para las propuestas formales, deben indicar un resultado claro para mantener los objetivos lo más claros posible. Los sistemas de votación en cadena que utilizamos no admiten la votación de opción múltiple.*
 
-:::note
-### Soft-Consensus
- We often use polls inside the forum or on Discord to get soft-consensus for preferred outcomes. It's acceptable to use these same methods for [informal or low-impact decisions](#Informal-Decisions). However, for formal proposals they must indicate a clear intended outcome to keep objectives as clear as possible. The on-chain voting systems we use do not support multiple-choice voting.*
-:::
+## Titular de la ficha GIV
 
-## GIV Token Holder
+Los poseedores de tokens GIV pueden participar en la toma de decisiones a través de [GIVgarden](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98). Esto aprovecha los sistemas [Votación de convicción](https://forum.giveth.io/t/conviction-voting/154) y [Votación de Tao](https://forum.giveth.io/t/tao-voting-explained/155) para permitir a los titulares de tokens GIV crear, discutir y votar propuestas utilizando sus tokens GIV. Las decisiones que se toman giran en torno a solicitudes y sugerencias de financiamiento comunitario, así como cualquier modificación metagubernamental. Para obtener más información, visite [nuestra documentación sobre GIVgarden.](https://docs.giveth.io/giveconomy/givgarden)
 
-GIV token holders can get involved in decision making via the <a href="https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98" target="_blank">GIVgarden</a>. It leverages [Conviction Voting](https://forum.giveth.io/t/conviction-voting/154) and [Tao Voting](https://forum.giveth.io/t/tao-voting-explained/155) systems to allow GIV token holders to create, signal and vote on proposals using their GIV tokens. Decisions made in here revolve around community funding requests and suggestions as well as any metagovernance modifications. To learn more [visit our documentation regarding the GIVgarden](../giveconomy/givgarden).
+## Titular del token nrGIV
 
-## rGIV Token Holder
+Esta es una forma de asesoramiento ejecutivo para los colaboradores confiables de Giveth. Los miembros de rDAO tienen nrGIV y usan [un sistema DAO de Aragon](https://xdai.aragon.blossom.software/#/nrgiv/) para crear y votar propuestas usando un simple mecanismo de votación Sí/No. Cualquiera puede presentar una propuesta, pero solo los titulares de nrGIV pueden votar. Las propuestas permanecerán abiertas a votación durante 3 días y deberán apegarse a los porcentajes de Quórum y Apoyo Requerido, de lo contrario no serán aprobadas. Para obtener nrGIV debe ser colaborador regular de Giveth durante al menos 3 meses. El nrGIV se distribuye trimestralmente a los contribuyentes elegibles actuales.
 
-This is a form of executive council held for trusted Giveth contributors. rDAO members hold nrGIV and use an [Aragon DAO deployment](https://xdai.aragon.blossom.software/#/nrgiv/) to create and vote on proposals using simple Yes/No voting mechanics. Anyone can make a proposal, but only nrGIV holders can vote. Proposals will remain open for voting for 3 days and must adhere to the Quorum and Support Required percentages or else it will fail. In order to get nrGIV you must be a regular contributor to Giveth for at least 3 months. nrGIV is distributed quarterly to eligible current contributors.
+**INFORMACIÓN**
 
-:::info
-When the first tokens are minted for a quarterly nrGIV distribution, all eligible contributors have 1 month from that date to request tokens. After this period the round is closed and no more token requests will be accepted for this period. Eligible contributors will still be able to request tokens for the next token distribution.
-:::
+Cuando se emiten los primeros tokens para una distribución trimestral de nrGIV, todos los contribuyentes elegibles tienen 1 mes a partir de esa fecha para solicitarlos. Después de este período, la ronda se cierra y no se aceptarán más solicitudes de fichas para este período. Los contribuyentes elegibles aún podrán reclamarlos en la próxima distribución que se realice.
 
-Learn how to become a contributor (and get rGIV) in our [Giveth Basics document](https://www.notion.so/giveth/Giveth-Basics-bff76dceaec64839b73aa89ba2fb8be4).  
-## Informal Decisions
-Not all decisions require formal on-chain votes. There is room for making low-impact, agile decisions via a range of platforms that Giveth's community utilizes. For the most clarity we refer to the Covenant's section on [off-chain decision making](https://docs.giveth.io/whatisgiveth/covenant/#off-chain):
+Aprenda cómo convertirse en colaborador (y obtener nrGIV) en nuestro documento [Giveth Basics.](https://www.notion.so/Giveth-Basics-Last-Update-2021-bff76dceaec64839b73aa89ba2fb8be4)
 
-> Giveth uses Advice Process as its primary practice for flat decision making to empower contributors with agency to move their cultural proposals forward. Advice Process is written in the Giveth documentation and promoted verbally in community calls. When a non-financial, no-code decision will likely affect a large part of the community, the use of off-chain voting using polls in the Discord or Forum is implemented. A decision is considered legitimate when it respects this covenant, is promoted to the awareness of the community and its results aren’t challenged within 2 weeks.  
+## Decisiones informales
 
-> Giveth community spaces, including the Giveth Forum, GitHub and Discord, as well as other off-chain forums that may emerge in the future, are expected to adhere to this covenant.
+No todas las decisiones requieren un voto formal en cadena. Hay espacio para tomar decisiones ágiles y de bajo impacto en una variedad de plataformas que utiliza la comunidad de Giveth. Para mayor claridad, traemos la sección del Pacto, sobre la toma de decisiones fuera de la cadena:
 
-<h2 id="TLDR">TL;DR</h2>
+Giveth utiliza un [Proceso de asesoramiento](https://docs.giveth.io/whatisgiveth/adviceProcess) como su práctica central de toma de decisiones para empoderar a los contribuyentes para llevar a cabo sus propuestas culturales. El proceso de asesoramiento está escrito en la documentación de Giveth y se promueve verbalmente en llamadas comunitarias. Cuando una decisión sin impactos financieros o de código de protocolo podría afectar a una gran parte de la comunidad, se implementa el uso de votaciones fuera de la cadena mediante encuestas de Discord o Forum. Una decisión se considera legítima cuando respeta este pacto, se promueve a la conciencia de la comunidad y sus resultados no se impugnan dentro de las 2 semanas.
 
-1. Make a <a href="#proposal">proposal</a> on the Giveth <a href="https://forum.giveth.io" target="_blank">forum</a>.
-    - Allow a minimum of 5 days for advice process.
-2. Create a proposal in the DApp for on-chain voting; this should link to your forum proposal.
-    - [GIVgardens](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98) for GIV token holders
-    - [rDAO](https://xdai.aragon.blossom.software/#/nrgiv/) for nrGIV token holders
-3. Wait for results.
-4. Execute required actions.
+Se espera que los espacios comunitarios de Giveth, incluidos [Giveth Forum](https://forum.giveth.io/), [GitHub](https://github.com/Giveth) y [Discord](https://discord.gg/JxF38Tj364), así como otros foros fuera de la cadena que puedan surgir en el futuro, cumplen con este pacto.
+
+## Resumen
+
+1- Haz una [propuesta](https://docs.giveth.io/whatisgiveth/governanceProcess/#proposal) en el [foro de Giveth](https://forum.giveth.io/).
+
+- Permitir un mínimo de 5 días para el proceso de consejería.
+
+2- Crear una propuesta en el dapp para votación en cadena; esto debería vincular a su propuesta en el foro.
+
+- [GIVgardens](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98) para titulares del token GIV
+- [rDAO](https://xdai.aragon.blossom.software/#/nrgiv/) para titulares del token nrGIV
+
+3- Espera los resultados.
+4- Realizar las acciones necesarias.

@@ -1,47 +1,46 @@
 ---
 id: codeofconduct
-title: Code of Conduct
+title: Codigo de Conducta
 ---
+## Nuestro compromiso
 
-## Our Pledge
+Con el interés de promover un ambiente abierto y acogedor, nosotros como miembros, colaboradores y líderes nos comprometemos a que la participación en Giveth esté libre de acoso, independientemente de la edad, forma del cuerpo, discapacidad visible o invisible, etnia, características sexuales, identidad y expresión de género, nivel de experiencia, educación, estatus socioeconómico, origen nacional, apariencia personal, raza, religión o identidad y orientación sexual.
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+## Nuestros estándares
 
-## Our Standards
+Los ejemplos de comportamiento que contribuyen a crear un ambiente positivo incluyen:
 
-Examples of behavior that contributes to creating a positive environment include:
+- Uso de un lenguaje acogedor e inclusivo;
+- Respetar los diferentes puntos de vista y experiencias;
+- Aceptar la crítica constructiva;
+- Concentración en lo que es mejor para la comunidad;
+- Mostrar empatía hacia otros miembros de la comunidad;
 
-- Using welcoming and inclusive language
-- Being respectful of differing viewpoints and experiences
-- Gracefully accepting constructive criticism
-- Focusing on what is best for the community
-- Showing empathy towards other community members
+Ejemplos de comportamiento inaceptable por parte de los participantes incluyen:
 
-Examples of unacceptable behavior by participants include:
+- El uso de lenguaje o imágenes sexualizados e intenciones sexuales no deseadas;
+- Trolling, comentarios ofensivos y ataques personales o políticos;
+- Acoso público o privado;
+- Publicación de información privada de terceros, como una dirección física o electrónica, sin permiso explícito;
+- Comportamiento irrespetuoso, acosador, autoritario o de troleo relacionado con lanzamientos desde el aire;
+- Otras conductas que razonablemente podrían considerarse inapropiadas en un entorno profesional;
 
-- The use of sexualized language or imagery and unwelcome sexual attention or advances
-- Trolling, insulting/derogatory comments, and personal or political attacks
-- Public or private harassment
-- Publishing others' private information, such as a physical or electronic address, without explicit permission
-- Disrespectful, harassing, entitled or trolling behaviour related to airdrops
-- Other conduct which could reasonably be considered inappropriate in a professional setting
- 
-## Our Responsibilities
+## Nuestras responsabilidades
 
-Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behaviour.
+Los propietarios de proyectos son responsables de aclarar los estándares de comportamiento aceptable y se espera que tomen medidas correctivas apropiadas y justas en respuesta a cualquier caso de comportamiento inaceptable.
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, documentation edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other actions that they deem inappropriate, threatening, offensive, or harmful.
+Los propietarios de proyectos tienen el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, compromisos, códigos, ediciones de documentación, preguntas y otras contribuciones que no se alineen con este Código de conducta, o prohibir temporal o permanentemente a cualquier colaborador por otras acciones que considere inapropiado, amenazante, ofensivo o dañino.
 
-## Scope
+## Ámbito de aplicación
 
-This Code of Conduct applies within all project spaces, and it also applies when an individual is representing the project or its community in public spaces. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
+Este Código de Conducta aplica en todos los espacios del proyecto, y también aplica cuando un individuo representa al proyecto o su comunidad en espacios públicos. Los ejemplos de representación de un proyecto o comunidad incluyen el uso de una dirección de correo electrónico oficial del proyecto, la publicación a través de una cuenta oficial de redes sociales o la actuación como representante designado en un evento en línea o fuera de línea. La representación de un proyecto puede ser mejor definida y aclarada por los mantenedores del proyecto.
 
-## Enforcement
+## Aplicación de las normas
 
-Instances of abusive, harassing, or otherwise unacceptable behaviour may be reported by contacting the project team at givethdotio@gmail.com or by submitting an issue to [support](https://giveth.io/support). All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Los casos de comportamiento abusivo, acosador o inaceptable se pueden informar comunicándose con el equipo del proyecto en givethdotio@gmail.com, o informando el problema a [support.](https://giveth.io/support) Todas las quejas serán revisadas e investigadas y dará como resultado una respuesta que se considere necesaria y apropiada según las circunstancias. El equipo del proyecto debe mantener la confidencialidad con respecto a la notificación de un incidente. Es posible que se publiquen por separado más detalles sobre políticas específicas de aplicación de la ley.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
+Los propietarios de proyectos que no sigan o no hagan cumplir el Código de Conducta de buena fe pueden enfrentar repercusiones temporales o permanentes, según lo determinen otros miembros del liderazgo del proyecto.
 
-Attribution This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available [here](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html).
+Reconocimiento de este Código de Conducta está adaptado al Pacto Comunitario, versión 1.4, disponible [aquí.](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
 
-For answers to common questions about this code of conduct, see [here](https://www.contributor-covenant.org/faq).
+Para obtener respuestas a preguntas comunes sobre este código de conducta, consulte [aquí](https://www.contributor-covenant.org/faq)
