@@ -41,27 +41,27 @@ At inception, the GIVeconomy has an initial circulating supply of 17.05 million 
 
 Past contributors, crypto donors & Giveth users make up 17.05% of the GIViverse. We’ve allocated 26.95% of GIV to future contributors, the [rGIV DAO treasury](https://medium.com/giveth/the-giveth-dao-community-givernance-84f55fa1ce36) & future roadmap projects (described at the end of this post) as part of our [progressive decentralization](https://a16z.com/2020/01/09/progressive-decentralization-crypto-product-management/). The rest is fueling our GIVeconomy pillars:
 
-*   33% allocated to the [GIVgarden](https://giv.giveth.io/givgarden) common pool to fund proposals governed by GIV holders with [conviction voting](https://forum.giveth.io/t/conviction-voting/154).
-*   13% allocated to reward donors to verified projects with GIV from our [GIVbacks](https://giv.giveth.io/givbacks) program.
-*   10% allocated to reward liquidity providers and stakers in the [GIVfarm](https://giv.giveth.io/givfarm).
+*   33% allocated to the [GIVgarden](https://giveth.io/givgarden) common pool to fund proposals governed by GIV holders with [conviction voting](https://forum.giveth.io/t/conviction-voting/154).
+*   13% allocated to reward donors to verified projects with GIV from our [GIVbacks](https://giveth.io/givbacks) program.
+*   10% allocated to reward liquidity providers and stakers in the [GIVfarm](https://giveth.io/givfarm).
 
 ## The GIVdrop
 
 
-To initialize a DAO led by Givers, we have created the [GIVdrop](https://giv.giveth.io/claim). With the GIVdrop, 17.05% of the initial supply has been distributed to the Giveth trusted seed — crypto philanthropists, Giveth users & contributors, and [Blockchain4good](https://twitter.com/search?q=%23blockchain4good&src=typed_query) heroes. These are value-aligned individuals that have been working, directly or indirectly, to further [Giveth’s mission](https://docs.giveth.io/whatisgiveth/), and now are being brought into an ecosystem of collective support, abundance and value-creation. With no VCs or presales, **the GIVeconomy is kicked off by the donors, of the donors and for the donors.**
+To initialize a DAO led by Givers, we have created the [GIVdrop](https://giveth.io/claim). With the GIVdrop, 17.05% of the initial supply has been distributed to the Giveth trusted seed — crypto philanthropists, Giveth users & contributors, and [Blockchain4good](https://twitter.com/search?q=%23blockchain4good&src=typed_query) heroes. These are value-aligned individuals that have been working, directly or indirectly, to further [Giveth’s mission](https://docs.giveth.io/whatisgiveth/), and now are being brought into an ecosystem of collective support, abundance and value-creation. With no VCs or presales, **the GIVeconomy is kicked off by the donors, of the donors and for the donors.**
 
-To read more about the GIVdrop and eligibility, [check out our documentation](https://docs.giveth.io/giveconomy/givdrop) or [see if you qualify](https://giv.giveth.io/claim).
+To read more about the GIVdrop and eligibility, [check out our documentation](https://docs.giveth.io/giveconomy/givdrop) or [see if you qualify](https://giveth.io/claim).
 
 ## The GIVstream
 
 
-[The GIVstream](https://giv.giveth.io/givstream) provides a continuous flow of GIV to GIVeconomy participants. We call it _the expanding GIViverse_. The GIVeconomy begins humbly but as time passes, the GIViverse expands and GIV is streamed out to our community of GIVers. **In this way, as the GIVeconomy grows & stabilizes, we empower those who support the Giveth ecosystem with increasing governance rights.**
+[The GIVstream](https://giveth.io/givstream) provides a continuous flow of GIV to GIVeconomy participants. We call it _the expanding GIViverse_. The GIVeconomy begins humbly but as time passes, the GIViverse expands and GIV is streamed out to our community of GIVers. **In this way, as the GIVeconomy grows & stabilizes, we empower those who support the Giveth ecosystem with increasing governance rights.**
 
 <img alt='GIVstream expansion' src={useBaseUrl('img/blog/GIViverseExpansion.gif')} />
 
 ###### h/t [@RodriCastillo](https://twitter.com/_rodricast) for the awesome GIF
 
-Those who receive the GIVdrop also receive a GIVstream. Anyone can increase their GIV/week flowrate by participating in the GIVeconomy through [GIVbacks](https://giv.giveth.io/givbacks), the [GIVgarden](https://giv.giveth.io/givgarden) or the [GIVfarm](https://giv.giveth.io/givfarm). To learn more, [check out our documentation](https://docs.giveth.io/giveconomy/givstream) or [see your GIVstream flowing](https://giv.giveth.io/givstream).
+Those who receive the GIVdrop also receive a GIVstream. Anyone can increase their GIV/week flowrate by participating in the GIVeconomy through [GIVbacks](https://giveth.io/givbacks), the [GIVgarden](https://giveth.io/givgarden) or the [GIVfarm](https://giveth.io/givfarm). To learn more, [check out our documentation](https://docs.giveth.io/giveconomy/givstream) or [see your GIVstream flowing](https://giveth.io/givstream).
 
 ## GIVeconomy Starting Line
 
@@ -90,7 +90,7 @@ Thanks to our verification team and our recent integration with [The Giving Bloc
 
 ###### h/t [@mateodaza](https://twitter.com/mateodazab) & our #memes channel in [Discord](https://discord.giveth.io/)
 
-The [GIVgarden](https://giv.giveth.io/givgarden) is the decentralized governance platform for Giveth and the GIVeconomy. [Powered by 1hive](https://gardens.1hive.org/), the GIVgarden is where GIV holders can make and vote on proposals to fund value-aligned initiatives that shape the Future of Giving. It has four main components:
+The [GIVgarden](https://giveth.io/givgarden) is the decentralized governance platform for Giveth and the GIVeconomy. [Powered by 1hive](https://gardens.1hive.org/), the GIVgarden is where GIV holders can make and vote on proposals to fund value-aligned initiatives that shape the Future of Giving. It has four main components:
 
 1.  [Conviction Voting](https://medium.com/giveth/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-aa746cfb9475) for fund management
 2.  [Tao Voting](https://forum.giveth.io/t/tao-voting-explained/155) for executing on-chain decisions
@@ -104,7 +104,7 @@ To learn more about the GIVgarden, [check out our documentation](https://docs.gi
 <img alt='givfarm homepage' src={useBaseUrl('img/blog/GIVfarm.png')} />
 ![](https://miro.medium.com/max/1400/0*GHRbTc7_MidaoMI9)
 
-For the GIVeconomy to function, GIV must be easy to acquire. The [GIVfarm](https://giv.giveth.io/givfarm) is the place to grow and harvest rewards while supporting the GIVeconomy by providing liquidity for GIV! We have farming opportunities on Ethereum Mainnet (ETH) and xDai Network (Gnosis chain), and 35 million GIV are allocated to the rewards program for the first 6 months. A further 65 million GIV has been allocated to provide future farming opportunities. Farms are LIVE now and rewards are BOUNTIFUL! 🌾 [Check it out here](https://giv.giveth.io/givfarm) or  [read more in our documentation.](https://docs.giveth.io/giveconomy/givfarm) h/t to our partners at [DAppNode](https://dappnode.io/) and [BrightID](https://www.brightid.org/) for supporting GIVfarm development!
+For the GIVeconomy to function, GIV must be easy to acquire. The [GIVfarm](https://giveth.io/givfarm) is the place to grow and harvest rewards while supporting the GIVeconomy by providing liquidity for GIV! We have farming opportunities on Ethereum Mainnet (ETH) and xDai Network (Gnosis chain), and 35 million GIV are allocated to the rewards program for the first 6 months. A further 65 million GIV has been allocated to provide future farming opportunities. Farms are LIVE now and rewards are BOUNTIFUL! 🌾 [Check it out here](https://giveth.io/givfarm) or  [read more in our documentation.](https://docs.giveth.io/giveconomy/givfarm) h/t to our partners at [DAppNode](https://dappnode.io/) and [BrightID](https://www.brightid.org/) for supporting GIVfarm development!
 
 ## Future Plans
 
@@ -145,11 +145,11 @@ With GURVES, the GIVbacks program will transform! Whenever donors donate to a GU
 But wait, there’s more…
 -----------------------
 
-The core team at Giveth is committed to executing the above roadmap, but this is a DAO and we aren’t alone in steering the ship! 33% of the token supply has been allocated to the [GIVgarden](https://giv.giveth.io/givgarden) common pool to fund the proposals that the Giveth community believe in.
+The core team at Giveth is committed to executing the above roadmap, but this is a DAO and we aren’t alone in steering the ship! 33% of the token supply has been allocated to the [GIVgarden](https://giveth.io/givgarden) common pool to fund the proposals that the Giveth community believe in.
 
 Giveth has been in the crypto donation scene [since 2016](https://twitter.com/Givethio/status/1454084287184130049). We rescued 210 million dollars from the [Parity multisig attack](https://mashable.com/article/ethereum-stolen-white-hat-group-rescued#ZPTC98wSEPOp), we ran the first [scaling-focused Ethereum conference](https://medium.com/giveth/scalingnow-summit-transcript-ea5373be8523), we created fee-free donation applications, we implemented smooth on-ramps for nonprofits to enter the crypto scene, and that was all solely funded by donations.
 
 The launch of the GIVeconomy is a huge milestone but still just one more step towards building a Future of Giving that we can all be proud of. A future where value-creation for society is rewarded, where altruism becomes profitable, where communities of value-aligned supporters grow and prosper. A future in which we regenerate the earth, we build meaningful connections with each other, we revolutionize economic systems, evolve human coordination and we create societies based on decentralization, freedom, community and **love**.
 
-[**Welcome to the GIVeconomy**](https://giv.giveth.io/)
+[**Welcome to the GIVeconomy**](https://giveth.io/)
 -------------------------------------------------------

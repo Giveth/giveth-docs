@@ -39,14 +39,14 @@ Charity has traditionally created a dynamic where projects who do good work to b
 <img alt='givbacks meme' src={useBaseUrl('img/blog/GIVbacksMeme2.png')} />
 
 
-GIVbacks is changing that. Donors have the opportunity to support projects they believe in, get GIV in return, and start or increase their [GIVstream](https://giv.giveth.io/givstream). They can use that GIV to grow their rewards by, for example, staking in the [GIVfarm](https://giv.giveth.io/givfarm). It’s a win/win: Projects benefit from receiving 100% of the donation, and donors benefit by earning GIV and becoming part of the Giveth ecosystem.
+GIVbacks is changing that. Donors have the opportunity to support projects they believe in, get GIV in return, and start or increase their [GIVstream](https://giveth.io/givstream). They can use that GIV to grow their rewards by, for example, staking in the [GIVfarm](https://giveth.io/givfarm). It’s a win/win: Projects benefit from receiving 100% of the donation, and donors benefit by earning GIV and becoming part of the Giveth ecosystem.
 
 ### GIVbacks gives governance power to the donors using Giveth
 
 <img alt='givbacks meme' src={useBaseUrl('img/blog/GIVbacksMeme3.png')} />
 
 
-Giveth is of the donors, by the donors, and for the donors. [Our GIVdrop](https://giv.giveth.io/claim) was sent to the Blockchain4good community — [and particularly crypto donors & Giveth users](https://docs.giveth.io/giveconomy/givdrop/) — because we wanted to kickstart the [GIVeconomy](https://giv.giveth.io/) with value-aligned GIVers. Now, as the economy expands, we want the donors who are using the platform and giving to causes they care about to get proportionally increasing governance power. With GIVbacks, the more you give, the more GIV you get, and that GIV can be used in the [GIVgarden](https://giv.giveth.io/givgarden) to decide which proposals get funded to expand the GIVeconomy.
+Giveth is of the donors, by the donors, and for the donors. [Our GIVdrop](https://giveth.io/claim) was sent to the Blockchain4good community — [and particularly crypto donors & Giveth users](https://docs.giveth.io/giveconomy/givdrop/) — because we wanted to kickstart the [GIVeconomy](https://giveth.io/) with value-aligned GIVers. Now, as the economy expands, we want the donors who are using the platform and giving to causes they care about to get proportionally increasing governance power. With GIVbacks, the more you give, the more GIV you get, and that GIV can be used in the [GIVgarden](https://giveth.io/givgarden) to decide which proposals get funded to expand the GIVeconomy.
 
 ### GIVbacks are like tax-deductible donations but without governments and borders
 
@@ -64,7 +64,7 @@ GIVbacks provides a similar end, but cuts the bureaucracy. If a project can prov
 
 The long-term vision of Giveth is to enable for-good projects to use token engineering and DAO coordination on the ground. GIVbacks is [the first step towards achieving this goal](https://youtu.be/VV7TmNILk6o?t=1640). With GIVbacks, ordinary donors start learning about and getting curious about DAO tools like [token streams](https://docs.giveth.io/giveconomy/givstream), [DeFi](https://docs.giveth.io/giveconomy/givfarm) and [token-weighted voting](https://docs.giveth.io/giveconomy/givgarden). Furthermore, when donors get GIV, they are naturally inclined to donate it! In GIVbacks round 1, 75% of the total value of donations to verified projects on our platform were in GIV.
 
-With the GIVbacks program, both donors and projects receive GIV and start looking into how to grow their earnings, swiftly falling down the web3 rabbit hole via [giv.giveth.io](https://giv.giveth.io/).
+With the GIVbacks program, both donors and projects receive GIV and start looking into how to grow their earnings, swiftly falling down the web3 rabbit hole via [giveth.io](https://giveth.io/).
 
 ### GIVbacks will evolve into a system that transforms successful projects into DAOs and donors into impact investors
 
@@ -100,13 +100,13 @@ Our amazing Project Verification Team then reviews these applications, investiga
 
 GIVbacks rounds are 2 week periods wherein all donations to verified projects are tracked and recorded in our database. At the end of a round, our team reviews the donations and [calculates the amount of GIV to send to each donor](https://docs.giveth.io/giveconomy/givbacks#getting-givbacks). Note that recipient addresses of verified projects on Giveth do not get GIVbacks for their donations. This is to prevent recirculating funds and other fraudulent activity**_._**
 
-Once the distribution has been determined, and [any suspicious activity](https://docs.giveth.io/giveconomy/givbacks#disqualifying-factors-for-givbacks-program) has been resolved, [reputation DAO token holders](https://medium.com/giveth/the-giveth-dao-community-givernance-84f55fa1ce36) vote to approve the allocation. You can see the votes to distribute GIVbacks for each round in our forum [here](https://forum.giveth.io/tag/givbacks-distro). When the vote passes, donors are notified via email that their GIVbacks are ready to claim [from the GIVbacks page](https://giv.giveth.io/givbacks).
+Once the distribution has been determined, and [any suspicious activity](https://docs.giveth.io/giveconomy/givbacks#disqualifying-factors-for-givbacks-program) has been resolved, [reputation DAO token holders](https://medium.com/giveth/the-giveth-dao-community-givernance-84f55fa1ce36) vote to approve the allocation. You can see the votes to distribute GIVbacks for each round in our forum [here](https://forum.giveth.io/tag/givbacks-distro). When the vote passes, donors are notified via email that their GIVbacks are ready to claim [from the GIVbacks page](https://giveth.io/givbacks).
 
 <img alt='givbacks round example' src={useBaseUrl('img/blog/GIVbacksRoundExample.png')} />
 
 **Every 2 weeks, there is 1 million GIV available to give back to donors!**
 
-Until December 23, 2026 donors who get GIV from GIVbacks are able to claim some part immediately upon distribution, and some part added to their [GIVstream flowrate](https://docs.giveth.io/giveconomy/givstream). With the GIVstream, donors who give to verified projects on Giveth get more GIV continuously [as the GIViverse expands.](https://giv.giveth.io/givstream)
+Until December 23, 2026 donors who get GIV from GIVbacks are able to claim some part immediately upon distribution, and some part added to their [GIVstream flowrate](https://docs.giveth.io/giveconomy/givstream). With the GIVstream, donors who give to verified projects on Giveth get more GIV continuously [as the GIViverse expands.](https://giveth.io/givstream)
 
 GIVbacks is the next generation of philanthropy where, using the power of web3, we can transform legacy systems that require those who give to sacrifice, into ones where giving actually gives back.
 

@@ -36,7 +36,7 @@ The GIVeconomy has been built thanks to our dedicated community of Givers. Givet
 
 The launch of GIVeconomy with all the features described above is only the beginning - we are already crafting the next phase of the Future of Giving. We're developing systems that will completely change the way societies create and reward the creation of public goods.
 
-Keep reading to learn more about some of the raw, exciting and beautiful ideas that we intend to bring to fruition. If you want to have a hand in shaping the next generation of philanthropy, start to [explore GIVeconomy](https://giv.giveth.io/) and [join our team](https://giveth.io/join)!
+Keep reading to learn more about some of the raw, exciting and beautiful ideas that we intend to bring to fruition. If you want to have a hand in shaping the next generation of philanthropy, start to [explore GIVeconomy](https://giveth.io/) and [join our team](https://giveth.io/join)!
 
 ### **GIVcuration**
 This will be a decentralized way to replace [Project Verification](https://docs.giveth.io/dapps/makeTraceableProject) for the GIVbacks program. Community members will be able to stake GIV (using Conviction Voting) on their favourite projects on Giveth. During GIVbacks rounds, the donors to the top voted projects will get the most GIV from GIVbacks! Using this system, the community decides which projects will give the most back to donors which in turn encourages donations to projects that align with the community's values.
@@ -55,7 +55,7 @@ Our biggest dream is to support for-good projects on Giveth to become their own 
 
 <details>
   <summary><h3><i>*Interacting using the Torus Wallet</i></h3></summary>
-  <div><p>To interact with the [GIVeconomy](https://giv.giveth.io/) and other dApps using the Torus wallet, you will have to connect your wallet. To connect, click the “Connect Wallet” icon in the upper right corner of the site, then select Torus and verify. The Torus wallet allows users to sign in with accounts from many different web services, so be sure to sign in with the same account you used to set up the wallet.</p>
+  <div><p>To interact with the [GIVeconomy](https://giveth.io/) and other dApps using the Torus wallet, you will have to connect your wallet. To connect, click the “Connect Wallet” icon in the upper right corner of the site, then select Torus and verify. The Torus wallet allows users to sign in with accounts from many different web services, so be sure to sign in with the same account you used to set up the wallet.</p>
 
   <img alt="Signing in with Torus on the GIVeconomy" width="50%" height="auto" class='center' src={useBaseUrl('img/content/giveconomyTorusConnect.png')} />
 
@@ -68,4 +68,4 @@ Our biggest dream is to support for-good projects on Giveth to become their own 
 
 -----
 
-Giveth's mission is to reward and empower those who give. [The GIVeconomy](https://giv.giveth.io/) is a major milestone in the Future of Giving and is enabling our collective of projects, donors, builders, and community members to give in new ways that support projects, society & the world!
+Giveth's mission is to reward and empower those who give. [The GIVeconomy](https://giveth.io/) is a major milestone in the Future of Giving and is enabling our collective of projects, donors, builders, and community members to give in new ways that support projects, society & the world!

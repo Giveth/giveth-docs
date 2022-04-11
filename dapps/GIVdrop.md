@@ -7,7 +7,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from '../src/css/custom.css'
 
 
-The GIVdrop is designed to kickstart the GIVeconomy by distributing GIV tokens to the Giveth trusted seed - crypto philanthropists, Giveth users & builders, Blockchain4Good DAO members, and other ecosystem partners. To check your GIVdrop eligibility or to claim [click here](https://giv.giveth.io/claim). To learn how to claim your GIVdrop, refer to our tutorial below.
+The GIVdrop is designed to kickstart the GIVeconomy by distributing GIV tokens to the Giveth trusted seed - crypto philanthropists, Giveth users & builders, Blockchain4Good DAO members, and other ecosystem partners. To check your GIVdrop eligibility or to claim [click here](https://giveth.io/claim). To learn how to claim your GIVdrop, refer to our tutorial below.
 
 All addresses have 5 years from December 24, 2021 to claim their GIVdrop. After that, any unclaimed tokens will be returned to the Giveth DAO, further increasing the DAO treasury.
 
@@ -50,7 +50,7 @@ The Blockchain4Good DAO heroes group includes a list of over 2500 unique address
 :::info
 We have made every effort to include all valid addresses in this GIVdrop made at our discretion. Not every person who has ever interacted with Giveth is eligible. If you did not receive GIV, that is because you were not eligible or the wallet that stores the address that was eligible can not be accessed. We will not review past transactions or consider other addresses for inclusion. We appreciate your understanding.
 
-If you did not receive the GIVdrop, check out our [GIVbacks program](https://giv.giveth.io/givbacks) to find out how to get GIV!
+If you did not receive the GIVdrop, check out our [GIVbacks program](https://giveth.io/givbacks) to find out how to get GIV!
 :::
 
 **NOTE:** If you received the GIVdrop but no longer have access to the eligible address, it is possible for us to redirect the allocation to another ETH address. However, you need to prove who you are and that you do have tokens allocated to you. If this is you, reach out to our team for support. FYI - if no one in the Giveth team knows you, it probably won't work out.
@@ -59,7 +59,7 @@ If you did not receive the GIVdrop, check out our [GIVbacks program](https://giv
 
 The GIVdrop was released on December 24, 2021. In this guide we'll walk you through how to claim your GIV on the GIVdrop claim page.
 
-First thing is to head over to [the GIVdrop claim page](https://giv.giveth.io/claim); you should arrive at this screen:
+First thing is to head over to [the GIVdrop claim page](https://giveth.io/claim); you should arrive at this screen:
 
 <img alt='check GIVdrop eligibility' src={useBaseUrl('/img/content/giveconomy/claimConnect1.png')} />
 
@@ -96,7 +96,7 @@ In addition to the GIVdrop, you'll also receive a GIVstream which will continuou
 
 Click `HARVEST` to generate the transaction to claim your GIVdrop to your connected wallet.
 
-You're now equipped and ready to jump into the GIVeconomy - Discover all the great ways you can contribute to a [thriving economy of Giving](https://giv.giveth.io/).
+You're now equipped and ready to jump into the GIVeconomy - Discover all the great ways you can contribute to a [thriving economy of Giving](https://giveth.io/).
 
 
 ---
@@ -118,7 +118,7 @@ Lastly, and most importantly, click `Explore the GIVeconomy` to jump into GIVeco
 Unfortunately the address provided didn't receive a GIVdrop. Check the wallet address you provided or that you've connected with the correct wallet address.
 <img alt='you missed the GIVdrop' src={useBaseUrl('/img/content/giveconomy/claimMissed1.png')} />
 
-If you missed out, don't fret; there are still other ways to get GIV! You can follow the link on the [GIVfarm](https://giv.giveth.io/givfarm) page to take you to your local friendly Decentralized Exchange (on Mainnet or Gnosis Chain [formerly xDai Network]) to swap your crypto for some of that sweet, sweet GIV.
+If you missed out, don't fret; there are still other ways to get GIV! You can follow the link on the [GIVfarm](https://giveth.io/givfarm) page to take you to your local friendly Decentralized Exchange (on Mainnet or Gnosis Chain [formerly xDai Network]) to swap your crypto for some of that sweet, sweet GIV.
 
 <img alt='buy tokens link from GIVfarm' src={useBaseUrl('/img/content/giveconomy/claimMissed2.png')} />
 

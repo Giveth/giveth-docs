@@ -3,6 +3,7 @@ id: listedUnlisted
 title: Project Quality Assurance Guide
 slug: dapps/listedUnlisted
 ---
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 In order to ensure the quality of projects on our DApp, we have implemented a processus for pre-screening projects before they are featured on the Giveth homepage. All new projects are initially **unlisted** until they are reviewed and approved by a Giveth Unicorn. Unlisted projects can still receive donations and can be accessed via the project's URL. However, only **listed** projects will appear on the Giveth homepage & projects page, and using our sort, filter and search functionalities.
 
@@ -24,10 +25,10 @@ In order for a project to be approved and listed on the DApp, it must have the f
 ### Examples of Projects that pass "Listed" criteria
 
 1. [Giveth](https://giveth.io/project/the-giveth-community-of-makers): Unique photo, clear description, external links
-![](https://i.imgur.com/7BAVmIM.png)
+<img alt='Giveth' src={useBaseUrl('img/verifiedproject.png')} />
 
 2. [The Commons Simulator](https://giveth.io/project/The-Commons-Simulator:-Level-Up): Unique photo, clear description, embedded video, external links
-![](https://i.imgur.com/rx64ueN.png)
+<img alt='CommonsSimulator' src={useBaseUrl('img/verifiedproject2.png')} />
 
 ## Unlisted Projects
 A project is likely to remain unlisted due to the following:

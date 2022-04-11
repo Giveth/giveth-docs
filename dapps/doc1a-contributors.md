@@ -6,7 +6,7 @@ slug: dapps/contributors
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'
 
-Giveth currently maintains three products that focus on funding management, peer to peer donations, and DeFi for-good token economics. These are [Giveth TRACE](https://trace.giveth.io), [Giveth.io](https://giveth.io) and the [GIVeconomy](https://giv.giveth.io) respectively
+Giveth currently maintains three products that focus on funding management, peer to peer donations, and DeFi for-good token economics. These are [Giveth TRACE](https://trace.giveth.io), [Giveth.io](https://giveth.io) and the [GIVeconomy](https://giveth.io) respectively
 
 All our products share some common development standards that are paramount to learn before engaging in any development for Giveth. In this document we'll show you how to interact with our open-source repositories, getting in touch with the right people and how to begin creating and picking up issues.
 

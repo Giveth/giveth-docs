@@ -8,7 +8,7 @@ import TabItem from '@theme/TabItem';
 import styles from '../src/css/custom.css';
 
 
-This is a guide for thorough user testing scenarios for the GIVeconomy DApp. Testing should be done on the staging server which can be found at https://staging.giv.giveth.io/.
+This is a guide for thorough user testing scenarios for the GIVeconomy DApp. Testing should be done on the staging server which can be found at https://staging.giveth.io/.
 
 
 ## Requirements

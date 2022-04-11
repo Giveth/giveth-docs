@@ -58,7 +58,7 @@ Six change-making projects live on Giveth and inspiring change! There are a coup
 
 *   Try out [Giveth.io](https://giveth.io/project/giveth/) or [Giveth TRACE](https://beta.giveth.io/dac/giveth-dac)
 *   Discover our [Docs](https://docs.giveth.io/) and [Wiki](https://wiki.giveth.io/)
-*   Join us on [Discord](https://discord.gg/JftjK8Un3z) or [Telegram](http://t.me/givethio)
+*   Join us on [Discord](https://discord.giveth.io) or [Telegram](http://t.me/givethio)
 *   Fork our code on [GitHub](https://github.com/Giveth/)
 *   Follow us on [Medium](http://medium.com/giveth/), [Facebook](https://www.facebook.com/givethio), [Twitter](http://twitter.com/givethio) and [Reddit](https://www.reddit.com/r/giveth/)
 

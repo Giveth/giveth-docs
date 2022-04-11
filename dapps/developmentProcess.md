@@ -7,7 +7,7 @@ slug: dapps/developmentProcess
 *This section details the Giveth TRACE development process, deployments, and how merging and testing is handled.*
 
 ## Development Planning, Sprints and Where to get Involved.
-We run on a 2 week sprint cycle with weekly developer meetings to plan sprints and assess progress. You can checkout when the next one is on our [Google Calendar](https://calendar.google.com/calendar/embed?src=givethdotio%40gmail.com) and you can also reach out on the [Giveth Discord](https://discord.gg/XhN7eGmcCK) to `@moenick` the Giveth TRACE project manager. You can find the current [Giveth TRACE repository on Github](https://github.com/Giveth/giveth-dapp).
+We run on a 2 week sprint cycle with weekly developer meetings to plan sprints and assess progress. You can checkout when the next one is on our [Google Calendar](https://calendar.google.com/calendar/embed?src=givethdotio%40gmail.com) and you can also reach out on the [Giveth Discord](https://discord.giveth.io) to `@moenick` the Giveth TRACE project manager. You can find the current [Giveth TRACE repository on Github](https://github.com/Giveth/giveth-dapp).
 
 ## Deployments and Branch Organisation
 Giveth TRACE has transitioned from passive to active development for post-beta release coming soon. There are two deployments currently used for the development process.
@@ -96,7 +96,7 @@ A Feature is any non-trivial improvement (less than 10 lines of code). Most feat
 
  **Where do we communicate what needs testing?**
 
-The QA testing is announced in the `Giveth-1 Dev` channel on [Discord](https://discord.gg/79uUbyVCtE).
+The QA testing is announced in the `Giveth-1 Dev` channel on [Discord](https://discord.giveth.io).
 
 **How do we prioritize when tests fail / bug fixes?**
 
