@@ -27,14 +27,14 @@ Giveth is rewarding & empowering those who give - to projects to society & to th
 Since our official launch of the GIVeconomy just over a month ago, we already have:
 
 -   Over 1,000 fully-vetted  [verified projects](https://giveth.io/projects?utm_campaign=Community+Newsletter+January+2022&utm_medium=email&utm_source=autopilot)  raising funds on Giveth - over 700 of which thanks to our integration with  [The Giving Block](https://thegivingblock.com/?utm_campaign=Community+Newsletter+January+2022&utm_medium=email&utm_source=autopilot)!
--   Two successful  [GIVbacks Rounds](https://giv.giveth.io/givbacks?utm_campaign=Community+Newsletter+January+2022&utm_medium=email&utm_source=autopilot)  where donors to verified projects were rewarded with GIV. Don’t forget to claim your POAPs for  [Round 1](https://poap.delivery/givbacksround1?utm_campaign=Community+Newsletter+January+2022&utm_medium=email&utm_source=autopilot)  and  [Round 2](https://poap.delivery/givbacksround2?utm_campaign=Community+Newsletter+January+2022&utm_medium=email&utm_source=autopilot)!
+-   Two successful  [GIVbacks Rounds](https://giveth.io/givbacks?utm_campaign=Community+Newsletter+January+2022&utm_medium=email&utm_source=autopilot)  where donors to verified projects were rewarded with GIV. Don’t forget to claim your POAPs for  [Round 1](https://poap.delivery/givbacksround1?utm_campaign=Community+Newsletter+January+2022&utm_medium=email&utm_source=autopilot)  and  [Round 2](https://poap.delivery/givbacksround2?utm_campaign=Community+Newsletter+January+2022&utm_medium=email&utm_source=autopilot)!
 -   The start of GIVbacks Round 3! If you donate to any  [verified project](https://giveth.io/projects?utm_campaign=Community+Newsletter+January+2022&utm_medium=email&utm_source=autopilot)  before February 4, 2022 you'll be included in the next distribution. 1 Million GIV is available to reward donors!
--   Over 4 Million GIV wrapped and ready to vote in the  [GIVgarden](https://giv.giveth.io/givgarden?utm_campaign=Community+Newsletter+January+2022&utm_medium=email&utm_source=autopilot)  to fund value-aligned proposals.
--   Over $1.5 Million of liquidity on Gnosis Chain and nearly $1 Million of liquidity on Mainnet. Stake LP tokens and earn a yield in the  [GIVfarm](https://giv.giveth.io/givfarm?utm_campaign=Community+Newsletter+January+2022&utm_medium=email&utm_source=autopilot)! Rewards are bountiful 🌾
+-   Over 4 Million GIV wrapped and ready to vote in the  [GIVgarden](https://giveth.io/givgarden?utm_campaign=Community+Newsletter+January+2022&utm_medium=email&utm_source=autopilot)  to fund value-aligned proposals.
+-   Over $1.5 Million of liquidity on Gnosis Chain and nearly $1 Million of liquidity on Mainnet. Stake LP tokens and earn a yield in the  [GIVfarm](https://giveth.io/givfarm?utm_campaign=Community+Newsletter+January+2022&utm_medium=email&utm_source=autopilot)! Rewards are bountiful 🌾
 
 To see more GIVeconomy Analytics, check out this  [amazing dashboard](https://dune.xyz/metacrypto/giveconomy?utm_campaign=Community+Newsletter+January+2022&utm_medium=email&utm_source=autopilot)! h/t  [Fabio Mendes](https://twitter.com/fabiomendesafc?utm_campaign=Community+Newsletter+January+2022&utm_medium=email&utm_source=autopilot)  for hooking us up!
 
-[📊 PARTICIPATE IN THE GIVECONOMY](https://giv.giveth.io/)
+[📊 PARTICIPATE IN THE GIVECONOMY](https://giveth.io/)
 
 <img alt='givnews' src={useBaseUrl('img/newsletter/Feb3.png')} />
 
