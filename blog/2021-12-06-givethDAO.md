@@ -74,7 +74,7 @@ Over time, new contributors can build reputation in the community and become eli
 
 **Anyone can earn rewards by engaging in the Giveth community**
 
-Praise is our way of saying thanks for being awesome. The first 20 minutes of our [weekly Community Call](https://calendar.google.com/event?action=TEMPLATE&tmeid=MW5zazNraGxzbmZza3EzcDJlYmpnaWd1YjYgZ2l2ZXRoZG90aW9AbQ&tmsrc=givethdotio%40gmail.com) are dedicated to celebrating who did what for the past week. By using the PraiseBot, !praise can be given in any channel on the Giveth Discord server at any time, and we even have a dedicated [#praise channel](https://discord.gg/Afc359P78c) because there are so many people doing great things.
+Praise is our way of saying thanks for being awesome. The first 20 minutes of our [weekly Community Call](https://calendar.google.com/event?action=TEMPLATE&tmeid=MW5zazNraGxzbmZza3EzcDJlYmpnaWd1YjYgZ2l2ZXRoZG90aW9AbQ&tmsrc=givethdotio%40gmail.com) are dedicated to celebrating who did what for the past week. By using the PraiseBot, !praise can be given in any channel on the Giveth Discord server at any time, and we even have a dedicated [#praise channel](https://discord.giveth.io) because there are so many people doing great things.
 
 All those **_thank you_**’s are captured in a spreadsheet and reviewed by the Working Group Stewards every four weeks, to use in combination with SourceCred for allocating a percentage of the available Rewards to contributors. This practice of !praising contributors transparently and distributing rewards was kicked off 4 years ago with the [first PraiseBot built for Giveth](https://github.com/Giveth/giveth-bot) on Matrix and now carried forward by [Commons Stack](http://commonsstack.org) and the [Token Engineering Commons](http://tecommons.org)!
 
@@ -165,7 +165,7 @@ Stay tuned to our [Discourse Forum and Discord Chats](http://giveth.io/join) as 
 
 ### Want to get more involved?
 
-*   Join us on [Discord](https://discord.gg/JftjK8Un3z) or [Telegram](http://t.me/givethio)
+*   Join us on [Discord](https://discord.giveth.io) or [Telegram](http://t.me/givethio)
 *   Discover our [Docs](https://docs.giveth.io/)
 *   Fork our code on [GitHub](https://github.com/Giveth/)
 *   Follow us on [Medium](http://medium.com/giveth/), [Twitter](http://twitter.com/givethio), [Reddit](https://www.reddit.com/r/giveth/) and [YouTube](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ)
