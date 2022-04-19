@@ -37,6 +37,25 @@ If all conditions have been met, including time requirements for Advice Process,
 
 GIV token holders can get involved in decision making via the <a href="https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98" target="_blank">GIVgarden</a>. It leverages [Conviction Voting](https://forum.giveth.io/t/conviction-voting/154) and [Tao Voting](https://forum.giveth.io/t/tao-voting-explained/155) systems to allow GIV token holders to create, signal and vote on proposals using their GIV tokens. Decisions made in here revolve around community funding requests and suggestions as well as any metagovernance modifications. To learn more [visit our documentation regarding the GIVgarden](../giveconomy/givgarden).
 
+### Snapshot Voting
+Snapshot allows all of a users GIV holdings, including GIV staked in GIVfarms or the GIVgarden to be counted and calculated towards their total voting power used on the [Giveth Snapshot](https://snapshot.org/#/giv.eth) Snapshot is gasless and chain-agnostic and is a magnificient tool to capture community sentiment on proposals and issues that do not directly request funds from Giveth.
+
+Giveth has whitelisted three types of votes that can be used for proposals on Snapshot: **Basic Voting**, **Single Choice Voting** and **Ranked Choice Voting**. Any other types of voting methods are considered invalid at this time.
+
+#### Single Choice Voting OR Basic Voting
+This is a simple Single choice voting strategy. You'll have a range of options and you can only pick one. In Basic Voting you'll be able to choose between For (Yes), Against (No) or Abstain (Undecided/No Opinion).
+
+**A single choice or YES option needs to receive 88% support in order to pass.** To arrive at the YES % we remove the abstain votes and divide the YES votes against the total amount of YES and NO votes. 
+
+Our Quorum is the total amount of GIV tokens that need to particiapte in a vote in order for it to be considered valid. **The Quorum will be set to 1 Million GIV**
+
+#### Ranked Choice Voting
+This voting method allows you to select multiple options, signalling your most preferred outcome and then your 2nd favourite option, 3rd, 4th and so on.. (depending on how many options there are)
+
+**There are no required support percentages for Ranked Choice voting.** Snapshot will calculate which option received the most support and we will choose the top result as the winner. 
+
+**Quorum, will be set to 1Million GIV**.
+
 ## nrGIV Token Holder
 
 This is a form of executive council held for trusted Giveth contributors. rDAO members hold nrGIV and use an [Aragon DAO deployment](https://aragon.1hive.org/#/nrgiv/) to create and vote on proposals using simple Yes/No voting mechanics. Anyone can make a proposal, but only nrGIV holders can vote. Proposals will remain open for voting for 3 days and must adhere to the Quorum and Support Required percentages or else it will fail. In order to get nrGIV you must be a regular contributor to Giveth for at least 3 months. nrGIV is distributed quarterly to eligible current contributors.
@@ -58,7 +77,8 @@ Not all decisions require formal on-chain votes. There is room for making low-im
 1. Make a <a href="#proposal">proposal</a> on the Giveth <a href="https://forum.giveth.io" target="_blank">forum</a>.
     - Allow a minimum of 5 days for advice process.
 2. Create a proposal in the DApp for on-chain voting; this should link to your forum proposal.
-    - [GIVgardens](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98) for GIV token holders
+    - [GIVgardens](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98) for GIV token holders requesting funds
+    - [Snapshot](https://snapshot.org/#/giv.eth) for GIV token holders regarding issues or proposals not directly requesting funds
     - [rDAO](https://aragon.1hive.org/#/nrgiv/) for nrGIV token holders
 3. Wait for results.
 4. Execute required actions.
