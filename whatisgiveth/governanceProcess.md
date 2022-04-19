@@ -56,9 +56,10 @@ This voting method allows you to select multiple options, signalling your most p
 
 **Quorum, will be set to 1Million GIV**.
 
-## nrGIV Token Holder
+# nrGIV Token Holder
 
-This is a form of executive council held for trusted Giveth contributors. rDAO members hold nrGIV and use an [Aragon DAO deployment](https://aragon.1hive.org/#/nrgiv/) to create and vote on proposals using simple Yes/No voting mechanics. Anyone can make a proposal, but only nrGIV holders can vote. Proposals will remain open for voting for 3 days and must adhere to the Quorum and Support Required percentages or else it will fail. In order to get nrGIV you must be a regular contributor to Giveth for at least 3 months. nrGIV is distributed quarterly to eligible current contributors.
+This is a form of executive council held for trusted Giveth contributors. rDAO members hold nrGIV and use an [Aragon DAO deployment](https://aragon.1hive.org/#/nrgiv/) to create and vote on proposals using simple Yes/No voting mechanics. Only nrGIV holders can vote or make proposals. Proposals will remain open for voting for 5 days and must adhere to the Quorum and Support Required percentages or else it will fail. In order to get nrGIV you must be a regular contributor to Giveth for at least 3 months. nrGIV is distributed quarterly to eligible current contributors. If you're an eligible contributor then you must request a current nrGIV holder to propose minting nrGIV tokens for you on your behalf, only during the quarterly minting periods. Forum posts will be made for each quarterly distro and will be announced on our Governance and Community Calls.
+
 
 :::info
 When the first tokens are minted for a quarterly nrGIV distribution, all eligible contributors have 1 month from that date to request tokens. After this period the round is closed and no more token requests will be accepted for this period. Eligible contributors will still be able to request tokens for the next token distribution.
