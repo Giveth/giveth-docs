@@ -13,7 +13,7 @@ title: GIVernance
 
 Giveth aims to be a donor-focused organization that GIVs back to those who use our platform to transparently and accountably support change in the world.
 
-We value transparent, holistic governance and hope to be a shining example of it. We explore and readily adopt new innovations that support us in embodying these values. We believe in the self-organizing power of sociocracy, which we apply in the organization of tasks, participation in the [Proposal and Advice Process](https://forum.giveth.io/c/givernance/proposals), and facilitation of our governance meetings.
+We value transparent, holistic governance and hope to be a shining example of it. We explore and readily adopt new innovations that support us in embodying these values. We believe in the self-organizing power of sociocracy, which we apply in the organization of tasks, participation in the [Proposal](https://forum.giveth.io/t/proposal-template/303) and [Advice Process](https://docs.giveth.io/whatisgiveth/adviceProcess/), and facilitation of our governance meetings.
 
 Our circle is uniting the power of our [Decentralized Autonomous Community (DAC)](https://trace.giveth.io/community/giveth-dac) with the non-profit advantages of our [Donor Advised Foundation (DAF)](https://www.sdgimpactfund.org/giveth-foundation) to iterate upon the creation of our governing [Decentralized Autonomous Organization (DAO)](https://aragon.1hive.org/#/giveth/).
 
