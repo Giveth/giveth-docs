@@ -28,6 +28,7 @@ develop | Deployments made to develop are from local builds and include new feat
 Currently we use the Zenhub Boards extension for Github to track progress on features and fixes. You can get the [Zenhub extension here](https://www.zenhub.com/extension).
 
 The Current Github issue flow is as follows:
+
 Name | Usage |
 -----|------------|
 New Issues | Create a new Issue for a new feature request or to report a bug. Tag a developer or `@moenick` to make sure it get's noticed. Use labels to add context to your issue.
