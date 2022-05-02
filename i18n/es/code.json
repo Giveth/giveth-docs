@@ -1,22 +1,22 @@
 {
   "'What is Giveth?'": {
-    "message": "'What is Giveth?'"
+    "message": "¿Que es Giveth?"
   },
   "Everything you need to know about how we do things at Giveth. If you're a new contributor, start here!": {
-    "message": "Everything you need to know about how we do things at Giveth. If you're a new contributor, start here!"
+    "message": "Todo lo que necesitas saber sobre cómo hacemos las cosas en Giveth, si eres un colaborador nuevo tu camino empieza aqui!"
   },
   "User Guides, Developer Documentation and all things technical for Giveth.io and Giveth TRACE.": {
-    "message": "User Guides, Developer Documentation and all things technical for Giveth.io and Giveth TRACE."
+    "message": "Guías de usuario ,documentación para desarrolladores y todas las cosas técnicas de Giveth.io y Giveth TRACE."
   },
   "All you need to know about the GIVeconomy; contract addresses, functionality, tutorials and more!": {
-    "message": "All you need to know about the GIVeconomy; contract addresses, functionality, tutorials and more!"
+    "message": "Todo lo que necesitas saber acerca de GIVeconomy ;direcciones de contrato, funcionalidad, tutoriales y mas!"
   },
   "theme.ErrorPageContent.title": {
     "message": "This page crashed.",
     "description": "The title of the fallback page when the page crashed"
   },
   "theme.ErrorPageContent.tryAgain": {
-    "message": "Try again",
+    "message": "Intenta de nuevo",
     "description": "The label of the button to try again when the page crashed"
   },
   "theme.NotFound.title": {
@@ -64,7 +64,7 @@
     "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.blog.post.readMoreLabel": {
-    "message": "Read more about {title}",
+    "message": "Leer más acerca de {title}",
     "description": "The ARIA label for the link to full blog posts from excerpts"
   },
   "theme.blog.post.readMore": {
@@ -92,11 +92,11 @@
     "description": "The ARIA label for the navbar color mode toggle"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
-    "message": "dark mode",
+    "message": "Modo Oscuro",
     "description": "The name for the dark color mode"
   },
   "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "light mode",
+    "message": "Modo Claro",
     "description": "The name for the light color mode"
   },
   "theme.blog.post.plurals": {

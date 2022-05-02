@@ -1,30 +1,30 @@
 ---
 id: toolsDecentralizedCommunities
-title: Tools for Decentralized Communities
+title: Herramientras para comunidades descentralizadas
 ---
-### Distributed teams need distributed tools!
+### ¡Los equipos descentralidos necesitan herramientas descentralizadas!
 
-Although we try to meet in person too, the most important aspect of running interconnected teams whose members are scattered around the globe comes down to the tools at our disposal. We always try to find the most open and expandable software tools to improve our organizational capability.
+Aunque también intentamos reunirnos en persona, el aspecto más importante de dirigir equipos interconectados cuyos miembros están dispersos por todo el mundo se reduce a las herramientas que tenemos a nuestra disposición. Siempre tratamos de encontrar las herramientas de software más abiertas y ampliables para mejorar nuestra capacidad organizativa.
 
-When we are looking at available software for organization, open-source comes first, usability second. Sometimes we have to make our own tool or most likely expand on the work previously done by others. Explore our world-readable logs on Youtube, our Docs and the Chat - It should give you a good impression of who we are and what we are working on.
+Cuando buscamos software disponible para la organización, el código abierto es lo primero, la usabilidad es lo segundo. A veces tenemos que hacer nuestra propia herramienta o, muy probablemente, ampliar el trabajo realizado previamente por otros. Explore nuestros registros legibles por todo el mundo en Youtube, nuestros Documentos y el Chat. Debería darle una buena impresión de quiénes somos y en qué estamos trabajando.
 
 ### Chat
-The Giveth community mainly communicates through these platforms:
-[Discord](https://discord.gg/DAFkKdkykr) is currently the recommended option for joining the community. We also have a telegram chat that is bridged to our server.
-[Telegram](https://t.me/Givethio) is also used and the chat group is bridged to the general channel in Discord.
+La comunidad de Giveth se comunica principalmente a través de estas plataformas:
+[Discord](https://discord.gg/DAFkKdkykr) es actualmente la opción recomendada para unirse a la comunidad. También tenemos un chat de Telegram conectado a nuestro servidor.
+[Telegram](https://t.me/Givethio) también se usa y el grupo de chat se une al canal general en Discord.
 
-### Documents and Files
-The Giveth DAC uses cloud-storage services for transparent document management. Most of our working documents are hosted and shared within [Notion](https://www.notion.so/giveth/Giveth-2c97e0eca91e43238565c8f79dfe5e8d).
+### Documentos y Archivos
+Giveth DAC utiliza servicios de almacenamiento en la nube para una gestión transparente de documentos. La mayoría de nuestros documentos de trabajo están alojados y compartidos en [Notion](https://www.notion.so/giveth/Giveth-2c97e0eca91e43238565c8f79dfe5e8d).
 
-### Organization
-Currently we are evaluating [AragonDAO](https://aragon.1hive.org/#/giveth/) which is an excellent decentralized solution for decision-making.
+### Organización
+Actualmente estamos evaluando [AragonDAO](https://aragon.1hive.org/#/giveth/) que es una excelente solución descentralizada para la toma de decisiones.
 
-### Accounting
-Transparent tracking of spending on our own [Donation Application](https://trace.giveth.io/community/giveth-dac).
+### Contabilidad
+Seguimiento transparente de los gastos en nuestra propia [Solicitud de donación](https://trace.giveth.io/community/giveth-dac).
 
 ### Medium
-You can find news and updates on our [Medium](https://medium.com/giveth) page.
+Puede encontrar noticias y actualizaciones en nuestra página [Medium](https://medium.com/giveth).
 
-### Youtube
-[Giveth Main Content](https://www.youtube.com/givethio)
-[Giveth Transparency Channel](https://www.youtube.com/channel/UCdqmP4axeI1hNmX20aZsOwg)
+### YouTube
+[Giveth contenido principal](https://www.youtube.com/givethio),
+[Canal de Giveth Transparency](https://www.youtube.com/channel/UCdqmP4axeI1hNmX20aZsOwg)

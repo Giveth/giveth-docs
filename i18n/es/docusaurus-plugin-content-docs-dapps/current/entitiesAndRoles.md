@@ -1,224 +1,218 @@
 ---
 id: entitiesAndRoles
-title: Giveth Entities and Roles
+title: Entidades y roles de Giveth
 slug: dapps/entitiesAndRoles
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
 
-*Content and ideas have been modified from this excellent article [“An Overview of the Giveth Donation Application”](https://medium.com/giveth/what-is-the-future-of-giving-d50446b0a0e4) authored by Kris Decoodt in 2017. Many things have been revised and modified since 2017. Here we breakdown the DApp as it is in 2022.*
+*El contenido y las ideas se modificaron a partir de este excelente artículo [“Una descripción general de la solicitud de donación de Giveth”](https://medium.com/giveth/what-is-the-future-of-giving-d50446b0a0e4) escrito por Kris Decoodt en 2017. Se han revisado y modificado muchas cosas desde 2017. Aquí desglosamos la DApp tal como está en 2022.*
 
-This document explains how different interactions within the Giveth DApp can be made. The goal is to provide a clear outline of the entities and roles within the Giveth TRACE DApp. This document has been tailored for several audiences and use cases as follows:
-* **Developers:** can use this document as part of System Requirements.
-* **Testers:** can use this document to understand how the DApp should work in order to determine what behaviour is wrong and should be reported as a bug. This document is not a formal Test Case in SDLC (Software Development Life Cycle) but can still be used for guidance.
-* **The Support Team:** can use this document as a refererence to help new users who experience difficulties with the DApp.
-* **The End User:** can use this document to gain a greater understanding of how the DApp works. However, foundational knowledge of Blockchain, Ethereum and Giveth is recommended.
+Este documento explica cómo se pueden realizar diferentes interacciones dentro de Giveth DApp. El objetivo es proporcionar un esquema claro de las entidades y roles dentro de Giveth TRACE DApp. Este documento ha sido diseñado para varias audiencias y casos de uso de la siguiente manera:
+* **Los desarrolladores:** pueden usar este documento como parte de los requisitos del sistema.
+* **Los Testers:** pueden usar este documento para comprender cómo debería funcionar la DApp para determinar qué comportamiento es incorrecto y se debe informar como un error. Este documento no es un caso de prueba formal en SDLC (oftware Development Life Cycle), pero aún puede usarse como guía.
+* **El equipo de soporte:** puede usar este documento como referencia para ayudar a los nuevos usuarios que experimentan dificultades con la DApp.
+* **El usuario final:** puede usar este documento para comprender mejor cómo funciona la DApp. Sin embargo, se recomienda un conocimiento básico de Blockchain, Ethereum y Giveth.
 
-## Roles
-We have eight roles in Giveth TRACE. In this section we explain in-depth each role, their function, how to become one and the power each role has.
+## Funciones
+Tenemos ocho roles en Giveth TRACE. En esta sección explicamos en profundidad cada rol, su función, cómo convertirse en uno y el poder que tiene cada rol.
 1. <a href="#giver"><strong>Giver</strong></a>
-2. <a href="#communityManager"><strong>Community Manager</strong></a>
-3. <a href="#campaignManager"><strong>Campaign Manager</strong></a>
-4. <a href="#campaignReviewer"><strong>Campaign Reviewer</strong></a>
-5. <a href="#traceManager"><strong>Trace Manager</strong></a>
-6. <a href="#traceReviewer"><strong>Trace Reviewer</strong></a>
-7. <a href="#recipient"><strong>Recipient</strong></a>
-8. <a href="#websiteUser"><strong>Website User</strong></a>
+2. <a href="#communityManager"><strong>Administrador de la comunidad</strong></a>
+3. <a href="#campaignManager"><strong>Administrador de campañas</strong></a>
+4. <a href="#campaignReviewer"><strong>Revisor de campañas</strong></a>
+5. <a href="#traceManager"><strong>Administrador de trace</strong></a>
+6. <a href="#traceReviewer"><strong>Revisor de trace</strong></a>
+7. <a href="#recipient"><strong>Destinatario</strong></a>
+8. <a href="#websiteUser"><strong>Usuario del sitio web</strong></a>
 
-### Website User
-This refers to any person who visits our website. Without registering as a user on Rinkeby they cannot interact with any Giveth entity nor make donations on Giveth TRACE.
-#### How to become a Website User
-* Anyone with the address of the Giveth TRACE website can become a User.
-#### Power of a Website User
-* Browse through Communities, Campaigns and Traces.
-* Register a profile.
-* Edit their profile.
-* View someones else's profile.
-* Subscribe to a Community, Campaign or Trace.
+### Usuario del sitio web
+Esto se refiere a cualquier persona que visite nuestro sitio web. Sin registrarse como usuario en Rinkeby, no pueden interactuar con ninguna entidad de Giveth ni hacer donaciones en Giveth TRACE.
+#### Cómo convertirse en un usuario del sitio web
+* Cualquier persona con la dirección del sitio web de Giveth TRACE puede convertirse en Usuario.
+#### Poder de un usuario del sitio web
+* Navegar a través de Comunidades, Campañas y traces.
+* Registrar un perfil.
+* Editar su perfil.
+* Ver el perfil de otra persona.
+* Suscríbete a una Comunidad, Campaña o trace.
 
-***Note:** Most site actions require authentication through an Ethereum web wallet; currently Giveth TRACE only supports MetaMask.*
+***Nota:** La mayoría de las acciones del sitio requieren autenticación a través de una billetera web Ethereum; Actualmente, Giveth TRACE solo es compatible con MetaMask.*
 
-### <a name="giver">Giver</a>
-The term Giver describes anyone who uses our platform to give donations to a Community, Campaign or Trace. Givers can interact with all 3 entities but  are not explicitly part of any unless they choose to join a Community or assume another role as well.
-#### How to become a Giver
-* Anyone with an Ethereum wallet can donate to a Community, Campaign, or Trace in the DApp and become a Giver.
-#### Power of a Giver
-* Accept or reject a delayed delegation from a Community or Campaign.
+### <a name="Giver">Giver</a>
+El término giver describe a cualquiera que use nuestra plataforma para hacer donaciones a una Comunidad, Campaña o trace. Los givers pueden interactuar con las 3 entidades, pero no son explícitamente parte de ninguna a menos que elijan unirse a una comunidad o asumir otro rol también.
+#### Cómo convertirse en un Giver
+* Cualquier persona con una billetera Ethereum puede donar a una Comunidad, Campaña o trace en la DApp y convertirse en giver.
+#### El poder de un Giver
+* Aceptar o rechazar una delegación retrasada de una Comunidad o Campaña.
 
-***Note:** Givers can veto or "reject" a proposed Delegation within 3 days of the delegation proposal. This is referred to as a delegation "delay". After 3 days, the delayed delegation will be accepted by the DApp automatically.*
+***Nota:** Los givers pueden vetar o "rechazar" una Delegación propuesta dentro de los 3 días posteriores a la propuesta de delegación. Esto se denomina "retraso" de la delegación. Después de 3 días, la DApp aceptará automáticamente la delegación retrasada.*
 
-### <a name="communityManager">Community Manager</a> (formerly Delegate)
-A Community Manager is the registered user owning a Community. They can delegate the funds donated to their Communities. A delegation is a process, where the donation pledged to a Community is transferred to a Campaign or Trace. Once delegated, the Giver has 3 days to reject (or approve) the delegation. After that time, the money is auto-approved and locked in the Campaign or Trace to which the money was delegated.
-#### How to become a Community Manager
-* A user can create a Community and become the Community Manager after being whitelisted by a DApp Admin.
-#### Power of a Community Manager
-* Edit the name, description, image, and link of their Community.
-* Give Community funds (via delayed delegation) to Campaigns, and Traces.
+### <a name="communityManager">Administrador de la comunidad (anteriormente Delegado)</a> 
+Un Administrador de la Comunidad es el usuario registrado que posee una Comunidad. Pueden delegar los fondos donados a sus Comunidades. Una delegación es un proceso, donde la donación comprometida a una Comunidad se transfiere a una Campaña o Trace. Una vez delegada, el giver tiene 3 días para rechazar (o aprobar) la delegación. Después de ese tiempo, el dinero se aprueba automáticamente y se bloquea en la Campaña o Trace a la que se delegó el dinero.
+#### Cómo convertirse en un administrador de la comunidad
+* Un usuario puede crear una comunidad y convertirse en el administrador de la comunidad después de que un administrador de DApp lo incluya en la lista blanca.
+#### Poder de un Administrador de comunidad 
+* Editar el nombre, la descripción, la imagen y el enlace de su Comunidad.
+* Entregar fondos comunitarios (a través de delegación diferida) a Campañas y Traces.
 
-***Note:** In order to initiate a delayed delegation, the Community Manager should go to the Traces or Campaign page, and click the `Delegate Funds` button.*
+***Nota:** Para iniciar una delegación retrasada, el administrador de la comunidad debe ir a la página Rastreos o Campaña y hacer clic en el botón "Delegar fondos".*
 
-### <a name="campaignManager">Campaign Manager</a>
-Campaign Managers are Giveth.io users who have chosen to make their project traceable and have passed the project verification process. The role of the Campaign Manager is to create Traces through which they can fund the work of people and the cost of resources behind the project.
+### <a name="campaignManager">Administrador de campañas</a>
+Los administradores de campaña son usuarios de Giveth.io que han optado por hacer que su proyecto sea rastreable y han pasado el proceso de verificación del proyecto. El rol del administrador de campaña es crear Traces a través de los cuales puedan financiar el trabajo de las personas y el costo de los recursos detrás del proyecto.
 
-#### How to become a Campaign Manager
-* Verify their Giveth.io project and request to become traceable, upgrading to a Campaign on TRACE and becoming the Campaign Manager of said Campaign.
-#### Power of a Campaign Manager
-* Edit their Campaign.
-* Send Campaign funds (via delegation) to Traces within their Campaign.
-* Reject or accept proposed Traces to their Campaign.
-* Create or edit Traces in their own Campaign.
+#### Cómo convertirse en un administrador de campaña
+* Verificar su proyecto Giveth.io y solicitar ser rastreable, actualizar a una Campaña en TRACE y convertirse en el Gerente de Campaña de dicha Campaña.
+#### El poder de un administrador de campañas
+* Editar su Campaña.
+* Enviar fondos de campaña (a través de delegación) a Traces dentro de su campaña.
+* Rechazar o aceptar Traces propuestos para su Campaña.
+* Crear o editar Traces en su propia Campaña.
+***Nota:** Un Trace debe pertenecer a al menos una campaña y debe ser aprobado por el administrador de la campaña.*
 
-***Note:** A Trace has to belong to at least one Campaign and needs to be approved by the Campaign Manager.*
+### <a name="campaignReviewer">Revisor de campañas</a>
+Debido a que las donaciones a una campaña están bloqueadas, la función de revisor de campaña es fundamental para revisar y realizar un seguimiento del progreso de la campaña. Los revisores de campaña tienen la responsabilidad de verificar la legitimidad de una campaña y sus traces. También tienen un poder considerable dentro de una Campaña.
+#### Cómo convertirse en revisor de campañas
+* Un administrador de campaña puede asignar a un usuario para que se convierta en revisor de campaña.
+#### El poder de un revisor de campañas
+* Rechazar o aprobar traces Completados.
+* Cancelar traces dentro de su Campaña.
+* Cancelar una Campaña.
 
-### <a name="campaignReviewer">Campaign Reviewer</a>
-Because donations to a Campaign are locked, a Campaign Reviewer role is critical to review and track the Campaign's progress. Campaign Reviewers have the responsiblity of checking the legitimacy of a Campaign and its Traces. They also have considerable power within a Campaign.
-#### How to become a Campaign Reviewer
-* A Campaign Manager can assign a user to become a Campaign Reviewer.
-#### Power of a Campaign Reviewer
-* Reject or approve Completed Traces.
-* Cancel Traces within their Campaign.
-* Cancel a Campaign.
+### <a name="traceManager">Administrador de trace (anteriormente Administrador de hitos)</a> 
+Los traces son la base del sistema Giveth. Cualquier usuario registrado puede proponer un Trace a una Campaña. Sin embargo, un Gerente de Campaña o Revisor de Campaña debe aprobar el trace propuesto a su Campaña para que sea válido. Los traces pueden representar varios tipos de solicitudes de financiación. Más información sobre <a href="#traceTypes">tipos de Traces</a> se detalla más adelante en este documento.
+#### Cómo convertirse en administrador de traces
+* Un usuario puede proponer un Trace a la campaña y convertirse en el Administrador de Trace.
+#### El poder de un administrador de trace
+* Editar su trace.
+* En el caso de crear una recompensa o un Hito, un Administrador de trace puede establecer un Revisor de trace.
+* Marcar un Trace como completo.
 
-### <a name="traceManager">Trace Manager</a> (formerly Milestone Manager)
-Traces are the foundation of the Giveth system. Any registered user can propose a Trace to a Campaign. However, a Campaign Manager or Campaign Reviewer must approve the Trace proposed to their Campaign for it to become valid. Traces can represent several types of requests for funding. More info on <a href="#traceTypes">types of Traces</a> are detailed further in this document.
-#### How to become a Trace Manager
-* A user can propose a Trace to Campaign and become the Trace Manager.
-#### Power of a Trace Manager
-* Edit their Trace.
-* In the case of creating a Bounty or Milestone, a Trace Manager can set a Trace Reviewer.
-* Mark a Trace as complete.
+***Nota**: Un trace ya no se puede editar una vez que ha recibido una delegación o donación.*
+### <a name="traceReviewer">Revisor de trace</a>
+* Un revisor de trace puede ser asignado por un administrador de trace.
+#### El poder de un revisor de trace
+* Rechazar o aprobar un Trace completado.
+* Cancelar un trace.
 
-***Note**: A Trace can no longer be edited once it has received a delegation or donation.*
-### <a name="traceReviewer">Trace Reviewer</a>
-* A Trace Reviewer can be assigned by a Trace Manager.
-#### Power of a Trace Reviewer
-* Reject or approve a completed Trace.
-* Cancel a Trace.
+***Nota:** En el caso de que se cancele un Trace, la moneda vuelve a la fuente, es decir, al giver para una donación o a la Comunidad/Campaña para una delegación.*
 
-***Note:** In the case that a Trace is cancelled, the currency returns to the source, i.e. to the Giver for a donation or to the Community/Campaign for a delegation.*
+### <a name="recipient">Destinatario</a>
+Un Destinatario es un usuario registrado que recibirá el pago de su trace completado con éxito. En la mayoría de los casos, el Destinatario también es el Administrador de trace, ya que es el que trabaja en el trace. Sin embargo, en algunos casos, el destinatario está separado, como en el caso de pagos a un proveedor o un hito para una campaña.
+#### Cómo convertirse en un Destinatario
+* Un Destinatario puede ser designado por un Administrador de trace; puede ser el administrador de trace u otro usuario.
+#### Poder de un Destinatario
+* Marcar un Trace como completo.
+* Solicitar el pago de los fondos de Trace.
 
-### <a name="recipient">Recipient</a>
-A Recipient is a registered user who will receive payment from their successfully completed Trace. In the majority of cases, the Recipient is also the Trace Manager as they are the one working on the Trace. However, in some cases the recipient is separate, such as for payments to a supplier or a Milestone for a Campaign.
-#### How to become a Recipient
-* A Recipient can be designated by a Trace Manager; it can be the Trace Manager or another user.
-#### Power of a Recipient
-* Mark a Trace as complete.
-* Request payout of the Trace funds.
-
-***Note:** In the case that the Trace has a Reviewer, collecting funds needs the Reviewer's approval.*
-#### Latency
-Some actions need to be registered to the Ethereum blockchain network. Adding transactions to the blockchain does not happen immediately, so we observe a latency in some actions. This latency depends on the network conditions, for example traffic on the network.
-#### Locality of Roles
-All roles have a limited scope and once an entity ceases to exist, so do the connected roles. Every Community contains exactly one Manager. Every Campaign has one Campaign Manager and one Campaign Reviewer. Every Trace has one Trace Manager, one Recipient and potentially one Reviewer. The Giver is not explicitly associated with any entity but may interact with all of them.
+***Nota:** En el caso de que Trace tenga un Revisor, la recaudación de fondos necesita la aprobación del Revisor.*
+#### Latencia
+Algunas acciones deben registrarse en la red blockchain de Ethereum. Agregar transacciones a la cadena de bloques no ocurre de inmediato, por lo que observamos una latencia en algunas acciones. Esta latencia depende de las condiciones de la red, por ejemplo, el tráfico en la red.
+#### Localidad de roles
+Todos los roles tienen un alcance limitado y una vez que una entidad deja de existir, también lo hacen los roles conectados. Cada Comunidad contiene exactamente un Administrador. Cada campaña tiene un administrador de campaña y un revisor de campaña. Cada trace tiene un administrador de trace, un destinatario y, potencialmente, un revisor. El giver no está asociado explícitamente con ninguna entidad, pero puede interactuar con todas ellas.
 
 <img alt="Relations between Communities, Campaigns and Traces" src={useBaseUrl('img/content/trace/role-locality.svg')} />
 
-### Currency Flow
-Giveth TRACE on a technical level is a system for managing currency. Terms referring to the movement of funds within the Giveth system are defined as follows:
+### Flujo de divisas
+Giveth TRACE a nivel técnico es un sistema de gestión de divisas. Los términos que se refieren al movimiento de fondos dentro del sistema Giveth se definen a continuación:
 
-* **Donation:** When a Giver sends funds from their wallet to a Trace, Campaign, or Community.
-* **Collecting:** When the Recipient sends or "collects" funds from a Trace to their wallet.
-* **Disbursing:** When a Trace Manager sends funds from a Trace account to the Recipient's wallet.
-* **Delegation:** When a Campaign Manager or Community Manager sends money from the Campaign or Community account to Trace account on behalf of the original Giver. A Giver can reject Delegation within 72 hours, after which the Currency transfer becomes irreversible.
-* **Refund:** A Giver who has contributed to a Community can withdraw their funds as long as they are not yet committed to a Campaign or Trace. A Giver contributing to a Campaign can withdraw their funds as long as they are not yet committed to a Trace.
+* **Donación:** Cuando un giver envía fondos de su billetera a un trace, Campaña o Comunidad.
+* **Recaudación:** Cuando el Destinatario envía o "recauda" fondos de un Trace a su billetera.
+* **Desembolso:** Cuando un administrador de Trace envía fondos desde una cuenta de Trace a la billetera del Destinatario.
+* **Delegación:** Cuando un administrador de campaña o un administrador de la comunidad envía dinero desde la cuenta de la campaña o comunidad a la cuenta de trace en nombre del giver original. Un giver puede rechazar la Delegación dentro de las 72 horas, después de lo cual la transferencia de Divisas se vuelve irreversible.
+* **Reembolso:** Un giver que haya contribuido a una Comunidad puede retirar sus fondos siempre que no esté comprometido con una Campaña o trace. Un giver que contribuya a una campaña puede retirar sus fondos siempre que no esté comprometido con un trace.
 
 <img alt="Currency Flow on Giveth TRACE" src={useBaseUrl('img/content/trace/currencyFlow.svg')} />
 
-###### Currency Flow on Giveth TRACE
+###### Flujo de divisas en Giveth TRACE
 
-## Entities
-Giveth TRACE, on a technical level, is a system for managing currency. The DApp’s entities are accounts to which people can deposit, transfer or withdraw currency. We have three entities on Giveth TRACE, <a href="#communities">**Communities**</a>, <a href="#campaigns">**Campaigns**</a> and <a href="#traces">**Traces**</a>. The relationship between them are defined in the chart below. Each entitity corresponds to one or more smart contracts.
+## Entidades
+Giveth TRACE, a nivel técnico, es un sistema de gestión de divisas. Las entidades de la DApp son cuentas en las que las personas pueden depositar, transferir o retirar divisas. Tenemos tres entidades en Giveth TRACE, <a href="#communities">**Comunidades**</a>, <a href="#campaigns">**Campañas**</a> y <a href= "#traces">**Traces**</a>. La relación entre ellos se define en el siguiente cuadro. Cada entidad corresponde a uno o más contratos inteligentes.
 
-***Note:** In Q1 2021 the Giveth team rebranded the entities **DAC**s (Decentralized Altruistic Communities) to simply **Communities**, and **Milestones** to **Traces**.*
+***Nota:** En el primer trimestre de 2021, el equipo de Giveth cambió el nombre de las entidades **DAC** (Comunidades altruistas descentralizadas) a simplemente **Comunidades**, y **Hitos** a **Rastros**.*
 
 <img alt="Relationship between The DApp's Entities" src={useBaseUrl('img/content/trace/relations.svg')} />
 
-##### Relationship between the DApp's Entities
+ ##### Relación entre las Entidades de la DApp
 
-### <a name="communities">Communities</a>
+### <a name="Communities">Comunidades</a>
 
-Communities, **formerly known as DACs**, are the most general entity in the Giveth System. The purpose of a Community is to unite Givers around a cause and provide them with the possibility to give money to a cause without having to do the research involved in finding the exact Campaign to contribute to. Any money donated to a Community can be retrieved by the Giver, however we strongly discourage Givers to do so. The funds remain in the Community until they are delegated to a Campaign or a Trace, or withdrawn by the Giver. **Community Managers** can support any Campaign or Trace by sending currency to the account of the recipient.
+Las comunidades, **anteriormente conocidas como DAC**, son la entidad más general en el Sistema Giveth. El propósito de una Comunidad es unir givers en torno a una causa y brindarles la posibilidad de donar dinero a una causa sin tener que hacer la investigación necesaria para encontrar la Campaña exacta a la que contribuir. El giver puede recuperar cualquier dinero donado a una comunidad, sin embargo, desaconsejamos encarecidamente a los giver que lo hagan. Los fondos permanecen en la Comunidad hasta que son delegados a una Campaña o un Trace, o retirados por el giver. **Los Adminitradores de comunidad** pueden respaldar cualquier Campaña o trace enviando dinero a la cuenta del destinatario.
 
 <img alt="Community to Campaign delegation state diagram" src={useBaseUrl('img/content/trace/dac-campaign-donation-statediagram.svg')} />
 
-##### **State diagram for Community -> Campaign delegation flow**, showing how donations made to a DAC are delegated to a Campaign.
+##### **Diagrama de estado para Comunidad -> Flujo de delegación de campaña**, que muestra cómo las donaciones realizadas a un DAC se delegan a una Campaña.
 
 <img alt="Community to Trace delegation state diagram" src={useBaseUrl('img/content/trace/dac-milestone-donation-statediagram.svg')} />
 
-##### **State diagram for Community -> Trace delegation flow**, showing how donations made to a Community are delegated directly to a Trace.
+##### **Diagrama de estado para Comunidad -> Flujo de delegación de trace**, que muestra cómo las donaciones realizadas a una Comunidad se delegan directamente a un trace.
 
-### <a name="campaigns">Campaigns</a>
-Campaigns are in the center of the Giveth donation system. They are effectively tools to steer money towards the smallest entities, Traces. A Campaign can be supported by more than one Community or by no Community at all. Campaign co-owners can only accept or reject proposed Traces. **Campaign Reviewers** can cancel the Campaign if the Campaign is bad or no longer active.
+### <a name="Campaigns">Campañas</a>
+Las campañas están en el centro del sistema de donaciones de Giveth. Son herramientas efectivas para dirigir el dinero hacia las entidades más pequeñas, Traces. Una Campaña puede ser apoyada por más de una Comunidad o por ninguna Comunidad. Los copropietarios de la campaña solo pueden aceptar o rechazar los traces propuestos. **Los revisores de campaña** pueden cancelar la campaña si es mala o ya no está activa.
 
-Donations made to a Campaign are locked, and unless the Campaign gets cancelled, the Giver no longer has control over the donation. The reason we lock the donations is to give the people behind the Campaign some level of certainty that they can count on getting the pledged donations and pledge them to one of their Traces.
+Las donaciones realizadas a una campaña están bloqueadas y, a menos que se cancele la campaña, el giver ya no tiene control sobre la donación. La razón por la que bloqueamos las donaciones es para darles a las personas detrás de la Campaña cierto nivel de certeza de que pueden contar con recibir las donaciones prometidas y comprometerlas con uno de sus Traces.
 
 <img alt="Campaign Donation state diagram" src={useBaseUrl('img/content/trace/campaign-donation-statediagram.svg')} />
 
-##### **State diagram for donations made to Campaign.**
+##### **Diagrama de estado de las donaciones realizadas a Campaign.**
 
 
 ### <a name="traces">Traces</a>
-The main building blocks of the DApp are Traces, **formerly known as Milestones**. A Trace is the only way by which funds can exit the Giveth system. Traces must be created inside of a Campaign. Compared to a Community or Campaign, Traces are more complex because more roles can interact with them.
+Los principales componentes básicos de DApp son Traces, **anteriormente conocidos como Milestones**. Un Trace es la única forma en que los fondos pueden salir del sistema Giveth. Los traces deben crearse dentro de una campaña. En comparación con una comunidad o una campaña, los traces son más complejos porque pueden interactuar más roles con ellos.
 
-### <a name="traceTypes">Trace Entities</a>
-To tailor Traces to meet the specific needs of Communities and Campaigns, there are certain rules that can be applied.
+### <a name="traceTypes">Entidades de Traces</a>
+Para adaptar Traces para satisfacer las necesidades específicas de las comunidades y las campañas, se pueden aplicar ciertas reglas.
 
- * **Capped Traces:** The maximum currency which can be given to to the Trace is set. This maximum is called the cap.
-* **Trace with Reviewer:** The funds cannot be collected or disbursed from this Trace without confirmation by an assigned Trace Reviewer.
-* **Specify Currency Received:** The Trace Creator is able to specify which of the whitelisted cryptocurrencies they would like to receive their funds in.
+ * **Traces limitadas:** Se establece la moneda máxima que se le puede dar a la Traza. Este máximo se llama límite máximo.
+* **Traces con revisor:** Los fondos no se pueden cobrar ni desembolsar de este Trace sin la confirmación de un revisor de trace asignado.
+* **Especifique la moneda recibida:** El creador del trace puede especificar en cuál de las criptomonedas incluidas en la lista blanca le gustaría recibir sus fondos.
 
-Based on these rules we can have *four* types of Traces with their own distinct properties: **Milestones, Bounties, Expenses** and **Payments**.
+Según estas reglas, podemos tener *cuatro* tipos de Traces con sus propias propiedades distintas: **Hitos, Recompensas, Gastos** y **Pagos**.
 
 
-### **Milestones**
-**Important goals or events for a Campaign. Any funds collected in Milestones go to the Campaign that it is a part of.**
+### **Hitos**
+**Objetivos o eventos importantes para una Campaña. Todos los fondos recaudados en Hitos se destinan a la Campaña de la que forma parte.**
 
-*The Lifecycle of Milestones in the DApp is as follows:*
+*El ciclo de vida de los hitos en la DApp es el siguiente:*
 
 <img alt="Lifecycle of Milestones" src={useBaseUrl('img/content/trace/milestone.png')} />
 
-###  **Bounties**
-**If a Campaign or Community needs to outsource work to be done, they can use a Bounty to compensate contributors for completing specific tasks.**
+### **Recompensas**
+**Si una Campaña o Comunidad necesita subcontratar trabajo para realizar, pueden usar una Recompensa para compensar a los contribuyentes por completar tareas específicas.**
 
-*The Lifecycle of Bounties is as follows:*
+*El ciclo de vida de las recompensas es el siguiente:*
 
 <img alt="Lifecycle of Bounties" src={useBaseUrl('img/content/trace/Bounty.png')} />
 
 
-### **Expenses**
-**If there are recurring or singular expenses that were paid by a Campaign or Community Member, they can be tracked and reimbursed by this Trace.**
+### **Gastos**
+**Si hay gastos recurrentes o singulares que fueron pagados por una campaña o un miembro de la comunidad, este Trace puede rastrearlos y reembolsarlos.**
 
-*The Lifecycle of Expenses is as follows:*
+*El ciclo de vida de los gastos es el siguiente:*
 
 <img alt="Lifecycle of Expenses" src={useBaseUrl('img/content/trace/Expense.png')} />
 
-### **Payments**
-**Payments are compensation to Campaign members for the work they have done. Payments can be uncapped or capped for the funding they can receive.**
+### **Pagos**
+**Los pagos son una compensación a los miembros de la Campaña por el trabajo que han realizado. Los pagos pueden ser ilimitados o limitados por la financiación que pueden recibir.**
 
- *The Lifecycle for Payments with NO cap is as follows:*
+ *El ciclo de vida de los pagos SIN límite es el siguiente:*
 
  <img alt="Lifecycle of Payments without Cap" src={useBaseUrl('img/content/trace/paymentNoCap.png')} />
 
 
- *The Lifecycle for Payments with a cap is as follows:*
-
- <img alt="Lifecycle of Payments with Cap" src={useBaseUrl('img/content/trace/paymentWithCap.png')} />
+El desglose de sus funciones se puede resumir en el siguiente cuadro:
 
 
-A breakdown of their functions can be summarized in the table below:
-
-
-| Trace Type      | Funding is Capped | Specify Currency Received   |  Can Assign Reviewer | Currency Destination |
+| Tipo de trace | La financiación está limitada | Especifique la moneda recibida | puede asignar revisor | Moneda Destino |
 | --------------- | ------ | --- | ------------- | -------------------- |
-| Milestone       | No     |  No   | Yes           | Campaign             |
-| Bounty          | No     |  No   | Yes           | Any Address          |
-| Expense         | Yes    |  Yes   | No            | Any Address          |
-| Payment NO Cap | No     |  Yes   | No            | Any Address          |
-| Payment with Cap  | Yes    | Yes    | No            | Any Address          |
+| Hito | No | No | Sí | Campaña |
+| Recompensa | No | No | Sí | Cualquier dirección |
+| Gasto | Sí | Sí | No | Cualquier dirección |
+| Pago SIN tope | No | Sí | No | Cualquier dirección |
+| Pago con Cap | Sí | Sí | No | Cualquier dirección |
 
-### Notes:
-* *In coding Entities are called `projects`.*
-* *When money goes from a Community to a Trace or Campaign, Giveth then connects the Community with that Campaign or Trace. This means that you will see that Campaign or Trace represented on the Community page.*
-* *If a Trace/Campaign/Community is canceled, the funds are returned to the source contributor automatically.*
-* *Currency that goes to a Community is a loose commitment: at any point up until the moment funds are locked into a Campaign/Milestone, the Giver can decide to withdraw (refund) them.*
-* *Currency that went to a Campaign/Trace is fully committed, because Trace Managers and Campaigns Manager take actions based on these funds.*
+### Notas:
+* *En codificación, las Entidades se denominan `proyectos`.*
+* *Cuando el dinero pasa de una Comunidad a un trace o Campaña, Giveth conecta a la Comunidad con esa Campaña o trace. Esto significa que verá esa campaña o trace representado en la página de la comunidad.*
+* *Si se cancela un trace/Campaña/Comunidad, los fondos se devuelven al contribuyente de origen automáticamente.*
+* *La moneda que va a una comunidad es un compromiso flexible: en cualquier momento hasta el momento en que los fondos se bloquean en una campaña/hito, el giver puede decidir retirarlos (reembolsarlos).*
+* *La moneda que se destinó a una campaña/trace está totalmente comprometida, porque los administradores del trace y el administrador de campañas toman medidas en función de estos fondos.*

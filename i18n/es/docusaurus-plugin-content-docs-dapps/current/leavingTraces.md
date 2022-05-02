@@ -1,40 +1,39 @@
 ---
 id: leavingTraces
-title: Leaving Traces (formerly Creating Milestones)
+title: Dejando Traces (anteriormente Creando hitos)
 slug: dapps/leavingTraces
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
 
-*Welcome! If you are super new to Giveth, join the [#🔨contribute](https://discord.gg/qf7XZ48gCU) channel on Discord. You can introduce yourself and ask questions there! This is a living document and will change as bugs are fixed and features added to the DApp.*
+*¡Bienvenido! Si eres muy nuevo en Giveth, únete al canal [#🔨contribute](https://discord.gg/qf7XZ48gCU) en Discord. ¡Puedes presentarte y hacer preguntas allí! Este es un documento vivo y cambiará a medida que se solucionen los errores y se agreguen funciones a la DApp.*
 
-### Leaving Traces is one of the most integral features of Giveth TRACE.
-As part of our ongoing commitment to transparency Traces, formerly known as Milestones, represent how users can record their work or progress and submit proposals requesting compensation.
+### Dejando Traces es una de las características más integrales de Giveth TRACE.
+Como parte de nuestro compromiso continuo con la transparencia, Traces, anteriormente conocido como Milestones, representa cómo los usuarios pueden registrar su trabajo o progreso y enviar propuestas para solicitar una compensación.
 
- **1.** Go to [Giveth TRACE](https://trace.giveth.io) and select which campaign your Trace is for.
+ **1.** Ve a [Giveth TRACE](https://trace.giveth.io) y selecciona para qué campaña es tu Trace.
 
-**2.** From the campaign page, click *“Create New”*. You have four options on the following page: **Payment**, **Bounty**, **Expense**, **Milestone**, choose which is most applicable to the form of compensation you're proposing.
+**2.** Desde la página de la campaña, haga clic en *“Crear nuevo”*. Tiene cuatro opciones en la siguiente página: **Pago**, **Recompensa**, **Gasto**, **Hito**, elija la que mejor se aplique a la forma de compensación que propone.
 
-<img id="contentimg" alt='Trace Options' src={useBaseUrl('img/content/trace/typesofTraces.png')} />
-
-
-**3.** Fill in the following form with the details of your Trace. Your Title should be clear and descriptive. If you chose *Payment* or *Expense*  add the Currency type, Amount and Date, if applicable, otherwise select "*No limits*".
-
-<img id="contentimg"  alt='Trace Options' src={useBaseUrl('img/content/trace/tracesDescription.png')} />
-
-**4.** From this point on, consider copying all of your Trace text to a place where you keep your own records. If your reviewer declines to review this milestone, or if it gets caught in the process for any reason, you will have to re-propose the milestone anew.
-
-**5.** In the "Description" text field below add more details. Include proof of work or expenses. You can link to github pages, other documents you worked on, or upload photos of receipts. Show your calculations if any.
+<img id="contentimg" alt='Opciones de rastreo' src={useBaseUrl('img/content/trace/typesofTraces.png')} />
 
 
-**6.** Add a photo for your milestone. It can be related to the work, or not!
+**3.** Rellena el siguiente formulario con los datos de tu Trace. Su título debe ser claro y descriptivo. Si elige *Pago* o *Gasto*, agregue el Tipo de moneda, el Monto y la Fecha, si corresponde; de ​​lo contrario, seleccione "*Sin límites*".
+
+<img id="contentimg" alt='Opciones de rastreo' src={useBaseUrl('img/content/trace/tracesDescription.png')} />
+
+**4.** A partir de este momento, considere copiar todo el texto de Trace en un lugar donde guarde sus propios registros. Si su revisor se niega a revisar este hito, o si queda atrapado en el proceso por algún motivo, tendrá que volver a proponer el hito nuevamente.
+
+**5.** En el campo de texto "Descripción" a continuación, agregue más detalles. Incluya prueba de trabajo o gastos. Puede vincular a páginas de github, otros documentos en los que trabajó o cargar fotos de recibos. Muestra tus cálculos si los hay.
 
 
-<img id="contentimg"  alt='Trace Options' src={useBaseUrl('img/content/trace/tracePictureSelect.png')} />
-
-**7.** From **Payment Options** select how you wish to be compensated. Choose from the cryptocurrency options available and provide an address for which you wish to be sent payment. You can also be awesome and give 3% of your amount received to Giveth to keep the platform running(optional)!
-
-**8.** If at step #2 you chose a *Bounty* or a *Milestone* you have the option to set a Reviewer. Think about who will be the best for the job. The Reviewer is responsible for ensuring that all steps in the Trace have been completed and accomplished before the compensation should be paid out. If possible, choose a different person than the campaign manager. Having the campaign manager, reviewer, and proposer (you) be 3 different people helps ensure against mistakes being overlooked, but the most important thing is that the people approving your Trace understand the work.
+**6.** Agrega una foto para tu hito. ¡Puede estar relacionado con el trabajo, o no!
 
 
-**9.** Click “*Propose*” and now monitor your Trace’s progress from the “*My Milestones*” (NEEDS TO BE UPDATED) page. Once your campaign manager approves it, it’s status will read “In Progress.” It’s now your turn to mark it complete, which will push it to the reviewer and status says “Needs Review.” If any of these processes are moving slowly or you notice it went backwards from “Needs Review” to “In Progress,” (this is how it will look to you if the reviewer rejects the milestone) check in with your reviewer.
+<img id="contentimg" alt='Opciones de rastreo' src={useBaseUrl('img/content/trace/tracePictureSelect.png')} />
+
+**7.** En **Opciones de pago**, seleccione cómo desea recibir la compensación. Elija entre las opciones de criptomonedas disponibles y proporcione una dirección a la que desea que se le envíe el pago. ¡También puede ser increíble y dar el 3% de su cantidad recibida a Giveth para mantener la plataforma en funcionamiento (opcional)!
+
+**8.** Si en el paso n.º 2 eligió una *recompensa* o un *hito*, tiene la opción de establecer un revisor. Piense en quién será el mejor para el trabajo. El Revisor es responsable de garantizar que todos los pasos del Seguimiento se hayan completado y realizado antes de que se pague la compensación. Si es posible, elija una persona diferente al administrador de la campaña. Hacer que el administrador de la campaña, el revisor y el proponente (usted) sean 3 personas diferentes ayuda a evitar que se pasen por alto los errores, pero lo más importante es que las personas que aprueban su Trace entiendan el trabajo.
+
+**9.** Haga clic en "*Proponer*" y ahora controle el progreso de su trace desde la página "*Mis hitos*" (DEBE SER ACTUALIZADO). Una vez que su administrador de campaña lo apruebe, su estado será "En curso". Ahora es su turno de marcarlo como completo, lo que lo enviará al revisor y el estado dira "Necesita revisión". Si alguno de estos procesos avanza lentamente o nota que retrocedió de "Necesita revisión" a "En progreso" (así es como lo verá si el revisor rechaza el hito), consulte con su revisor.

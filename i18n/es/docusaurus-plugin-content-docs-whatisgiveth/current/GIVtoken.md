@@ -2,11 +2,10 @@
 id: givtoken
 title: The GIV Token
 ---
-## What is the GIV token?
+## Que es el token GIV? 
 
-## How do I receive GIV tokens?
+## Cómo recibo tokens GIV?
 
-## What can they be used for?
+## Para qué se pueden usar?
 
-#### GIV Token Staking
-
+#### Staking de tokens GIV

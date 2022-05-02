@@ -1,61 +1,57 @@
 ---
 id: makeTraceableProject
-title: Getting your project on TRACE
+title: Empieza tu proyecto en TRACE
 slug: dapps/makeTraceableProject
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
 
-This guide will show you how to make your project traceable. We will go over the steps for first getting your project verified then upgrading it into a Campaign on [Giveth TRACE](https://trace.giveth.io).
+Esta guía le mostrará cómo hacer que su proyecto sea rastreable. Repasaremos los pasos para primero verificar su proyecto y luego actualizarlo a una campaña en [Giveth TRACE](https://trace.giveth.io).
 
-**Verified** is a top tier status for projects wishing to join the GIVbacks program and also for project creators looking to expand into a [new suite of tools](https://medium.com/giveth/giveth-trace-is-live-e91b0be1e1f6) that provide their donors with extra ways to give. A project that is Verified can choose to become a [Campaign](/dapps/entitiesAndRoles#campaigns) on [Giveth TRACE](https://trace.giveth.io), enabling project creators to manage their donations transparently using [Traces](/dapps/entitiesAndRoles#traces). Traces specify how the project is using their donations to achieve the goals of the overarching Campaigns.
+**Verificado** es un estado de primer nivel para los proyectos que deseen unirse al programa GIVbacks y también para los creadores de proyectos que buscan expandirse a un [nuevo conjunto de herramientas](https://medium.com/giveth/giveth-trace-is-live-e91b0be1e1f6) que brindan a sus donantes formas adicionales de donar. Un proyecto que está Verificado puede elegir convertirse en una [Campaña](/dapps/entitiesAndRoles#campaigns) en [Giveth TRACE](https://trace.giveth.io), lo que permite a los creadores de proyectos administrar sus donaciones de manera transparente usando [Traces](/dapps/entitiesAndRoles#traces). Los rastros especifican cómo el proyecto utiliza sus donaciones para lograr los objetivos de las campañas generales.
 
-Upgrading projects to Campaigns enables project creators to specify parts of their project requiring funding as different types of [Traces](/dapps/entitiesAndRoles#traces). Donors benefit from being able to choose to fund either specific Traces or the overarching Campaign and are able to trace the flow of their donations. A Campaign is listed on both Giveth.io and [Giveth TRACE](https://trace.giveth.io) allowing for double exposure!  
+La actualización de proyectos a Campañas permite a los creadores de proyectos especificar partes de su proyecto que requieren financiación como diferentes tipos de [Traces](/dapps/entitiesAndRoles#traces). Los donantes se benefician al poder optar por financiar Traces específicos o la Campaña general y pueden rastrear el flujo de sus donaciones. Una campaña aparece en Giveth.io y [Giveth TRACE](https://trace.giveth.io) ¡lo que permite una exposición doble!
 
-## The Process
+## El proceso
 
-We have a rigorous, human-handled process for screening projects asking for verification. Before getting started, here are some considerations you should make regarding your project:
- - Do you have any relevant and verifiable social media accounts?
- - How exactly will you use funds received?
- - In what ways can you prove that your project is real?
- - How is your project's organization structured?
+Tenemos un proceso riguroso manejado por humanos para evaluar proyectos que solicitan verificación. Antes de comenzar, aquí hay algunas consideraciones que debe hacer con respecto a su proyecto:
+ - ¿Tiene cuentas de redes sociales relevantes y verificables?
+ - ¿Cómo utilizará exactamente los fondos recibidos?
+ - ¿De qué maneras puedes demostrar que tu proyecto es real?
+ - ¿Cómo está estructurada la organización de su proyecto?
 
-Once you've sufficiently pondered the answers to these questions, then the road to verification lies ahead!
+Una vez que haya reflexionado lo suficiente sobre las respuestas a estas preguntas, ¡el camino hacia la verificación está por delante!
 
-### Step 1 - Click the Button!
-Go to your project page on Giveth.io, and on the right-hand side click on `Verify your project`.
+### Paso 1 - ¡Haz clic en el botón!
+Vaya a la página de su proyecto en Giveth.io y, en el lado derecho, haga clic en `Verificar su proyecto`.
 
-<img width="400" height="auto" alt="Clicking Verify Project" src={useBaseUrl('img/content/givethio/clickButton.png')} />
-
-
-
-### Step 2 - Fill out the Typeform
-A typeform page will open up in your browser. Fill out the requested information as accurately as possible. Someone from the Giveth team will be reviewing and verifying this information!
-
-<img width="600" height="auto"  alt="Verification Typeform" src={useBaseUrl('img/content/givethio/verifiedTypeform.png')} />
+<img width="400" height="auto" alt="Hacer clic en Verificar proyecto" src={useBaseUrl('img/content/givethio/clickButton.png')} />
 
 
 
-### Step 3 - Wait for Review
-After you've submitted your application, a member of the Giveth Team will review your typeform submission. Hang tight while we verify the information you provided and reach a decision on approving your request.
+### Paso 2 - Complete el Typeform
+Se abrirá una página de typeform en su navegador. Complete la información solicitada con la mayor precisión posible. ¡Alguien del equipo de Giveth la revisará y verificará esta información!
 
-### Step 4 - Check Your Inbox
-You'll receive an email letting you know if your request for verification has been approved or rejected. If you've been approved, follow the directions in the email to continue! If you've been rejected, follow any steps outlined in the email to improve your project and re-apply for verification.
+<img width="600" height="auto" alt="Verification Typeform" src={useBaseUrl('img/content/givethio/verifiedTypeform.png')} />
 
-<img width="500" height="auto" alt="Verification Approval Email" src={useBaseUrl('img/content/givethio/verifiedEmail.jpg')} />
+### Paso 3 - Esperar revisión
+Una vez que haya enviado su solicitud, un miembro del equipo de Giveth revisará su envío de typeform. Espera mientras verificamos la información que proporcionaste y tomamos una decisión sobre la aprobación de tu solicitud.
 
+### Paso 4: revisa tu bandeja de entrada
+Recibirá un correo electrónico informándole si su solicitud de verificación ha sido aprobada o rechazada. Si ha sido aprobado, siga las instrucciones en el correo electrónico para continuar. Si ha sido rechazado, siga los pasos descritos en el correo electrónico para mejorar su proyecto y vuelva a solicitar la verificación.
 
-### Step 5 - Complete the Migration Wizard
-Once your project is verified, you can choose to add it to Giveth TRACE by following the instructions in your email, and entering the project migration wizard. This will handle the process of upgrading your Project to a Campaign. Sign-in with your Web3 wallet and connect to _Rinkeby Network_.
+<img width="500" height="auto" alt="Correo electrónico de aprobación de verificación" src={useBaseUrl('img/content/givethio/verifiedEmail.jpg')} />
 
-Confirm the information requested on each section of the Wizard, then sign the transaction with your wallet to create your Campaign!
+### Paso 5: complete el asistente de migración
+Una vez que se verifique su proyecto, puede optar por agregarlo a Giveth TRACE siguiendo las instrucciones en su correo electrónico e ingresando al asistente de migración del proyecto. Esto manejará el proceso de actualizar su Proyecto a una Campaña. Inicie sesión con su billetera Web3 y conéctese a _Rinkeby Network_.
 
-<img width="600" height="auto" alt='Verification Wizard Tool' src={useBaseUrl('img/content/givethio/verifiedWizard.png')} />
+Confirme la información solicitada en cada sección del Asistente, luego firme la transacción con su billetera para crear su Campaña.
 
+<img width="600" height="auto" alt='Herramienta del asistente de verificación' src={useBaseUrl('img/content/givethio/verifiedWizard.png')} />
 
-### Step 6 -  Magic!
-Once you make it to the "Congratulations" page, you can click `GO TO YOUR PROJECT` to visit your new space! Get started by exploring Giveth TRACE's UI, and create some Traces to encourage more donations to your Campaign. To learn more about how Giveth TRACE works, read the [DApp documentation](https://docs.giveth.io/dapps/introTrace).
+### Paso 6 - ¡Magia!
+Una vez que llegue la página de "Felicitaciones", puede hacer clic en `IR A SU PROYECTO` para visitar su nuevo espacio. Comience explorando la interfaz de usuario de Giveth TRACE y cree algunos Traces para alentar más donaciones a su campaña. Para obtener más información sobre cómo funciona Giveth TRACE, lea la [documentación de DApp](https://docs.giveth.io/dapps/introTrace).
 
-<img width="600" height="auto" alt="Verification Approval Email" src={useBaseUrl('img/content/givethio/verifiedTraceCampaign.jpg')} />
+<img width="600" height="auto" alt="Correo electrónico de aprobación de verificación" src={useBaseUrl('img/content/givethio/verifiedTraceCampaign.jpg')} />
 
-Enjoy your new Campaign, and let everyone in your social networks know about your upgraded funding portal!
+¡Disfrute de su nueva campaña y deje que todos en sus redes sociales conozcan su portal de financiación actualizado!

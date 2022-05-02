@@ -1,10 +1,10 @@
 {
   "title": {
-    "message": "Giveth Documentation",
+    "message": "Documentação de Giveth",
     "description": "The title in the navbar"
   },
   "item.label.What is Giveth?": {
-    "message": "What is Giveth?",
+    "message": "O que é Giveth?",
     "description": "Navbar item with label What is Giveth?"
   },
   "item.label.DApps": {
@@ -16,7 +16,7 @@
     "description": "Navbar item with label GIVeconomy"
   },
   "item.label.Jobs": {
-    "message": "Jobs",
+    "message": "Trabalhos",
     "description": "Navbar item with label Jobs"
   },
   "item.label.Newsletter": {

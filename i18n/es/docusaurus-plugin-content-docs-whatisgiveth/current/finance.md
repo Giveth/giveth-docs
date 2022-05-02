@@ -1,30 +1,31 @@
 ---
 id: finances
-title: Giveth Finances
+title: Finanzas en Giveth
+
 ---
-**Donations**
+**Donaciones**
 
-Every donation and pledge made through Giveth is traceable and projects can be held accountable, unlike with traditional charities. You always know exactly where your donation went and can get a good sense of the impact it made through communication with your chosen beneficiary.
+Cada donación y compromiso realizado a través de Giveth es rastreable y los proyectos pueden rendir cuentas, a diferencia de las organizaciones benéficas tradicionales. Siempre sabe exactamente adónde fue su donación y puede tener una buena idea del impacto que tuvo a través de la comunicación con el beneficiario elegido.
 
-Giveth is both a non-profit organization and an open-source platform for transparent philanthropy in support of your favorite causes. You can support us in building the future of giving by donating to us through the Giveth DApps too! The easiest way is to give directly at [donate.giveth.io](https://giveth.io/donate/giveth). For more specific funding of specific circle activities, log into trace.giveth.io via MetaMask, place and trace your donations, and join other Givers on the [Giveth Funding Leaderboard](https://www.trace.giveth.io/community/giveth-dac).
+Giveth es una organización sin fines de lucro y una plataforma de código abierto para la filantropía transparente en apoyo de sus causas favoritas. ¡Puede ayudarnos a construir el futuro de las donaciones haciéndonos una donación a través de las DApps de Giveth también! La forma más sencilla es donar directamente en [donate.giveth.io](https://giveth.io/donate/giveth). Para una financiación más específica de actividades específicas del círculo, inicie sesión en trace.giveth.io a través de MetaMask, coloque y rastree sus donaciones y únase a otros donantes en la [Tabla de clasificación de financiación de Giveth](https://www.trace.giveth.io/community/dar-dac).
 
-If you prefer to donate directly to our address or via MyCrypto or MetaMask, you can send ETH or ERC20 tokens to the following address: revolution.eth (which resolves to: 0x8f951903c9360345b4e1b536c7f5ae8f88a64e79).
+Si prefiere donar directamente a nuestra dirección o a través de MyCrypto o MetaMask, puede enviar tokens ETH o ERC20 a la siguiente dirección: revolution.eth (que se resuelve en: 0x8f951903c9360345b4e1b536c7f5ae8f88a64e79).
 
-**Operational Expenses**
-Giveth related expenses can be claimed by creating a Trace in a Giveth Circle's Campaign at trace.giveth.io. If you have not had an expense with Giveth before, you need to [contact the team](https://discord.gg/cCsYnNDkq2) first.
+**Gastos operacionales**
+Los gastos relacionados con Giveth se pueden reclamar creando un seguimiento en la campaña de un círculo de Giveth en trace.giveth.io. Si no ha tenido ningún gasto con Giveth antes, primero debe [comuníquese con el equipo](https://discord.gg/cCsYnNDkq2).
 
-The individual Circles (see [Giveth Circles](https://docs.giveth.io/whatisgiveth/givethCircles)) are responsible for expenses of their members, including but not limited to:
+Los Círculos individuales (ver [Circulos de Giveth](https://docs.giveth.io/es/whatisgiveth/givethCircles)) son responsables de los gastos de sus miembros, incluidos, entre otros:
 
-- Office expenses (rent, utility bills, equipment, groceries for Giveth Team Meetups)
-- Transportation to and from official Giveth Team Meetups
-- Suitable accommodation for the duration of official Giveth Team Meetups
-- Tickets to Represent Giveth at Conferences
-- Food and non-alcoholic drinks consumed while at official Giveth Team Meetups
+- Gastos de oficina (alquiler, facturas de servicios públicos, equipo, comestibles para las reuniones del equipo Giveth)
+- Transporte hacia y desde las reuniones oficiales del equipo Giveth
+- Alojamiento adecuado durante la duración de las reuniones oficiales del equipo Giveth
+- Entradas para representar a Giveth en conferencias
+- Alimentos y bebidas no alcohólicas consumidos durante las reuniones oficiales del equipo Giveth
 
-By default, only expenses with valid receipt are covered. Expenses must be submitted via trace.giveth.io. The refund will be made at earliest convenience for the requested token to recipient wallet provided.
+Por defecto, solo se cubren los gastos con recibo válido. Los gastos deben enviarse a través de trace.giveth.io. El reembolso se realizará lo antes posible por el token solicitado a la billetera del destinatario proporcionada.
 
-**Regular Rewards**
-The members working full-time for Giveth are regularly compensated. Regular Reward requests and payments are managed by the Governance Circle following the approval process through Giveth's Reputation DAO (rGIV token holders) every 4 weeks.
+**Recompensas regulares**
+Los miembros que trabajan a tiempo completo para Giveth reciben una compensación periódica. Las solicitudes y los pagos regulares de recompensas son administrados por el circulo de Governanza siguiendo el proceso de aprobación a través de Giveth's Reputation DAO (titulares de tokens rGIV) cada 4 semanas.
 
-**RewardDAO**
-Special contributions to building the Future of Giving with us by participating in the Giveth Community on Discord, attending Giveth calls and completing tasks, and fulfilling special assignments may be rewarded via the [RewardDAO Campaign](https://www.trace.giveth.io/campaign/rewarddao). Simply create a TRACE describing what you did and come to a Governance call to represent yourself!
+**RecompensaDAO**
+Las contribuciones especiales para construir el futuro de la generosidad con nosotros mediante la participación en la comunidad de Giveth en Discord, la asistencia a las llamadas de Giveth y la realización de tareas y el cumplimiento de asignaciones especiales pueden recompensarse a través de la [Campaña RewardDAO](https://www.trace.giveth.io/campaign/rewarddao). ¡Simplemente cree un TRACE que describa lo que hizo y acuda a una llamada de Gobernanza para representarse a sí mismo!

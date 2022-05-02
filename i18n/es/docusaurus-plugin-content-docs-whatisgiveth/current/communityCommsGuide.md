@@ -1,103 +1,96 @@
 ---
 id: communityCommsGuide
-title: Community Communications Guide
+title: Guía de Comunicación Comunitaria
+
 ---
 
+Como organización, queremos que todos estén alineados con nuestros valores y principios. Queremos asegurar el respeto, la cohesión y la innovación. Queremos fomentar un ecosistema de trabajo saludable, diverso y centrado en el ser humano. Damos gran valor a las diferentes opiniones, perspectivas y personalidades. Para avanzar hacia paisajes en constante cambio, necesitamos tener una base sólida de prácticas y valores compartidos.
 
-As an organization, we want everyone to be aligned with our values and principles. We want to ensure respect, cohesiveness, and wild innovation. We want to foster a healthy, diverse and human-centered working ecosystem. We highly value different opinions, perspectives, and personalities. In order to progress to ever-changing landscapes, we need to have a solid foundation of shared practices and values.
+En esta Guía de comunicación comunitaria de Giveth, compartimos nuestros acuerdos de comunicación y describimos algunas de las mejores prácticas para participar en nuestros diversos canales que nos ayudan a dirigir nuestras energías hacia Construir el futuro de la generosidad.
 
-Here in this **Giveth Community Communication Guide**, we share our communication agreements and outline some best practices for participating in our various channels that help us to guide our energies toward Building the Future of Giving.
+## Nos adherimos a estos acuerdos de comunicación:
 
-## We adhere to these communication agreements:
+### Hónrate a ti mismo
 
-### Honor Self
+Si tienes una necesidad, cúbrela.
 
-If you have a need, meet it.
+Si tienes un límite, indícalo.
 
-If you have a boundary, state it.
+Si tienes una opinión, exprésala.
 
-If you have an opinion, voice it.
+A todos se nos anima a respetarnos a nosotros mismos, atendiendo nuestro autocuidado y usando nuestra voz para expresar cuando queremos y debemos hacer.
 
-We are all encouraged to respect ourselves by tending to our self-care and using our voice to express when we want and need to.
+## Honra a los demás
 
-### Honor Others
+Asimismo, reconoce a los demás como un reflejo de ti mismo y mantén un alto nivel de integridad al tratar con ellos.
 
-In a similar coin, recognize others as reflections of yourself and hold a high level of integrity when dealing with them.
+Seguimos la regla de oro: trata a los demás como quieres que te traten a ti.
 
-We follow the golden rule: treat others as you wish to be treated.
+Si alguien establece un límite, respételo o al menos exprese amablemente por qué no puede hacerlo desde su perspectiva.
 
-If someone states a boundary, please respect it or at least kindly express why you are unable to from your perspective.
+Si alguien hace un gran trabajo y deja una impresión en usted, reconózcalo elogiándolo y compartiendo su experiencia positiva con él en nuestra llamada comunitaria. Es bueno reconocer y ser reconocido.
 
-If someone does great work and leaves an impression on you, acknowledge them for this by giving !praise and sharing about your positive experience with them in our community call. It feels good to recognize and be recognized.  
+## Escuche completamente
 
-### Listen Fully  
+El primer paso para cualquier comunicación efectiva es escuchar completamente y estar completamente presente en el momento. Escuche la información con objetividad, sin juzgar. Escuche los detalles. Tantos errores y problemas de comunicación se pueden evitar por completo a través de la escucha activa.
 
-The first step to any effective communication is listening fully and being completely present in the moment. Listen to information objectively, without judgment. Listen to the details. So many miscommunications and problems can be completely avoided by actively listening.
+## Sea honesto y transparente
 
-### Be Honest and Transparent
+Como organización autónoma descentralizada (DAO), Giveth valora la transparencia. Grabamos todas nuestras reuniones y compartimos nuestras herramientas y procesos abiertamente con el público. En lugar de reinventar la rueda, tomamos la sabiduría y los recursos compartidos de otros y los adaptamos a nuestra organización única. Creemos que es sensato gestionar colectivamente los bienes comunes.
 
-As a decentralized autonomous organization (DAO), Giveth values transparency. We record all of our meetings and share our tools and processes openly with the public. Rather than reinvent the wheel, we utilize wisdom and resources shared from others and adapt them to our unique organization. We believe it is wise to steward common goods collectively.
+En este sentido, en nuestra comunicación entre nosotros, fomentamos la honestidad, la autenticidad y la transparencia. Si tienes un problema, es importante usar nuestro Foro Giveth para expresarlo abiertamente o usar nuestro DAO para crear propuestas que resuelvan estos problemas y vota "sí" y "no" cuando te sientas tan inspirado. La variedad de perspectivas, habilidades y experiencias nos ayuda a crecer y transformarnos.
 
-Along these lines, in our communication with one another, we encourage honesty, authenticity and transparency. If you have a tension, it’s important to use [our Giveth Forum](https://forum.giveth.io/) to express it openly or to use our DAO to create proposals that resolve tensions and to vote ‘yes’ and ‘no’ when you feel so inspired. The variety of perspectives, skills and experiences helps us to grow and transform.
+## Desacuerdo y compromiso
 
-### Disagree & Commit
+Todo en nuestra organización puede ser cuestionado y cambiado. Fomentamos la curiosidad y entendemos que el cambio es constante. Desacuerdo y Compromiso es un principio de gestión según el cual las personas pueden estar en desacuerdo mientras se toma una decisión, pero una vez que se toma una decisión, todos deben comprometerse con ella. El desacuerdo y el resentimiento continuos son tóxicos para la ejecución de decisiones. Tenemos que dar nuestro mejor esfuerzo y el 100% de apoyo.
 
-Everything in our organization can be questioned and changed. We encourage curiosity and understand change is constant. Disagree & Commit is a management principle where individuals are allowed to disagree while a decision is being made, but that once a decision has been made, everybody must commit to it. Ongoing dissent and resentment are toxic to the execution of the decision. We must give our best effort and 100% support.
+Nada es perfecto. Ningún proceso es perfecto. Ninguna decisión es perfecta. Hacemos todo lo posible para encontrar la solución que funcione para todas las situaciones y circunstancias. A menudo tenemos que comprometernos con la mejor opción y simplemente aceptarla. Este es un proceso de experimentación, no de perfeccionismo.
 
-Nothing is perfect. No process is perfect. No decision is perfect. We try our best to find the solution that works for all situations and circumstances. Many times we must commit the best option and just go with it. This is a process of experimentation, not perfectionism.
+## Hacer preguntas
 
-### Ask Questions
+Es mejor hacer una pregunta que cometer un error. Queremos fomentar un entorno de aprendizaje de apoyo, ¡así que haga todas las preguntas que desee!
 
-It’s better to ask a question than make a mistake. We want to foster a supportive learning environment, so ask as many questions as you want!
+## Di "perdón".
 
+Si comete un error, discúlpese lo antes posible. Pedir disculpas es un signo de fortaleza. A menudo, las personas que más trabajan cometen más errores. Cuando compartimos nuestros errores, otros pueden aprender y es menos probable que el error se repita. Se necesita coraje para disculparse, ¡y usted puede hacerlo!
 
+## Di "no".
 
-### Say “Sorry”
+Si no podemos confiar en su "No", ¿cómo podemos confiar en su "Sí"? La capacidad de decir "No" mejorará tu calidad de trabajo y felicidad. Alentamos límites de trabajo fuertes y no esperamos que usted haga todo. A veces, decir "No" a una mayor carga de trabajo es un indicador de que nuestra organización ha crecido y necesitamos contratar a más personas o repartir la carga de trabajo.
 
-If you make a mistake, apologize as soon as possible. Saying sorry is a sign of strength. Oftentimes, the people who do the most work, make the most mistakes. When we share our mistakes, others can learn and the mistake is less likely to be repeated. It takes courage to apologize, and you can do it!
+## Cumplir con las citas
 
+Haz lo que te has comprometido a hacer. Sencillo. Asegúrate de que tu conversación y tu caminar sean iguales. Integridad.
 
+## Que la pases bien
 
-### Say “No”
+Una vez unicornio, siempre unicornio...
 
-If we can’t trust your “No,” how can we trust your “Yes?” The ability to say “No” will improve your quality of work and happiness. We encourage strong work boundaries and don’t expect you to do everything. Sometimes, saying “No” to a larger workload is an indicator that our organization has grown and we need to hire more people or distribute the workload.
+Aquí en Giveth y buscando en la cadena de bloques una buena criptosfera, nos gusta divertirnos. Hacemos esto adoptando una cultura de bondad, elogiándonos unos a otros, creando cosas colectivamente, manteniendo las vibraciones altas y, por supuesto, creando memes candentes.
 
-### Keep Commitments
+**Aquí están las mejores Funciones prácticas al participar en nuestros canales:**
 
-Follow through on what you say you will do. Simple. Ensure your talk and walk are the same. Integrity.
+## Alentamos...
 
-### Have Fun
+- *Nuevas ideas.* Conversaciones reflexivas y atractivas que nos hacen avanzar.
+- *Comentarios.* Escuche los comentarios y esté abierto al cambio.
+- *Expresión.* Expresión de tensiones con peticiones y/o soluciones claras.
+- *Colaboración.* Elegimos minimizar la duplicación de esfuerzos siempre que sea posible.
+- *¡Calidad antes que cantidad!* Invitamos a Donantes, Creadores y Donantes a colaborar en Construyendo el Futuro de la Donación. Eso significa que queremos personas que contribuyan activamente y participen en nuestra plataforma y canales en lugar de un montón de seguidores vacíos que no están comprometidos con nuestra visión y misión.
+- *Confianza.* Confiar en su equipo, confiar en su comunidad y confiar en su sistema.
+- *Emojis.* Usar emojis para mostrar una respuesta emocional a las publicaciones de otros cuando no tenemos nada más que decir continuaría la conversación hacia adelante o *se bifurcaría* en una nueva dirección.
+- *Memes*. Cree memes con el logotipo de Giveth con marca de agua para encapsular grandes ideas, temas de actualidad y promocionar próximos lanzamientos y eventos.
+- *Gamificación.* Crear una buena experiencia de usuario. Haz que dar sea algo divertido de hacer.
 
-Once a Unicorn, always a Unicorn…
+## Es mejor evitar...
 
-Here at Giveth and in navigating the blockchain for good cryptosphere, we like to have fun. We do this by welcoming a culture of kindness, praising one another, co-creating together, keeping the vibes high and, of course, creating spicy memes.
+- *Mensajes de 1 palabra* que no aportan nuevas perspectivas a las conversaciones, sino que saturan los hilos de nuestro canal, lo que requiere que los lectores revisen mensajes innecesarios para llegar al punto que desean. Por ejemplo, simplemente publicar 'gracias' o 'sí' no es suficiente.
+- *Competencia.* Consideramos a otras organizaciones como 'socios' y 'aliados' en lugar de 'competidores'. Estamos aquí para hacer del mundo un lugar mejor desinteresadamente, y creemos que podemos hacerlo de manera más eficiente cuando unimos nuestros recursos.
+- *Compartir información personal.* Nunca divulgamos direcciones de billetera u otros datos personales. Valoramos la seguridad y protección de la información privada.
 
-**Here are best practices when participating in our channels: **
+## Así transformamos los conflictos:
 
-## We encourage…
-
-
-* _New ideas._ Thoughtful, engaging conversations that move us forward.
-* _Feedback._ Listen to feedback and be open to change.
-* _Expression._ Expressing tensions with clear requests and/or solutions.
-* _Collaboration._ We opt to minimize the duplication of efforts whenever possible.
-* _Quality over quantity!_ We invite Givers, Makers and Donors to collaboratively _Build the Future of Giving_. That means we want people who actively contribute and engage in our platform and channels rather than a bunch of empty followers who are not committed to our vision and mission.
-* _Trust._ Trusting your team, Trusting your community and Trusting your system.
-* _Emojis._ Using emojis to show emotional response to others’ posts when we don’t have more to say that would continue the conversation forward or fork it in a new direction.
-* _Memes._ Creating memes with the Giveth logo watermarked to encapsulate big ideas, trending topics and promote upcoming releases and events.
-* _Gamification._ Create a great user experience. Make donating a fun thing to do.
-
-## It’s best to avoid…
-
-* _1-word posts_ that do not bring new perspectives to conversations but rather clutter our channel threads, requiring readers to scroll through unnecessary posts to get to the meat. For example, simply posting ‘thanks’ or ‘yeah’ does not suffice.
-* _Competition._ We look at other organizations as ‘partners’ and ‘allies’ rather than ‘competitors’. We’re here to altruistically make the world a better place, and we believe we can more readily do that when we pool our resources together.
-* _Sharing personal information._ We never post wallet addresses or other personal details. We value security and protection of private information.
-
-## This is how we transform conflict:
-
-
-
-* _Conflict._ Is a golden opportunity to gain clarity and connection. Many times some of the best ideas, strategies, and solutions arise from conflict. Don’t shy away from voicing your ideas and opinions. However, communicate in a manner that still values the personhood and ideas of others.
-* _Compromise._ Be flexible and open to the ideas of other people. Sometimes we have to make concessions. Remember to have humility. Some of the most innovative solutions are born from compromise.
-* _Open to Criticism._ Accepting constructive feedback often streamlines improvement to processes and products. Don't defend a point to win an argument or double-down on a mistake. Remember, it’s not personal!
-* _Feedback._ Focus on giving feedback about the work, not the person. Give examples of the work. No personal attacks, and consider if the person is going through a difficult time in their life in their personal life.
+- *Conflicto.* Es una oportunidad de oro para ganar claridad y conexión. A menudo, algunas de las mejores ideas, estrategias y soluciones surgen del conflicto. No dude en dar voz a sus ideas y opiniones. Sin embargo, comuníquese de una manera que aún valore la personalidad y las ideas de los demás.
+- *Compromiso.* Ser flexible y abierto a las ideas de los demás. A veces tenemos que hacer concesiones. Recuerda ser humilde. Algunas de las soluciones más innovadoras nacen del compromiso.
+- *Abierto a la crítica.* Aceptar comentarios constructivos a menudo simplifica la mejora de procesos y productos. No defiendas un punto para ganar una discusión o duplicar un error. Recuerde, ¡no es personal!
+- *Comentarios.* Concéntrese en dar retroalimentación sobre el trabajo, no sobre la persona. Dar ejemplos de trabajo. No ataques personales, y considerar que la persona puede estar pasando por un momento difícil en su vida personal.

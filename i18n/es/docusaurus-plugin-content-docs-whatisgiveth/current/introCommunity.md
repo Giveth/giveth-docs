@@ -1,33 +1,32 @@
 ---
 id: introCommunity
-title: Community
+title: Comunidad
 ---
 
-**COMMUNITY…** has always been the foundation of Giveth, the sum of all parts.
+**LA COMUNIDAD...** siempre ha sido la base de Giveth, la suma de todas las partes.
 
-**COMMUNICATION…** is the glue that holds these parts together.
+**COMUNICACIÓN...** es el pegamento que mantiene unidas estas partes.
 
-**COMMONS…** is the publicly accessible resources that are shared, cultivated and managed together.
+**COMUNES...** son los recursos de acceso público compartidos, cultivados y administrados juntos.
 
-## Welcome to the Giveth Community Circle!
+## ¡Bienvenido al círculo comunitario de Giveth!
 
-This circle is held down by the Communications team yet comprised of representatives from the other two Circles, as well as various working groups that may form. Here is where new contributors, project owners, campaign managers, collaborators, conspirateurs, catalysts and really all the cool cats come to play, learn, give and grow.
+Este círculo lo lleva a cabo el equipo de Comunicación, que sigue estando integrado por representantes de los otros dos Círculos, así como por los distintos grupos de trabajo que se puedan formar. Aquí es donde los nuevos contribuyentes, propietarios de proyectos, directores de campaña, contribuyentes, conspiradores, catalizadores y todos los demás vienen a jugar, aprender, donar y crecer.
 
-## Mission
+## Misión
 
-Our mission is to be the living and breathing core of Giveth, an ecosystem of collective support, abundance and communication where we cultivate relationships and assist innovative projects with a focus on blockchain4good. We connect Givers and Makers with the Giveth Community through transparent, intentionally crafted and clearly communicated stories and resources.
+Nuestra misión es ser el núcleo vivo y respirable de Giveth, un ecosistema de apoyo colectivo, abundancia y comunicación donde cultivamos relaciones y ayudamos a proyectos innovadores centrados en blockchain4good. Conectamos a los donantes y creadores con la comunidad de Giveth a través de historias y recursos transparentes, elaborados intencionalmente y comunicados con claridad.
 
-## Goals
+## Objetivos
 
-* **Build Community around For-Good Projects** by nourishing relations between Givers, Makers and the greater community through meaningful engagement, outreach, trust facilitation and conflict resolution - creating a safe space for community members to communicate their passion projects, then recruit help or guidance from peers.
-* **Offer a Clear & Supportive Onboarding Process** as Giveth develops the Dapps, economy, DAO and ongoing new features. The community circle provides a well-defined, transparent and helpful onboarding process that supports the needs of Contributors, Communities, Campaigns, Projects and Donors as well as functions as a bridge for newcomers into the crypto space.
-* **Coordinate External and Internal Communications** when broadcasting or sharing activity and development progress externally through the Giveth channels and social media - ensuring that the voice of Giveth as an organization is aligned with our overarching Values, Vision, Mission and Goals and that all Giveth Circles are represented.
-* **Create a Network of Partners** by way of collaboration, relationship building and support of common goals with various strategic partner organizations as well as community members focused on blockchain4good and improving the ethereum commons - providing resources, education and sharing of best practices.
-*Partners currently include communities like [Commons Stack](https://commonsstack.org/), [TEC](https://forum.tecommons.org/), [DAppNode](https://dappnode.io/), [BrightID](https://www.brightid.org/), [1Hive](https://about.1hive.org/), [Panvala](https://panvala.com/), [GitCoin](https://gitcoin.co/) and [MetaGame](https://wiki.metagame.wtf/).*
+- **Construir una comunidad en torno a proyectos que buscan el bien,** fomentando las relaciones entre los donantes, los creadores y la comunidad, a través de un compromiso significativo, el alcance, la facilitación de la confianza y la resolución de conflictos, creando un espacio seguro para que los miembros de la comunidad comuniquen sus proyectos y luego obtener ayuda u orientación de sus compañeros.
+- **Ofrecer un proceso de incorporación eficiente** a medida que Giveth desarrolla sus dapps, economía, DAO y nuevas características en el proceso de creación. El círculo de la comunidad proporciona un proceso de incorporación bien definido, transparente y útil que respalda las necesidades de los Colaboradores, las Comunidades, las Campañas, los Proyectos y los Donantes, además de actuar como un puente para los recién llegados al mundo de las criptomonedas.
+- **Coordinar las comunicaciones internas y externas** transmitiendo o compartiendo la actividad y el progreso del desarrollo con la comunidad a través de los canales de Giveth y las redes sociales, asegurando que la voz de Giveth como organización esté alineada con nuestros valores, visión, misión global y objetivos y que todo Giveth Se representan círculos.
+- **Crear una red de socios** colaborando, construyendo relaciones y apoyando objetivos comunes con varias organizaciones de socios estratégicos, así como miembros de la comunidad enfocados en blockchain4good y mejorando los bienes comunes de ethereum, brindando recursos, educación y compartiendo las mejores prácticas. Los miembros actualmente incluyen comunidades como [Commons Stack](https://commonsstack.org/), [TEC](https://forum.tecommons.org/), [DAppNode](https://dappnode.io/ ) , [BrightID](https://www.brightid.org/), [1Hive](https://about.1hive.org/), [Panvala](https://panvala.com/), [GitCoin](https://gitcoin.co/) y [MetaGame](https://wiki.metagame.wtf/).
 
-## How to Engage
+## Como participar
 
-* Community Calls are held every Sunday in the appropriate voice channel in the [Discord server](https://discord.gg/DAFkKdkykr) and can be found scheduled on the [Giveth calendar](https://calendar.giveth.io/). Feel free to join us!
-* If you want to get a feel of what we discuss during the Community Call, most of the recordings can be found on our [Giveth Transparency YouTube channel](https://www.youtube.com/channel/UCdqmP4axeI1hNmX20aZsOwg).
-* You can read more on all of our initiatives on our [Medium blog](https://medium.com/giveth/) as well as engage with releveant topics and proposals on the [Giveth Forum](https://forum.giveth.io/).
-* If you have any questions or are interested in contributing, feel free to reach out in the Discord server or [Telegram chat](https://t.me/Givethio). 
+- Las llamadas comunitarias se realizan todos los domingos en el canal de voz de nuestro [servidor de Discord](https://discord.gg/DAFkKdkykr) y se pueden encontrar programadas en [Calendario de Giveth.](https://calendar.google.com/calendar/u/0/embed?src=givethdotio@gmail.com&ctz=America/Costa_Rica) ¡Siéntase libre de unirse a nosotros!
+- Si desea tener una idea de lo que discutimos durante la llamada comunitaria, la mayoría de las grabaciones se pueden encontrar en nuestro canal de YouTube Giveth Transparency.
+- Puedes leer más sobre todas nuestras iniciativas en [nuestro Medio](https://medium.com/giveth/), así como involucrarte con los temas y propuestas publicadas en [Foro Giveth](https://forum.giveth.io/).
+- Si tiene alguna pregunta o interés en contribuir, no dude en comunicarse con el servidor de Discord o en nuestro [Telegram](https://t.me/Givethio).

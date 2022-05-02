@@ -1,22 +1,22 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Próximo",
     "description": "The label for version current"
   },
   "sidebar.dapps.category.DApps Documentation": {
-    "message": "DApps Documentation",
+    "message": "Documentação do Dapps",
     "description": "The label for category DApps Documentation in sidebar dapps"
   },
   "sidebar.dapps.category.DApps Documentation.link.generated-index.title": {
-    "message": "Dapps Documentation",
+    "message": "Documentação do Dapps",
     "description": "The generated-index page title for category DApps Documentation in sidebar dapps"
   },
   "sidebar.dapps.category.DApps Documentation.link.generated-index.description": {
-    "message": "Learn more about how the Giveth Dapp works. We have a variety of articles tailored for Users and Developers for Giveth.io, Giveth TRACE and the GIVeconomy.",
+    "message": "Saiba mais sobre como o Giveth Dapp funciona. Temos uma variedade de artigos adaptados para usuários e desenvolvedores para Giveth.io, Giveth TRACE e GIVeconomy.",
     "description": "The generated-index page description for category DApps Documentation in sidebar dapps"
   },
   "sidebar.dapps.category.User Guides": {
-    "message": "User Guides",
+    "message": "Guia de usuário",
     "description": "The label for category User Guides in sidebar dapps"
   },
   "sidebar.dapps.category.Giveth.io": {
@@ -24,7 +24,7 @@
     "description": "The label for category Giveth.io in sidebar dapps"
   },
   "sidebar.dapps.category.Wallets": {
-    "message": "Wallets",
+    "message": "Carteiras",
     "description": "The label for category Wallets in sidebar dapps"
   },
   "sidebar.dapps.category.Giveth TRACE": {
@@ -36,7 +36,7 @@
     "description": "The label for category GIVeconomy in sidebar dapps"
   },
   "sidebar.dapps.category.Developer Guides": {
-    "message": "Developer Guides",
+    "message": "Guia do desenvolvedor",
     "description": "The label for category Developer Guides in sidebar dapps"
   }
 }

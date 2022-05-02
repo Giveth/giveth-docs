@@ -3,22 +3,22 @@ id: givethdao
 title: The Giveth DAO
 ---
 
-## What is a DAO?
+## ¿Qué es una DAO?
 
-A DAO is an acronym for a **Decentralized Autonmous Organization**. In short it's a decentralized application programmed on the blockchain to facilitate governance and organization of an enterprise or community. DAO's take governance to the next level by allowing its members to transparently and equitably make decisions. Some exciting examples are being able to mint and distribute your own currency or tokens, creating proposals and facilitating voting processes. Each DAO is designed different so make sure you do your homework before jumping into one! A greater explanation of what a DAO is can be found [here](https://blockchainhub.net/dao-decentralized-autonomous-organization/).
+Una DAO es un acrónimo de **Organización Autónoma Descentralizada**. En resumen, es una aplicación descentralizada programada en blockchain para facilitar el gobierno y la organización de una empresa o comunidad. Los DAO llevan la gobernanza al siguiente nivel al permitir que sus miembros tomen decisiones de manera transparente y equitativa. Algunos ejemplos interesantes son poder acuñar y distribuir su propia moneda o fichas, crear propuestas y facilitar los procesos de votación. Cada DAO está diseñado de manera diferente, ¡así que asegúrate de hacer tu tarea antes de saltar a uno! Se puede encontrar una mayor explicación de lo que es una DAO [aquí](https://blockchainhub.net/dao-decentralized-autonomous-organization/).
 
-## The Giveth DAO
+## El DAO de Giveth
 
-#### What is the Giveth DAO's purpose?
+#### ¿Cuál es el propósito de Giveth DAO?
 
-#### Who is allowed to particpate?
+#### ¿Quién puede participar?
 
-**What is Conviction Voting?**
-Conviction Voting is a coordination module that allows communities governing a shared resource to choose priorities in a decentralized way. 
+**¿Qué es la votación por convicción?**
+El Voto de Convicción es un módulo de coordinación que permite a las comunidades que gobiernan un recurso compartido elegir prioridades de manera descentralizada.
 
-Let’s look at some of the properties of Conviction Voting:
-* Voting is continuous, its much more like signaling.
-* The emitter can change their “vote” anytime
-* A fundamental property of this particular system is that votes grow stronger over time (as long as the vote is not changed).
+Veamos algunas de las propiedades de la votación por convicción:
+* La votación es continua, es mucho más como una señalización.
+* El emisor puede cambiar su "voto" en cualquier momento
+* Una propiedad fundamental de este sistema en particular es que los votos se fortalecen con el tiempo (siempre y cuando no se cambie el voto).
 
-Learn more about the differences between Conviction Voting and Ad-Hoc voting [here](https://medium.com/giveth/conviction-voting-34019bd17b10).
+Obtenga más información sobre las diferencias entre la votación por convicción y la votación ad-hoc [aquí](https://medium.com/giveth/conviction-voting-34019bd17b10).

@@ -1,88 +1,86 @@
 ---
 id: conflictResolution
-title: Conflict Resolution Working Group
+title: Grupo de trabajo para la resolución de conflictos
 ---
 
-# Conflict Resolution Working Group
+# Grupo de trabajo para la resolución de conflictos
 
-A working group of Gravitons who implement Gravity and provide education and support around conscious communication, empathic listening, and issue revelation and alleviation.
+Un grupo de trabajo de Gravitons que implementan Gravity y brindan educación y apoyo en torno a la comunicación consciente, la escucha empática y la revelación y el alivio de problemas.
 
-We aim to bring people together and promote resilience in the Giveth DAO by training our members in non-violent communication, understanding and analyzing conflict and techniques to manage it (internally, individually and collectively). The mission is to help build a culture of wellbeing and high vibes, while also pointing out clear steps to strategically manage disputes whenever they arise.
-
-
-### What is Gravity?
-
-Gravity aims to establish a culture of voluntary compliance around Giveth’s [Community Covenant](https://docs.giveth.io/whatisgiveth/covenant), [Code of Conduct](https://docs.giveth.io/whatisgiveth/codeofconduct), and [Community Communications Guide](https://docs.giveth.io/whatisgiveth/communityCommsGuide). It proposes the recognition and application of conflict management mechanisms to shape harmonious interactions between the members of its community.
+Nuestro objetivo es unir a las personas y promover la resiliencia en Giveth DAO capacitando a nuestros miembros en comunicación no violenta, comprendiendo y analizando conflictos y técnicas para manejarlos (internamente, individualmente y colectivamente). La misión es ayudar a construir una cultura de bienestar y buenas vibraciones, al mismo tiempo que señala pasos claros para gestionar estratégicamente las disputas cada vez que surjan.
 
 
-### What is a Giveth Graviton?
+### ¿Qué es Gravity?
 
-* Someone enthusiastic about conscious communication, conflict resolution, authentic relating and connection
-* Has completed Gravity’s Graviton training
-* Contributes to the Giveth Conflict Resolution working group
-* A point of contact for reporting conflicts in Giveth
-* Gathers information to develop cases and activities
-* Delegates conflict mediation cases to other Gravitons
-* Provides inter-Graviton support
-* Promotes conscious communication strategies for Gravity & Giveth
-* Fosters Gravity from their active participation in other working groups within Giveth
+Gravity tiene como objetivo establecer una cultura de cumplimiento voluntario en torno al [Pacto comunitario](https://docs.giveth.io/whatisgiveth/covenant), [Código de conducta](https://docs.giveth.io/whatisgiveth/codeofconduct) , y [Guía de comunicaciones comunitarias](https://docs.giveth.io/whatisgiveth/communityCommsGuide) de Giveth. Propone el reconocimiento y aplicación de mecanismos de manejo de conflictos para configurar interacciones armoniosas entre los miembros de su comunidad.
 
 
-### Who are the Giveth Gravitons?
+### ¿Qué es un gravitón Giveth?
 
-@Forest Soleil is leading the Conflict Resolution working group at Giveth with support from @Juan Carlos Bell Llinás and @bends#3537 at Gravity.
+* Alguien entusiasta de la comunicación consciente, la resolución de conflictos, la relación auténtica y la conexión.
+* Ha completado el entrenamiento Graviton de Gravity
+* Contribuye al grupo de trabajo de resolución de conflictos de Giveth
+* Un punto de contacto para reportar conflictos en Giveth
+* Recopila información para desarrollar casos y actividades
+* Delega casos de mediación de conflictos a otros Gravitons
+* Proporciona soporte entre Gravitones
+* Promueve estrategias de comunicación consciente para Gravity & Giveth
+* Fomenta a Gravity desde su participación activa en otros grupos de trabajo dentro de Giveth
 
-_Trained & Actively contributing—_
 
-Forest (Active Graviton; Conflict Mediator)
+### ¿Quiénes son los gravitones de Giveth?
 
-Ben (Gravity Support)
+@Forest Soleil lidera el grupo de trabajo de resolución de conflictos en Giveth con el apoyo de @Juan Carlos Bell Llinás y @bends#3537 en Gravity.
 
-Juanka (Active Graviton; Conflict Mediator; Gravity Support)
+***Capacitado y contribuyendo activamente-***
 
-_Givethers who also completed the Graviton training—_
+Forest (gravitón activo; mediador de conflictos)
 
-Mateo
+Ben (soporte de Gravity)
+
+Juanka (Gravitón Activo; Mediador de Conflictos; Soporte de Gravity)
+
+_Givethers que también completaron el entrenamiento de Graviton—_
+
+mateo
 
 Griff
 
-Ashley
+ashley
 
-Lauren
+lauren
 
 Suga
 
-Next Graviton Training: Begins 2nd week of April 2022
+Próximo entrenamiento de Graviton: comienza la segunda semana de abril de 2022
 
-👉🏼 DM @Juan Carlos Bell Llinás if you are interested in joining.
+👉🏼 DM @Juan Carlos Bell Llinás si estás interesado en unirte.
 
-The training is offered 2 times a year with the intention to form Gravitons - the team of individuals equipped with knowledge and social tooling to address and mediate emerging conflicts or any uncomfortable situations in the best way possible.
+La capacitación se ofrece 2 veces al año con la intención de formar Gravitrons, un equipo de personas equipadas con conocimientos y herramientas sociales para abordar y mediar conflictos emergentes o cualquier situación incómoda de la mejor manera posible.
+### Acciones principales
 
+* Todos en la comunidad pueden llenar el [typeform](https://the-commons-stack.typeform.com/to/rCVsK5RK) de Gravity _(actualmente utilizando el formulario de Gravity, pero planean crear uno único para Giveth)_ o acercarse a cualquiera de los Gravitones para solicitar apoyo en conflictos y cualquier tipo de situaciones incómodas o no deseadas.
+* En caso de conflicto, Gravitrons puede acercarse a las partes involucradas para recopilar información sobre los problemas.
+* Los gravitrones pueden tomar medidas para [regular el comportamiento no deseado de acuerdo con las sanciones graduadas](https://forum.tecommons.org/t/scale-of-conflicts-graduated-sanction-guideline/234) _(Giveth Conflict Resolution Working Group actualmente está utilizando las sanciones graduadas de TEC Gravity mientras se reúne al mismo tiempo para adaptar las nuestras)._
+* Todos los miembros de la comunidad pueden proponer nuevas metodologías para abordar **sanciones graduales** y **monitoreo mutuo**, así como actualizar las actuales a través del [Proceso de asesoramiento](https://token-engineering-commons.gitbook.io/tec-handbook/tec-agreements-1/collective-agreements/advice-process) y [Votación en el foro](https://forum.giveth.io/).
+* Gravitrons puede enviar conflictos o problemas al Registro de Gravity, que es una base de datos de los casos administrados por Gravity.
+* Las llamadas y chats de resolución de conflictos están cerrados para Gravitons y las partes involucradas para respetar la privacidad y la vulnerabilidad.
+* El grupo de trabajo de Resolución de Conflictos de Giveth puede facilitar espacios seguros, talleres de nivelación de habilidades y colaborar con el grupo de trabajo de Gravedad de TEC para organizar capacitaciones y capacitar a las personas para que se conviertan en Gravitones.
+    * El entrenamiento Gravity es gratuito y abierto para todos.
+* Gravity puede eliminar propuestas de todas las categorías de votación si reciben **banderas** y/o se consideran dañinas para la comunidad según nuestras reglas, límites, T&C, [Convenio de la comunidad](https://docs.giveth.io/es/whatisgiveth/covenant), [Código de conducta](https://docs.giveth.io/es/whatisgiveth//codeofconduct) y [Guía de comunicaciones comunitarias](https://docs.giveth.io/es/whatisgiveth/communityCommsGuide).
 
-### Main Actions
+**¿Qué acciones o resultados se requieren o fomentan?**
 
-* Everyone in the community can fill the Gravity [typeform](https://the-commons-stack.typeform.com/to/rCVsK5RK) _(currently utilizing the Gravity form, but plan to create a unique one for Giveth)_ or approach any of the Gravitons to request support for conflicts and any sort of uncomfortable or undesired situations.
-* In case of conflict, Gravitons can approach the parties involved to collect information on the issues.
-* Gravitons can take actions to [regulate unwanted behavior according to the graduated sanctions](https://forum.tecommons.org/t/scale-of-conflicts-graduated-sanction-guideline/234) _(Giveth Conflict Resolution Working Group is currently utilizing TEC Gravity’s graduated sanctions while concurrently meeting to adapt our own)._
-* All community members can propose new methodologies to approach **graduated sanctions** and **mutual monitoring** as well as upgrade current ones through [Advice Process](https://token-engineering-commons.gitbook.io/tec-handbook/tec-agreements-1/collective-agreements/advice-process) and [Forum Voting](https://forum.giveth.io/).
-* Gravitons can submit conflicts or issues to the Gravity Registry, that is a database of the cases managed by Gravity.
-* Conflict resolution calls and chats are closed to Gravitons and parties involved to respect privacy and vulnerability.
-* The Giveth Conflict Resolution working group can facilitate safe spaces, skills up leveling workshops, and collaborate with TEC’s Gravity working group to host training and capacitate individuals to become Gravitons.
-    * The Gravity training is free and open for all.
-* Gravity can remove proposals from all the voting categories if they receive **flags** and/or are seen as harmful for the community based on our rules, boundaries, T&C’s, [Community Covenant](https://docs.giveth.io/whatisgiveth/covenant),[ Code of Conduct](https://docs.giveth.io/whatisgiveth/codeofconduct), and [Community Communications Guide](https://docs.giveth.io/whatisgiveth/communityCommsGuide).
+* Todos los miembros deben conocer las [directrices para la escala del conflicto y las sanciones graduadas](https://forum.tecommons.org/t/scale-of-conflicts-graduated-sanction-guideline/234).
+* Todos los miembros deben comprometerse a respetar el protocolo para [Giveth Meetings](https://docs.giveth.io/whatisgiveth/meetingsGuide).
+* Los gravitones deben cumplir con el [Pacto comunitario de Giveth](https://docs.giveth.io/whatisgiveth/covenant), [Código of Conduct](https://docs.giveth.io/whatisgiveth/codeofconduct) y [Guía de comunicaciones comunitarias](https://docs.giveth.io/whatisgiveth/communityCommsGuide) y el adicional [Código de conducta de Graviton](https://forum.tecommons.org/t/gravity-role-design/174).
+* Los gravitones deben aceptar casos en función de su competencia y comunicarse con el grupo de trabajo de resolución de conflictos si no se sienten capaces de manejar un problema.
+* Los gravitones deben promover la confianza y las buenas relaciones entre la comunidad.
+* Se requiere completar el Entrenamiento Graviton con éxito para convertirse en un Graviton.
+* Gravitons deberá actualizar el Registro de Gravedad con la información de los posibles acuerdos o las resoluciones finales.
+* Todos los miembros deben respetar las disposiciones hechas sobre las situaciones emitidas.
 
-**What actions or outcomes are required or encouraged?**
+**¿Qué acciones o resultados se desaconsejan?**
 
-* All members should be aware of the [guidelines for scale of conflict and graduated sanctions](https://forum.tecommons.org/t/scale-of-conflicts-graduated-sanction-guideline/234).
-* All members should commit to respect the protocol for [Giveth Meetings](https://docs.giveth.io/whatisgiveth/meetingsGuide).
-* Gravitons should comply to Giveth’s [Community Covenant](https://docs.giveth.io/whatisgiveth/covenant), [Code of Conduct](https://docs.giveth.io/whatisgiveth/codeofconduct), and [Community Communications Guide](https://docs.giveth.io/whatisgiveth/communityCommsGuide) and the additional [Graviton Code of Conduct](https://forum.tecommons.org/t/gravity-role-design/174).
-* Gravitons should accept cases based on their competence and communicate to the Conflict Resolution working group if they don’t feel capable of handling an issue.
-* Gravitons should promote trust and good relationships between the community.
-* It is required to complete the Graviton Training successfully to become a Graviton.
-* Gravitons should update the Gravity Registry with the information of possible agreements or the final resolutions.
-* All members should respect the arrangements made about the situations issued.
-
-**What actions or outcomes are discouraged?**
-
-* Violating the agreements stated in this working group’s documentation on this page.
-* Violating the requirements for the Graviton Role (Any member can monitor Gravitons actions and report to other Gravitons, fill in the typeform, or contact community stewards.)
+* Violar los acuerdos establecidos en la documentación de este grupo de trabajo en esta página.
+* Violar los requisitos para el Rol de Graviton (cualquier miembro puede monitorear las acciones de Graviton e informar a otros Graviton, completar el formulario de tipo o comunicarse con los administradores de la comunidad).

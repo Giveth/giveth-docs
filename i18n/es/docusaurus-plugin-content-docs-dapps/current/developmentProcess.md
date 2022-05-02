@@ -1,65 +1,66 @@
 ---
 id: developmentProcess
-title: Development Process
+title: Proceso de Desarrollo
 slug: dapps/developmentProcess
 ---
 
-*This section details the Giveth TRACE development process, deployments, and how merging and testing is handled.*
+*Esta sección detalla el proceso de desarrollo de Giveth TRACE, las implementaciones y cómo se manejan las fusiones y las pruebas.*
 
-## Development Planning, Sprints and Where to get Involved.
-We run on a 2 week sprint cycle with weekly developer meetings to plan sprints and assess progress. You can checkout when the next one is on our [Google Calendar](https://calendar.google.com/calendar/embed?src=givethdotio%40gmail.com) and you can also reach out on the [Giveth Discord](https://discord.gg/XhN7eGmcCK) to `@moenick` the Giveth TRACE project manager. You can find the current [Giveth TRACE repository on Github](https://github.com/Giveth/giveth-dapp).
+## Planificación del desarrollo, Sprints y dónde involucrarse.
+Ejecutamos un ciclo de sprint de 2 semanas con reuniones semanales de desarrolladores para planificar sprints y evaluar el progreso. Puede pagar cuando el próximo esté en nuestro [Google Calendar](https://calendar.google.com/calendar/embed?src=givethdotio%40gmail.com) y también puede comunicarse con [Giveth Discord]( https://discord.gg/XhN7eGmcCK) a `@moenick` el gerente del proyecto Giveth TRACE. Puede encontrar el [repositorio Giveth TRACE actual en Github](https://github.com/Giveth/giveth-dapp).
 
-## Deployments and Branch Organisation
-Giveth TRACE has transitioned from passive to active development for post-beta release coming soon. There are two deployments currently used for the development process.
+## Implementacíon y Organización de Branchs
+Giveth TRACE ha pasado del desarrollo pasivo al activo para el lanzamiento posterior a la beta próximamente. Actualmente se utilizan dos implementaciones para el proceso de desarrollo.
 
-Name | Blockchain | Branch Deployed | Auto Deploy | Use |
------|------------|-----------------|-------------|-----|
-[beta](https://trace.giveth.io) | Mainnet/Rinkeby | master | no | Bridged deployment; Rinkeby for internal contract interactions, Mainnet for sending and receiving real funds.
-[develop](https://develop.giveth.io) | Ropsten Test Network | develop | yes | Development environment for integrating and testing new features. Feature and pull request branches are deployed to this environment.
+Nombre | Blockchain | Branch desplegada | Implementación automática | Uso |
+-----|------------|-----------------|------------- |-----|
+[beta](https://trace.giveth.io) | Mainnter/Rinkeby | master | no | Implementación en puente; Rinkeby para interacciones de contratos internos, Mainnet para enviar y recibir fondos reales.
+[develop](https://develop.giveth.io) | Ropsten Test Network | develop | si | Entorno de desarrollo para integrar y probar nuevas funcionalidades. Las ramificaciones de funciones y solicitudes de incorporación de cambios se implementan en este entorno.
 
-The two branches below  are being used in the gitflow.
+Las dos ramas siguientes se utilizan en el gitflow.
 
-Name | Description |
+Nombre | Descripción |
 -----|------------|
-master | The master branch tracks released code only. Commits are made to master around the middle of each month so as not to interfere with payment processes happening near the end and beginning of these months.
-develop | Deployments made to develop are from local builds and include new features and bug fixes.
+master | La rama maestra solo rastrea el código liberado. Los compromisos se realizan para dominar a mediados de cada mes para no interferir con los procesos de pago que ocurren cerca del final y el comienzo de estos meses.
+develop | Las implementaciones realizadas para desarrollar provienen de compilaciones locales e incluyen nuevas funciones y correcciones de errores.
 
-## Usage of Zenhub Boards
-Currently we use the Zenhub Boards extension for Github to track progress on features and fixes. You can get the [Zenhub extension here](https://www.zenhub.com/extension).
+## Uso de tableros Zenhub
+Actualmente, usamos la extensión Zenhub Boards para Github para realizar un seguimiento del progreso de las funciones y las correcciones. Puede obtener la [extensión de Zenhub aquí](https://www.zenhub.com/extension).
 
-The Current Github issue flow is as follows:
-Name | Usage |
+El flujo de problemas de Github actual es el siguiente:
+
+Nombre | Uso |
 -----|------------|
-New Issues | Create a new Issue for a new feature request or to report a bug. Tag a developer or `@moenick` to make sure it get's noticed. Use labels to add context to your issue.
-Icebox | Features and Ideas to consider for future development, to be assesed by the Giveth Team only when developer bandwidth allows.
-Product Backlog | Issues that need to be dealt with or approved new features for development. These will be queued into the next sprint progressively.
-Epics | Large tasks which have been broken down into smaller issues.
-Needs Clarification | Issues which require more clarification from the issue creator in order to move forward.
-Sprint Backlog | Issues being worked on in the current sprint.
-Bugs & Ops | Urgent tasks that need to be prioritized. Bandwidth is set aside in the sprint schedule for developers to address any issues here.
-In Progress | Issues that have been picked up by a dev for the current sprint.
-Code Review | Devs should review code referenced in these issues for quality assurance and fixing potential issues before moving to user testing.
-UAT (User Acceptance Testing) | Features or Fixes ready to be user tested.
-Done | Issues ready to be merged to `master` according to the commit cycle.
+New Issues | Cree un nuevo problema para una nueva solicitud de función o para informar un error. Etiqueta a un desarrollador o `@moenick` para asegurarte de que se note. Use etiquetas para agregar contexto a su problema.
+icebox | Características e ideas a considerar para el desarrollo futuro, que el equipo de Giveth evaluará solo cuando el ancho de banda del desarrollador lo permita.
+Product Backlog| Cuestiones que necesitan ser tratadas o aprobadas nuevas funcionalidades para su desarrollo. Estos se pondrán en cola en el siguiente sprint progresivamente.
+Epics | Grandes tareas que se han dividido en problemas más pequeños.
+ Needs Clarification | Problemas que requieren más aclaraciones por parte del creador del problema para poder avanzar.
+Sprint Backlog | Problemas en los que se está trabajando en el sprint actual.
+Bugs & Ops | Tareas urgentes que necesitan ser priorizadas. El ancho de banda se reserva en el cronograma de sprint para que los desarrolladores aborden cualquier problema aquí.
+In Progress | Problemas que ha detectado un desarrollador para el sprint actual.
+Code Review | Los desarrolladores deben revisar el código al que se hace referencia en estos problemas para garantizar la calidad y solucionar posibles problemas antes de pasar a las pruebas de usuario.
+UAT (Pruebas de Aceptación del Usuario) | Funciones o correcciones listas para ser probadas por el usuario.
+Ready | Incidencias listas para fusionarse con `master` de acuerdo con el ciclo de confirmación. |
 
 
-### Making a Pull Request
-Before making new Pull Request, make sure that your code does not have any linter issues and can be deployed. Only PRs that successfully deploy and don't have any merge conflicts will be merged. You can also easily check the deploy preview on Github Netlify autodeploy integration.
-![Autodeploy Integration](https://d33wubrfki0l68.cloudfront.net/cfa6124f4e0bf556de850f40e97c6b4cc66231f9/d42f0/images/product-development/deploy-preview.png)
-**Deployment preview.** Each pull request to the DApp repository has a Netlify deploy preview. You can access it at the bottom of the Conversation tab after clicking **Show all checks** button and **Details**.
+### Hacer un Pull request (PR)
+Antes de realizar un nuevo Pull request, asegúrese de que su código no tenga problemas de linter y se pueda implementar. Solo se fusionarán los PR que se implementen correctamente y no tengan ningún conflicto de fusión. También puede verificar fácilmente la vista previa de implementación en la integración de implementación automática de Github Netlify.
+![Integración de Autodeploy](https://d33wubrfki0l68.cloudfront.net/cfa6124f4e0bf556de850f40e97c6b4cc66231f9/d42f0/images/product-development/deploy-preview.png)
+**Vista previa de implementación.** Cada solicitud de **PR** al repositorio de DApp tiene una vista previa de implementación de Netlify. Puede acceder a ella en la parte inferior de la pestaña Conversación después de hacer clic en el botón **Mostrar todas las comprobaciones** y **Detalles**.
 
-## Integration & Testing
-Integration of new features is done by the **development team** after a DApp dev meeting where PRs are reviewed. After the PRs are reviewed and fixed, they are merged to the develop branch. Testing of the new features is done in the [`develop`](https://develop.giveth.io) environment to ensure the features do what they say and work well with the rest of the DApp.
+## Pruebas de integración
+El **equipo de desarrollo** realiza la integración de nuevas funciones después de una reunión de desarrollo de DApp donde se revisan las relaciones públicas. Una vez que se revisan y corrigen los PR, se fusionan con la rama de desarrollo. Las pruebas de las nuevas funciones se realizan en el entorno [`develop`](https://develop.giveth.io) para garantizar que las funciones hagan lo que dicen y funcionen bien con el resto de la DApp.
 
-## Quality Assurance Testing
-After new features are integrated and dev tested in the [`develop`](https://develop.giveth.io) environment, developers will ping testers with requests or updates in the [Giveth TRACE Dev Channel](https://discord.gg/79uUbyVCtE) on Discord. Testing should not be done by developers and is open to anyone who wishes to contribute.
+## Pruebas de control de calidad
+Después de que las nuevas funciones se integren y se prueben en el entorno [`develop`](https://develop.giveth.io), los desarrolladores harán ping a los evaluadores con solicitudes o actualizaciones en el [Canal de desarrollo de Giveth TRACE](https://discord .gg/79uUbyVCtE) en Discord. Las pruebas no deben ser realizadas por desarrolladores y están abiertas a cualquiera que desee contribuir.
 
-## Production Deployment
-Only once all the newly introduced bugs are removed in the `develop` branch it can be merged to master and pushed to production. It is done manually by DApp devteam (by `@aminlatifi` and `@MohammadPCh`).
+## Implementación de producción
+Solo una vez que se eliminan todos los errores recién introducidos en la rama "desarrollar", se pueden fusionar para dominar y pasar a producción. Lo hace manualmente el equipo de desarrollo de DApp (por `@aminlatifi` y `@MohammadPCh`).
 
-**To deploy the newest version of feathers-giveth**
+**Para implementar la versión más reciente de Feathers-Giveth**
 ```
-$ ssh user@feathers.alpha.giveth.io
+$ ssh usuario@feathers.alpha.giveth.io
 
 $ cd /home/deploy/feathers-giveth/
 $ sudo -u deploy bash
@@ -70,42 +71,42 @@ $ yarn install --pure-lockfile
 $ yarn serve
 ```
 
-Next, check the feathers deploy status
+A continuación, compruebe el estado de despliegue de las feathers.
 ```
 $ pm2 logs
 ```
 
-If the logs are clear, the last step is to deploy the latest master branch commit on [Netlify](http://netlify.com/) and locking the deploy.
+Si los registros están limpios, el último paso es implementar la última confirmación de rama maestra en [Netlify](http://netlify.com/) y bloquear la implementación.
 
-## Back-end Webservices Documentation
-If you're a new contributor and would like more in depth technical documentation on all the Webservices leveraged from the back-end (feathers-giveth) to the front-end (giveth-dapp), check out our pages on **Swagger** for both Production and Staging deployments:
+## Documentación de servicios web back-end
+Si es un colaborador nuevo y desea documentación técnica más detallada sobre todos los servicios web aprovechados desde el back-end (feathers-giveth) hasta el front-end (giveth-dapp), consulte nuestras páginas en **Swagger* * para implementaciones de producción y ensayo:
 
-[feathers-giveth Production](https://feathers.beta.giveth.io/docs/?url=/docs#/)  
+[Producción de feathers-giveth](https://feathers.beta.giveth.io/docs/?url=/docs#/)
 [feathers-giveth Staging](https://feathers.develop.giveth.io/docs)
 
 
-## FAQ
+## PREGUNTAS MÁS FRECUENTES
 
- **What is the definition of a feature?**
+ **¿Cuál es la definición de una función?**
 
-A Feature is any non-trivial improvement (less than 10 lines of code). Most features have issue in the corresponding Github Repository.
+Una función es cualquier mejora no trivial (menos de 10 líneas de código). La mayoría de las funciones tienen problemas en el repositorio de Github correspondiente.
 
- **What about fixes?**
+ **¿Qué pasa con las correcciones?**
 
- Big non-critical fixes are treated just like any other feature. If a fix is time critical, it is created as new branch with `hotfix/` prefix as a fork from the `master` branch. Such hotfix is tested at minimum by 2 people from dev team before being merged to `master`and `develop` branches.
+ Las grandes correcciones no críticas se tratan como cualquier otra función. Si una corrección es crítica en el tiempo, se crea como una nueva rama con el prefijo `hotfix/` como un fork de la rama `master`. Dicha revisión se prueba como mínimo por 2 personas del equipo de desarrollo antes de fusionarse con las ramas "master" y "develop".
 
- **Where do we communicate what needs testing?**
+ **¿Dónde comunicamos lo que necesita pruebas?**
 
-The QA testing is announced in the `Giveth-1 Dev` channel on [Discord](https://discord.gg/79uUbyVCtE).
+La prueba de control de calidad se anuncia en el canal `Giveth-1 Dev` en [Discord](https://discord.gg/79uUbyVCtE).
 
-**How do we prioritize when tests fail / bug fixes?**
+**¿Cómo priorizamos cuando fallan las pruebas/correcciones de errores?**
 
-Bug fixes are done ad-hoc as soon as discovered during the testing process. The bugs can be tackled by the DApp dev team or external contributors can be asked to help. Bug fixing has a priority over new development.
+Las correcciones de errores se realizan ad-hoc tan pronto como se descubren durante el proceso de prueba. Los errores pueden ser abordados por el equipo de desarrollo de DApp o se puede pedir ayuda a colaboradores externos. La corrección de errores tiene prioridad sobre el nuevo desarrollo.
 
-**Who does deployments and how are they deployed?**
+**¿Quién realiza las implementaciones y cómo se implementan?**
 
-The `develop` branch is autodeployed to its environment. The `master` branch is deployed by the dev team (`@aminlatifi`, `@RamRamez` and `@MohammadPCh`) once there are no new known bugs in the `develop` branch. The process is manual and there is a deployment procedure.
+La rama `develop` se implementa automáticamente en su entorno. La rama `master` es implementada por el equipo de desarrollo (`@aminlatifi`, `@RamRamez` y `@MohammadPCh`) una vez que no hay nuevos errores conocidos en la rama `develop`. El proceso es manual y existe un procedimiento de despliegue.
 
-**What is the release cycle frequency?**
+**¿Cuál es la frecuencia del ciclo de lanzamiento?**
 
- There is new release every 2 weeks as depicted in the [product development cycle gant chart](#product-development-testing-fig-release).
+ Hay un nuevo lanzamiento cada 2 semanas, como se muestra en el [product development cycle gant chart.](#product-development-cycle-gant-chart.).

@@ -5,91 +5,91 @@ title: Installing Giveth.io for Local development
 
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
-This guide will document the steps to set up and run Giveth.io locally for the purposes of development.The setup process was documented using Ubuntu 20.04 LTS.
+Esta guía documentará los pasos para configurar y ejecutar Giveth.io localmente con fines de desarrollo. El proceso de configuración se documentó con Ubuntu 20.04 LTS.
 
-**You'll need a couple prerequisites to get started.**
+**Necesitará un par de requisitos previos para comenzar.**
 
  - [Redis](https://redis.io/topics/quickstart)
  - [Postgres](https://www.postgresql.org/download)
- - Bash CLI
- - [Gatsby CLI](https://www.gatsbyjs.com/docs/reference/gatsby-cli/)
- - Configure NodeJS
-      * [For Linux](https://www.gatsbyjs.com/docs/how-to/local-development/gatsby-on-linux/)
-     * [For Windows](https://www.gatsbyjs.com/docs/how-to/local-development/gatsby-on-windows/)
- - Your Favourite Code Editor (VScode for linting presets)
+ -Bash CLI
+ - [CLI de Gatsby](https://www.gatsbyjs.com/docs/reference/gatsby-cli/)
+ - Configurar NodeJS
+      * [Para Linux](https://www.gatsbyjs.com/docs/how-to/local-development/gatsby-on-linux/)
+     * [Para Windows](https://www.gatsbyjs.com/docs/how-to/local-development/gatsby-on-windows/)
+ - Tu editor de código favorito (VScode para ajustes preestablecidos de pelusa)
 
-### Install impact-graph from GitHub
-In order to develop locally you need to clone the backend server as well. We are using https://github.com/Giveth/impact-graph for this.
+### Instalar gráfico de impacto desde GitHub
+Para desarrollar localmente, también necesita clonar el servidor backend. Estamos usando https://github.com/Giveth/impact-graph para esto.
 
-- via SSH on the CLI:
+- a través de SSH en la CLI:
     ```bash
     git clone git@github.com:Giveth/impact-graph.git
-    cd impact-graph
-    npm i
-    cp .env.example .env
+    gráfico de impacto de cd
+    npm yo
+    cp .env.ejemplo .env
     ```
 
 
-### Create a Database and User in Postgres using psql
-Follow this tutorial on PSQL to setup your username and create the database.
+### Crear una base de datos y un usuario en Postgres usando psql
+Siga este tutorial sobre PSQL para configurar su nombre de usuario y crear la base de datos.
 https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e)
 
 **TL;DR**
 ```bash
 sudo -u postgres psql
-postgres=# create database <databaseName>;
-postgres=# create user <userName> with encrypted password '<passwordHere>';
-postgres=# grant all privileges on database <databaseName> to <userName>;
+postgres=# crear base de datos <databaseName>;
+postgres=# crear usuario <nombre de usuario> con contraseña cifrada '<contraseñaAquí>';
+postgres=# otorgar todos los privilegios en la base de datos <nombre de la base de datos> a <nombre de usuario>;
 ```
-### Clone and Install the Frontend
-  Head on over to https://github.com/Giveth/giveth-2 and clone the repo.
-  - via the CLI:
+### Clonar e instalar la interfaz
+  Dirígete a https://github.com/Giveth/giveth-2 y clona el repositorio.
+  - a través de la CLI:
   ```bash
-  git clone git@github.com:Giveth/giveth-2.git
+  git clone git@github.com:Dar/dar-2.git
   cd giveth-2
-  npm i
+  npm yo
   ```
 
-### Get the Environment Variables
- In order to run the local build for Giveth.io you'll need to ask for the environment variables. Head on over to our [Contributors Discord](https://discord.giveth.io) say Hi and get in touch with one of the developers.
+### Obtener las variables de entorno
+ Para ejecutar la compilación local de Giveth.io, deberá solicitar las variables de entorno. Dirígete a nuestro [Discord de Colaboradores] (https://discord.giveth.io) saluda y ponte en contacto con uno de los desarrolladores.
 
-### Launch the Development Server and Environment
- Start up the `impact-graph` backend server and redis.
-  - Run redis by using the command `redis-server`
-  - From the impact-graph repo start with `npm start`
+### Inicie el entorno y el servidor de desarrollo
+ Inicie el servidor backend `impact-graph` y redis.
+  - Ejecute redis usando el comando `redis-server`
+  - Desde el repositorio del gráfico de impacto, comience con `npm start`
 
- To take advantage of linting presets, please use **VSCODE**:
- * Select *File -> Open Workspace*
- * Navigate into the giveth-2 directory
- * Open the workspace file `giveth2-full-stack.code-workspace`
- * Install recommended extensions (Prettier and StandardJS plugins)
+ Para aprovechar los ajustes preestablecidos de linting, utilice **VSCODE**:
+ * Seleccione *Archivo -> Abrir espacio de trabajo*
+ * Navegar al directorio giveth-2
+ * Abra el archivo del espacio de trabajo `giveth2-full-stack.code-workspace`
+ * Instale las extensiones recomendadas (complementos Prettier y StandardJS)
 
- Then fire up the local development server.
+ Luego inicie el servidor de desarrollo local.
 
  ```bash
- gatsby develop
+ gatsby desarrollar
  ```
 
-### Start Editing!
+### ¡Iniciar la edición!
 
-Open up the giveth2 repo on your code editor.
+Abra el repositorio giveth2 en su editor de código.
 
-Giveth.io is now running locally at `http://localhost:8000`!
+Giveth.io ahora se ejecuta localmente en `http://localhost:8000`.
 
-<img alt='Giveth Running Locally' src={useBaseUrl('img/content/givethlocalresized.png')} />
+<img alt='Giveth ejecutándose localmente' src={useBaseUrl('img/content/givethlocalresized.png')} />
 
-You can also expiremnt with querying your data via GraphQL - you'll find it at this link here - `http://localhost:8000/___graphql`
-Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).
+También puede expirar consultando sus datos a través de GraphQL; lo encontrará en este enlace aquí: `http://localhost:8000/___graphql`
+Obtén más información sobre el uso de esta herramienta en el [tutorial de Gatsby](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).
 
-  Save your changes and the browser will update in real time!
+  ¡Guarde sus cambios y el navegador se actualizará en tiempo real!
 
-**Current Build Statuses**
+**Estados de compilación actuales**
 
-[master](https://v2.giveth.io)
+[maestro](https://v2.giveth.io)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f914ac7e-ce27-4909-bd3e-14d749731a52/deploy-status)](https://app.netlify.com/sites/giveth2/deploys)
+[![Estado de Netlify](https://api.netlify.com/api/v1/badges/f914ac7e-ce27-4909-bd3e-14d749731a52/deploy-status)](https://app.netlify.com/sites /dar2/despliega)
 
-[staging](https://staging.giveth.io)
+[puesta en escena](https://staging.giveth.io)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2f325b5b-e159-443e-bac7-c5e15f3578c0/deploy-status)](https://app.netlify.com/sites/giveth-website-staging/deploys)
+[![Estado de Netlify](https://api.netlify.com/api/v1/badges/2f325b5b-e159-443e-bac7-c5e15f3578c0/deploy-status)](https://app.netlify.com/sites /giveth-website-staging/deploys)
 <br />
