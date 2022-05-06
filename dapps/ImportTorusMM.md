@@ -27,7 +27,7 @@ If you have multiple tokens in your Torus Wallet, you will have to repeat this p
 ### What is a Private Key
 
 Your [private key](https://www.coinbase.com/learn/crypto-basics/what-is-a-private-key) is a string of numbers and letters that allows you to access and manage your funds. <span class='importantText'>It should never be shared with anyone (no community moderators, no Giveth core contributors, no admins, <i>no one!</i> )!</span>. Anyone who has access to your private key has access to your crypto. Importing your Torus private key into MetaMask allows you to access and control your funds from both wallets. This means that you can enjoy full functionality of Giveth and other dApps by using MetaMask, but can still access your funds using your regular Torus login if you wish.
-### Get Torus Private Key
+### Get your Torus Private Key
 Once you’re signed in to your Torus wallet, navigate to the `Settings` page using the menu at the top of the page. Once on the `Settings` page, click `Account Details` in the `Privacy and Security` section. This will open a pop-up with two options for getting your private key.
 
 <img alt='Download Private Key in Torus' width='75%' height='auto' class='center' src={useBaseUrl('img/content/toruspk.png')} />
