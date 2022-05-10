@@ -1,6 +1,6 @@
 ---
 slug: whatDappened1
-title: "What DAppened: March 17–31"
+title: "Lo que sucedió: 17 al 31 de marzo"
 author: Lauren
 author_title: Blockchain DAbbler and Heart-Centered Jack of All Trades
 author_image_url: /img/laurenAuthor.png
@@ -9,47 +9,45 @@ image: img/blog/whatsDappening1Meme.gif
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'
 
+_Hola amigos y fans de Giveth! Esta es una parte de una serie de breves publicaciones de transparencia donde lo mantenemos informado con actualizaciones sobre lo que está en desarrollo para_ [_giveth.io_](http://giveth.io)_._
 
-_Hello friends and fans of Giveth! This is one part of a series of short transparency posts where we keep you in the loop with updates on what’s in development for_ [_giveth.io_](http://giveth.io)_._
+Nuestra nueva DApp [se lanzó](2021-03-24-futureofGiving.md) en [giveth.io](https://giveth.io/) el 24 de marzo de 2021, y desde entonces recibimos excelentes comentarios de nuestros probadores y comunidad, y hemos trabajado arduamente para corregir errores y agregar nuevas funciones.
 
-Our new DApp [went live](2021-03-24-futureofGiving.md) at [giveth.io](https://giveth.io/) on March 24, 2021, and since then we got some great feedback from our testers and community, and we’ve been hard at work fixing bugs and adding new features.
+Primero, abordamos el problema de las tarifas de gas que no se calculaban correctamente, agregamos un banner informativo y permitimos a los usuarios iniciar sesión directamente en la cadena xDai. Inhabilitamos la capacidad del creador de un proyecto para usar una dirección de contrato para su proyecto para que las donaciones a todos los proyectos se puedan realizar en Mainnet o xDai. ¡También agregamos más tokens a nuestra lista para permitir que el Donante done con aún más flexibilidad!
 
-First, we addressed the issue of gas fees not being calculated correctly, added an informative banner, and enabled users to login directly on xDai chain. We disabled the ability of a project creator to use a contract address for their project so that donations to all projects can be done either on Mainnet or xDai. We also added more tokens to our list in order to allow the Giver to donate with even more flexibility!
+Incorporamos a un nuevo miembro a nuestro equipo de desarrollo y, gracias a él, ahora tenemos pruebas automatizadas funcionales que nos permiten realizar cambios en la DApp en desarrollo y luego ingresar a nuestro sitio de prueba con mayor confianza.
 
-We onboarded a new member into our dev team and thanks to him we now have functional automated testing that allows us to make changes to the DApp in development and then push to our testing site with greater confidence.
-
-Next we tackled a bigger fish: the development and implementation of a quality score, sorting/filtering method, and search function to add greater flow and organization to the projects page.
+A continuación, abordamos un pez más grande: el desarrollo y la implementación de un puntaje de calidad, un método de clasificación/filtrado y una función de búsqueda para agregar mayor flujo y organización a la página de proyectos.
 
 <img alt="Magic Sorting" class="leftfloat" src={useBaseUrl('img/blog/whatsDappening1Meme.gif')} width="375" height="auto" />
 
-Now the projects are sorted by default using a “quality score” — a combination of number of likes, number of donations and quality of project description. We have also added the ability for the user to filter projects by category, and to change the sorting method from the default to “number of likes” or “amount raised”.
+Ahora, los proyectos se clasifican de forma predeterminada utilizando un "puntaje de calidad", una combinación de la cantidad de Me gusta, la cantidad de donaciones y la calidad de la descripción del proyecto. También hemos agregado la capacidad para que el usuario filtre proyectos por categoría y cambie el método de clasificación predeterminado a "número de Me gusta" o "cantidad recaudada".
 
+Por último, ahora puede usar la barra de búsqueda para encontrar rápida y fácilmente el proyecto exacto que desea ver o ¡Dar!
 
-Lastly, you are now able to use the search bar to quickly and easily find the exact project you want to view or Give to!
+<img alt="Filtrar y ordenar en Giveth.io" src={useBaseUrl('img/blog/whatsDappening1img1.png')} width="800" height="auto" />
 
-<img alt="Filter and Sort on Giveth.io" src={useBaseUrl('img/blog/whatsDappening1img1.png')} width="800" height="auto" />
+###### Funciones de "Filtrar por categoría", "Ordenar por" y "Buscar proyectos" en [Giveth.io](https://giveth.io/)
 
-###### “Filter by Category”, “Sort By” and “Search Projects” Features on [Giveth.io](https://giveth.io/)
+Otra actualización emocionante es que ahora estamos usando análisis de [Segmento](https://segment.com/) y [Autopilot](https://www.autopilothq.com/) para rastrear la actividad en la DApp y enviar los correspondientes notificaciones También trabajamos en alguna organización interna en nuestro [servidor Discord](https://discord.com/invite/JftjK8Un3z) que nos permite recibir notificaciones para que podamos monitorear las acciones del sitio (como la creación de nuevos proyectos, nuevas donaciones, etc. ) en casa.
 
-Another exciting update is that we’re now using [Segment](https://segment.com/) analytics and [Autopilot](https://www.autopilothq.com/) to track activity on the DApp and send appropriate corresponding notifications. We also worked on some internal organization in our [Discord server](https://discord.com/invite/JftjK8Un3z) that enables us to receive notifications so we can monitor site actions (such as new project creation, new donation, etc.) in-house.
+En el próximo sprint, estamos entusiasmados de continuar con el control de calidad al recibir notificaciones por correo electrónico que funcionen sin problemas y garantizar que el monto de la donación (en el momento de la donación) se calcule y se agregue a la base de datos correctamente. También planeamos agregar formato de texto enriquecido al flujo de creación del proyecto y permitir que Maker agregue videos y/o imágenes a la descripción de su proyecto. Además, ahora estamos desarrollando sistemas para la verificación de proyectos para aumentar la calidad de los proyectos en la DApp.
 
-In the next sprint we’re excited to continue with QA by getting email notifications working smoothly and ensuring that the donation amount (at time of donation) is being calculated and added to the database correctly. We also plan to add rich text formatting to the project creation flow, and enable the Maker to add videos and/or images to their project description. Furthermore, we are now developing systems for project verification to increase the quality of projects on the DApp.
+En las próximas semanas, investigaremos la integración fiduciaria para soluciones de rampa de entrada y salida, y continuaremos trabajando en la creación de una opción de marca blanca.
 
-In the coming weeks we will be investigating fiat integration for on-ramping and off-ramping solutions, and continuing to work on creating a white-label option.
+Como siempre, estamos comprometidos a construir el futuro de las donaciones basándonos en los comentarios de ustedes, ¡nuestra comunidad! Háganos saber en qué le gustaría vernos trabajar en futuros sprints [probando la DApp](http://giveth.io) y compartiendo sus pensamientos en nuestro [Discord](https://discord.com/invite/JftjK8Un3z).
 
-As always, we are committed to building the future of giving based on feedback from you, our community! Let us know what you’d like to see us work on in future sprints by [trying out the DApp](http://giveth.io) and sharing your thoughts in our [Discord](https://discord.com/invite/JftjK8Un3z).
+<img alt="¡Darth Vaders te quiere en Giveth!" class="center" src={useBaseUrl('img/blog/whatsDappening1Meme2.jpeg')} />
 
-<img alt="Darth Vaders Wants you on Giveth!" class="center" src={useBaseUrl('img/blog/whatsDappening1Meme2.jpeg')} />
+Gracias por leer y nos vemos al final del próximo sprint para más actualizaciones de desarrollo;)
 
-Thanks for reading and we’ll see you at the end of the next sprint for more dev updates ;)
+_¡Muchas gracias a nuestro increíble equipo por hacer todo esto posible: James Farrell, Mateo Daza, Kay, Merlin Egalite, Danielle Gennety, Willy Ogorzaly, Griff Green, Mark Prljic, Mitch, Ashley Wagner y Lauren Bajin!_
 
-_Many thanks to our amazing team for making all this possible: James Farrell, Mateo Daza, Kay, Merlin Egalite, Danielle Gennety, Willy Ogorzaly, Griff Green, Mark Prljic, Mitch, Ashley Wagner, and Lauren Bajin!_
+## ¿Quieres conseguir estar mas implicado?
 
-## Want to get more involved?
+* Únase a nosotros en [Discord](https://discord.gg/JftjK8Un3z) o [Telegram](http://t.me/givethio)
+* Descubra nuestro [Sitio](http://giveth.io/) y [Wiki](https://wiki.giveth.io/)
+* Bifurca nuestro código en [GitHub](https://github.com/Giveth/)
+* Síguenos en [Medio](http://medium.com/giveth/), [Facebook](https://www.facebook.com/givethio), [Twitter](http://twitter.com/givethio ), [Reddit](https://www.reddit.com/r/giveth/) y [YouTube](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ)
 
-*   Join us on [Discord](https://discord.gg/JftjK8Un3z) or [Telegram](http://t.me/givethio)
-*   Discover our [Site](http://giveth.io/) and [Wiki](https://wiki.giveth.io/)
-*   Fork our code on [GitHub](https://github.com/Giveth/)
-*   Follow us on [Medium](http://medium.com/giveth/), [Facebook](https://www.facebook.com/givethio), [Twitter](http://twitter.com/givethio), [Reddit](https://www.reddit.com/r/giveth/) and [YouTube](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ)
-
-Help us Build the Future of Giving: 🦄 [Donate directly](http://donate.giveth.io/) 🦄 or [buy a Ledger with our affiliate link](https://www.ledgerwallet.com/products/ledger-nano-s?utm_source=&utm_medium=affiliate&utm_campaign=d663)
+Ayúdanos a construir el futuro de las donaciones: 🦄 [Dona directamente](http://donate.giveth.io/) 🦄 o [compra un Ledger con nuestro enlace de afiliado](https://www.ledgerwallet.com/products/ledger-nano-s?utm_source=&utm_medium=afiliado&utm_campaign=d663)

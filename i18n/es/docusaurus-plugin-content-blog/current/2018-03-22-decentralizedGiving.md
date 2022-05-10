@@ -48,7 +48,7 @@ Ayúdanos a resolver los desafíos
 
 El futuro está cerca. Pero no está aquí todavía, porque no está sucediendo ahora. Los principales desafíos son
 
-* Escalabilidad del ecosistema criptográfico. Seamos realistas, tal vez no hemos llegado allí todavía. Y ni siquiera estoy hablando de tarifas de transacción impredecibles que elevan el costo de la donación y las transacciones que no se realizan: Liquid Pledge es un sistema complicado que requiere mucha gasolina. Afortunadamente, [Giveth tiene una buena solución](https://medium.com/giveth/tackling-ethereum-scalability-issues-29bd700b5060).
+* Escalabilidad del ecosistema criptográfico. Seamos realistas, tal vez no hemos llegado allí todavía. Y ni siquiera estoy hablando de tarifas de transacción impredecibles que elevan el costo de la donación y las transacciones que no se realizan: Liquid Pledge es un sistema complicado que requiere mucho gas. Afortunadamente, [Giveth tiene una buena solución](https://medium.com/giveth/tackling-ethereum-scalability-issues-29bd700b5060).
 
 > _Si es un desarrollador y/o está trabajando en soluciones de escalado, eche un vistazo a lo que está haciendo ScalingNOW_ [_aquí_](https://medium.com/giveth/scalingnow-bridge-chains-parity-8c359aca2b01) _y únase a nosotros si ¡Construyamos el futuro de Ethereum!_
 
@@ -74,4 +74,4 @@ de la Campaña?
 
 Ayúdanos a construir el futuro de las donaciones: 🤲🏼 [Dona directamente](http://donate.giveth.io/) 🤲🏼 o compra un Ledger con nuestro [enlace de afiliado](https://www.ledgerwallet.com/products/ledger-nano-s?utm_source=&utm_medium=afiliado&utm_campaign=d663) ⏎
 
-Escrito por [Pol,](https://steemit.com/@pol-lanski) cuidadosamente editado por [Griff](http://twitter.com/thegrifft) y [Kris](http://twitter.com/ Krisis)
+Escrito por [Pol,](https://steemit.com/@pol-lanski) cuidadosamente editado por [Griff](http://twitter.com/thegrifft) y [Kris](http://twitter.com/Krisis)

@@ -1,6 +1,6 @@
 ---
 slug: whatDappened3
-title: "What DAppened: April 21— May 5"
+title: "Lo que sucedio: del 21 de abril al 5 de mayo"
 author: Lauren
 author_title: Blockchain DAbbler and Heart-Centered Jack of All Trades
 author_image_url: /img/laurenAuthor.png
@@ -9,47 +9,47 @@ image: img/blog/whatsDappening3img1.png
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'
 
-_Upholding our values of Transparency and Accountability by sharing recent development updates from this past sprint._
+_Mantener nuestros valores de Transparencia y Responsabilidad al compartir actualizaciones de desarrollo recientes de este último sprint._
 
-In this past sprint, we worked out the kinks on our **rich text editor**, allowing Makers to add photos, videos, numbered lists, font styles, headers and more to project descriptions and updates! This should be ready to go on [giveth.io](https://giveth.io/) this week. If you’re a project owner, be sure to log-on and update your description to get potential Givers even more excited about what you’ve been up to.
+En este último sprint, solucionamos los problemas en nuestro **editor de texto enriquecido**, lo que permite a los creadores agregar fotos, videos, listas numeradas, estilos de fuente, encabezados y más a las descripciones y actualizaciones del proyecto. Esto debería estar listo para funcionar en [giveth.io](https://giveth.io/) esta semana. Si es propietario de un proyecto, asegúrese de iniciar sesión y actualizar su descripción para que los Donantes potenciales se entusiasmen aún más con lo que ha estado haciendo.
 
-<img alt="Rich Text Editor Embedded in Create-a-Project" class="center" src={useBaseUrl('img/blog/whatsDappening3img1.png')} />
+<img alt="Editor de texto enriquecido integrado en Create-a-Project" class="center" src={useBaseUrl('img/blog/whatsDappening3img1.png')} />
 
-###### Rich Text Editor Embedded in Create-a-Project
+###### Editor de texto enriquecido integrado en Create-a-Project
 
-We also spent some time optimizing the presentation of our Dapp for Mobile, fixing some visual inconsistencies and improving overall usability. We improved upon our email notifications, ensuring that Givers and Makers receive confirmation when a donation is made.
+También dedicamos un tiempo a optimizar la presentación de nuestra Dapp para dispositivos móviles, arreglando algunas inconsistencias visuales y mejorando la usabilidad general. Mejoramos nuestras notificaciones por correo electrónico, asegurándonos de que los donantes y los creadores reciban una confirmación cuando se realiza una donación.
 
-We developed and implemented automated testing for the create-a-project flow and updated the [testing guidelines](https://docs.giveth.io/docs/testing-guidelines/) in our documentation — two measures to ensure that new features work as intended.
+Desarrollamos e implementamos pruebas automatizadas para el flujo de creación de un proyecto y actualizamos las [directrices de prueba](https://docs.giveth.io/docs/testing-guidelines/) en nuestra documentación, dos medidas para garantizar que las nuevas características funcionan como es debido.
 
-We also addressed a few bugs: ensured that cancelled projects don’t show up in the projects list, fixed pricing, and rerouted external links for xDai donations to blockscout.
+También solucionamos algunos errores: nos aseguramos de que los proyectos cancelados no aparecieran en la lista de proyectos, precios fijos y enlaces externos redirigidos para las donaciones de xDai a blockcout.
 
-One of our all-star developers also surprised us this past sprint with a proof of concept: building Giveth.io using Next.js and Vercel instead of Gatsby and Netlify. Once we make sure all our functionality is bug-free, this change will drastically improve the UX. We’re talking faster site build, fewer issues on loading and updating, and an overall snappier site experience.
+Uno de nuestros desarrolladores estelares también nos sorprendió este último sprint con una prueba de concepto: construir Giveth.io usando Next.js y Vercel en lugar de Gatsby y Netlify. Una vez que nos aseguremos de que toda nuestra funcionalidad esté libre de errores, este cambio mejorará drásticamente la UX. Estamos hablando de una creación de sitios más rápida, menos problemas de carga y actualización, y una experiencia de sitio más rápida en general.
 
-In the future, we’re going to be enhancing the UI so Makers will be able to upload photos via Unsplash when editing or creating a project. We are in the process of updating our Join, About, Contact and Support sections to the most recent info. We are also still working on the integration of an embedded chat bridged directly to our team, and project/profile verification using 3box or other.
+En el futuro, mejoraremos la interfaz de usuario para que los Makers puedan cargar fotos a través de Unsplash al editar o crear un proyecto. Estamos en el proceso de actualizar nuestras secciones Unirse, Acerca de, Contacto y Soporte a la información más reciente. También estamos trabajando en la integración de un chat integrado conectado directamente con nuestro equipo y la verificación del proyecto/perfil mediante 3box u otro.
 
-Finally, the most exciting update to share is that we are working on giving the site a little makeover. We won’t give too much away, but here’s a little sneak peak of the new design:
+Finalmente, la actualización más emocionante para compartir es que estamos trabajando para darle al sitio un pequeño cambio de imagen. No revelaremos demasiado, pero aquí hay un pequeño adelanto del nuevo diseño:
 
-<img alt="Working on a New Look for Giveth.io" class="center" src={useBaseUrl('img/blog/whatsDappening3img2.jpg')} />
+<img alt="Trabajando en una nueva apariencia para Giveth.io" class="center" src={useBaseUrl('img/blog/whatsDappening3img2.jpg')} />
 
-###### Working on a New Look for Giveth.io
+###### Trabajando en una nueva apariencia para Giveth.io
 
-We want to extend a huge thank you to our community for all your support so far! Since launching in March, [Giveth.io](https://giveth.io/) has seen the following metrics:
+¡Queremos extender un enorme agradecimiento a nuestra comunidad por todo su apoyo hasta ahora! Desde su lanzamiento en marzo, [Giveth.io](https://giveth.io/) ha visto las siguientes métricas:
 
-<img alt="Working on a New Look for Giveth.io" class="center" src={useBaseUrl('img/blog/whatsDappening3stats.png')} />
+<img alt="Trabajando en una nueva apariencia para Giveth.io" class="center" src={useBaseUrl('img/blog/whatsDappening3stats.png')} />
 
-###### Site Metrics from Giveth.io
+###### Métricas del sitio de Giveth.io
 
-As always, we are committed to building the future of giving based on feedback from you, our community! Let us know what you’d like to see us work on in future sprints by [trying out the DApp](http://giveth.io/) and sharing your thoughts in our [Discord](https://discord.com/invite/JftjK8Un3z).
+Como siempre, estamos comprometidos a construir el futuro de las donaciones basándonos en los comentarios de ustedes, ¡nuestra comunidad! Háganos saber en qué le gustaría vernos trabajar en futuros sprints [probando la DApp](http://giveth.io/) y compartiendo sus pensamientos en nuestro [Discord](https://discord.com/invitación/JftjK8Un3z).
 
-Thanks for reading and we’ll see you at the end of the next sprint for more dev updates 😘
+Gracias por leer y nos vemos al final del próximo sprint para más actualizaciones de desarrollo 😘
 
-_Many thanks to our amazing team for making all this possible: James, Mateo, Kay, Merlin, Danibelle, Willy, Griff, Marko, Mitch, Ashley, and Lauren!_
+_¡Muchas gracias a nuestro increíble equipo por hacer posible todo esto: James, Mateo, Kay, Merlin, Danibelle, Willy, Griff, Marko, Mitch, Ashley y Lauren!_
 
-## Want to get more involved?
+## ¿Quieres conseguir estar más implicado?
 
-*   Join us on [Discord](https://discord.gg/JftjK8Un3z) or [Telegram](http://t.me/givethio)
-*   Discover our [Site](http://giveth.io/), [Docs](https://docs.giveth.io/) and [Wiki](https://wiki.giveth.io/)
-*   Fork our code on [GitHub](https://github.com/Giveth/)
-*   Follow us on [Medium](http://medium.com/giveth/), [Facebook](https://www.facebook.com/givethio), [Twitter](http://twitter.com/givethio), [Reddit](https://www.reddit.com/r/giveth/) and [YouTube](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ)
+* Únase a nosotros en [Discord](https://discord.gg/JftjK8Un3z) o en [Telegram](http://t.me/givethio)
+* Descubra nuestro [Sitio](http://giveth.io/), [Docs](https://docs.giveth.io/) y [Wiki](https://wiki.giveth.io/)
+* Bifurca nuestro código en [GitHub](https://github.com/Giveth/)
+* Síguenos en [Medio](http://medium.com/giveth/), [Facebook](https://www.facebook.com/givethio), [Twitter](http://twitter.com/givethio ), [Reddit](https://www.reddit.com/r/giveth/) y [YouTube](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ)
 
-Help us Build the Future of Giving: 🦄 [Donate directly](http://donate.giveth.io/) 🦄 or [buy a Ledger with our affiliate link](https://www.ledgerwallet.com/products/ledger-nano-s?utm_source=&utm_medium=affiliate&utm_campaign=d663)
+Ayúdanos a construir el futuro de las donaciones: 🦄 [Dona directamente](http://donate.giveth.io/) 🦄 o [compra un Ledger con nuestro enlace de afiliado](https://www.ledgerwallet.com/products/ledger-nano-s?utm_source=&utm_medium=afiliado&utm_campaign=d663)

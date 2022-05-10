@@ -1,6 +1,6 @@
 ---
 slug: unicornDACexperiment
-title: The Unicorn DAC, a Non-hierarchical Decentralized Governance Experiment
+title: El Unicorn DAC, un experimento de gobierno descentralizado no jerárquico
 author: Lanski
 author_image_url: /img/Lanski.jpeg
 ---
@@ -8,99 +8,100 @@ import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'
 
 
-_Why are bosses necessary? They aren’t. Self-managed organizations exist all over the world, but there is no template for how a decentralized self-managed organization should work. Let us try to change that._
+_¿Por qué son necesarios los jefes? no lo son Las organizaciones autogestionadas existen en todo el mundo, pero no existe un modelo de cómo debería funcionar una organización autogestionada descentralizada. Tratemos de cambiar eso._
 
-Self-managed organizations (those without a management middlemen layer and hierarchy) have to overcome a lot of hurdles when it comes to governance. For example, on one side, the direction of the organization cannot be dictated top-down by management and on the other side nobody can push responsibility up and “just do what they are told”.
+Las organizaciones autogestionadas (aquellas sin una capa de intermediarios de gestión y una jerarquía) tienen que superar muchos obstáculos en lo que respecta a la gobernanza. Por ejemplo, por un lado, la dirección de la organización no puede ser dictada de arriba hacia abajo por la gerencia y, por otro lado, nadie puede elevar la responsabilidad y "simplemente hacer lo que se les dice".
 
-These hurdles, Frederic Laloux, author of “[Reinventing Organizations](http://www.reinventingorganizations.com/)” suggests, exist mainly because traditional management practices and traditionally managed organizations are so prevalent that we have a lack of examples to follow. In other words, we might have never seen better! Moreover, there have been years and years of organizational research and practice on hierarchical structures (think both about an old-age tribe with a clear, visible head and also a large corporation with a twitter rant-prone CEO).
+Estos obstáculos, sugiere Frederic Laloux, autor de “[Reinventing Organizations](http://www.reinventingorganizations.com/)”, existen principalmente porque las prácticas de gestión tradicionales y las organizaciones administradas tradicionalmente son tan frecuentes que carecemos de ejemplos a seguir. . En otras palabras, ¡es posible que nunca hayamos visto algo mejor! Además, ha habido años y años de investigación y práctica organizacional sobre estructuras jerárquicas (piense en una tribu de ancianos con una cabeza clara y visible y también en una gran corporación con un CEO propenso a despotricar en Twitter).
 
-On top of that, we have new models of governance arising within blockchain structures or enabled by blockchain solutions ([here’s](https://medium.com/@leo_pold_b/blockchain-governance-takeaways-from-nine-projects-8a80ad214d15) a pretty good article that touches on some of the key points), although there is not so much literature on specifically non-hierarchical, egalitarian structures.
+Además de eso, tenemos nuevos modelos de gobernanza que surgen dentro de estructuras de cadena de bloques o habilitados por soluciones de cadena de bloques ([aquí](https://medium.com/@leo_pold_b/blockchain-governance-takeaways-from-nine-projects-8a80ad214d15) un artículo bastante bueno que toca algunos de los puntos clave), aunque no hay tanta literatura sobre estructuras específicamente no jerárquicas e igualitarias.
 
-While there are great companies pushing the envelope in both blockchain governance and self-management, it’s time for us to investigate, explore and document different forms of non-hierarchical governance for organizations. Giveth’s Governance Circle, and particularly [Loie](https://twitter.com/Loie_Low), whose goal is to foster governance experiments, is launching the Unicorn DAC on that regard. Lorelei devoted countless hours to ideate, iterate and bring to life this project with the rest of the Unicorns… and this is the result.
+Si bien hay grandes empresas que van más allá tanto en el gobierno de blockchain como en la autogestión, es hora de que investiguemos, exploremos y documentemos diferentes formas de gobierno no jerárquico para las organizaciones. en el circulo de governanza de giveth, y particularmente [Loie](https://twitter.com/Loie_Low), cuyo objetivo es fomentar los experimentos de gobernanza, está lanzando el Unicorn DAC en ese sentido. Lorelei dedicó incontables horas a idear, iterar y dar vida a este proyecto con el resto de los Unicornios… y este es el resultado.
 
-Stepping up the game
+Intensificando el juego
 --------------------
 
-Operationally, Giveth works much like a swarm. Around a strong core of main contributors, collaborators that are aligned with the purpose of Giveth come and go and offer their time, ideas and work. Some of these collaborators do one assignment and leave and others stay collaborating on the periphery but for the longest time. They are rewarded through a mechanism called [RewardDAO](https://medium.com/giveth/how-rewarddao-works-aka-what-are-points-7388f70269a), with which everyone can get points that then can be exchanged for ether if they upload a video on our [Wall of Fame](https://fame.giveth.io/) or to the [DApp itself](https://beta.giveth.io/campaigns/5b3d9746329bc64ae74d1424).
+Operacionalmente, Giveth funciona como un enjambre. Alrededor de un núcleo fuerte de contribuyentes principales, los colaboradores que están alineados con el propósito de Giveth van y vienen y ofrecen su tiempo, ideas y trabajo. Algunos de estos colaboradores hacen una tarea y se van y otros se quedan colaborando en la periferia pero por más tiempo. Son recompensados ​​a través de un mecanismo llamado [RewardDAO](https://medium.com/giveth/how-rewarddao-works-aka-what-are-points-7388f70269a), con el que todos pueden obtener puntos que luego se pueden canjear por éter si cargan un video en nuestro [Muro de la fama](https://fame.giveth.io/) o en la [DApp misma](https://beta.giveth.io/campaigns/5b3d9746329bc64ae74d1424).
 
-But these points are awarded somewhat arbitrarily and there’s a limited amount of monthly ether that goes to fund these rewards. Hence, the amount that collaborators receive in ether can vary depending on other people’s contributions and points. We think it’s a great introductory system for getting into the Giveth Galaxy, but might not be ideal as a fully decentralized non-hierarchical governance model. In fact, it’s not really a complete governance model, as it doesn’t necessarily steer Giveth’s big decisions, but our experience tells us that it does motivate people to take initiative, talk to the most committed contributors and suggest new projects and initiatives.
+Pero estos puntos se otorgan de manera algo arbitraria y hay una cantidad limitada de éter mensual que se destina a financiar estas recompensas. De ahí que la cantidad que reciben los colaboradores en ether puede variar dependiendo de las aportaciones y puntos de otras personas. Creemos que es un excelente sistema introductorio para ingresar a Giveth Galaxy, pero podría no ser ideal como un modelo de gobierno no jerárquico totalmente descentralizado. De hecho, no es realmente un modelo de gobierno completo, ya que no necesariamente dirige las grandes decisiones de Giveth, pero nuestra experiencia nos dice que motiva a las personas a tomar la iniciativa, hablar con los colaboradores más comprometidos y sugerir nuevos proyectos e iniciativas.
 
-**Put your money where your purpose is**
+**Pon tu dinero donde está tu propósito**
 ----------------------------------------
 
-To be clear, governance in self-managed organizations boils down to who decides — and how it is decided — what the organization dedicates its resources to?
+Para ser claros, la gobernanza en las organizaciones autogestionadas se reduce a quién decide, y cómo se decide, a qué dedica la organización sus recursos.
 
-So in the case of Giveth, the question was: How could we empower everyone that is fully committed to Giveth to decide what actions and what strategic direction should the organization take? And even further, could we do that in a way that we leverage our own products, i.e. the Giveth DApp? -we do like our #dogfooding!
+Entonces, en el caso de Giveth, la pregunta era: ¿Cómo podemos empoderar a todos los que están totalmente comprometidos con Giveth para decidir qué acciones y qué dirección estratégica debe tomar la organización? Y aún más, ¿podríamos hacerlo de una manera que aprovechemos nuestros propios productos, es decir, Giveth DApp? -nos gusta nuestro #dogfooding!
 
-Well, the Giveth DApp allows Makers to create [DACs, Campaigns and Milestones](https://wiki.giveth.io/dapp/product-definition/), and Givers to fund whatever change they want to see realized in the world. Could we not create a DAC that Unicorns can use to propose projects through Milestones, and other Unicorns can fund them if they think they are aligned with Giveth’s purpose? We would distribute money to our Unicorns — this group of core contributors — and they could fund any Milestone they wanted.
+Bueno, Giveth DApp permite a los creadores crear [DAC, campañas y traces](https://wiki.giveth.io/dapp/product-definition/), y a los donantes financiar cualquier cambio que quieran ver realizado en el mundo. ¿No podríamos crear un DAC que los Unicornios puedan usar para proponer proyectos a través de Milestones, y otros Unicornios puedan financiarlos si creen que están alineados con el propósito de Giveth? Distribuiríamos dinero a nuestros Unicornios, este grupo de contribuyentes principales, y ellos podrían financiar cualquier Hito que quisieran.
 
-> **What better way to steer an organization than by democratizing both the access to resources and the power to propose actions and then let everyone actually put resources where the Giveth purpose lies the strongest?**
+> **¿Qué mejor manera de dirigir una organización que democratizar tanto el acceso a los recursos como el poder de proponer acciones y luego dejar que todos pongan los recursos donde el propósito de Giveth es más fuerte?**
 
-Sometimes Unicorns will decide to fund already existing Milestones, and sometimes they will create a new bounty. This gives everyone the power to suggest a project, give it a price tag, and if the funding target gets reached, empower and pay this person to make it happen. If it doesn’t get funded, it would mean that the project was possibly not so aligned with the general feeling and purpose anyway.
+A veces, los Unicornios decidirán financiar Hitos ya existentes y, a veces, crearán una nueva recompensa. Esto les da a todos el poder de sugerir un proyecto, asignarle una etiqueta de precio y, si se alcanza el objetivo de financiación, empoderar y pagar a esta persona para que lo haga realidad. Si no se financia, significaría que el proyecto posiblemente no estaba tan alineado con el sentimiento y el propósito general de todos modos.
 
-**Examples of funded proposals:**
+**Ejemplos de propuestas financiadas:**
 
-a) Lorelei is often frustrated by the lack of sharing info in the Ethereum community. Everybody seems to be having the same conversations but no one is hearing each other. When she hears about Tennagraph, the community signaling aggregator to answer just this need, she becomes very passionate about it and decides to use her Unicorn DAC delegation allowance to fund Deam to go to Web3 Summit and raise awareness and adoption for Tennagraph!
+a) Lorelei a menudo se siente frustrada por la falta de información compartida en la comunidad de Ethereum. Todos parecen tener las mismas conversaciones, pero nadie se escucha. Cuando se entera de Tennagraph, el agregador de señales de la comunidad para responder a esta necesidad, se apasiona mucho y decide usar su asignación de delegación de Unicorn DAC para financiar a Deam para ir a Web3 Summit y aumentar la conciencia y la adopción de Tennagraph.
 
 
-b) Lanski has identified a feature for our [DApp](https://medium.com/giveth/what-is-the-future-of-giving-d50446b0a0e4) that a bunch of Makers would like to have in the platform. It might not seem it’s a priority from a technical point of view, but as a matter of fact, all the feedback that he is receiving from the users mentions that particular need. He assesses the cost with the DApp team and creates a Milestone where they (the DApp team) are the beneficiary. The work, though, is too expensive and he cannot pay it on his own, but Lorelei realizes how important the feature is and funds the Milestone too so the DApp team can go ahead and build it to claim the Milestone.
+b) Lanski identificó una función para nuestra [DApp](https://medium.com/giveth/what-is-the-future-of-giving-d50446b0a0e4) que a muchos Makers les gustaría tener en la plataforma. Puede que no parezca una prioridad desde un punto de vista técnico, pero de hecho, todos los comentarios que recibe de los usuarios mencionan esa necesidad en particular. Él evalúa el costo con el equipo de DApp y crea un hito donde ellos (el equipo de DApp) son los beneficiarios. Sin embargo, el trabajo es demasiado costoso y no puede pagarlo por su cuenta, pero Lorelei se da cuenta de lo importante que es la característica y también financia el Milestone para que el equipo de DApp pueda seguir adelante y construirlo para reclamar el Milestone.
 
-**Example of an unsuccessful proposal:**
+**Ejemplo de una propuesta fallida:**
 
-Lanski wants to make stickers of Giveth’s logo to stick all over the world — for marketing purposes. Everyone has got some stickers left from the last batch, but not enough to cover half of the world with them, so he wants to make MORE. But the general consensus is that we are publicizing well and doing the right outreach in the circles that we want to attract at this stage, so nobody actually funds the Milestone. Sorry Lanski, maybe later when we decide to do a publicity campaign for the general public!
+Lanski quiere hacer calcomanías con el logotipo de Giveth para que se peguen en todo el mundo, con fines de marketing. A todos les quedan algunas pegatinas del último lote, pero no las suficientes para cubrir la mitad del mundo con ellas, por lo que quiere hacer MÁS. Pero el consenso general es que estamos publicitando bien y haciendo el alcance correcto en los círculos que queremos atraer en esta etapa, por lo que en realidad nadie financia el Milestone. Lo siento Lanski, ¡tal vez más tarde cuando decidamos hacer una campaña publicitaria para el público en general!
 
-**Ins and outs of the Unicorn DAC**
------------------------------------
+**Entresijos del Unicorn DAC**
+--------------------------------------------------
 
-This Governance experiment is precisely that, an experiment. And the initial parameters are sort of arbitrarily defined and will be polished as we go along.
+Este experimento de Gobernanza es precisamente eso, un experimento. Y los parámetros iniciales están definidos arbitrariamente y se pulirán a medida que avancemos.
 
-1.  We’ve been a community gathered around shared principles and purpose for a while now, but never had an official onboarding process because there’s no clear entity to be onboarded to. Now, we have the opportunity to come together around these agreements and create a membrane that gathers and recognizes the most committed of us as we join the Unicorn DAC. You can read about our Onboarding Process [here](https://wiki.giveth.io/governance/unicorn-dac/unicorn-onboarding/), which ensures commitment to Giveth’s purpose and alignment with our principles in order to opt to be part of the DAC.
-2.  The resource allowance per head will be the equivalent in ether to 600 USD every week. In order for people not to fund only their own Milestones, we have capped the amount people can put into their own Milestones at 150 USD, so 450 will be used to decide on other people’s initiatives. Unicorns don’t have to use the full 600 USD every week if they feel that there are no interesting projects to fund, or the ones that are truly interesting are already fully funded.
-3.  Needless to say, people can choose NOT to fund any of their own Milestones. The reason why we allow people to self-fund their Milestones for a certain amount is to facilitate the funding of menial or uninteresting jobs that have to be done, but they would waste people’s time and resources if they had to be reviewed and funded by other unicorns.
-4.  We cannot expect people to feel connected to a purpose by only chipping money into Milestones. Hence, in order to keep purpose alive, we have a once a month Unicorn Meeting! Here, we discuss which projects we delegated to and why it is aligned to Giveth.
-5.  As a rule of thumb, Milestones will be created by those who hold roles related to the matter at hand. That’s not to say that people can’t have great ideas outside of their roles, but they should follow the [advice process](https://wiki.giveth.io/governance/advice-process/) and certainly consult with those who hold relevant roles before taking action, even if it is merely for keeping information flows going. Roles are evaluated on how well they have been fulfilled in a peer review system every month.
+1. Hemos sido una comunidad reunida en torno a principios y propósitos compartidos desde hace un tiempo, pero nunca tuvimos un proceso de incorporación oficial porque no hay una entidad clara a la que incorporarse. Ahora, tenemos la oportunidad de unirnos en torno a estos acuerdos y crear una membrana que reúna y reconozca a los más comprometidos de nosotros al unirnos al Unicorn DAC. Puede leer sobre nuestro proceso de incorporación [aquí](https://wiki.giveth.io/governance/unicorn-dac/unicorn-onboarding/), que garantiza el compromiso con el propósito de Giveth y la alineación con nuestros principios para optar por ser parte del CAD.
+2. La asignación de recursos por cabeza será el equivalente en éter a 600 USD cada semana. Para que las personas no financien solo sus propios hitos, hemos limitado la cantidad que las personas pueden poner en sus propios hitos a 150 USD, por lo que 450 se utilizarán para decidir sobre las iniciativas de otras personas. Los unicornios no tienen que usar los 600 USD completos cada semana si sienten que no hay proyectos interesantes para financiar, o que los que son realmente interesantes ya están totalmente financiados.
+3. No hace falta decir que las personas pueden optar por NO financiar ninguno de sus propios hitos. La razón por la que permitimos que las personas autofinancien sus Hitos por una cierta cantidad es para facilitar la financiación de trabajos de baja categoría o poco interesantes que deben realizarse, pero que desperdiciarían el tiempo y los recursos de las personas si tuvieran que ser revisados ​​y financiados por otros unicornios
+4. No podemos esperar que las personas se sientan conectadas con un propósito solo aportando dinero a Milestones. Por lo tanto, para mantener vivo el propósito, ¡tenemos una Reunión Unicornio una vez al mes! Aquí, discutimos en qué proyectos delegamos y por qué está alineado con Giveth.
+5. Como regla general, los Hitos serán creados por aquellos que desempeñen roles relacionados con el asunto en cuestión. Eso no quiere decir que las personas no puedan tener grandes ideas fuera de sus funciones, pero deben seguir el [proceso de asesoramiento](https://wiki.giveth.io/governance/advice-process/) y, sin duda, consultar con quienes ocupe roles relevantes antes de tomar acción, incluso si es simplemente para mantener los flujos de información. Los roles se evalúan sobre qué tan bien se han cumplido en un sistema de revisión por pares cada mes.
 
-**MVPing our way through it**
------------------------------
+**MVP en nuestro camino a través de él**
+--------------------------------------------
 
-We are ready to try the Unicorn DAC and carve our own way in decentralized governance practices. As the experiment that it is, we do expect some issues to come up, and we have already identified a few:
+Estamos listos para probar el Unicorn DAC y abrirnos camino en las prácticas de gobernanza descentralizada. Como experimento que es, esperamos que surjan algunos problemas, y ya hemos identificado algunos:
 
-1.  [Dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) is our motto because we believe the Giveth DApp is a great tool. Nevertheless, it does not yet have the advanced functionalities of a compounded delegation system that would allow you to allocate only up to a percentage of funds into your own Milestones and the rest to others. We will track donations manually at this point while we look for a solution, be it homemade or leveraging [Aragon](https://aragon.org/).
-2.  Foreign influence. Our DAC will always be public, transparent and held to the highest standards, but the fact that it’s an open way to fund the projects that Giveth undertakes, it could be exposed to an admittedly unlikely vector of attack where a powerful party decides to fund specific Milestones or projects that are on the periphery of the purpose and this acts in detriment of the best direction to take. This would be a similar attack to sovereignty to the [IMF dictating policies to countries](https://www.sciencedirect.com/science/article/pii/S0161893815001003) in exchange for bailouts or access to concessional loans.
-3.  That said, we have funds to support this initiative for a limited period of time, and since Giveth is a non-profit blockchain entity that accepts donations, if you are a donor and **want to support Blockchain4Good projects PLUS a decentralized non-hierarchical governance experiment like the Unicorn DAC**, we are all ears (and eyes!): hit us up on [Riot](https://riot.im/app/#/group/+giveth:matrix.org) or [Twitter](https://twitter.com/Givethio) or fund us [directly](https://giveth.io/donate/)!
+1. [Dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) es nuestro lema porque creemos que Giveth DApp es una gran herramienta. Sin embargo, aún no cuenta con las funcionalidades avanzadas de un sistema de delegación compuesto que le permitiría asignar solo hasta un porcentaje de los fondos a sus propios Hitos y el resto a otros. Realizaremos un seguimiento manual de las donaciones en este punto mientras buscamos una solución, ya sea casera o aprovechando [Aragón](https://aragon.org/).
+2. Influencia extranjera. Nuestro DAC siempre será público, transparente y se mantendrá con los más altos estándares, pero el hecho de que sea una forma abierta de financiar los proyectos que emprende Giveth podría estar expuesto a un vector de ataque ciertamente poco probable donde un partido poderoso decide financiar proyectos específicos. Hitos o proyectos que están en la periferia del propósito y esto actúa en detrimento de la mejor dirección a tomar. Esto sería un ataque a la soberanía similar al [FMI dictando políticas a los países] (https://www.sciencedirect.com/science/article/pii/S0161893815001003) a cambio de rescates o acceso a préstamos concesionarios.
+3. Dicho esto, tenemos fondos para apoyar esta iniciativa por un período de tiempo limitado, y dado que Giveth es una entidad de blockchain sin fines de lucro que acepta donaciones, si usted es donante y **quiere apoyar los proyectos de Blockchain4Good ADEMÁS de una organización descentralizada no -experimento de gobernanza jerárquica como el Unicorn DAC**, somos todo oídos (¡y ojos!): contáctanos en [Riot](https://riot.im/app/#/group/+giveth:matrix.org) o [Twitter](https://twitter.com/Givethio) o financiarnos [directamente](https://giveth.io/donate/)!
 
-**Already winning**
+**Ya ganando**
 -------------------
 
-The Unicorn DAC was presented during DevCon4 at the [Aragon Dream DAO contest](https://blog.aragon.org/devcon4-recap/)… and it won the runner-up prize! 250 ANT + 250 DAI for making it a reality! Aragon and Giveth (and the Unicorn DAC in particular) share the basic principles of decentralization and non-hierarchicality. We see Aragon as the perfect tool to facilitate and enable this governance experiment.
+El Unicorn DAC se presentó durante la DevCon4 en el [concurso Aragon Dream DAO](https://blog.aragon.org/devcon4-recap/)... ¡y ganó el segundo premio! 250 ANT + 250 DAI por hacerlo realidad! Aragon y Giveth (y Unicorn DAC en particular) comparten los principios básicos de descentralización y no jerarquización. Vemos a Aragón como la herramienta perfecta para facilitar y habilitar este experimento de gobernanza.
 
-Have a look at Lorelei pitching at minute 58:15 below!
+¡Echa un vistazo al lanzamiento de Lorelei en el minuto 58:15 a continuación!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ewL9ZvFeaHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#winning
 
-**But… why?**
+#victorioso
+
+**¿Pero por qué?**
 -------------
 
-It is worth reproducing a conversation I had with Lorelei on the reason to spend money and effort trying to devise and implement untested ways of governance:
+Vale la pena reproducir una conversación que tuve con Lorelei sobre la razón de gastar dinero y esfuerzo tratando de idear e implementar formas de gobierno no probadas:
 
-> “Is it appropriate to answer this question with a meme?
+> “¿Es apropiado responder esta pregunta con un meme?
 
-<img alt="Santa Gives Unicorns" src={useBaseUrl("img/blog/santaMemeUnicornDAC.jpeg")} />
+<img alt="Papá Noel regala unicornios" src={useBaseUrl("img/blog/santaMemeUnicornDAC.jpeg")} />
 
-> Ha, but in all seriousness, the Unicorn DAC takes these decentralization experiments within. Any good mission reaches as far out into the world as it does into its creator, which in this case is us, the Ethereum community. We can yab about decentralization of power all day while at home we still have one or a privileged few making the influential calls on how money is spent, and this DAC offers a solution to that.”
+> Ja, pero con toda seriedad, el Unicorn DAC toma estos experimentos de descentralización dentro. Cualquier buena misión llega tan lejos en el mundo como en su creador, que en este caso somos nosotros, la comunidad Ethereum. Podemos hablar sobre la descentralización del poder todo el día mientras en casa todavía tenemos uno o unos pocos privilegiados haciendo llamadas influyentes sobre cómo se gasta el dinero, y este DAC ofrece una solución a eso”.
 
-We are launching this experiment to change how the world looks at self-management. We believe there are more human ways to interact and organize than the rigid, sometimes alienating structures of today.
+Estamos lanzando este experimento para cambiar la forma en que el mundo ve la autogestión. Creemos que hay formas más humanas de interactuar y organizarse que las estructuras rígidas, a veces alienantes, de hoy.
 
-Come join our dialog in our [Riot](http://join.giveth.io/) or share your ideas below — they will be read and discussed! Participate and join us in the revolution of management!
+Únase a nuestro diálogo en nuestro [Riot](http://join.giveth.io/) o comparta sus ideas a continuación: ¡serán leídas y discutidas! ¡Participa y únete a nosotros en la revolución de la gestión!
 
-Enter the Unicorn DAC.
+Ingrese al Unicornio DAC.
 ======================
 
-*   Join us on [Riot or Slack](http://join.giveth.io/)
-*   Discover our [Site](http://giveth.io/) and [Wiki](https://wiki.giveth.io/)
-*   Fork our code on [GitHub](https://github.com/Giveth/)
-*   Follow us on [Medium](http://medium.com/giveth/), [Facebook](https://www.facebook.com/givethio), [Twitter](http://twitter.com/givethio) and [Reddit](https://www.reddit.com/r/giveth/)
+* Únase a nosotros en [Riot o Slack] (http://join.giveth.io/)
+* Descubra nuestro [Sitio](http://giveth.io/) y [Wiki](https://wiki.giveth.io/)
+* Bifurca nuestro código en [GitHub](https://github.com/Giveth/)
+* Síguenos en [Medio](http://medium.com/giveth/), [Facebook](https://www.facebook.com/givethio), [Twitter](http://twitter.com/givethio ) y [Reddit](https://www.reddit.com/r/giveth/)
 
-_The Giveth DAC — the community working on the_ [_DApp_](https://medium.com/giveth/what-is-the-future-of-giving-d50446b0a0e4) _and many other projects — is funded through our Donation Application._ **_We ourselves depend on you, on Givers_**_: the people out there who believe a tool like this should be a reality, individuals who want to help us to make the World a Better Place. If you want to_ **_be one of our favorite Unicorns, go to_** [**_donate.giveth.io_**](http://donate.giveth.io/) **_and claim your space on our leaderboard_**_, donate directly in the DApp (right_ [_here_](https://beta.giveth.io/dacs/5b37da13a239ac21b383d4da)_) or come talk to_ [_Griff or Kris on Riot_](https://giveth.io/join/)_, and tell us how you’d like to contribute._ ❤
+_El DAC de Giveth, la comunidad que trabaja en_ [_DApp_](https://medium.com/giveth/what-is-the-future-of-giving-d50446b0a0e4) _y muchos otros proyectos, se financia a través de nuestra Solicitud de donación._ **_Nosotros mismos dependemos de ti, de Givers_**_: las personas que creen que una herramienta como esta debería ser una realidad, las personas que quieren ayudarnos a hacer del mundo un lugar mejor. Si quieres_ **_ser uno de nuestros Unicornios favoritos, ve a_** [**_donate.giveth.io_**](http://donate.giveth.io/) **_y reclama tu espacio en nuestra tabla de clasificación_* *_, dona directamente en la DApp (derecha_ [_aquí_](https://beta.giveth.io/dacs/5b37da13a239ac21b383d4da)_) o ven a hablar con_ [_Griff o Kris en Riot_](https://giveth.io/join/)_, y cuéntanos cómo te gustaría contribuir._ ❤

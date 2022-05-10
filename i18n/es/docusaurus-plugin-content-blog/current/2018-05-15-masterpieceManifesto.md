@@ -7,396 +7,391 @@ author_image_url: /img/yalorAuthor.jpeg
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'
 
-We [asked](https://medium.com/giveth/giveth-make-it-so-manifesto-80c7e3576e16) you (our community) to dig deep into your hearts and minds, to give us your best version of the Giveth Manifesto. The results did not disappoint.
+Le [pedimos](https://medium.com/giveth/giveth-make-it-so-manifesto-80c7e3576e16) a usted (nuestra comunidad) que profundice en sus corazones y mentes, para brindarnos su mejor versión de Giveth Manifiesto. Los resultados no decepcionaron.
 
-The value of **community**, of the people, stands out in virtually every submission. A case to that point is the enthusiasm and passionate co-creation we witnessed in and by our own tight-knit Giveth Community, which honestly floored, wawed and awed us. To celebrate this, we are not only giving away eth to our top 3 winners (excluding jury members), [we will also dish out (comm) Points](https://medium.com/giveth/how-rewarddao-works-aka-what-are-points-7388f70269a) to each and **every submission**.
+El valor de la **comunidad**, de la gente, se destaca en prácticamente todas las presentaciones. Un caso en ese punto es el entusiasmo y la co-creación apasionada que presenciamos en y por nuestra propia comunidad Giveth muy unida, que honestamente nos dejó boquiabiertos, asombrados y asombrados. Para celebrar esto, no solo estamos regalando eth a nuestros 3 ganadores principales (excluyendo a los miembros del jurado), [también repartiremos (comm) Puntos](https://medium.com/giveth/how-rewarddao-works-aka-what-are-points-7388f70269a) a todos y cada uno de los envíos**.
 
-We are so proud and honored to present every one of the entries here for all to see, but first things first a 🎊MAJOR CONGRATULATIONS🎊 to our winners!
+Estamos muy orgullosos y honrados de presentar cada una de las entradas aquí para que todos las vean, pero lo primero es lo primero: 🎊MUCHAS FELICIDADES🎊 a nuestros ganadores!
 
-Choosing the winners was not an easy process due to the fact that **every entry had gems of wisdom, sparks of insight and heartfelt candor.**
+Elegir a los ganadores no fue un proceso fácil debido al hecho de que **cada entrada tenía gemas de sabiduría, chispas de perspicacia y franqueza sincera.**
 
-These contributions are the germination of a longer process in the coming weeks. As you might already know, transparency, accountability and especially **open-source** are key words in our vocabulary. So, practising what we preach **we will take the very best from each of these entries and use it to create a crowd-sourced manifesto**. And now _without further ado:_
+Estos aportes son la germinación de un proceso más largo en las próximas semanas. Como ya sabrá, la transparencia, la responsabilidad y, especialmente, el **código abierto** son palabras clave en nuestro vocabulario. Entonces, practicando lo que predicamos **tomaremos lo mejor de cada una de estas entradas y lo usaremos para crear un manifiesto de colaboración colectiva**. Y ahora _sin más preámbulos:_
 
-**🌌 Galactic award goes to:**
+**🌌 El premio galáctico es para:**
 ------------------------------
 
-> We are a **Community**
+> Somos una **Comunidad**
 >
-> What we are doing is not about the technology. Most of us are very, very tech-minded and geeky people, and we love tech, but that is not what it is about or why we are here. It is about the people, the human connection…[**continue reading**](#30fb)
+> Lo que estamos haciendo no se trata de la tecnología. La mayoría de nosotros somos personas muy, muy tecnológicas y geek, y amamos la tecnología, pero no es de eso de lo que se trata ni de por qué estamos aquí. Se trata de la gente, de la conexión humana…[**seguir leyendo**](#30fb)
 
 
 
 **~**[**Kris Decoodt**](https://medium.com/u/f56581bbe1a7?source=post_page-----19649c57c6aa--------------------------------)
 
-**🚀 Solar System award goes to:**
+**🚀 El premio del Sistema Solar es para:**
 ----------------------------------
 
-> Giveth is a community focused on using blockchain technology to make the world a better place.
+> Giveth es una comunidad centrada en el uso de la tecnología blockchain para hacer del mundo un lugar mejor.
 >
-> Making the world a better place is a very broad mission, narrowing the scope would be a requirement for a normal organization but Giveth is not an organization it is a COMMUNITY. As long as the group of people that are working on a project that they believe can use blockchain to make the world a better place, they are a part of Giveth, if they choose to be…[**continue reading**](#f102)
+> Hacer del mundo un lugar mejor es una misión muy amplia, reducir el alcance sería un requisito para una organización normal, pero Giveth no es una organización, es una COMUNIDAD. Mientras el grupo de personas que están trabajando en un proyecto que creen que puede usar blockchain para hacer del mundo un lugar mejor, son parte de Giveth, si eligen serlo...[**continuar leyendo**](# f102)
 
 
 
 **~**[**Griff Green**](https://medium.com/u/a2b8809e4b0f?source=post_page-----19649c57c6aa--------------------------------)
 
-**💫 Star award + 1 ETH goes to:**
+**💫 Premio estrella + 1 ETH para:**
 ----------------------------------
 
-> At some point in our lives, almost every one of us experiences an earnest desire to make a real difference in the world. Some of us dream of traveling to far off places and delivering cold, clean drinking water to those who are thirsty. Some imagine providing housing for the ever-growing homeless and refugee populations worldwide. Others picture themselves developing a small plot of land for inner-city children to learn about gardening. Whether global or local, big or small, many of us truly want to help others…[**continue reading**](#00d9)
+> En algún momento de nuestras vidas, casi todos experimentamos un deseo sincero de marcar una diferencia real en el mundo. Algunos de nosotros soñamos con viajar a lugares lejanos y entregar agua potable fría y limpia a quienes tienen sed. Algunos imaginan proporcionar vivienda a las poblaciones de refugiados y personas sin hogar en constante crecimiento en todo el mundo. Otros se imaginan a sí mismos desarrollando una pequeña parcela de tierra para que los niños del centro de la ciudad aprendan sobre jardinería. Ya sea global o local, grande o pequeño, muchos de nosotros realmente queremos ayudar a los demás... [**continuar leyendo**](#00d9)
 
 
 
 **~**[**Joshua Du Chene**](https://medium.com/u/b60aa9f7ce4d?source=post_page-----19649c57c6aa--------------------------------)
 
-**🌚 Moon award + 0.4 ETH goes to:**
+**🌚 Premio Luna + 0.4 ETH para:**
 ------------------------------------
 
-> The life of the Giveth Unicorn  
-> Giveth Unicorns may come and go. But the role of a Unicorn remains the same.
+> La vida del Unicornio Giveth
+> En Giveth Los unicornios pueden ir y venir. Pero el papel de un Unicornio sigue siendo el mismo.
 >
-> Each Unicorn cares about at least some aspects of Giveth and strives to help Giveth and its communities achieve and maintain their goals and values.
+> Cada Unicornio se preocupa por al menos algunos aspectos de Giveth y se esfuerza por ayudar a Giveth y sus comunidades a lograr y mantener sus metas y valores.
 >
-> An altruistic Unicorn does their work in the spirit of collaboration, bringing their skills to bear on the worthwhile goals of Giveth and it’s communities, often without the expectation of reward…[**continue reading**](#961f)
+> Un Unicornio altruista hace su trabajo con el espíritu de colaboración, aportando sus habilidades para contribuir a los valiosos objetivos de Giveth y sus comunidades, a menudo sin esperar una recompensa... [**continuar leyendo**](#961f)
 
 
 **~**[**Matt Stabeler**](https://medium.com/u/822110fc7bba?source=post_page-----19649c57c6aa--------------------------------)
 
-**☄️ Asteroid award + 0.2 ETH goes to:**
+**☄️ Premio asteroide + 0.2 ETH para:**
 ----------------------------------------
 
-> The Giveth Manifesto is a statement of **principles**, of **purpose** and of **determination**.
+> El Manifiesto Giveth es una declaración de **principios**, de **propósito** y de **determinación**.
 >
-> We are **determined** to accomplish our **purpose** to make a better world through **decentralization, technology and the power of communities**.
+> Estamos **determinados** a lograr nuestro **propósito** de hacer un mundo mejor a través de la **descentralización, la tecnología y el poder de las comunidades**.
 >
-> We believe communities are evolving organizations (call them flocks, swarms, galaxies or as you may) that are flexible, stronger than the individual and built by such individuals in order to accomplish a purpose…[**continue reading**](#2b3f)
-
+> Creemos que las comunidades son organizaciones en evolución (llámelas bandadas, enjambres, galaxias o como quiera) que son flexibles, más fuertes que el individuo y construidas por tales individuos para lograr un propósito... [**continuar leyendo**](# 2b3f)
 
 **~**[**Pol Bordas**](https://medium.com/u/dccbc9c48740?source=post_page-----19649c57c6aa--------------------------------)
 
 
-Time to celebrate, collect your ETH and do a little dance 🕺🏽 because all of you are DAC super heroes for giving your time, words and unique perspectives. For reasons of objectivity our benevolent Giveth judges agreed collectively to not accept any prizes for their entries, so the ETH awards have simply moved down to the next highest voted entry.
+Es hora de celebrar, recoger su ETH y hacer un pequeño baile 🕺🏽 porque todos ustedes son superhéroes de DAC por brindar su tiempo, palabras y perspectivas únicas. Por razones de objetividad, nuestros benévolos jueces de Giveth acordaron colectivamente no aceptar ningún premio por sus entradas, por lo que los premios ETH simplemente pasaron a la siguiente entrada más votada.
 
-**Below are all 21 amazing entries as promised:**
+** A continuación se muestran las 21 entradas increíbles como se prometió: **
 -------------------------------------------------
 
-*   [**Galactic award**](#30fb)**~**[**Kris Decoodt**](https://medium.com/u/f56581bbe1a7?source=post_page-----19649c57c6aa--------------------------------) **🦄**
-*   [**Solar System award**](#f102)**~**[**Griff Green**](https://medium.com/u/a2b8809e4b0f?source=post_page-----19649c57c6aa--------------------------------) **🦖**
-*   [**Star award**](#00d9)**~**[**Joshua Du Chene**](https://medium.com/u/b60aa9f7ce4d?source=post_page-----19649c57c6aa--------------------------------) **🔮**
-*   [**Moon award**](#961f)**~**[**Matt Stabeler**](https://medium.com/u/822110fc7bba?source=post_page-----19649c57c6aa--------------------------------) **👾**
-*   [**Asteroid award**](#2b3f)**~**[**Pol Bordas**](https://medium.com/u/dccbc9c48740?source=post_page-----19649c57c6aa--------------------------------) **🐼**
-*   [**~GeleeRoyale**](#111b) **🦉**
-*   [**~Cleo**](#d524) **🚀**
-*   [**~Vojtěch Šimetka**](#bb8f) **🏃🏻‍**
-*   [**~Meefs**](#175f) **🎩**
-*   [**~DAppLion**](#0f91) **🎧**
-*   [**~Ron Mat**](#884d) **⛵️**
-*   [**~jen Giveth**](#1bf9) **🚌**
-*   [**~Xilef**](#7ac7) **👽**
-*   [**~Parker Williams**](#fd75) **🏗**
-*   [**~Zak Perna**](#579d) **👨🏼‍🎨**
-*   [**~Yalor Tackson**](#ef2e) **🌚🌝**
-*   [**~Alan Borger**](#fcfb) **🕴🏻**
-*   [**~Bowen Sanders**](#e878) **🦇**
-*   [**~LinzeeLouu**](#9e74) **🦋**
-*   [**~Andreas Papazidis**](#3fb8) **👨🏻‍💼**
-*   [**~Mandala Kitten**](#a843) **👩🏼‍🎤**
+* [**Premio galáctico**](#30fb)**~**[**Kris Decoodt**](https://medium.com/u/f56581bbe1a7?source=post_page-----19649c57c6aa--------------------------------) **🦄**
+* [**Premio Sistema Solar**](#f102)**~**[**Griff Green**](https://medium.com/u/a2b8809e4b0f?source=post_page-----19649c57c6aa--------------------------------) **🦖**
+* [**Premio estrella**](#00d9)**~**[**Joshua Du Chene**](https://medium.com/u/b60aa9f7ce4d?source=post_page-----19649c57c6aa--------------------------------) **🔮**
+* [**Premio Luna**](#961f)**~**[**Matt Stabeler**](https://medium.com/u/822110fc7bba?source=post_page-----19649c57c6aa--------------------------------) **👾**
+* [**Premio asteroide**](#2b3f)**~**[**Pol Bordas**](https://medium.com/u/dccbc9c48740?source=post_page-----19649c57c6aa--------------------------------) **🐼**
+* [**~GeleeRoyale**](#111b) **🦉**
+* [**~Cleo**](#d524) **🚀**
+* [**~Vojtěch Šimetka**](#bb8f) **🏃🏻‍**
+* [**~Meefs**](#175f) **🎩**
+* [**~DAppLion**](#0f91) **🎧**
+* [**~Ron Mat**](#884d) **⛵️**
+* [**~jen Giveth**](#1bf9) **🚌**
+* [**~Xilef**](#7ac7) **👽**
+* [**~Parker Williams**](#fd75) **🏗**
+* [**~Zak Perna**](#579d) **👨🏼‍🎨**
+* [**~Yalor Tackson**](#ef2e) **🌚🌝**
+* [**~Alan Borger**](#fcfb) **🕴🏻**
+* [**~Bowen Sanders**](#e878) **🦇**
+* [**~LinzeeLouu**](#9e74) **🦋**
+* [**~Andreas Papazidis**](#3fb8) **👨🏻‍💼**
+* [**~Gatito Mandala**](#a843) **👩🏼‍🎤**
 
-**_What does Giveth stand for? What are some of the crazy things we believe in? After working with the team for +7 months now (which is years in blockchain time) these are some of the thoughts that come to mind…_**
+**_¿Qué significa Giveth? ¿Cuáles son algunas de las locuras en las que creemos? Después de trabajar con el equipo durante más de 7 meses (que son años en el tiempo de blockchain), estos son algunos de los pensamientos que me vienen a la mente..._**
 
-We are a Community
+Somos una comunidad
 ------------------
 
-> What we are doing is not about the technology. Most of us are very, very tech-minded and geeky people, and we love tech, but that is not what it is about or why we are here. It is about the people, the human connection.
+> Lo que estamos haciendo no se trata de la tecnología. La mayoría de nosotros somos personas muy, muy tecnológicas y geek, y amamos la tecnología, pero no es de eso de lo que se trata ni de por qué estamos aquí. Se trata de la gente, la conexión humana.
 >
-> We live in a world that has never been more connected, but never have we felt more isolated, never have our individualistic traits and our ego been more nurtured (think social media, for one) than today. But has it made us happier? Definitely not. Even worse, it has made us retreat into ourselves, giving less, both emotionally as well as financially. Giveth wants to turn the tide, bring back the connection by building/buidling and making the World a Better Place.
+> Vivimos en un mundo que nunca ha estado más conectado, pero nunca nos hemos sentido más aislados, nunca nuestros rasgos individualistas y nuestro ego han sido más nutridos (piense en las redes sociales, por ejemplo) que hoy. ¿Pero nos ha hecho más felices? Definitivamente no. Peor aún, nos ha hecho retraernos en nosotros mismos, dando menos, tanto emocional como económicamente. Giveth quiere cambiar el rumbo, recuperar la conexión construyendo/construyendo y haciendo del mundo un lugar mejor.
 >
-> We are not an organization, not a DAO, we strive to be more, we are a Decentralized Altruistic Community (a DAC). Communities are based on shared values and this is what corporations and organizations lack. They do pretend to have core values, but these are outward facing, top-down and are used for branding purposes. Our values are bottom-up, crowdsourced and are the higher good that connects us.
+> No somos una organización, ni un DAO, nos esforzamos por ser más, somos una Comunidad Altruista Descentralizada (un DAC). Las comunidades se basan en valores compartidos y esto es lo que les falta a las corporaciones y organizaciones. Pretenden tener valores centrales, pero estos están orientados hacia el exterior, de arriba hacia abajo y se utilizan con fines de marca. Nuestros valores son ascendentes, colaborativos y son el bien supremo que nos conecta.
 >
-> We are a community of individuals and we celebrate and respect each and everyone’s uniqueness.
+> Somos una comunidad de individuos y celebramos y respetamos la singularidad de cada uno.
 
-We dare to be Vulnerable
+Nos atrevemos a ser Vulnerables
 ------------------------
 
-> Our main value, our essence lies in vulnerability. Most of the people at Giveth, and even in the wider ‘Maker’ blockchain space (=the opposite of daytrader land) are here because they know what ego and image brings to the world. They are professionals who have lived the corporate life and knew something was ‘off’. Hierarchy and image boosting bring pain, misunderstanding and most of all a huge waste of time and loads of inefficiency.
+> Nuestro principal valor, nuestra esencia radica en la vulnerabilidad. La mayoría de las personas en Giveth, e incluso en el espacio más amplio de la cadena de bloques 'Maker' (= lo opuesto a la tierra de los comerciantes diarios) están aquí porque saben lo que el ego y la imagen aportan al mundo. Son profesionales que han vivido la vida corporativa y sabían que algo andaba mal. La jerarquía y el aumento de la imagen traen dolor, malentendidos y, sobre todo, una gran pérdida de tiempo y mucha ineficiencia.
 >
-> When you dare to be vulnerable - even fragile, open and true - you can make lasting changes, because it’s the only way to truly connect with another human being. And together, when you connect, you always achieve more.
+> Cuando te atreves a ser vulnerable, incluso frágil, abierto y verdadero, puedes hacer cambios duraderos, porque es la única forma de conectarte verdaderamente con otro ser humano. Y juntos, cuando se conectan, siempre logran más.
 >
-> Another crucial reason to open up is because ‘the system’ has trained us to be numb by providing us with all possible tools (binge-watching, medication, social media, shopping, … the list is endless). We have been trained to care less, to be less conscious of suffering and injustice, during a time where we are actually hyper-connected and thus can be hyper-informed. Knowledge brings power: sharing your thoughts, ideas and feelings can change the world. We just have to express our **outrage** and team up, because right now, as individuals, together, we actually have a bigger impact than ever before in the history of mankind.
+> Otra razón crucial para abrirse es que “el sistema” nos ha entrenado para estar insensibles proporcionándonos todas las herramientas posibles (observaciones compulsivas, medicación, redes sociales, compras… la lista es interminable). Hemos sido entrenados para preocuparnos menos, para ser menos conscientes del sufrimiento y la injusticia, durante un tiempo en el que en realidad estamos hiperconectados y, por lo tanto, podemos estar hiperinformados. El conocimiento trae poder: compartir tus pensamientos, ideas y sentimientos puede cambiar el mundo. Solo tenemos que expresar nuestra **indignación** y unirnos, porque en este momento, como individuos, juntos, en realidad tenemos un impacto más grande que nunca en la historia de la humanidad.
 
-(Please watch [THIS](https://www.youtube.com/watch?v=rGIY5Vyj4YM) if you never have before)
+(Mire [ESTO](https://www.youtube.com/watch?v=rGIY5Vyj4YM) si nunca lo ha hecho antes)
 
-We are Inclusive
+Somos Inclusivos
 ----------------
 
-> Everyone is welcome, we are huggers. We believe everyone has talents, has skills and can contribute to Making the World a Better Place. If you see a need in our community you should come over and get it done (see ‘We are Makers’). But even if you just want to lurk around, you should, even just you being there inspires us and we hope to inspire you.
+> Todos son bienvenidos, somos abrazadores. Creemos que todos tienen talentos, habilidades y pueden contribuir a hacer del mundo un lugar mejor. Si ve una necesidad en nuestra comunidad, debe venir y resolverlo (consulte "Somos creadores"). Pero incluso si solo quieres estar al acecho, deberías, incluso el hecho de que estés allí nos inspira y esperamos inspirarte.
 >
-> We believe in equal rights, even more, this is a given, this is no topic of discussion. No matter what gender, race, religion or political philosophy you adhere to: you are welcome, and you will be loved. Because giveth is all about community.
+> Creemos en la igualdad de derechos, más aún, esto es un hecho, esto no es tema de discusión. No importa a qué género, raza, religión o filosofía política se adhiera: es bienvenido y será amado. Porque giveth tiene que ver con la comunidad.
 
-We advocate Abundance
+Abogamos por la Abundancia
 ---------------------
 
-> When there is abundance people shine. Abundance is the opposite of fear and scarcity, the things that make people become protective and close-minded. We want to give people the chance to develop themselves. We want to be a spark of light, a pulsing star in this galaxy, an inspiration to others, an energy that rubs off.
+> Cuando hay abundancia la gente brilla. La abundancia es lo opuesto al miedo y la escasez, las cosas que hacen que las personas se vuelvan protectoras y de mente cerrada. Queremos dar a las personas la oportunidad de desarrollarse. Queremos ser una chispa de luz, una estrella pulsante en esta galaxia, una inspiración para los demás, una energía que se contagia.
 >
-> Only if we harness this internal energy we will be able to make real and lasting change in this world. When there is abundance people thrive and are able to not only show off their skills but their talents. The difference between skills and talents is that you no longer only do what you are good at, you do what brings happiness into your life and you bring this into the lives of others.
+> Solo si aprovechamos esta energía interna podremos lograr un cambio real y duradero en este mundo. Cuando hay abundancia, las personas prosperan y no solo pueden mostrar sus habilidades sino también sus talentos. La diferencia entre habilidades y talentos es que ya no solo haces lo que eres bueno, haces lo que trae felicidad a tu vida y lo traes a la vida de los demás.
 
-We are striving to be fully Decentralized
+Nos esforzamos por ser completamente descentralizados
 -----------------------------------------
 
-> Money is not evil. Neither are people. But centralized power is. We are all equal with our differences. Blockchain technology, which is by its nature decentralized, is a driving force that builds and inspires our language. Language brings Culture and Culture will bring lasting change, an entirely different way to approach tensions, a new angle to think about ‘issues’.
+> El dinero no es malo. Las personas tampoco. Pero el poder centralizado lo es. Todos somos iguales con nuestras diferencias. La tecnología Blockchain, que por su naturaleza es descentralizada, es una fuerza impulsora que construye e inspira nuestro lenguaje. El idioma trae cultura y la cultura traerá un cambio duradero, una forma completamente diferente de abordar las tensiones, un nuevo ángulo para pensar sobre los "problemas".
 >
-> We are about the people. But we are not about just one person or a few stars, we are a Galaxy and all of us should burn brightly.
+> Nos preocupamos por las personas. Pero no se trata de una sola persona o de unas pocas estrellas, somos una galaxia y todos deberíamos arder intensamente.
 
-We are Humble
+somos humildes
 -------------
 
-> You cannot be decentralized and part of a Community if you do not let go of your ego. We don’t boast. We are not interested in your words but in what you do. We let our work speak for itself and will celebrate the individuals, but most of all the community that makes dreams a reality.
+> No puedes ser descentralizado y parte de una Comunidad si no sueltas tu ego. No nos jactamos. No nos interesan tus palabras sino lo que haces. Dejamos que nuestro trabajo hable por sí mismo y celebraremos a las personas, pero sobre todo a la comunidad que hace realidad los sueños.
 >
-> We like to have fun but we celebrate balance and modesty. When it comes to spending, we are transparent and accountable because it makes things easier and just, well… more honest.
+> Nos gusta divertirnos pero celebramos el equilibrio y la modestia. Cuando se trata de gastar, somos transparentes y responsables porque hace las cosas más fáciles y justas, bueno... más honestas.
 
-We are Transparent
+somos transparentes
 ------------------
 
-> Sharing is caring. We have nothing to hide. We are fully transparent, we practise what we preach, we are open-source.
+> Compartir es cuidar. No tenemos nada que ocultar. Somos totalmente transparentes, practicamos lo que predicamos, somos de código abierto.
 >
-> We communicate as much as possible, also between us, we do not hold back. We convey our tensions and our desired outcomes, but always try to do this in a very respectful way.
+> Nos comunicamos tanto como sea posible, también entre nosotros, no nos detenemos. Transmitimos nuestras tensiones y nuestros resultados deseados, pero siempre tratamos de hacerlo de una manera muy respetuosa.
 
-We are Makers
+somos creadores
 -------------
 
-> When we see something needs to be done, we do it. As Swarm City [would say](https://press.swarm.city/niks-moet-2fd1b7682bb8), “the person who spots a problem is likely the most suited to solve it, because it is their brain that is attuned to seeing the gap between what is now, and what might be.” We don’t endlessly discuss things, this is just negative energy.
+> Cuando vemos que hay que hacer algo, lo hacemos. Como Swarm City [diría](https://press.swarm.city/niks-moet-2fd1b7682bb8), “la persona que detecta un problema es probablemente la más adecuada para resolverlo, porque es su cerebro el que está en sintonía con ver la brecha entre lo que es ahora y lo que podría ser”. No discutimos cosas interminablemente, esto es solo energía negativa.
 >
-> Do not underestimate us. Our values might sound ‘out there’, idealistic or naive. But we are not. We underpromise and overdeliver. We are professionals, with lots of experience. We are engineers, developers, professional marketeers, business owners, … and we are here to stay.
+> No nos subestimes. Nuestros valores pueden sonar "allá afuera", idealistas o ingenuos. Pero no lo somos. Prometemos menos y entregamos en exceso. Somos profesionales, con mucha experiencia. Somos ingenieros, desarrolladores, comercializadores profesionales, dueños de negocios,… y estamos aquí para quedarnos.
 
 
 > ~[Kris Decoodt](https://medium.com/u/f56581bbe1a7?source=post_page-----19649c57c6aa--------------------------------)
 
 🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄🦄
 
-**Giveth is constantly evolving and so should this document, in no way should we expect any document to totally encompass what it is to be a part of the Giveth community. The purpose of this document is to give people some understanding of the values shared by the members of the Giveth community, but if this document in some way limits the imagination of Giveth Community Members, it should be thrown away!**
+**Giveth está en constante evolución y este documento también debería hacerlo, de ninguna manera debemos esperar que ningún documento abarque totalmente lo que es ser parte de la comunidad de Giveth. El propósito de este documento es dar a las personas una cierta comprensión de los valores compartidos por los miembros de la comunidad de Giveth, pero si este documento de alguna manera limita la imaginación de los miembros de la comunidad de Giveth, ¡debería desecharse!**
 
-> Giveth is a community focused on using blockchain technology to make the world a better place.
+> Giveth es una comunidad centrada en el uso de la tecnología blockchain para hacer del mundo un lugar mejor.
 >
-> Making the world a better place is a very broad mission, narrowing the scope would be a requirement for a normal organization but Giveth is not an organization it is a COMMUNITY. As long as the group of people that are working on a project that they believe can use blockchain to make the world a better place, they are a part of Giveth, if they choose to be.
+> Hacer del mundo un lugar mejor es una misión muy amplia, reducir el alcance sería un requisito para una organización normal, pero Giveth no es una organización, es una COMUNIDAD. Mientras el grupo de personas que están trabajando en un proyecto que creen que puede usar blockchain para hacer del mundo un lugar mejor, son parte de Giveth, si así lo deciden.
 >
-> Giveth is radically inclusive and trusts each individual and group to practice self-reliance and self-management leaning towards collaboration whenever possible.
+> Giveth es radicalmente inclusivo y confía en que cada individuo y grupo practique la autosuficiencia y la autogestión inclinándose hacia la colaboración siempre que sea posible.
 >
-> Giveth supports human connection within its community even when classically certain actions/conversations maybe “unprofessional.” Especially in the name of FUN! Authenticity, vulnerability, candor, wholeness, and silliness are encouraged as long as they are building trust and stronger relationships.
+> Giveth apoya la conexión humana dentro de su comunidad incluso cuando clásicamente ciertas acciones/conversaciones pueden ser "poco profesionales". ¡Especialmente en nombre de la DIVERSIÓN! Se fomenta la autenticidad, la vulnerabilidad, la franqueza, la integridad y la tontería siempre que generen confianza y relaciones más sólidas.
 >
-> Giveth believes altruistic people can be rewarded for their good work and strives to find ways to make that feel easy and natural. People are more important than profits.
+> Giveth cree que las personas altruistas pueden ser recompensadas por su buen trabajo y se esfuerza por encontrar formas de hacer que se sienta fácil y natural. Las personas son más importantes que las ganancias.
 >
-> **Blockchain technology:**
+> **Tecnología de cadena de bloques:**
 
-*   Aligns incentives around a collaborative consensus and shared values
-*   Is radically inclusive
-*   Rewards radical participation, “Do-ocracy” and innovation
-*   Maintains a global perspective
-*   Is at its best when decentralized
-*   Can not be used coercively
-*   Spreads via network effect
-*   Balances Privacy with Transparency
+* Alinea los incentivos en torno a un consenso colaborativo y valores compartidos
+* Es radicalmente inclusivo
+* Premia la participación radical, la “Do-ocracia” y la innovación
+* Mantiene una perspectiva global
+* Está en su mejor momento cuando está descentralizado
+* No se puede usar de forma coercitiva
+* Se propaga por efecto de red
+* Equilibra la privacidad con la transparencia
 
-> Giveth aspires to model itself after these incredible attributes of Blockchain tech.
+> Giveth aspira a modelarse a sí mismo según estos increíbles atributos de la tecnología Blockchain.
 >
-> Givethers have the right to their pseudonymity but everything done under Giveth’s name is as transparent as possible, as replicable as possible, as accountable as possible and invitingly open source.
+> Los Givethers tienen derecho a su seudónimo, pero todo lo que se hace bajo el nombre de Giveth es lo más transparente posible, lo más replicable posible, lo más responsable posible y de fuente abierta tentadora.
 >
-> Every Givether is a hero, a role model, living in service, while still embracing their own wants and needs. We courageously and humbly lead by example, knowing we have a lot to learn.
+> Cada Givether es un héroe, un modelo a seguir, que vive en el servicio, sin dejar de aceptar sus propios deseos y necesidades. Predicamos con valentía y humildad con el ejemplo, sabiendo que tenemos mucho que aprender.
 >
-> Giveth is about experimentation and innovation. There is no right or wrong way to solve the issues in our world, we know this, and ask for help and advise, while still pushing a NOW! attitude with integrity and gratitude for the opportunity to change the world.
+> Giveth se trata de experimentación e innovación. No hay una manera correcta o incorrecta de resolver los problemas en nuestro mundo, lo sabemos, y pedimos ayuda y asesoramiento, mientras seguimos impulsando un ¡AHORA! actitud con integridad y gratitud por la oportunidad de cambiar el mundo.
 
 
 > **_~_**[**_Griff Green_**](https://medium.com/u/a2b8809e4b0f?source=post_page-----19649c57c6aa--------------------------------)
 
 🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖
 
-> “At some point in our lives, almost every one of us experiences an earnest desire to make a real difference in the world. Some of us dream of traveling to far off places and delivering cold, clean drinking water to those who are thirsty. Some imagine providing housing for the ever-growing homeless and refugee populations worldwide. Others picture themselves developing a small plot of land for inner-city children to learn about gardening. Whether global or local, big or small, many of us truly want to help others.
+> “En algún momento de nuestras vidas, casi todos experimentamos un deseo sincero de marcar una diferencia real en el mundo. Algunos de nosotros soñamos con viajar a lugares lejanos y entregar agua potable fría y limpia a quienes tienen sed. Algunos imaginan proporcionar vivienda a las poblaciones de refugiados y personas sin hogar en constante crecimiento en todo el mundo. Otros se imaginan a sí mismos desarrollando una pequeña parcela de tierra para que los niños del centro de la ciudad aprendan sobre jardinería. Ya sea global o local, grande o pequeño, muchos de nosotros realmente queremos ayudar a los demás.
 >
-> But how do we actually help? How do we go about making a real impact?
+> Pero, ¿cómo ayudamos realmente? ¿Cómo hacemos para tener un impacto real?
 >
-> If we have money available to donate to people in need, we soon discover the seemingly infinite layers of vampiric bureaucracy between our donations and the intended recipients, massively decreasing our intended impact.
+> Si tenemos dinero disponible para donar a personas necesitadas, pronto descubrimos las aparentemente infinitas capas de burocracia vampírica entre nuestras donaciones y los destinatarios previstos, lo que reduce enormemente nuestro impacto previsto.
 >
-> If we have plentiful time to donate through traditional volunteer opportunities, we’re soon disillusioned by the major inefficiencies, lack of training and organization, misallocation of resources, and other issues that exist within hierarchically managed systems.
+> Si tenemos suficiente tiempo para donar a través de las oportunidades tradicionales de voluntariado, pronto nos desilusionaremos por las principales ineficiencias, la falta de capacitación y organización, la mala asignación de recursos y otros problemas que existen dentro de los sistemas administrados jerárquicamente.
 >
-> If we have willpower and like-minded individuals and we decide to initiate our own causes, we quickly encounter regulatory roadblocks and resistance from archaic systems of centralized power, diverting our focus away from doing good and toward filling out paperwork and paying fees, if we’re allowed to proceed at all.
+> Si tenemos fuerza de voluntad e individuos de ideas afines y decidimos iniciar nuestras propias causas, rápidamente encontramos obstáculos regulatorios y resistencia de los sistemas arcaicos de poder centralizado, desviando nuestro enfoque de hacer el bien y centrándonos en completar el papeleo y pagar tarifas, si es necesario. se nos permite proceder en absoluto.
 >
-> We exhaust ourselves trying to do good through traditional channels, and the question still remains: how do we actually help? How do we go about making a real impact?
+> Nos agotamos tratando de hacer el bien a través de los canales tradicionales, y la pregunta sigue siendo: ¿cómo ayudamos realmente? ¿Cómo hacemos para tener un impacto real?
 >
-> When the systems available to us are inherently flawed, we stop relying upon those systems to achieve our goals. With tools and technologies hitherto nonexistent, we instead build a new platform for giving for the future.
+> Cuando los sistemas disponibles para nosotros son inherentemente defectuosos, dejamos de depender de esos sistemas para lograr nuestras metas. Con herramientas y tecnologías hasta ahora inexistentes, en su lugar construimos una nueva plataforma para dar para el futuro.
 >
-> The desire to make the world a better place hasn’t changed, but the tools available to do so have. At the intersection of this drive to do good and the opportunities opened up to us through blockchain technology and decentralized governance, you’ll find a group of individuals known as Unicorns. These Unicorns are all a part of a growing, global community dedicated to changing the way we give. This decentralized altruistic community is known as Giveth.
+> El deseo de hacer del mundo un lugar mejor no ha cambiado, pero las herramientas disponibles para hacerlo sí lo han hecho. En la intersección de este impulso para hacer el bien y las oportunidades que se nos abrieron a través de la tecnología blockchain y el gobierno descentralizado, encontrará un grupo de personas conocidas como Unicornios. Todos estos Unicornios son parte de una comunidad global en crecimiento dedicada a cambiar la forma en que damos. Esta comunidad altruista descentralizada se conoce como Giveth.
 >
-> Like the Unicorns who make up Giveth, Giveth is diverse and ever-growing.
+> Al igual que los Unicornios que componen Giveth, Giveth es diversa y está en constante crecimiento.
 
-*   Giveth is both a culture and a manifestation of intent.
-*   Giveth is an expression of love and the result of action and hard work.
-*   Giveth is a transparent proof of decentralized governance in action.
-*   Giveth is an amalgamation of altruism and the adjacent possible.
-*   Giveth is a global community and a gift to the world.
-*   Giveth is open, welcoming, and ready to support you in making the world a better place.
+* Giveth es tanto una cultura como una manifestación de intención.
+* Giveth es una expresión de amor y el resultado de la acción y el trabajo duro.
+* Giveth es una prueba transparente de la gobernanza descentralizada en acción.
+* Giveth es una amalgama de altruismo y lo posible adyacente.
+* Giveth es una comunidad global y un regalo para el mundo.
+* Giveth es abierto, acogedor y está listo para ayudarlo a hacer del mundo un lugar mejor.
 
-> If you have money available to donate to people in need, you can watch its transmittance across the world on an open ledger to assure it actually gets to those who need it. With the tools and technologies available to us, there’s no more bureaucracy to siphon off funds along the way to the recipients. Giveth doesn’t even take a cut — it doesn’t need to — it’s funded through the same process as the project you just donated to.
+> Si tiene dinero disponible para donar a personas necesitadas, puede ver su transmisión en todo el mundo en un libro mayor abierto para asegurarse de que realmente llegue a quienes lo necesitan. Con las herramientas y tecnologías disponibles, no hay más burocracia para desviar fondos en el camino hacia los destinatarios. Giveth ni siquiera toma una parte, no es necesario, se financia a través del mismo proceso que el proyecto al que acaba de donar.
 >
-> If you have plentiful time to donate through traditional volunteer opportunities, you’ll find the Giveth platform maximizes the efficiency and impact of the work you do with clearly defined milestones and the minimal number of actors needed to accomplish the goal. Transparency and accountability are built in, so your work is both noticed and supported by your fellow Unicorns as well as the donors themselves.
+> Si tiene mucho tiempo para donar a través de las oportunidades tradicionales de voluntariado, encontrará que la plataforma Giveth maximiza la eficiencia y el impacto del trabajo que realiza con hitos claramente definidos y la cantidad mínima de actores necesarios para lograr la meta. La transparencia y la rendición de cuentas están incorporadas, por lo que su trabajo es notado y apoyado por sus compañeros Unicornios, así como por los mismos donantes.
 >
-> If you have willpower and like-minded individuals and you decide to initiate your own causes, you’ll discover an easy-to-use toolset that enables you to create a project with the same ease as creating a blog post. You’ll immediately be able to start receiving donations and create clear steps to achieving your ultimate outcome with no red-tape or fees of any kind.
+> Si tiene fuerza de voluntad y personas de ideas afines y decide iniciar sus propias causas, descubrirá un conjunto de herramientas fácil de usar que le permite crear un proyecto con la misma facilidad que crear una publicación de blog. Inmediatamente podrá comenzar a recibir donaciones y crear pasos claros para lograr su resultado final sin trámites burocráticos ni tarifas de ningún tipo.
 >
-> The best part about Giveth is that anybody can join the community and contribute to making the world a better place. If you’re a human being living on planet Earth and you want to do good, we are your people, and this is your opportunity to make a real impact. Make your mark and add your name to the growing community of Unicorns from around the world by joining us on this magnificent journey to building the future of giving!
+> Lo mejor de Giveth es que cualquiera puede unirse a la comunidad y contribuir a hacer del mundo un lugar mejor. Si eres un ser humano que vive en el planeta Tierra y quieres hacer el bien, somos tu gente y esta es tu oportunidad de generar un impacto real. ¡Deja tu huella y agrega tu nombre a la creciente comunidad de Unicornios de todo el mundo uniéndote a nosotros en este magnífico viaje para construir el futuro de la generosidad!
 >
-> **With A Love That Echoes Throughout The Galaxy**
-
+> **Con un amor que hace eco en toda la galaxia**
 
 > **_~_**[**_Joshua Du Chene_**](https://medium.com/u/b60aa9f7ce4d?source=post_page-----19649c57c6aa--------------------------------)
 
 🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮🔮
 
-The life of the Giveth Unicorn
+La vida del Unicornio Giveth
 ==============================
 
-> Giveth Unicorns may come and go. But the role of a Unicorn remains the same.
+> Giveth Los unicornios pueden ir y venir. Pero el papel de un Unicornio sigue siendo el mismo.
 >
-> Each Unicorn cares about at least some aspects of Giveth and strives to help Giveth and it’s communities achieve and maintain their goals and values.
+> Cada Unicornio se preocupa por al menos algunos aspectos de Giveth y se esfuerza por ayudar a Giveth y sus comunidades a lograr y mantener sus objetivos y valores.
 >
-> An altruistic Unicorn does their work in the spirit of collaboration, bringing their skills to bear on the worthwhile goals of Giveth and it’s communities, often without the expectation of reward.
+> Un Unicornio altruista hace su trabajo con el espíritu de colaboración, aportando sus habilidades para influir en los objetivos valiosos de Giveth y sus comunidades, a menudo sin esperar una recompensa.
 >
-> Unicorns may be rewarded in many ways, and fairly depending upon their contribution.
+> Los unicornios pueden ser recompensados ​​de muchas maneras y de manera justa dependiendo de su contribución.
 >
-> Giveth Values  
-> Giveth does not knowingly do any harm.
+> Da Valores
+> Giveth no hace ningún daño a sabiendas.
 >
-> Nobody owns Giveth, it is an entity born out of the spirit of kindness into the world of technology through the hard work of Giveth Unicorns, for the benefit of those who need it.
+> Nadie es dueño de Giveth, es una entidad nacida del espíritu de bondad en el mundo de la tecnología a través del arduo trabajo de Giveth Unicorns, en beneficio de quienes lo necesitan.
 >
-> Giveth is here to make the world a better place.  
-> Giveth enables charities and charitable organisations to do good work better.  
-> We collaborate to make the goals of Giveth happen, and to uphold the Giveth values.  
-> Giveth values transparency, and does not hide from the world.  
-> Giveth evolves to achieve it’s goals and maintain it’s values.  
-> Giveth favors altruism over profit.
+> Giveth está aquí para hacer del mundo un lugar mejor.
+> Giveth permite que las organizaciones benéficas y benéficas hagan mejor el buen trabajo.
+> Colaboramos para hacer realidad los objetivos de Giveth y defender los valores de Giveth.
+> Da transparencia a los valores y no se esconde del mundo.
+> Giveth evoluciona para lograr sus objetivos y mantener sus valores.
+> Giveth favorece el altruismo sobre la ganancia.
 >
-> **Why are we here?**  
-> Giveth uses the power of technology, to help bad things be be less bad, strives for good things to happen and enables good people to do good things.
+> **¿Por qué estamos aquí?**
+> Giveth utiliza el poder de la tecnología para ayudar a que las cosas malas sean menos malas, se esfuerza por que sucedan cosas buenas y permite que las personas buenas hagan cosas buenas.
 >
-> Giveth people want to make positive changes to this world, in a transparent way, so that everyone can benefit, and anyone can make sure things have been done right.
+> Las personas de Giveth quieren hacer cambios positivos en este mundo, de manera transparente, para que todos puedan beneficiarse y todos puedan asegurarse de que las cosas se hayan hecho bien.
 
 
-> ~ [Matt Stabeler](https://medium.com/u/822110fc7bba?source=post_page-----19649c57c6aa--------------------------------)
+> ~ [Matt Stabeler](https://medium.com/u/822110fc7bba?source=post_page-----19649c57c6aa---------------------- ----------)
 
-👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+👾 👾
 
-The Giveth Manifesto is a statement of principles, of purpose and of determination.
-===================================================================================
+El Manifiesto Giveth es una declaración de principios, de propósito y de determinación.
+================================================== =================================
 
-> We are **determined** to accomplish our **purpose** to make a better world through **decentralization, technology and the power of communities**.
+> Estamos **determinados** a lograr nuestro **propósito** de hacer un mundo mejor a través de la **descentralización, la tecnología y el poder de las comunidades**.
 >
-> We believe communities are evolving organizations (call them flocks, swarms, galaxies or as you may) that are flexible, stronger than the individual and built by such individuals in order to accomplish a purpose.
+> Creemos que las comunidades son organizaciones en evolución (llámelas bandadas, enjambres, galaxias o como quiera) que son flexibles, más fuertes que el individuo y construidas por tales individuos para lograr un propósito.
 >
-> We believe the Giveth Unicorns, the members of the Giveth Galaxy, are people and not cogs in a machine, that find resonance between Giveth’s purpose and their own purpose. Our Galaxy is universal and radically inclusive and able to accommodate everyone that wants to contribute to its goal. We experiment with Governance to unleash everyone’s potential and ability to play a part.
+> Creemos que los Unicornios Giveth, los miembros de la Galaxia Giveth, son personas y no piezas de una máquina, que encuentran resonancia entre el propósito de Giveth y su propio propósito. Nuestra Galaxia es universal y radicalmente inclusiva y capaz de albergar a todos los que quieran contribuir a su objetivo. Experimentamos con la Gobernanza para liberar el potencial y la capacidad de todos para desempeñar un papel.
 >
-> We believe in **openness, transparency and accountability**: we apply these concepts internally and work towards facilitating other communities externally thanks to our outputs by the [DApp Development Circle](https://medium.com/giveth/tagged/dappening), as well as contributing to other projects guided by the same principles through our [Social Coding Circle](https://medium.com/giveth/tagged/socialcoding).
+> Creemos en la **apertura, la transparencia y la responsabilidad**: aplicamos estos conceptos internamente y trabajamos para facilitar a otras comunidades externamente gracias a nuestros resultados del [DApp Development Circle](https://medium.com/giveth/tagged/ dappening), además de contribuir a otros proyectos guiados por los mismos principios a través de nuestro [Social Coding Circle](https://medium.com/giveth/tagged/socialcoding).
 >
-> We believe blockchain technology is a powerful tool to design systems that incentivize the creation of communities that transcend the chain -or Decentralized Altruistic Communities- where all stakeholders, including but not limited to Makers, Donors and recipients, can be upfront about their needs and expectations in an environment of trust and collaboration. We believe we can help build these systems and transform how the non-profit sector has traditionally worked.
+> Creemos que la tecnología blockchain es una herramienta poderosa para diseñar sistemas que incentiven la creación de comunidades que trascienden la cadena -o Comunidades Altruistas Descentralizadas- donde todas las partes interesadas, incluidos, entre otros, Creadores, Donantes y destinatarios, pueden ser sinceros sobre sus necesidades y expectativas en un ambiente de confianza y colaboración. Creemos que podemos ayudar a construir estos sistemas y transformar la forma en que ha funcionado tradicionalmente el sector sin fines de lucro.
 >
-> We want to make **a better future by building the tools** for any community to push their vision of a better, decentralized world.
+> Queremos hacer **un futuro mejor construyendo las herramientas** para que cualquier comunidad impulse su visión de un mundo mejor y descentralizado.
 >
-> We are determined to succeed. We are the Giveth Unicorns. We and you. A better future for all.
-
+> Estamos decididos a tener éxito. Somos los Unicornios de Giveth. Nosotros y tú. Un futuro mejor para todos.
 
 > ~[Pol Bordas](https://medium.com/u/dccbc9c48740?source=post_page-----19649c57c6aa--------------------------------)
 
 🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼
 
-> We, the people of Giveth,  
-> regard human dignity as inviolable and personal freedom as the highest value in human society,  
-> decide through rough consensus and running code,  
-> work on software solutions that empower the individual through decentralized validation,  
-> play through daring experiments,  
-> apply original thinking,  
-> open our hearts to share love as a human experience.
+> Nosotros, el pueblo de Giveth,
+> considerar la dignidad humana como inviolable y la libertad personal como el valor supremo de la sociedad humana,
+> decidir a través de un consenso aproximado y código en ejecución,
+> trabajar en soluciones de software que empoderen al individuo a través de la validación descentralizada,
+> jugar a través de atrevidos experimentos,
+> aplicar el pensamiento original,
+> abrir nuestros corazones para compartir el amor como experiencia humana.
 
 
-> **_~_**[**_KRASSVS_**](https://medium.com/u/6da453cac63a?source=post_page-----19649c57c6aa--------------------------------)
+> **_~_**[**_KRASSVS_**](https://medium.com/u/6da453cac63a?source=post_page-----19649c57c6aa-------------------------------)
 
 🦉🦉🦉🦉🦉🦉🦉🦉🦉🦉🦉🦉🦉🦉🦉🦉🦉🦉🦉🦉🦉🦉🦉🦉🦉🦉🦉🦉🦉🦉
 
-Humanity vs. The Problems of the World
+La humanidad contra los problemas del mundo
 ======================================
 
-> **Why do we have the problems we do,** like global warming, homelessness, and environmental destruction?
+> **¿Por qué tenemos los problemas que tenemos**, como el calentamiento global, la falta de vivienda y la destrucción del medio ambiente?
 >
-> **It’s not because we lack the capacity to fix it**. For any problem, there’s an array of experts who have a plan of action to tackle it.
+> **No es porque carezcamos de la capacidad para solucionarlo**. Para cualquier problema, hay una serie de expertos que tienen un plan de acción para abordarlo.
 >
-> **It’s not because we lack the capital**. There’s more money in the world than ever before.
+> **No es porque carezcamos de capital**. Hay más dinero en el mundo que nunca.
 >
-> **What we lack is an effective system for organizing and incentivizing people to tackle the problems that are not profitable to solve.**
+> **Lo que nos falta es un sistema efectivo para organizar e incentivar a las personas a abordar los problemas que no son rentables de resolver.**
 >
-> [Giveth](https://giveth.io/) is that system — a platform for unleashing the human spirit to conquer the problems of our world. Giveth enables those who want to do good in the world to trustlessly collaborate with those who want to fund that work. Funds are paid only when the work happens. All actions are transparently recorded on the Ethereum blockchain. Giveth is the lightest possible framework for allowing strangers to effect change together.
+> [Giveth](https://giveth.io/) es ese sistema: una plataforma para desatar el espíritu humano para conquistar los problemas de nuestro mundo. Giveth permite que aquellos que quieren hacer el bien en el mundo colaboren sin confianza con aquellos que quieren financiar ese trabajo. Los fondos se pagan solo cuando se realiza el trabajo. Todas las acciones se registran de forma transparente en la cadena de bloques de Ethereum. Giveth es el marco más ligero posible para permitir que extraños efectúen cambios juntos.
 >
-> The Giveth Unicorns are the group of people building Giveth. We have different backgrounds, skill sets, and countries of residence; but we’re united by a shared vision:
+> Los Unicornios de Giveth son el grupo de personas que construyen Giveth. Tenemos diferentes antecedentes, conjuntos de habilidades y países de residencia; pero estamos unidos por una visión compartida:
 >
-> We believe that every human being should be able to get funding to make the world a better place.
+> Creemos que todo ser humano debería poder obtener financiación para hacer del mundo un lugar mejor.
 >
-> We believe that every human being should be able to transparently see their funds create good in the world.
+> Creemos que todo ser humano debería poder ver de manera transparente que sus fondos crean el bien en el mundo.
 >
-> We believe that our problems are too large for any individual to solve, and so we need the power of communities.
+> Creemos que nuestros problemas son demasiado grandes para que los resuelva una sola persona, por lo que necesitamos el poder de las comunidades.
 >
-> We believe that transparency is the key to staying focused on the work at hand.
+> Creemos que la transparencia es la clave para mantenerse enfocado en el trabajo que se está realizando.
 >
-> We believe a better world is possible if we effectively unite the minds, funds, and time of everyone who cares about the same issues.
+> Creemos que un mundo mejor es posible si unimos de manera efectiva las mentes, los fondos y el tiempo de todos los que se preocupan por los mismos problemas.
 >
-> Are you one of those magical creatures — a _Unicorn_ — who believes our problems are solvable through collaboration, aligned incentives, and a little ETH? Giveth will be better with your contributions. [Come create Giveth with us.](https://giveth.io/join/)
+> ¿Eres una de esas criaturas mágicas, un _Unicornio_, que cree que nuestros problemas se pueden resolver a través de la colaboración, incentivos alineados y un poco de ETH? Giveth será mejor con tus aportes. [Ven a crear Giveth con nosotros.](https://giveth.io/join/)
 
 
-> **_~_**[**_Cleo_**](https://medium.com/u/8ddbad602c52?source=post_page-----19649c57c6aa--------------------------------)
+> **_~_**[**_Cleo_**](https://medium.com/u/8ddbad602c52?source=post_page-----19649c57c6aa-------------------------------)
 
 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
-**Giveth is a decentralized community of collaborators around the cause of making the world a better place. We are the Giveth Galaxy that empowers communities to achieve their mission. Giveth’s actions are guided by following principles:**
+**Giveth es una comunidad descentralizada de colaboradores en torno a la causa de hacer del mundo un lugar mejor. Somos la Galaxia Giveth que empodera a las comunidades para lograr su misión. Las acciones de Giveth se guían por los siguientes principios:**
 
-Radical Openness and Transparency:
+Apertura radical y transparencia:
 ==================================
 
-> Any project, git repository, presentation or document that has been made within Giveth shall be publicly accessible and usable. We pledge to share these transparently in an organized fashion and provide all necessary guidance. In this sense we identify ourselves with the GNU principles.
+> Cualquier proyecto, repositorio git, presentación o documento que se haya realizado dentro de Giveth deberá ser accesible y utilizable públicamente. Nos comprometemos a compartirlos de manera transparente y organizada y proporcionar toda la orientación necesaria. En este sentido nos identificamos con los principios GNU.
 
-Inclusiveness
+inclusión
 -------------
 
-> To Giveth there is only one race -the human race-, no sex, no religion, no disability nor political affiliation. Everyone is welcome and we encourage you to share your view and enrich our community.
+> Para Giveth existe una sola raza -la raza humana-, sin sexo, sin religión, sin discapacidad ni afiliación política. Todos son bienvenidos y los alentamos a que compartan su punto de vista y enriquezcan a nuestra comunidad.
 
-Independence
+Independencia
 ------------
 
-> We are financed through unconditional donations that will be used to build, support, evolve and maintain our products, contributors and community. As a group of individuals we pledge to be neutral and any affiliation or promotion of other projects, political parties or movements shall be discussed and agreed by the majority of our community through our internal governance organs. Any such decision shall be publicly shared and be accessible as long as Giveth exists. You can not buy Giveth.
+> Nos financiamos a través de donaciones incondicionales que se utilizarán para construir, respaldar, evolucionar y mantener nuestros productos, colaboradores y comunidad. Como grupo de personas nos comprometemos a ser neutrales y cualquier afiliación o promoción de otros proyectos, partidos políticos o movimientos será discutida y acordada por la mayoría de nuestra comunidad a través de nuestros órganos de gobierno interno. Cualquier decisión de este tipo se compartirá públicamente y estará accesible mientras exista Giveth. No se puede comprar Giveth.
 
-Accountability
+Responsabilidad
 --------------
 
-> We see Giveth as a gift to humanity. As such we are accountable to our donors, contributors and the whole of humanity that we will do our best to build Giveth with the resources given and according to our abilities. We assume the responsibility of accounting for our actions as a movement.
+> Vemos a Giveth como un regalo para la humanidad. Como tal, somos responsables ante nuestros donantes, contribuyentes y toda la humanidad de que haremos todo lo posible para construir Giveth con los recursos proporcionados y de acuerdo con nuestras capacidades. Asumimos la responsabilidad de dar cuenta de nuestras acciones como movimiento.
 
-Voice of change
+voz de cambio
 ---------------
 
-> We are not blind nor silent. When we witness acts of violence, bullying or oppression we may speak out publicly as individuals or as a group. Any such action is not welcome in our own community and will be dealt with.
-
-
+> No somos ciegos ni silenciosos. Cuando somos testigos de actos de violencia, intimidación u opresión, podemos hablar públicamente como individuos o como grupo. Cualquier acción de este tipo no es bienvenida en nuestra propia comunidad y será tratada.
 > **~**[**Vojtěch Šimetka**](https://medium.com/u/cc037be155df?source=post_page-----19649c57c6aa--------------------------------)
 
 🏃🏻‍🏃🏻🏃🏻🏃🏻‍🏃🏻🏃🏻‍🏃🏻‍🏃🏻🏃🏻‍🏃🏻‍🏃🏻‍🏃🏻‍🏃🏻‍🏃🏻‍🏃🏻‍🏃🏻‍🏃🏻‍🏃🏻‍🏃🏻‍🏃🏻🏃🏻‍🏃🏻🏃🏻‍🏃🏻‍🏃🏻‍🏃🏻🏃🏻‍🏃🏻‍🏃🏻‍🏃🏻‍
 
-What Giveth.io Means to Me
+Lo que Giveth.io significa para mí
 ==========================
 
-> Giveth is a very special altruistic offering of distributed software and grouping of rare unicorns. At its core Giveth enables communities to form around the causes that matter to them the most. On a personal level Giveth is the reason I shifted my vision from only seeing fungible stores of value loosely referred to as ‘crypto’ and decided to dedicate my corporeal energy to enabling trust within this space. A bit about me is in order first however.
+> Giveth es una oferta altruista muy especial de software distribuido y agrupación de unicornios raros. En esencia, Giveth permite que las comunidades se formen en torno a las causas que más les importan. A nivel personal, Giveth es la razón por la que cambié mi visión de solo ver reservas de valor fungibles, a las que se hace referencia vagamente como 'cripto', y decidí dedicar mi energía corporal a permitir la confianza dentro de este espacio. Un poco sobre mí está en orden primero sin embargo.
 >
-> I came to ‘crypto’ not as a newbie but someone who was well versed in utilizing cryptographic hashes and technology within daily operations. My first introduction to personal computers came in 1986 when my family moved to Houston TX, and I would play games like ‘Wheel of Fortune’ , ‘Ninja Gaiden’, and ‘SpiderMan’ on our IBM 8086. My first tech job came at the age of 17 where I taught children QBASIC, html, and audio processing at the ‘American Computer Experience’ summer camps. Fast forward to 2009 and my technolust was immediately sparked by this thing I caught wind of called Bitcoin. I had no position in the market other than watching the price of BTC go from near nothing to over $10 USD/BTC.
+> Llegué a 'crypto' no como un novato, sino como alguien que estaba bien versado en el uso de tecnología y hashes criptográficos en las operaciones diarias. Mi primera introducción a las computadoras personales llegó en 1986 cuando mi familia se mudó a Houston TX, y jugaba juegos como 'Wheel of Fortune', 'Ninja Gaiden' y 'SpiderMan' en nuestro IBM 8086. Mi primer trabajo tecnológico llegó en el de 17 años donde enseñé a niños QBASIC, html y procesamiento de audio en los campamentos de verano 'American Computer Experience'. Avance rápido hasta 2009 y mi pasión por la tecnología fue inmediatamente provocada por esta cosa de la que me enteré llamada Bitcoin. No tenía ninguna posición en el mercado aparte de ver cómo el precio de BTC pasaba de casi nada a más de $10 USD/BTC.
 >
-> In August of 2017 life dealt me two perspective altering situations within a week: Hurricane Harvey and losing my job as a Corporate Security Analyst of 5 years. The loss of my position was heartbreaking but being surrounded by constant destruction brought on by an “800 year flood” kept me sane and sober. By December life had begun to return back to normal for most of us Houstonian’s, however something incredible was taking place with the price of Bitcoin: it was over $10,000/BTC!
+> En agosto de 2017, la vida me planteó dos situaciones que cambiaron mi perspectiva en una semana: el huracán Harvey y perder mi trabajo como analista de seguridad corporativa durante 5 años. La pérdida de mi posición fue desgarradora, pero estar rodeada de destrucción constante provocada por una "inundación de 800 años" me mantuvo cuerda y sobria. Para diciembre, la vida había comenzado a volver a la normalidad para la mayoría de nosotros, los habitantes de Houston, sin embargo, algo increíble estaba ocurriendo con el precio de Bitcoin: ¡superaba los $10,000/BTC!
 >
-> The dramatic increase of volume plus pricing momentum within Bitcoin caused me to study value theory and seriously contemplate just wtf was going on. Whether it was serendipity, fate, or just plain dumb luck I discovered Giveth via a [youtube presentation](https://www.youtube.com/watch?v=iShzx6iqwus&index=15&list=PLIR2KLUqBsWnbhDZKi0S43Q5PnxFGdiEo) from Griff Green at the Ethereum Community Conference 2018. At this point all of my attention shifted studying pricing and volatility to determining how to best distribute trust.
+> El aumento dramático del volumen más el impulso de precios dentro de Bitcoin me hizo estudiar la teoría del valor y contemplar seriamente lo que estaba pasando. Ya sea por casualidad, el destino o simplemente pura suerte, descubrí a Giveth a través de una [presentación de youtube](https://www.youtube.com/watch?v=iShzx6iqwus&index=15&list=PLIR2KLUqBsWnbhDZKi0S43Q5PnxFGdiEo) de Griff Green en la Conferencia de la comunidad Ethereum 2018. En este punto, toda mi atención se centró en estudiar los precios y la volatilidad para determinar cómo distribuir mejor la confianza.
 >
-> Giveth will play a key role in enabling communities to distribute trust via decentralized governance. At a high level, Giveth can be viewed as software that enables communities to form causes and promote those causes via group determined milestones. Individuals who are part of a given community can spawn their own milestones, and via pledging of ETH to those milestones prioritize what is and is not important for that community with 100% transparency. Additionally those who give within this structure can be notified when their milestone is reached as well as delegate authority of their contribution to others within their community.
+> Giveth jugará un papel clave para permitir que las comunidades distribuyan la confianza a través de la gobernanza descentralizada. A un alto nivel, Giveth puede verse como un software que permite a las comunidades formar causas y promover esas causas a través de hitos determinados por el grupo. Las personas que forman parte de una comunidad determinada pueden generar sus propios hitos y, mediante el compromiso de ETH para esos hitos, priorizar lo que es y lo que no es importante para esa comunidad con un 100 % de transparencia. Además, aquellos que dan dentro de esta estructura pueden ser notificados cuando se alcanza su hito, así como delegar la autoridad de su contribución a otros dentro de su comunidad.
 >
-> Giveth is not an ICO, a corporation, or a monolithic organization that promises to render aid while capturing the majority of users contributions in times of need (most charities). Giveth is an opportunity to do better by humanity via distributed trust within systems of decentralized governance that \*anyone\* can run.
+> Giveth no es una ICO, una corporación o una organización monolítica que promete brindar ayuda mientras captura la mayoría de las contribuciones de los usuarios en tiempos de necesidad (la mayoría de las organizaciones benéficas). Giveth es una oportunidad para que la humanidad lo haga mejor a través de la confianza distribuida dentro de los sistemas de gobierno descentralizado que \*cualquiera\* puede ejecutar.
 
 
-> **_~_**[**_Meefs_**](https://medium.com/u/40f75102c422?source=post_page-----19649c57c6aa--------------------------------)
+> **_~_**[**_Meefs_**](https://medium.com/u/40f75102c422?source=post_page-----19649c57c6aa-------------------------------)
 
 🎩🎩🎩🎩🎩🎩🎩🎩🎩🎩🎩🎩🎩🎩🎩🎩🎩🎩🎩🎩🎩🎩🎩🎩🎩🎩🎩🎩🎩🎩
 
@@ -404,248 +399,234 @@ What Giveth.io Means to Me
 
 🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧
 
-**Why Giveth?**
+**¿Por qué da?**
 
-> We believe in the power of communities to solve problems.
+> Creemos en el poder de las comunidades para resolver problemas.
 >
-> We believe in decentralized technology to unleash the creativity and energy of altruistic communities.
+> Creemos en la tecnología descentralizada para liberar la creatividad y la energía de las comunidades altruistas.
 >
-> Giving is a humanitarian act of solidarity and empathy — we believe in the fundamental rights and dignity of every human being.
+> Dar es un acto humanitario de solidaridad y empatía: creemos en los derechos fundamentales y la dignidad de todo ser humano.
 >
-> We are doing nothing less than reinventing giving!
+> ¡Estamos haciendo nada menos que reinventar el dar!
 
-**What?**
+**¿Qué?**
 
-> We build a platform for trust and transparency in giving.
+> Construimos una plataforma para la confianza y la transparencia en las donaciones.
 >
-> Decentralized altruistic communities promote social innovation and create opportunities for people.
+> Las comunidades altruistas descentralizadas promueven la innovación social y crean oportunidades para las personas.
 >
-> This platform is in strong contrast to the systems currently in place: bureaucratic, inflexible, centralized, with a lot of overhead
+> Esta plataforma contrasta fuertemente con los sistemas existentes actualmente: burocráticos, inflexibles, centralizados, con muchos gastos generales
 
-**How?**
+**¿Cómo?**
 
-> We are enthusiastic and passionate — we do a hell of a lot of amazing stuff.
+> Somos entusiastas y apasionados: hacemos un montón de cosas increíbles.
 >
-> We are a community — open, transparent, cooperative, companionable and focused to deliver.
+> Somos una comunidad: abierta, transparente, cooperativa, sociable y enfocada en cumplir.
 >
-> We are an active part of the Ethereum eco-system and contribute to the development of Ethereum.
+> Somos parte activa del ecosistema Ethereum y contribuimos al desarrollo de Ethereum.>
 
-
-
-> **_~Ron Mat_**
+ **_~Ron Mat_**
 
 ⛵️⛵️⛵️⛵️⛵️⛵️⛵️⛵️⛵️⛵️⛵️⛵️⛵️⛵️⛵️⛵️⛵️⛵️⛵️⛵️⛵️⛵️⛵️⛵️⛵️⛵️⛵️⛵️⛵️⛵️
 
-> **“You can’t go around building a better world for people. Only people can build a better world. Otherwise it’s just a cage.” — Terry Pratchett**
+> **“No se puede andar construyendo un mundo mejor para las personas. Sólo las personas pueden construir un mundo mejor. De lo contrario, es solo una jaula”. —Terry Pratchett**
 
-> If you want to understand what Giveth values are and what it means to be a Unicorn and to be part of the Giveth community, you has to understand that the simple goal of all Unicorns in the Giveth galaxy, all around the world is, to make the world a better place.
+> Si quieres entender cuáles son los valores de Giveth y lo que significa ser un Unicornio y ser parte de la comunidad de Giveth, debes entender que el objetivo simple de todos los Unicornios en la galaxia de Giveth, en todo el mundo, es Haz del mundo un lugar mejor.
 >
-> This starts with the fact that Giveth trusts in people, real, actual people.
+> Esto comienza con el hecho de que Giveth confía en las personas, personas reales, reales.
 >
-> Let me explain why this is an amazing, outstanding fact in 2018. We spend the last years and maybe generation with the trust in the big systems and cooperations. The (centralized) banking system, centralized political systems with so called “representatives of the people” who rule countries and do not even know any longer what is going on in a country, the idea that the fact that we are allowed to go to vote every 4 (or 5 years) is all it needs for a democracy to work. We trusted in this centralized systems to rule the world and sort out our human problems. What we end up with was a banking crisis, plastic rubbish all over the planet, a so called refugee crisis and more and more the distrust in systems. We trust in charity organizations all over the world to sort out what we humans fucked up in the past and wonder in the end that we do not know what happened with the donations that we made. We trusted in system for a long time, until we realized that this systems are not working out the way we wanted. We realized that no one will sort out all the rubbish in the oceans and at the beaches if we do not start doing it ourselves, more and more people realize that we need to take our power as citizens back to actually have a say in a democracy, we start to realize that it makes sense to have a reliable person we can trust instead of a bank. We start to realize that centralized systems do not work out the way we though. Decentralization and the trust in people, actually people are two of the main values of Giveth. All these people, all over the world, who contribute their love and time, their work and ideas into Giveth are Unicorns. People with ideas who want to be part of the movement to change the world and make it a better place are Unicorns.
+> Permítanme explicar por qué este es un hecho sorprendente y sobresaliente en 2018. Pasamos los últimos años y quizás la generación con la confianza en los grandes sistemas y cooperaciones. El sistema bancario (centralizado), sistemas políticos centralizados con los llamados "representantes del pueblo" que gobiernan países y ya ni siquiera saben lo que está pasando en un país, la idea de que el hecho de que se nos permita ir a votar cada 4 (o 5 años) es todo lo que se necesita para que una democracia funcione. Confiamos en estos sistemas centralizados para gobernar el mundo y resolver nuestros problemas humanos. Lo que terminamos fue una crisis bancaria, basura plástica por todo el planeta, una llamada crisis de refugiados y cada vez más la desconfianza en los sistemas. Confiamos en organizaciones benéficas de todo el mundo para resolver lo que los humanos jodimos en el pasado y nos preguntamos al final que no sabemos qué pasó con las donaciones que hicimos. Confiamos en el sistema durante mucho tiempo, hasta que nos dimos cuenta de que estos sistemas no estaban funcionando como queríamos. Nos dimos cuenta de que nadie va a ordenar toda la basura en los océanos y en las playas si no empezamos a hacerlo nosotros mismos, cada vez más personas se dan cuenta de que tenemos que recuperar nuestro poder como ciudadanos para tener voz en una democracia. , comenzamos a darnos cuenta de que tiene sentido tener una persona confiable en la que podamos confiar en lugar de un banco. Empezamos a darnos cuenta de que los sistemas centralizados no funcionan como pensábamos. La descentralización y la confianza en las personas, en realidad las personas, son dos de los principales valores de Giveth. Todas estas personas, en todo el mundo, que aportan su amor y tiempo, su trabajo e ideas en Giveth son Unicornios. Las personas con ideas que quieren ser parte del movimiento para cambiar el mundo y hacerlo un lugar mejor son Unicornios.
 >
-> Giveth wants to give power back to people while decentralizing systems. One of Giveths goals and values is to make a donation system transparent, complete and absolute. We want to make donations transparent, direct and reliable. And even if Giveth is a charity organization, we are not just talking about donations. We are talking about the structure of governance within the organization, about reliable, accountable people within the Giveth galaxy, about the fact that everyone and anyone can actively participate in the platform, the organization and the idea of Giveth. The future of giving is not just giving ether to a cause that needs support. Giving can of course be monetary but can also be work force, bodys, love, time, minds and ideas for the greater good.
+> Giveth quiere devolver el poder a las personas mientras descentraliza los sistemas. Uno de los objetivos y valores de Giveth es hacer un sistema de donación transparente, completo y absoluto. Queremos que las donaciones sean transparentes, directas y confiables. E incluso si Giveth es una organización benéfica, no solo estamos hablando de donaciones. Estamos hablando de la estructura de gobierno dentro de la organización, de personas confiables y responsables dentro de la galaxia de Giveth, del hecho de que todos y cualquiera pueden participar activamente en la plataforma, la organización y la idea de Giveth. El futuro de dar no es solo dar éter a una causa que necesita apoyo. Por supuesto, dar puede ser monetario, pero también puede ser fuerza de trabajo, cuerpos, amor, tiempo, mentes e ideas para el bien común.
 >
-> A lot of people already volunteer for a good cause, give time and love to a project or an idea. Giveth is on the way to build a platform that allows any one of us to make a real change in our community, our neighborhood. I will be able to put up a cause that is important in my direct neighborhood and will make a change and a direct impact in my community — and you can too. Because, you not what? No one knows better what’s going on in your neighborhood than you. Why should anyone donate money to a big, intransparent organization that pays CEO’s instead of directly to your cause? Your community wants to teach kids how to code, you want to feed the homeless people, you want to gather a couple of people and pick up all the rubbish at your local beach/town/park? Cool, put up a cause on the Giveth platform and start to do so. Giveth believes and trusts in people and in you. This is the highest value any organization can have: the trust in people.
+> Mucha gente ya se ofrece como voluntaria por una buena causa, dedica tiempo y amor a un proyecto o una idea. Giveth está en camino de construir una plataforma que nos permita a cualquiera de nosotros hacer un cambio real en nuestra comunidad, nuestro vecindario. Podré presentar una causa que es importante en mi vecindario directo y lograré un cambio y un impacto directo en mi comunidad, y usted también puede hacerlo. Porque, ¿tú no qué? Nadie sabe mejor lo que está pasando en tu vecindario que tú. ¿Por qué alguien debería donar dinero a una organización grande e intransparente que paga a los directores ejecutivos en lugar de directamente a su causa? ¿Tu comunidad quiere enseñar a los niños a codificar, quieres alimentar a las personas sin hogar, quieres reunir a un par de personas y recoger toda la basura en tu playa/pueblo/parque local? Genial, presente una causa en la plataforma Giveth y comience a hacerlo. Giveth cree y confía en las personas y en ti. Este es el valor más alto que puede tener cualquier organización: la confianza en las personas.
 >
-> Shaping the future needs more than just a couple of people, it needs all of us, the human community. So we are calling everyone, to become a Unicorn and join us in the movement to #maketheworldabtterplace.
-
-
+> Dar forma al futuro necesita más que un par de personas, nos necesita a todos, la comunidad humana. Así que hacemos un llamado a todos para que se conviertan en Unicornios y se unan a nosotros en el movimiento para #hacerdelmundounlugar.
 
 > **_~_** [**_jen Giveth_**](https://medium.com/u/7d328be176a3?source=post_page-----19649c57c6aa--------------------------------)
 
 🚌🚌🚌🚌🚌🚌🚌🚌🚌🚌🚌🚌🚌🚌🚌🚌🚌🚌🚌🚌🚌🚌🚌🚌🚌🚌🚌🚌🚌🚌
 
-> _“It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven,_ [_we were all going direct the other way”_](https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities)
+> _“Era el mejor de los tiempos, era el peor de los tiempos, era la era de la sabiduría, era la era de la necedad, era la época de la creencia, era la época de la incredulidad, era la época de la Luz, era la estación de las Tinieblas, era la primavera de la esperanza, era el invierno de la desesperación, teníamos todo por delante, no teníamos nada por delante, todos íbamos directos al Cielo,_ [_todos íbamos directos al revés”_](https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities)
 
-**_–_ in short the Unicorns were getting easier and easier to spot as they were coming together to reinvent the most fundamental thing there is.**
+**_–_ en resumen, los Unicornios eran cada vez más fáciles de detectar a medida que se unían para reinventar lo más fundamental que existe.**
 
-> **Giveth is reinventing what it means to be human.**
+> **Giveth está reinventando lo que significa ser humano.**
 >
-> Humans are not the only life form which create but we have made it our ultimate evolutionary skill. To create is to give and vice versa. Giving is the most primal expression of creating, the most basic level. To voluntarily give something that is yours ( mind, body, property…) by leaving your ownership it becomes something for somebody else. In other words : something changed, transformed, got created.
+> Los humanos no son la única forma de vida que crea, pero lo hemos convertido en nuestra última habilidad evolutiva. Crear es dar y viceversa. Dar es la expresión más primaria de la creación, el nivel más básico. Dar voluntariamente algo que es tuyo (mente, cuerpo, propiedad...) al dejar tu propiedad se convierte en algo para otra persona. En otras palabras: algo cambió, se transformó, se creó.
 >
-> So giving, What’s so special about that? Everybody does it in one way or another. But the giving the Unicorns are talking about is voluntarily or coercion-free! This means no one can force you in any way. Nor are there gatekeepers who have the power to interfere in the process of you giving. The Giveth Unicorns credo is very clear :
+> Así que dar, ¿Qué tiene eso de especial? Todo el mundo lo hace de una forma u otra. ¡Pero el dar del que hablan los Unicornios es voluntario o libre de coerción! Esto significa que nadie puede obligarte de ninguna manera. Tampoco hay guardianes que tengan el poder de interferir en el proceso de dar. El credo de Giveth Unicorns es muy claro:
 >
-> • Donating can be simple, fun and effective.
+> • Donar puede ser simple, divertido y eficaz.
 >
-> • Transparency and accountability can be the default.
+> • La transparencia y la rendición de cuentas pueden ser la opción predeterminada.
 >
-> • Every idea has the potential to make a positive impact, and it can be heard and funded in a decentralized fashion.
+> • Cada idea tiene el potencial de tener un impacto positivo y puede ser escuchada y financiada de manera descentralizada.
 >
-> • Every Donor can have the ultimate say over how their donation is used.
+> • Cada donante puede tener la última palabra sobre cómo se utiliza su donación.
 >
-> • People that want to do good work for their cause can be rewarded for their actions.
+> • Las personas que quieran hacer un buen trabajo por su causa pueden ser recompensadas por sus acciones.
 >
-> • Real change and innovation comes about when communities join together to make the world a better place.
+> • El cambio real y la innovación se producen cuando las comunidades se unen para hacer del mundo un lugar mejor.
 >
-> Unicorns have always been elusive creatures but now the stars in the Giveth Galaxy have aligned and they are popping up everywhere. Everywhere people are noticing what is being built, being reinvented and want to contribute. The moment you give your time, your energy, your love to this community and project, and help in some way in its existence, a new Unicorn is born.
+> Los unicornios siempre han sido criaturas escurridizas, pero ahora las estrellas de la Galaxia Giveth se han alineado y están apareciendo por todas partes. En todas partes la gente está notando lo que se está construyendo, reinventando y quiere contribuir. En el momento en que das tu tiempo, tu energía, tu amor a esta comunidad y proyecto, y ayudas de alguna manera en su existencia, nace un nuevo Unicornio.
 >
-> Permissionless creation will make us unstoppable. It gives hope for the future and the confidence that there will always be people who act for the good of others and that they will succeed.
-
+> La creación sin permiso nos hará imparables. Da esperanza para el futuro y la confianza de que siempre habrá personas que actúen por el bien de los demás y que lo lograrán.
 
 > **_~Xilef_**
 
 👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
 
-> There are restrictive walls that contain possibility. Inside these walls passion and motivation are strangled by bureaucracy, limitations, and unrelated political tethers. Giveth breaks down these walls and exposes possibility to the wide open expanse contained only by the one natural restriction, capacity. Giveth is where possibility meets capacity, where, passion and motivation are free to flourish and where only nature itself can restrain us.
+> Hay muros restrictivos que contienen posibilidad. Dentro de estos muros, la pasión y la motivación son estranguladas por la burocracia, las limitaciones y ataduras políticas no relacionadas. Giveth derriba estos muros y expone la posibilidad a la amplia extensión abierta contenida solo por la única restricción natural, la capacidad. Giveth es donde la posibilidad se encuentra con la capacidad, donde la pasión y la motivación son libres de florecer y donde solo la naturaleza misma puede contenernos.
 >
-> Those with the passion to change the world sit on one side of a vast and long continent, on the other side are those who want to help them and have the resources to make their vision possible. Giveth is a canal right through the middle of that continent, removing the need to go all the way around and convincing more and more people on both sides to make the journey from the world we live in to the world we believe in.
+> Aquellos con la pasión de cambiar el mundo se sientan en un lado de un vasto y largo continente, en el otro lado están aquellos que quieren ayudarlos y tienen los recursos para hacer posible su visión. Giveth es un canal justo en medio de ese continente, eliminando la necesidad de dar la vuelta y convenciendo a más y más personas en ambos lados para hacer el viaje desde el mundo en el que vivimos al mundo en el que creemos.
 
-*   Giveth is a decentralized platform that facilitates better giving and better receiving, contributing to creating a better world
-*   Giveth creates increased transparency and allows results based giving for individual donors, in turn inspiring creation of more and more givers and more and more change makers
-*   Giveth believes in connecting change makers with those who want to support their mission, allowing them to avoid the mission creep that comes with chasing semi-related funding
-*   Giveth believes in decentralized, democratic, liquid control of donor funds
-*   Giveth believes in maximizing each gifts potential, utilizing blockchain technology to decrease administrative cost requirements
-*   Giveth believes in giving change makers the funds and trust they need to make the change they want to see a reality
-
+* Giveth es una plataforma descentralizada que facilita dar y recibir mejor, contribuyendo a crear un mundo mejor
+* Giveth crea una mayor transparencia y permite donaciones basadas en resultados para donantes individuales, lo que a su vez inspira la creación de más y más donantes y más y más creadores de cambios.
+* Giveth cree en conectar a los creadores de cambios con aquellos que quieren apoyar su misión, lo que les permite evitar el avance de la misión que viene con la búsqueda de financiamiento semi-relacionado.
+* Giveth cree en el control descentralizado, democrático y líquido de los fondos de los donantes
+* Giveth cree en maximizar el potencial de cada regalo, utilizando la tecnología blockchain para disminuir los requisitos de costos administrativos
+* Giveth cree en dar a los creadores de cambios los fondos y la confianza que necesitan para hacer realidad el cambio que quieren ver.
 
 
 > ~[Parker Williams](https://medium.com/u/5d71f4e010d?source=post_page-----19649c57c6aa--------------------------------)
 
 🏗🏗🏗🏗🏗🏗🏗🏗🏗🏗🏗🏗🏗🏗🏗🏗🏗🏗🏗🏗🏗🏗🏗🏗🏗
 
-> Unicorns, previously thought of as being as elusive as they are mysterious and wondrous are in actuality easier to see than one would think and you even possess what it takes to be one. With transparency at the height of their values, however, they are just as easily looked past as they are open with their ability to share and positively impact their world. Hiding in the plain sight of the blockchain forests, these Unicorns believe in a simplicity that allow the moving parts of the world they believe in to glide seamlessly together without the need of a centralized force to guide them. They hope to give the power over sharing and donation out to the very people participating in order to stimulate a positive change of attitude and integrity for the **Decentralized Altruistic Communities** that they are a part of. By using this value system based on participation, innovation, transparency, and accountability the Giveth Unicorns hope to use smart contracts to put donors in charge of how their funds are used, they hope to allow that direct relationship to create a rewarding system for all who are involved so that positivity is felt at the very core of each donation. Giveth Unicorns know that sharing should feel good and that goodness has the ability to shift attitudes of the world for the better, for a more common force toward one another acting accountable and responsible for what they are putting out into the place we’re all a part of.
-
+> Los unicornios, que anteriormente se consideraban tan escurridizos como misteriosos y maravillosos, en realidad son más fáciles de ver de lo que uno pensaría e incluso posees lo que se necesita para ser uno. Sin embargo, con la transparencia a la altura de sus valores, se les pasa por alto tan fácilmente como están abiertos con su capacidad para compartir e impactar positivamente en su mundo. Escondidos a la vista de los bosques de cadenas de bloques, estos Unicornios creen en una simplicidad que permite que las partes móviles del mundo en las que creen se deslicen juntas sin la necesidad de una fuerza centralizada que las guíe. Esperan dar el poder de compartir y donar a las mismas personas que participan para estimular un cambio positivo de actitud e integridad para las **Comunidades Altruistas Descentralizadas** de las que forman parte. Mediante el uso de este sistema de valores basado en la participación, la innovación, la transparencia y la responsabilidad, los Unicornios Giveth esperan usar contratos inteligentes para poner a los donantes a cargo de cómo se utilizan sus fondos, esperan permitir que esa relación directa cree un sistema gratificante para todos los que están involucrados para que la positividad se sienta en el centro mismo de cada donación. Dar a los Unicornios saber que compartir debe sentirse bien y que la bondad tiene la capacidad de cambiar las actitudes del mundo para mejor, para una fuerza más común hacia los demás que actúen responsables de lo que están poniendo en el lugar donde todos somos un parte de.
 
 
 > **_~Zak Perna_**
 
 👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨👨🏼‍🎨
 
-> Dear Galaxy,
+> Querida Galaxia,
 >
-> If you’re reading this we’ve done it, all the work the Unicorn troopers fought for was not in vain.
+> Si estás leyendo esto, lo hemos logrado, todo el trabajo por el que lucharon los soldados Unicornio no fue en vano.
 >
-> **The mission we set out to accomplish was clear:**
+> **La misión que nos propusimos cumplir fue clara:**
 >
-> _Create a trustless system of self governing bodies, capable of uniting around causes they choose to support._
+> _Crear un sistema sin confianza de órganos de autogobierno, capaces de unirse en torno a las causas que decidan apoyar._
 >
-> _Build a platform that fosters experimentation, collaboration and open source initiatives._
+> _Construir una plataforma que fomente la experimentación, la colaboración y las iniciativas de código abierto._
 >
-> _Awaken the Giver within all the citizen of this Galaxy and beyond, by showing them how and where their contributions make a difference._
+> _Despierta al Dador dentro de todos los ciudadanos de esta Galaxia y más allá, mostrándoles cómo y dónde sus contribuciones marcan la diferencia._
 >
-> The Centralization forces were determined to keep the Galaxy under their control, well we couldn’t let that happen, not for our sake and the sake of generations to come.
+> Las fuerzas de Centralización estaban decididas a mantener la Galaxia bajo su control, bueno, no podíamos permitir que eso sucediera, no por nuestro bien y el de las generaciones venideras.
 >
-> To accomplish our mission we had to do something greater than simply unseating the unjust forces.
+> Para cumplir nuestra misión, teníamos que hacer algo más grande que simplemente derrocar a las fuerzas injustas.
 >
-> We had to show them a better way!
+> ¡Teníamos que mostrarles una mejor manera!
 >
-> **The way of the Unicorn.**
+> **El camino del Unicornio.**
 >
-> We started a battle that will never end, the fight for truth, justice and transparency between citizens and powers is one that must live on forever.
+> Iniciamos una batalla que nunca terminará, la lucha por la verdad, la justicia y la transparencia entre ciudadanos y poderes es una que debe perdurar por siempre.
 >
-> It’s up to you to keep this fight alive all throughout your Galaxy, to inspire, incite and expose the truth for all to see.
+> Depende de ti mantener viva esta lucha en toda tu Galaxia, inspirar, incitar y exponer la verdad para que todos la vean.
 >
-> This was the cause we chose to fight for, the one we believed mattered most to our generation.
+> Esta fue la causa por la que elegimos luchar, la que creíamos que más importaba a nuestra generación.
 >
-> Now it’s your turn to decide, what will you fight for?
+> Ahora te toca a ti decidir, ¿por qué vas a luchar?
 >
-> We’ve given you the tools to sculpt your future, to build your community and free yourselves.
+> Les hemos dado las herramientas para esculpir su futuro, construir su comunidad y liberarse.
 >
-> Use them wisely and never, EVER…… **Forget!**
+> Úsalos sabiamente y nunca, NUNCA…… **¡Olvídalo!**
 >
-> **The way of the** [**Unicorn**](https://twitter.com/YalorMewn/status/992864729407291392) ( ͡o ͜ʖ ͡o)
-
+> **El camino del** [**Unicornio**](https://twitter.com/YalorMewn/status/992864729407291392) ( ͡o ͜ʖ ͡o)
 
 
 > **_~_**[**_Yalor Tackson_**](https://medium.com/u/33144025168f?source=post_page-----19649c57c6aa--------------------------------)
 
 🌕🌖🌗🌘🌚🌑🌒🌓🌔🌕🌖🌗🌘🌚🌑🌒🌓🌔🌕🌖🌗🌘🌚🌑🌒🌓🌔🌕🌖🌗
 
-> Giveth is a global community focused on improving the world through blockchain technology.
+> Giveth es una comunidad global enfocada en mejorar el mundo a través de la tecnología blockchain.
 >
-> Trustless systems like a distributed ledger allow us to eliminate the middle man, cut down costs and provide transparency and accountability. Our mission at Giveth is to bring this new reality to the world of charitable giving.
+> Los sistemas sin confianza, como un libro mayor distribuido, nos permiten eliminar intermediarios, reducir costos y brindar transparencia y responsabilidad. Nuestra misión en Giveth es llevar esta nueva realidad al mundo de las donaciones caritativas.
 >
-> Although we recognize the important work performed by NGOs and philantropic institutions around the world, we believe that with blockchain technology we can improve and streamline this process by finally connecting the donor directly to the recipient through on-chain transactions.
+> Aunque reconocemos el importante trabajo que realizan las ONG y las instituciones filantrópicas de todo el mundo, creemos que con la tecnología blockchain podemos mejorar y agilizar este proceso conectando finalmente al donante directamente con el receptor a través de transacciones en cadena.
 >
-> This allows for a new level of engagement between givers and makers, between communities and sponsors between the developed and developing worlds.
+> Esto permite un nuevo nivel de compromiso entre donantes y creadores, entre comunidades y patrocinadores entre los mundos desarrollados y en desarrollo.
 >
-> Giveth is a community of communities. We are building a platform that provides the tools for individuals to get together, organize and fund their own projects.
+> Giveth es una comunidad de comunidades. Estamos construyendo una plataforma que proporciona las herramientas para que las personas se reúnan, organicen y financien sus propios proyectos.
 >
-> We value honesty, transparency, freedom and accountability. We believe in the power of people to self-govern for the interest of the community.
+> Valoramos la honestidad, la transparencia, la libertad y la responsabilidad. Creemos en el poder de las personas para autogobernarse por el interés de la comunidad.
 >
-> Giveth is open to all individuals and communities who wish to build a better future together. Will you join us?
-
+> Giveth está abierto a todas las personas y comunidades que deseen construir juntos un futuro mejor. ¿Te nos unes?
 
 
 > **_~_**[**_Alan Borger_**](https://medium.com/u/bcecf6e269af?source=post_page-----19649c57c6aa--------------------------------)
 
 🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻🕴🏻
 
-> To help facilitate a greater understanding of emergent technologies
+> Para ayudar a facilitar una mayor comprensión de las tecnologías emergentes
 >
-> To show the world the power of blockchain and smart contracts to make huge improvements in more than just charitable donations
+> Mostrar al mundo el poder de la cadena de bloques y los contratos inteligentes para lograr grandes mejoras en algo más que donaciones benéficas
 >
-> To help foster new coders into this new ecosystem
+> Para ayudar a fomentar nuevos programadores en este nuevo ecosistema
 >
-> To demonstrate the importance of transparency in giving by using our own technology to drive the creation and improvement of our own systems
+> Demostrar la importancia de la transparencia en las donaciones mediante el uso de nuestra propia tecnología para impulsar la creación y mejora de nuestros propios sistemas.
 >
-> To remain ever vigilant for problems or threats to the system (both Giveth and the greater Ethereum community), vis-a-vis scammers, bugs or ongoing hacks
+> Permanecer siempre atento a los problemas o amenazas al sistema (tanto Giveth como a la gran comunidad de Ethereum), frente a estafadores, errores o hackeos continuos
 >
-> Something something Batman costume?
-
+> ¿Algo como disfraz de Batman?
 
 > **_~_**[**_Bowen Sanders_**](https://medium.com/u/64d9a5dda0f8?source=post_page-----19649c57c6aa--------------------------------)
 
 🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇🦇
 
-**Urban dictionary explains a unicorn as: The rare creature who is able to give you the thing you always wanted but thought you you could never have.**
+**El diccionario urbano explica un unicornio como: La criatura rara que es capaz de darte lo que siempre quisiste pero pensaste que nunca podrías tener.**
 
-> I feel that is at of the heart of Giveth. So many people from all over the globe are coming together to build a tool that will change the future in ways we thought we could never could; creating impact that was impossible not long ago.
+> Siento que está en el corazón de Giveth. Mucha gente de todo el mundo se está uniendo para construir una herramienta que cambiará el futuro de formas que pensamos que nunca podríamos; creando un impacto que era imposible no hace mucho tiempo.
 >
-> We see past borders, languages and currencies and are building a new way of helping each other without any of these traditional obstacles.
+> Vemos más allá de las fronteras, los idiomas y las monedas y estamos construyendo una nueva forma de ayudarnos unos a otros sin ninguno de estos obstáculos tradicionales.
 >
-> Giveth is for the do-er, the dreamer who desires to see their dream as reality, the heroes, and everyone out there who has a different expression of love.
-
+> Giveth es para el hacedor, el soñador que desea ver su sueño hecho realidad, los héroes y todos los que tienen una expresión diferente de amor.
 
 > **_~LinzeeLouu_**
 
 🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋
 
-> From an aid perspective:
+> Desde la perspectiva de la ayuda:
 >
-> Transparency: A completely transparent process!
+> Transparencia: ¡Un proceso completamente transparente!
 >
-> \-The ability to influence where your donations get spent!
+> \-¡La capacidad de influir en dónde se gastan sus donaciones!
 >
-> A great way to utilize new technologies.
+> Una gran manera de utilizar nuevas tecnologías.
 >
-> A platform that has immense possibilities…
+> Una plataforma que tiene inmensas posibilidades…
 >
-> The motto in my head keeps revolving around GivEth — Give ETH — Ethical Giving
+> El lema en mi cabeza sigue girando en torno a GivEth — Give ETH — Ethical Giving
 >
-> For GRACEaid the GivEth ideology aligns with our ethos and look forward to moving together.
+> Para GRACEaid, la ideología GivEth se alinea con nuestro espíritu y esperamos avanzar juntos.
 >
-> Supporting and promoting the ethos of GivEth as well as putting on the forefront of our work important issues like Refugees and destitute people.
-
+> Apoyar y promover el espíritu de GivEth, así como poner al frente de nuestro trabajo temas importantes como los refugiados y las personas sin recursos.
 
 > **~**[Andreas Papazidis](https://medium.com/u/91016de0eb58?source=post_page-----19649c57c6aa--------------------------------)
 
 👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼👨🏻‍💼
 
-> Decentralized community where everyone is encouraged to get involved in decision making.
+> Comunidad descentralizada donde se alienta a todos a involucrarse en la toma de decisiones.
 >
-> Dissolving the blurred gap between the giver and the receiver.
+> Disolver la brecha borrosa entre el que da y el que recibe.
 >
-> Our transparency causes everyone in the community to have good working relationships and a higher level of engagement.
+> Nuestra transparencia hace que todos en la comunidad tengan buenas relaciones de trabajo y un mayor nivel de compromiso.
 >
-> Offering coders of any skillset & level to contribute.
+> Ofreciendo codificadores de cualquier conjunto de habilidades y nivel para contribuir.
 >
-> Advancing the power and utilization of blockchain through open source code.
-
+> Avanzar en el poder y la utilización de la cadena de bloques a través del código fuente abierto.
 
 > **~Mandala Kitten**
 
 👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤👩🏼‍🎤
 
-There you have it 21 beautiful, thoughtful and truly inspiring visions of Giveth. If you want to find out more or you want to contribute 👇🏼
+Ahí lo tienen 21 visiones hermosas, reflexivas y verdaderamente inspiradoras de Giveth. Si quieres saber más o quieres aportar 👇🏼
 
+[**Únete a nuestra comunidad**](http://join.giveth.io/)**: al abordar temas interesantes, ¡puedes ayudarnos a impactar positivamente en las donaciones benéficas para siempre!**
 
-[**Join our community**](http://join.giveth.io/)**: by tackling interesting issues you can help us positively impact charitable giving forever!**
+* **Únete a nosotros en** [**Riot o Slack**](http://join.giveth.io/)
+* **Descubre nuestro** [**Sitio**](http://giveth.io/) **y** [**Wiki**](https://wiki.giveth.io/)
+* **Bifurque nuestro código en** [**Github**](http://github.com/Giveth/)
+* **Síguenos en** [**Medium**](http://medium.com/giveth/)**,** [**Facebook**](https://www.facebook.com/ givethio)**,** [**Twitter**](http://twitter.com/givethio) **y** [**Reddit**](https://www.reddit.com/r/ da/)
 
-*   **Join us on** [**Riot or Slack**](http://join.giveth.io/)
-*   **Discover our** [**Site**](http://giveth.io/) **and** [**Wiki**](https://wiki.giveth.io/)
-*   **Fork our code on** [**Github**](http://github.com/Giveth/)
-*   **Follow us on** [**Medium**](http://medium.com/giveth/)**,** [**Facebook**](https://www.facebook.com/givethio)**,** [**Twitter**](http://twitter.com/givethio) **and** [**Reddit**](https://www.reddit.com/r/giveth/)
-
-**Help us Build the Future of Giving: 🚀** [**Donate directly**](http://donate.giveth.io/) **🚀 or** [**buy a Ledger with our affiliate link**](https://www.ledgerwallet.com/products/ledger-nano-s?utm_source=&utm_medium=affiliate&utm_campaign=d663)
+**Ayúdanos a construir el futuro de las donaciones: 🚀** [**Dona directamente**](http://donate.giveth.io/) **🚀 o** [**compra un Ledger con nuestro enlace de afiliado* *](https://www.ledgerwallet.com/products/ledger-nano-s?utm_source=&utm_medium=afiliado&utm_campaign=d663)

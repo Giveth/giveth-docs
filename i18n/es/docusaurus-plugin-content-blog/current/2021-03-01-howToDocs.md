@@ -1,6 +1,6 @@
 ---
 slug: howToDocs    
-title: How to contribute to documentation
+title: Como contribuir a la documentación
 author: geleeroyale
 author_title: Giveth
 author_url: https://github.com/geleeroyale
@@ -10,54 +10,54 @@ tags: [how-to, documentation]
 
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
-Hello dear contributor!
+¡Hola querido colaborador!
 
-It is very easy to contribute to our new Giveth documentation website. We use [docusaurus v2](https://v2.docusaurus.io), so you can also refer to their documentation, especially for advanced changes.
+Es muy fácil contribuir a nuestro nuevo sitio web de documentación de Giveth. Usamos [docusaurus v2](https://v2.docusaurus.io), por lo que también puede consultar su documentación, especialmente para cambios avanzados.
 
-However - here are the simple ways to contribute:
+Sin embargo, estas son las formas simples de contribuir:
 
-## Change something in a page
+## Cambiar algo en una página
 
 <img
-  alt="Editing a page"
+  alt="Editar una página"
   src={useBaseUrl('img/content/screenshot-edit-page.png')}
 />;
 
-`Click` on the *Edit page* link at the bottom of any entry.
+`Haga clic` en el enlace *Editar página* en la parte inferior de cualquier entrada.
 
-## Add an image
+## Agrega una imagen
 
-If your content needs an image, you should place it in this folder: `static/img/content`
+Si su contenido necesita una imagen, debe colocarla en esta carpeta: `static/img/content`
 
-For relative links you should also import the `useBaseUrl` hook from @docusaurus/useBaseUrl - place it immediately after your *front matter*.
+Para los enlaces relativos, también debe importar el gancho `useBaseUrl` de @docusaurus/useBaseUrl; colóquelo inmediatamente después de su *importante*.
 
 ```js
-import useBaseUrl from '@docusaurus/useBaseUrl'
+importar useBaseUrl desde '@docusaurus/useBaseUrl'
 ```
 
-Then you can import the image - i.e. the image I used above to demonstrate the look of the edit link:
+Luego puede importar la imagen, es decir, la imagen que usé arriba para demostrar el aspecto del enlace de edición:
 
 ```js
 <img
-  alt="Editing a page"
+  alt="Editar una página"
   src={useBaseUrl('img/content/screenshot-edit-page.png')}
 />;
 ```
 
-## Make a new page
+## Hacer una nueva página
 
-In order for this to work nicely, please fork and clone from our main repository on github and make a pull request after you have made your changes.
+Para que esto funcione bien, haga un fork y clone desde nuestro repositorio principal en github y haga un Pull request después de haber realizado los cambios.
 
-Docusaurus will automatically create new pages from any added markdown (`.md`) files with the correct frontmatter (look at current pages to get an example).
+Docusaurus creará automáticamente nuevas páginas a partir de cualquier archivo de descuento agregado (`.md`) con el frente correcto (mire las páginas actuales para obtener un ejemplo).
 
-So to create a new page, you should create a new markdown document, depending on the type of content.
+Entonces, para crear una nueva página, debe crear un nuevo documento de descuento, según el tipo de contenido.
 
-- User guides should be created in the `guides` folder
-- Developer documentation should be created in the `docs` folder
-- Updates, content that does not easily fit other categories, as well as longer entries should go into the `blog` folder
+- Las guías de usuario deben crearse en la carpeta `guides`
+- La documentación del desarrollador debe crearse en la carpeta `docs`
+- Las actualizaciones, el contenido que no encaja fácilmente en otras categorías, así como las entradas más largas, deben ir a la carpeta `blog`
 
-If you want the entry to show up in the respective sidebar you will need to add the title to the existing array:
+Si desea que la entrada aparezca en la barra lateral respectiva, deberá agregar el título a la matriz existente:
 
-- `sidebars.js` for the docs section
-- `sidebarsGuides.js` for the guides section
- No newline at end of file
+- `sidebars.js` para la sección de documentos
+- `sidebarsGuides.js` para la sección de guías
+ Sin nueva línea al final del archivo

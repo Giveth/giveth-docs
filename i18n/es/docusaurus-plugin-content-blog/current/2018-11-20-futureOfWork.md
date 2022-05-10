@@ -66,7 +66,7 @@ Finalmente, para resaltar el cambio de la vida real al que nos enfrentamos a med
 
 ¿Estás listo para unirte a nosotros en el espacio de trabajo distribuido? Dirígete a [**The Bounties Network**](https://explorer.bounties.network/) y saluda. O incluso mejor, toma una recompensa por ti mismo. No solo buscamos programadores e informáticos. ¡Necesitamos gente de comunicación, gerentes de proyectos, escritores, diseñadores gráficos, porristas y más!
 
-¿Excavar el concepto de contenido de crowdsourcing y/o descentralizar All The Things? Únase a nosotros en el [**Chat de codificación social**](https://riot.im/app/#/room/#giveth-social-coding:matrix.org)) o descubra más sobre Giveth Galaxy justo [aquí ](http://giveth.io)!
+¿Excavar el concepto de contenido de crowdsourcing y/o descentralizar todas las cosas? Únase a nosotros en el [**Chat de codificación social**](https://riot.im/app/#/room/#giveth-social-coding:matrix.org)) o descubra más sobre Giveth Galaxy justo [aquí](http://giveth.io)!
 
 * Únete a Giveth en [Riot o Slack] (http://join.giveth.io)
 * Descubre nuestro [sitio](http://giveth.io/) y [wiki](https://wiki.giveth.io/)

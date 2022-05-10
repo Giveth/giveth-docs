@@ -1,6 +1,6 @@
 ---
 slug: futureofGiving
-title: The Future of Giving is Here
+title: El futuro de dar está aquí
 author: Lauren
 author_title: Blockchain DAbbler and Heart-Centered Jack of All Trades
 author_image_url: /img/laurenAuthor.png
@@ -11,54 +11,54 @@ import styles from '../src/css/custom.css'
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/ASv420Vf3F8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-We are very excited to announce the launch of Giveth at [giveth.io](https://giveth.io/) — a free, open-source donation application for community philanthropy featuring an all-new UI/UX.
+Estamos muy emocionados de anunciar el lanzamiento de Giveth en [giveth.io](https://giveth.io/), una aplicación de donación gratuita y de código abierto para la filantropía comunitaria que presenta una UI/UX completamente nueva.
 
 
-<img alt=""  src={useBaseUrl('img/blog/futureofGivingimg1.png')} width="575" height="auto" />
+<img alt="" src={useBaseUrl('img/blog/futureofGivingimg1.png')} width="575" height="auto" />
 
-###### Photo by [Giveth](https://giveth.io/)
+###### Foto de [Giveth](https://giveth.io/)
 
-Giveth is known for being radically transparent, community-owned and community-driven. Our flagship DApp (live for 3 years at beta.giveth.io) is now being rebranded as “Giveth TRACE”. Giveth TRACE offers a platform for peer-to-peer donations on the blockchain with detailed traceability for “Givers” and mutual aid projects. However, it does require some knowledge of Ethereum and wallet management.
+Giveth es conocido por ser radicalmente transparente, propiedad de la comunidad e impulsado por la comunidad. Nuestro DApp insignia (en vivo durante 3 años en beta.giveth.io) ahora se renombra como "Giveth TRACE". Giveth TRACE ofrece una plataforma para donaciones de igual a igual en la cadena de bloques con trazabilidad detallada para "donantes" y proyectos de ayuda mutua. Sin embargo, requiere cierto conocimiento de Ethereum y administración de billeteras.
 
-**_With the new Giveth, project owners anywhere in the world can publish an online profile and start accepting donations within minutes._**
+**_Con el nuevo Giveth, los propietarios de proyectos en cualquier parte del mundo pueden publicar un perfil en línea y comenzar a aceptar donaciones en cuestión de minutos._**
 
-<img alt=""  src={useBaseUrl('img/blog/futureofGivingmeme1.jpeg')} width="500" height="auto" />
+<img alt="" src={useBaseUrl('img/blog/futureofGivingmeme1.jpeg')} width="500" height="auto" />
 
-###### Image Credit: Grandma Finds the Internet via [imgflip](https://imgflip.com/)
+###### Crédito de la imagen: la abuela encuentra Internet a través de [imgflip](https://imgflip.com/)
 
-<img alt="" class="leftfloat"  src={useBaseUrl('img/blog/futureofGivingSignIn.png')} width="375" height="auto"  />
+<img alt="" class="leftfloat" src={useBaseUrl('img/blog/futureofGivingSignIn.png')} width="375" height="auto" />
 
-###### Screenshot taken from [Giveth](https://giveth.io/)
+###### Captura de pantalla tomada de [Giveth](https://giveth.io/)
 
-Both Torus and MetaMask wallets are fully integrated into the DApp, meaning that a blockchain newbie can create a wallet with Torus by signing in via social media as easily as the crypto-savvy can sign in with their MetaMask browser extension. Torus integration also means that Giveth is compatible with mobile and a wide range of desktop browsers.
+Tanto las billeteras Torus como MetaMask están completamente integradas en la DApp, lo que significa que un novato en blockchain puede crear una billetera con Torus iniciando sesión a través de las redes sociales tan fácilmente como los expertos en criptografía pueden iniciar sesión con su extensión de navegador MetaMask. La integración de Torus también significa que Giveth es compatible con dispositivos móviles y una amplia gama de navegadores de escritorio.
 
-Once logged in, a “Maker” can follow the highly intuitive step-by-step project creation flow and begin raising funds in crypto right away with zero fees added by Giveth.
+Una vez que haya iniciado sesión, un "Creador" puede seguir el flujo de creación de proyectos paso a paso altamente intuitivo y comenzar a recaudar fondos en criptografía de inmediato sin tarifas añadidas por Giveth.
 
-**_100% of every donation goes directly to the project. This way, together, we can make the world a better place._**
+**_100% de cada donación va directamente al proyecto. De esta manera, juntos, podemos hacer del mundo un lugar mejor._**
 
-<img alt=""  src={useBaseUrl('img/blog/futureofGivingmeme2.jpeg')} width="500" height="auto" />
+<img alt="" src={useBaseUrl('img/blog/futureofGivingmeme2.jpeg')} width="500" height="auto" />
 
-###### Image Credit: Imagination Spongebob via [imgflip](https://imgflip.com/)
+###### Crédito de la imagen: Imagination Spongebob a través de [imgflip](https://imgflip.com/)
 
-We have really made it easy for you to give to the regenerative projects you love! Anyone can become a Giver simply by clicking donate and connecting to their preferred wallet.  New to crypto? No worries! Torus integration makes it possible for you to top-up your crypto wallet easily with fiat.
+¡Realmente te lo hemos puesto fácil para dar a los proyectos regenerativos que amas! Cualquiera puede convertirse en Donante simplemente haciendo clic en Donar y conectándose a su billetera preferida. ¿Nuevo en criptografía? ¡No hay problema! La integración de Torus le permite recargar su monedero criptográfico fácilmente con fiat.
 
-For all Givers, to save and track your donations you need only to sign in with Torus or MetaMask and all that you give will be visible in your account. Your generosity shall be forever immortalized transparently on the Ethereum blockchain!
+Para todos los donantes, para guardar y realizar un seguimiento de sus donaciones, solo necesita iniciar sesión con Torus o MetaMask y todo lo que dé será visible en su cuenta. ¡Tu generosidad quedará inmortalizada para siempre de forma transparente en la cadena de bloques de Ethereum!
 
-<img alt=""  src={useBaseUrl('img/blog/futureofGivingGiver.png')} width="auto" height="auto" />
+<img alt="" src={useBaseUrl('img/blog/futureofGivingGiver.png')} width="auto" height="auto" />
 
-###### Screenshot taken from [Giveth](https://giveth.io/)
+###### Captura de pantalla tomada de [Giveth](https://giveth.io/)
 
-**_At Giveth we are committed to building the future of giving based on feedback from you, our community._**
+**_En Giveth estamos comprometidos a construir el futuro de las donaciones basándonos en los comentarios de ustedes, nuestra comunidad._**
 
-In the next months as we continue to hone the user experience and squash any bugs we encounter while on-boarding new projects, we want to hear what we can do better to make Giveth the best user-friendly DApp for peer-to-peer donations.
+En los próximos meses, a medida que continuamos perfeccionando la experiencia del usuario y eliminando cualquier error que encontremos al incorporar nuevos proyectos, queremos saber qué podemos hacer mejor para hacer de Giveth la mejor DApp fácil de usar para donaciones entre pares. .
 
-So head over to [giveth.io](http://giveth.io), try it out for yourself, and let us know what you think!
+Así que dirígete a [giveth.io](http://giveth.io), pruébalo tú mismo y cuéntanos lo que piensas.
 
-## Want to get more involved?
+## ¿Quieres conseguir estar mas implicado?
 
-*   Join us on [Discord](https://discord.gg/JftjK8Un3z) or [Telegram](http://t.me/givethio)
-*   Discover our [Site](http://giveth.io/) and [Wiki](https://wiki.giveth.io/)
-*   Fork our code on [GitHub](https://github.com/Giveth/)
-*   Follow us on [Medium](http://medium.com/giveth/), [Facebook](https://www.facebook.com/givethio), [Twitter](http://twitter.com/givethio) and [Reddit](https://www.reddit.com/r/giveth/)
+* Únase a nosotros en [Discord](https://discord.gg/JftjK8Un3z) o [Telegram](http://t.me/givethio)
+* Descubra nuestro [Sitio](http://giveth.io/) y [Wiki](https://wiki.giveth.io/)
+* Bifurca nuestro código en [GitHub](https://github.com/Giveth/)
+* Síguenos en [Medio](http://medium.com/giveth/), [Facebook](https://www.facebook.com/givethio), [Twitter](http://twitter.com/givethio ) y [Reddit](https://www.reddit.com/r/giveth/)
 
-Help us Build the Future of Giving: 🦄 [Donate directly](http://donate.giveth.io/) 🦄 or [buy a Ledger with our affiliate link](https://www.ledgerwallet.com/products/ledger-nano-s?utm_source=&utm_medium=affiliate&utm_campaign=d663)
+Ayúdanos a construir el futuro de las donaciones: 🦄 [Dona directamente](http://donate.giveth.io/) 🦄 o [compra un Ledger con nuestro enlace de afiliado](https://www.ledgerwallet.com/products/ledger-nano-s?utm_source=&utm_medium=afiliado&utm_campaign=d663)
