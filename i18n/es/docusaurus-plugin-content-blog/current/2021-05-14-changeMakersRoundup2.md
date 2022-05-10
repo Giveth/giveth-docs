@@ -1,6 +1,6 @@
 ---
 slug: changeMakersRoundup2
-title: "Change-Maker Submissions — Round Up #2!"
+title: "Presentaciones de agentes de cambio: ¡ronda 2!"
 author: Mitch
 author_image_url: /img/mitchAuthor.jpeg
 image: /img/blog/changeMakersRoundup1Meme1.png
@@ -10,58 +10,58 @@ import styles from '../src/css/custom.css'
 
 <img alt="Cowboy Rounding up Submissions" class="leftfloat" src={useBaseUrl('img/blog/changeMakersRoundup2img1.jpg')} width="450" height="auto" />
 
-We asked our community to add their projects to [giveth.io](https://giveth.io/) and [share their stories](2021-04-15-change-makers.md) about how they are changing the world for the better using #giveth4change. Keep reading for our second round of submissions, or [submit your story](2021-04-15-change-makers.md) via [twitter](https://twitter.com/Givethio) or [reddit](https://www.reddit.com/r/giveth/) to be featured in our next round up.
+Le pedimos a nuestra comunidad que agregue sus proyectos a [giveth.io](https://giveth.io/) y [comparta sus historias](2021-04-15-change-makers.md) sobre cómo están cambiando el mundo para mejor usando #giveth4change. Siga leyendo para nuestra segunda ronda de envíos, o [envíe su historia](2021-04-15-change-makers.md) a través de [twitter](https://twitter.com/Givethio) o [reddit](https://www.reddit.com/r/giveth/) para aparecer en nuestro próximo resumen.
 
-It’s an absolute pleasure to have the opportunity to highlight another batch of great projects shaking things up out in the world! We have **four** awesome submissions for this period that we would like to share. Let’s check them out:
+¡Es un placer absoluto tener la oportunidad de destacar otro lote de grandes proyectos que están sacudiendo las cosas en el mundo! Tenemos **cuatro** presentaciones increíbles para este período que nos gustaría compartir. Vamos a verlos:
 
 ***
 
-<img alt="Diamante Luz Center for Regenerative Living" src={useBaseUrl('img/blog/dluz.png')}  />
+<img alt="Centro Diamante Luz para la Vida Regenerativa" src={useBaseUrl('img/blog/dluz.png')} />
 
-## **Diamante Luz Center for Regenerative Living**
+## **Centro Diamante Luz para la Vida Regenerativa**
 
-is gathering passionate individuals who care about land stewardship and building conscious, intentional communities. They are catalyzing action to restore lands and protect water resources. Based in the Diamante Valley, Costa Rica, their goal is to strengthen connections to local culture and lands by building an integrated village designed to support human development and regenerate local ecosystems. They are nurturing holistic ways of living in order to live in harmony with humanity and Mother Earth. [Make a donation to the Diamante Luz Center on Giveth.io](https://giveth.io/project/diamante-luz-center-for-regenerative-living/)!
+está reuniendo a personas apasionadas que se preocupan por la administración de la tierra y la construcción de comunidades conscientes e intencionales. Están catalizando acciones para restaurar tierras y proteger los recursos hídricos. Con sede en el Valle del Diamante, Costa Rica, su objetivo es fortalecer las conexiones con la cultura y las tierras locales mediante la construcción de un pueblo integrado diseñado para apoyar el desarrollo humano y regenerar los ecosistemas locales. Están fomentando formas holísticas de vivir para vivir en armonía con la humanidad y la Madre Tierra. [Haz una donación al Centro Diamante Luz en Giveth.io](https://giveth.io/project/diamante-luz-center-for-regenerative-living/)!
 
-<img alt="The Commons Simulator" src={useBaseUrl('img/blog/commonsSimulator.png')}  />
+<img alt="Simulador de Commons" src={useBaseUrl('img/blog/commonsSimulator.png')} />
 
-## **The Commons Simulator**
+## **El simulador de los comunes**
 
-is a gamified computation tool powered by a cadCAD backend that blends art and simulation into a choose-your-own-adventure sci-fi storyline. In the game, you travel back in time to use cadCAD as a tool to help a community design a regenerative Commons with the potential to save the world from total planetary and economic destruction. The first level is live and you can play it right now on [https://sim.commonsstack.org](https://sim.commonsstack.org).
+es una herramienta de computación gamificada impulsada por un backend de cadCAD que combina arte y simulación en una historia de ciencia ficción de elige tu propia aventura. En el juego, viajas en el tiempo para usar cadCAD como una herramienta para ayudar a una comunidad a diseñar un Bien Común regenerativo con el potencial de salvar al mundo de la destrucción planetaria y económica total. El primer nivel está disponible y puedes jugarlo ahora mismo en [https://sim.commonsstack.org](https://sim.commonsstack.org).
 
-Developed by the Commons Stack Dev community, the Commons Simulator illustrates one of the core missions of the Commons Stack: Empowering communities to design their own economies using open source simulation tools. Donations to this project on Giveth will go towards expanding the game by adding another level with a new story and new mechanics, such as the [Augmented Bonding Curve](https://medium.com/giveth/deep-dive-augmented-bonding-curves-3f1f7c1fa751). [Help the Commons Simulator ‘Level Up’ by making a donation on Giveth!](https://giveth.io/project/the-commons-simulator/)
+Desarrollado por la comunidad Commons Stack Dev, Commons Simulator ilustra una de las misiones principales de Commons Stack: empoderar a las comunidades para que diseñen sus propias economías utilizando herramientas de simulación de código abierto. Las donaciones a este proyecto en Giveth se destinarán a expandir el juego agregando otro nivel con una nueva historia y nuevas mecánicas, como la [Curva de vinculación aumentada] (https://medium.com/giveth/deep-dive-augmented-bonding -curvas-3f1f7c1fa751). [¡Ayuda a Commons Simulator a subir de nivel haciendo una donación en Giveth!](https://giveth.io/project/the-commons-simulator/)
 
-<img alt="AmwFund" src={useBaseUrl('img/blog/amwFund.png')}  />
+<img alt="AmwFund" src={useBaseUrl('img/blog/amwFund.png')} />
 
-## **AmwFund**
+## **Fondo Amw**
 
-is a registered 501(c)(3) non-profit managed by Craig Anderson. It is a digital asset fundraising ecosystem that is the primary fundraising entity for the AM Winn Community Public School based in Sacramento, California. It’s parent entity, the AM Winn Community Guild, serves primarily low-income and otherwise disadvantaged communities. They facilitate several projects relating to public education funding utilizing the potential of digital assets, NFTs and DeFi protocols. [Find out more info and make a donation to AmwFund on Giveth](https://giveth.io/project/amwfund/)!
+es una organización sin fines de lucro registrada 501(c)(3) administrada por Craig Anderson. Es un ecosistema de recaudación de fondos de activos digitales que es la principal entidad de recaudación de fondos para la Escuela Pública Comunitaria AM Winn con sede en Sacramento, California. Su entidad matriz, AM Winn Community Guild, atiende principalmente a comunidades de bajos ingresos y desfavorecidas. Facilitan varios proyectos relacionados con la financiación de la educación pública utilizando el potencial de los activos digitales, NFT y protocolos DeFi. [Obtenga más información y haga una donación a AmwFund en Giveth](https://giveth.io/project/amwfund/)!
 
 <img alt="Njombe Beyond" src={useBaseUrl('img/blog/njombeBeyond.png')}  />
 
-## **Njombe Beyond**
+## **Njombe más allá**
 
 
-aims to tackle waste management challenges in Njombe, a town of 40,000 in southwest Tanzania. A common challenge in Tanzania is solid waste management, including in Njombe. Mettodo, the project’s creator states:
+tiene como objetivo abordar los desafíos de la gestión de residuos en Njombe, una ciudad de 40.000 habitantes en el suroeste de Tanzania. Un desafío común en Tanzania es la gestión de desechos sólidos, incluso en Njombe. Mettodo, el creador del proyecto afirma:
 
-> ‘ 35 tons of solid waste is generated daily by the town: 28 tons are taken to a dumpsite, where the waste is usually burned . . . 10 % of the solid waste is plastic waste: 3,500 kg of per day, which is equal to 1000 tons of plastic waste every year.’
+> ‘Diariamente se generan 35 toneladas de residuos sólidos en el municipio: 28 toneladas se llevan a un basurero, donde generalmente se queman los residuos. . . El 10 % de los residuos sólidos son residuos plásticos: 3500 kg al día, lo que equivale a 1000 toneladas de residuos plásticos al año».
 
-Njombe Beyond is working hard to reduce the plastic wasted in Njombe town. Their three specific objectives are:
+Njombe Beyond está trabajando arduamente para reducir el desperdicio de plástico en la ciudad de Njombe. Sus tres objetivos específicos son:
 
-*   Establish a small scale value chain for recycling plastics within the local community.
-*   Collaborate with stakeholders of the program and ensure fair working conditions.
-*   Involve schools and local communities in Njombe Beyond to bring awareness to the problems and opportunities of plastic waste.
+* Establecer una cadena de valor a pequeña escala para reciclar plásticos dentro de la comunidad local.
+* Colaborar con las partes interesadas del programa y garantizar condiciones de trabajo justas.
+* Involucrar a las escuelas y las comunidades locales en Njombe Beyond para generar conciencia sobre los problemas y oportunidades de los desechos plásticos.
 
-[Check out Njombe Beyond’s project on Giveth!](https://giveth.io/project/njombe-beyond)
+[¡Mira el proyecto de Njombe Beyond en Giveth!](https://giveth.io/project/njombe-beyond)
 
-When we first set out on the change-maker campaign we had decided to wrap things up on the 12th of May, but after some discussion we have decided to **extend the change-maker campaign** indefinitely. It’s an amazing opportunity to engage with our community and celebrate the amazing projects happening on [Giveth.io](http://giveth.io). If you’d like to learn how to participate [check out the original medium post](2021-04-15-change-makers.md) for more details on getting your project featured in our submission round-ups!
+Cuando empezamos por primera vez con la campaña de creadores de cambios, habíamos decidido concluir el 12 de mayo, pero después de discutirlo, decidimos **extender la campaña de creadores de cambios** indefinidamente. Es una oportunidad increíble para interactuar con nuestra comunidad y celebrar los increíbles proyectos que se llevan a cabo en [Giveth.io](http://giveth.io). Si desea obtener más información sobre cómo participar [consulte la publicación original del medio](2021-04-15-change-makers.md) para obtener más detalles sobre cómo presentar su proyecto en nuestros resúmenes de presentaciones.
 
 <img alt="Heman wants you to make a submission!" class="center" src={useBaseUrl('img/blog/changeMakersRoundup2Meme2.png')} width="500" height="auto" />
 
-## Want to get more involved?
+## ¿Quieres conseguir más implicado?
 
-*   Join us on [Discord](https://discord.gg/JftjK8Un3z) or [Telegram](http://t.me/givethio)
-*   Discover our [Site](http://giveth.io/), [Docs](https://docs.giveth.io/) and [Wiki](https://wiki.giveth.io/)
-*   Fork our code on [GitHub](https://github.com/Giveth/)
-*   Follow us on [Medium](http://medium.com/giveth/), [Facebook](https://www.facebook.com/givethio), [Twitter](http://twitter.com/givethio) and [Reddit](https://www.reddit.com/r/giveth/)
+* Únase a nosotros en [Discord](https://discord.gg/JftjK8Un3z) o en [Telegram](http://t.me/givethio)
+* Descubra nuestro [Sitio](http://giveth.io/), [Docs](https://docs.giveth.io/) y [Wiki](https://wiki.giveth.io/)
+* Bifurca nuestro código en [GitHub](https://github.com/Giveth/)
+* Síguenos en [Medio](http://medium.com/giveth/), [Facebook](https://www.facebook.com/givethio), [Twitter](http://twitter.com/givethio ) y [Reddit](https://www.reddit.com/r/giveth/)
 
-Help us Build the Future of Giving: 🦄 [Donate directly](http://donate.giveth.io/) 🦄 or [buy a Ledger with our affiliate link](https://www.ledgerwallet.com/products/ledger-nano-s?utm_source=&utm_medium=affiliate&utm_campaign=d663)
+Ayúdanos a construir el futuro de las donaciones: 🦄 [Dona directamente](http://donate.giveth.io/) 🦄 o [compra un Ledger con nuestro enlace de afiliado](https://www.ledgerwallet.com/products/ledger-nano-s?utm_source=&utm_medium=afiliado&utm_campaign=d663)
