@@ -50,7 +50,7 @@ Giveth uses the **UnipoolTokenDistro**, a derivative of the *Unipool* smart cont
 
 Generally, the Unipool contract rewards stakers based on the liquidity they have staked. The liquidity token is named `uni` deposited by stakers, and can be any token such as native token (e.g. GIV, FOX, ...)  or a LP token obtained by staking in a pool (e.g. UniswapV2, SushiSwap, HoneySwap, ...).
 
-The Unipool reward amount is set by calling the `notifyRewardAmount(uint256 reward)` method by the admin role. Each time this method is called, the Unipool will set to disperse rewards in the `duration` length period to stakers. Therefore, admins need to regularly call `notifyRewardAmount` to keep a positive reward rate, and adjust the reward rate as it can be different on each round.
+The Unipool reward amount is set by calling the `notifyRewardAmount(uint256 reward)` method by the **rewardDistribution**. **rewardDistribution** can be set by the **owner** role and in the deployment script, deployer set its own address as **rewardDistribution** by default. Each time this method is called, the Unipool will set to disperse rewards in the `duration` length period to stakers. Therefore, the reward distributor need to regularly call `notifyRewardAmount` to keep a positive reward rate, and adjust the reward rate as it can be different on each round.
 Each instance of the **UnipoolTokenDistro** is deployed with these configuration parameters:
 
 * **TokenDistro Address:** The address of deployed TokenDistro instance.
