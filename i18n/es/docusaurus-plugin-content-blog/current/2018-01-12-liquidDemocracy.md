@@ -24,7 +24,7 @@ Como ejemplo, tome una estudiante universitaria ocupada que simplemente no tiene
 Giveth es un campo de juego perfecto para implementar la democracia líquida
 ================================================== ==============
 
-Por supuesto, la razón por la que explicamos la democracia líquida es porque es una de las tecnologías centrales que inspiraron el sistema [Liquid Pledging](https://github.com/Giveth/liquidpledging) de Giveth, y lo vemos como un edificio importante bloque para la gobernanza de [DAC](https://medium.com/giveth/giveth-introduces-decentralized-altruistic-communities-dacs-d1155a79bdc4).
+Por supuesto, la razón por la que explicamos la democracia líquida es porque es una de las tecnologías centrales que inspiraron el sistema [Liquid Pledging](https://github.com/Giveth/liquidpledging) de Giveth, y lo vemos como un edificio importante, para la gobernanza de [DAC](https://medium.com/giveth/giveth-introduces-decentralized-altruistic-communities-dacs-d1155a79bdc4).
 
 Si bien no hay una votación inherente a la capa base de Giveth, existe la oportunidad de utilizar un sistema de gobernanza como la democracia líquida en los diversos roles que actualmente desempeñan personas como [Delegados o revisores](https://medium.com/giveth/what-is-the-future-of-giving-d50446b0a0e4). Esto significaría que un delegado, en lugar de ser una sola persona, se convertiría en un contrato inteligente que tiene una democracia líquida incorporada para que los donantes puedan elegir varios delegados para decidir qué proyectos se financian (probablemente usaremos un modelo de "plutocracia líquida" , cuanto más dones, más votos obtendrás).
 
