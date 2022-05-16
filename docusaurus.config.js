@@ -1,5 +1,5 @@
-const math = require('remark-math');
-const katex = require('rehype-katex');
+const math = require('remark-math')
+const katex = require('rehype-katex')
 
 module.exports = {
   title: 'Giveth Docs',
@@ -11,7 +11,39 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'giveth', // Usually your GitHub org/user name.
   projectName: 'giveth-docs', // Usually your repo name.
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'es', 'de', 'pt'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+        direction: 'ltr',
+        htmlLang: 'en-US'
+      },
+      // You can omit a locale (e.g. fr) if you don't need to override the defaults
+      es: {
+        label: 'Español',
+        direction: 'ltr',
+        htmlLang: 'es-MX'
+      },
+      pt: {
+        label: 'Portugués',
+        direction: 'ltr',
+        htmlLang: 'pt-BR'
+      },
+      de: {
+        label: 'Deutsch',
+        direction: 'ltr',
+        htmlLang: 'de-DE'
+      }
+    }
+  },
   themeConfig: {
+    docs: {
+      sidebar: {
+        hideable: true
+      }
+    },
     algolia: {
       apiKey: 'fe5b34ba5c3a21a81a7e6f77e6bb1b5e',
       indexName: 'giveth',
@@ -26,12 +58,6 @@ module.exports = {
       searchParameters: {}
 
       //... other Algolia params
-    },
-    docs: {
-      sidebar: {
-        hideable: true,
-
-      }
     },
     navbar: {
       title: 'Giveth Documentation',
@@ -53,10 +79,10 @@ module.exports = {
           position: 'left'
         },
         {
-        to: 'giveconomy/',
-        activeBasePath: 'giveconomy',
-        label: 'GIVeconomy',
-        position: 'left'
+          to: 'giveconomy/',
+          activeBasePath: 'giveconomy',
+          label: 'GIVeconomy',
+          position: 'left'
         },
         {
           href: 'https://giveth.recruitee.com/',
@@ -73,7 +99,10 @@ module.exports = {
           label: 'Blog',
           position: 'left'
         },
-
+        {
+          type: 'localeDropdown',
+          position: 'right'
+        },
         {
           href: 'https://github.com/giveth/giveth-docs',
           label: 'GitHub',
@@ -98,7 +127,7 @@ module.exports = {
             {
               label: 'GIVeconomy',
               to: 'giveconomy/'
-          }
+            }
           ]
         },
         {
@@ -145,12 +174,10 @@ module.exports = {
         routeBasePath: '/',
 
         sidebarPath: require.resolve('./sidebarsDapps.js'),
-
         showLastUpdateAuthor: true,
-
         showLastUpdateTime: true,
         remarkPlugins: [math],
-        rehypePlugins: [katex],
+        rehypePlugins: [katex]
       }
     ],
     [
@@ -175,14 +202,13 @@ module.exports = {
     [
       '@docusaurus/plugin-content-docs',
       {
-
         id: 'newsletter',
         routeBasePath: 'newsletter',
         sidebarPath: require.resolve('./sidebarNewsletter.js'),
 
-        path: 'newsletter',
-      },
-    ],
+        path: 'newsletter'
+      }
+    ]
     // [
     //   '@docusaurus/plugin-content-docs',
     //
@@ -236,14 +262,15 @@ module.exports = {
         theme: {
           customCss: require.resolve('./src/css/custom.css')
         }
-      },
-    ],
+      }
+    ]
   ],
   stylesheets: [
     {
-        href: "https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css",
-        integrity: "sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc",
-        crossorigin: "anonymous",
-    },
-  ],
+      href: 'https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css',
+      integrity:
+        'sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc',
+      crossorigin: 'anonymous'
+    }
+  ]
 }

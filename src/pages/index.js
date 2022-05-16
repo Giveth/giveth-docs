@@ -5,16 +5,22 @@ import Link from '@docusaurus/Link'
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext'
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from './styles.module.css'
-import {useColorMode} from '@docusaurus/theme-common';
+import { useColorMode } from '@docusaurus/theme-common'
+import Translate, { translate } from '@docusaurus/Translate'
 
 const features = [
   {
-    title: 'What is Giveth?',
+    title: <Translate>'What is Giveth?'</Translate>,
     slug: 'whatisgiveth/',
     id: 'whatisgiveth',
     description: (
       <>
-        <p id='introText'>Everything you need to know about how we do things at Giveth. If you're a new contributor, start here!</p>
+        <p id='introText'>
+          <Translate>
+            Everything you need to know about how we do things at Giveth. If
+            you're a new contributor, start here!
+          </Translate>
+        </p>
       </>
     )
   },
@@ -24,7 +30,10 @@ const features = [
     id: 'dapps',
     description: (
       <>
-        User Guides, Developer Documentation and all things technical for Giveth.io and Giveth TRACE.
+        <Translate>
+          User Guides, Developer Documentation and all things technical for
+          Giveth.io and Giveth TRACE.
+        </Translate>
       </>
     )
   },
@@ -34,14 +43,17 @@ const features = [
     id: 'giveconomy',
     description: (
       <>
-        All you need to know about the GIVeconomy; contract addresses, functionality, tutorials and more!
+        <Translate>
+          All you need to know about the GIVeconomy; contract addresses,
+          functionality, tutorials and more!
+        </Translate>
       </>
     )
   }
 ]
 function Feature ({ imageUrl, slug, id, title, description }) {
-  const {isDarkTheme} = useColorMode();
-  let imgUrl = useBaseUrl(imageUrl);
+  // const {isDarkTheme} =  ();
+  let imgUrl = useBaseUrl(imageUrl)
   // if(id === 'whatisgiveth' && isDarkTheme){
   //   imgUrl = useBaseUrl('img/givethLogoWhite.svg')
   //  }
@@ -55,8 +67,12 @@ function Feature ({ imageUrl, slug, id, title, description }) {
     <div className={clsx('col col--4', styles.feature)}>
       {imgUrl && (
         <div className='text--center'>
-            <img className={styles.featureImage} id={styles[id]} src={imgUrl} alt={title} />
-
+          <img
+            className={styles.featureImage}
+            id={styles[id]}
+            src={imgUrl}
+            alt={title}
+          />
         </div>
       )}
 
@@ -74,15 +90,23 @@ function Feature ({ imageUrl, slug, id, title, description }) {
 
 function Home () {
   const context = useDocusaurusContext()
-  const { siteConfig = {} } = context;
+  const { siteConfig = {} } = context
   function HeaderContent () {
-      const {isDarkTheme} = useColorMode();
-      return (
-        <header className={clsx('hero hero--primary', styles.heroBanner )} style={{backgroundImage: isDarkTheme && "url('/img/GivethDocsLogo.svg')"   }}>
-          <div className='container hero--primary'>
-            <div className={styles.formatHero} style={{color: isDarkTheme && "white" }}>
-              <h1 className='hero__title'>{siteConfig.title}</h1>
-                <p className='hero__subtitle'>{siteConfig.tagline}</p>
+    const { isDarkTheme } = useColorMode()
+    return (
+      <header
+        className={clsx('hero hero--primary', styles.heroBanner)}
+        style={{
+          backgroundImage: isDarkTheme && "url('/img/GivethDocsLogo.svg')"
+        }}
+      >
+        <div className='container hero--primary'>
+          <div
+            className={styles.formatHero}
+            style={{ color: isDarkTheme && 'white' }}
+          >
+            <h1 className='hero__title'>{siteConfig.title}</h1>
+            <p className='hero__subtitle'>{siteConfig.tagline}</p>
 
             <div className={styles.buttons}>
               <Link
@@ -94,19 +118,19 @@ function Home () {
               >
                 Get Started
               </Link>
-             </div>
             </div>
           </div>
-        </header>
-      )
-    }
+        </div>
+      </header>
+    )
+  }
 
   return (
     <Layout
       title={`${siteConfig.title}`}
       description='Comprehensive Documentation for Contributors and Developers to the Giveth DApps and about Giveth as an organisation'
     >
-      <HeaderContent  siteConfig={siteConfig}/>
+      <HeaderContent siteConfig={siteConfig} />
       <main>
         {features && features.length > 0 && (
           <section className={styles.features}>
