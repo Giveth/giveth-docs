@@ -27,7 +27,12 @@ module.exports = {
 
       //... other Algolia params
     },
-    hideableSidebar: true,
+    docs: {
+      sidebar: {
+        hideable: true,
+
+      }
+    },
     navbar: {
       title: 'Giveth Documentation',
       logo: {
