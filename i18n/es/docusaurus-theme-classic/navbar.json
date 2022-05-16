@@ -1,0 +1,34 @@
+{
+  "title": {
+    "message": "Documentación de Giveth",
+    "description": "The title in the navbar"
+  },
+  "item.label.What is Giveth?": {
+    "message": "Que es Giveth?",
+    "description": "Navbar item with label What is Giveth?"
+  },
+  "item.label.DApps": {
+    "message": "DApps",
+    "description": "Navbar item with label DApps"
+  },
+  "item.label.GIVeconomy": {
+    "message": "GIVeconomy",
+    "description": "Navbar item with label GIVeconomy"
+  },
+  "item.label.Jobs": {
+    "message": "Trabajos",
+    "description": "Navbar item with label Jobs"
+  },
+  "item.label.Newsletter": {
+    "message": "Boletin",
+    "description": "Navbar item with label Newsletter"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
