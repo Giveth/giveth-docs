@@ -1,150 +1,151 @@
 ---
 id: meetingsGuide
-title: Meetings Guide
+title: Guía para reuniones 
 ---
 
-## Meeting Planning
-* Please announce the meeting a few days in advance. You might want to use the advice process and [Doodle](https://doodle.com/dashboard) to find a date if the meeting is not regular.
-* Be sure that there is at least one person taking notes in the meeting.
-* Be sure that there will be somebody present who is capable of streaming the meeting.
-* We use [Interspace](http://breakout.interspace.chat/) or [Discord](https://discord.gg/cCsYnNDkq2) for our meetings.
-* Please don't forget to announce the meeting in the #scheduling channel of Discord before you begin.
-* There should always be an introductory round and a closing round.
-* After the meeting, please make sure the notes are saved in [Notion](https://www.notion.so/giveth/Giveth-2c97e0eca91e43238565c8f79dfe5e8d), a link to the notes is posted in the #meetingnotes channel of Discord, and the video is published to our [Transparency YouTube channel](https://www.youtube.com/channel/UCdqmP4axeI1hNmX20aZsOwg).
+## Planificación de reuniones
+* Por favor, anuncie la reunión con unos días de antelación. Es posible que desee utilizar el proceso de asesoramiento y [Doodle](https://doodle.com/dashboard) para encontrar una fecha si la reunión no es regular.
+* Asegúrese de que haya al menos una persona tomando notas en la reunión.
+* Asegúrese de que haya alguien presente que pueda transmitir la reunión.
+* Usamos [Interspace](http://breakout.interspace.chat/) o [Discord](https://discord.gg/cCsYnNDkq2) para nuestras reuniones.
+* No olvide anunciar la reunión en el canal #scheduling de Discord antes de comenzar.
+* Siempre debe haber una ronda de introducción y una ronda de cierre.
+* Después de la reunión, asegúrese de guardar las notas en [Notion](https://www.notion.so/giveth/Giveth-2c97e0eca91e43238565c8f79dfe5e8d), se publique un enlace a las notas en el canal #meetingnotes de Discord, y el video se publica en nuestro [canal de YouTube de transparencia](https://www.youtube.com/channel/UCdqmP4axeI1hNmX20aZsOwg).
 
-## Note Taking
-* There should be a designated note taker for each meeting.
-* We use [Notion](https://www.notion.so/giveth/Giveth-2-0-2c97e0eca91e43238565c8f79dfe5e8d) for record keeping of our meeting notes.
+## Tomar nota
+* Debe haber un tomador de notas designado para cada reunión.
+* Usamos [Notion](https://www.notion.so/giveth/Giveth-2-0-2c97e0eca91e43238565c8f79dfe5e8d) para el mantenimiento de registros de nuestras notas de reuniones.
 
-## Streaming and Video Recording
+## Transmisión y grabación de video
 
-We record and/or livestream our online video conferences for record keeping, to support our team and to uphold our values of transparency and accountability. You can find recordings of our meetings on the [Giveth Trasnparency YouTube Channel](https://www.youtube.com/channel/UCdqmP4axeI1hNmX20aZsOwg).
-
-
-#### How to record meetings for Giveth Transparency:
+Grabamos y/o transmitimos en vivo nuestras videoconferencias en línea para el mantenimiento de registros, para apoyar a nuestro equipo y defender nuestros valores de transparencia y responsabilidad. Puede encontrar grabaciones de nuestras reuniones en el [Canal de YouTube de Giveth Transparency](https://www.youtube.com/channel/UCdqmP4axeI1hNmX20aZsOwg).
 
 
-* We use OBS to livestream and record our video calls. You can download it [here](https://obsproject.com/).
-* During installation select "Optimize for streaming, recording is secondary".
-* Select YouTube as the streaming service and input the Giveth Transparency YouTube Stream Key. If you need access to the Stream Key, please ask one of our team members.
-* In general, the recommending settings in the setup wizard are already optimized for your device, but feel free to adjust them.
-* Setup your video and audio sources; we recommend using Window Capture for streaming calls.
-* When you are ready to stream the meeting, select the appropriate window to capture and select "Start Streaming". Your video will be automatically livestreamed on YouTube.
-* For a more thorough setup guide, check out [this video](https://www.youtube.com/watch?v=qiRu-NRgso0) from our friends at the Token Engineering Commons (TEC).
-
-# Governance of Meetings
-
-*If you are looking for more notes on past Giveth DAC/Community Meetings, you can find this [here](https://wiki.giveth.io/dac/meeting-notes).*
-
-## Meeting Types & Intentions
-Giveth aims to operate meetings that are  efficient, connective, fair, transparent and heart-centered. We do this by honoring time and agreements that the collective has agreed to. Some meetings like our weekly Sunday Community Call are intended to deliver updates and highlights so that all circles can understand the latest and greatest of one another, and be in alignment. In our Community Call, the time is not to brainstorm ideas or make decisions but rather to share updates.
-
-Other meetings, like our weekly Monday Governance Call aka GIVernance, are intended to present proposals and field objections or feed-forward from the group. Besides these larger, recurring group meetings, Contributors can schedule 1 on 1 or small group work sessions to bring a specific task through to completion. These meetings gather necessary participants to focus on a goal and drive it home.
-
-## Meeting Roles
-*There are specific roles to be filled. In general, we use roles to avoid things getting personal. For instance, it is not that Griff is interrupting Dani, but rather that the Facilitator is making sure the Smart Contract Reporter respects the meeting's process.*
-
-### The Facilitator
-The Facilitator needs to stay curious and calm. They make sure the meeting process is RESPECTED at all costs, like a referee. The Facilitator is encouraged to interrupt when people are getting off topic and is discouraged from making extra commentary or from coaching. It is very important that the Facilitator stay neutral.
-
-The Facilitator holds the space so that people can process their tension on their own and react as they need to express themselves freely in a safe, controlled environment.
+#### Cómo grabar reuniones para Giveth Transparency:
 
 
-### The Note Taker
-Note taking is important because it allows us to capture meeting highlights in a clear, organized way and store them in Notion, our shared transparent tool. The Facilitator can also be the Note Taker for smaller meetings, but in general it is best if they are 2 different people.
+* Usamos OBS para transmitir en vivo y grabar nuestras videollamadas. Puede descargarlo [aquí](https://obsproject.com/).
+* Durante la instalación, seleccione "Optimizar para transmisión, la grabación es secundaria".
+* Seleccione YouTube como el servicio de transmisión e ingrese la clave de transmisión de YouTube de Giveth Transparency. Si necesita acceso a Stream Key, pregúntele a uno de los miembros de nuestro equipo.
+* En general, las configuraciones recomendadas en el asistente de configuración ya están optimizadas para su dispositivo, pero siéntase libre de ajustarlas.
+* Configure sus fuentes de video y audio; recomendamos usar Window Capture para la transmisión de llamadas.
+* Cuando esté listo para transmitir la reunión, seleccione la ventana apropiada para capturar y seleccione "Iniciar transmisión". Su video se transmitirá automáticamente en vivo en YouTube.
+* Para obtener una guía de configuración más completa, consulte [este video](https://www.youtube.com/watch?v=qiRu-NRgso0) de nuestros amigos en Token Engineering Commons (TEC).
 
-The most important task is to record the agenda items. Everything else recorded is bonus :-D. The Note Taker has the responsibility the go to the person when there is a conflict interpreting the results of the meeting.
+# Gobernanza de Reuniones
 
-After the meeting, the Note Taker will share a link to the meeting notes in the #meetingnotes Discord channel.
+*Si está buscando más notas sobre reuniones pasadas de Giveth DAC/Community, puede encontrar esto [aquí](https://wiki.giveth.io/dac/meeting-notes).*
 
-### The Livestream Recorder
-The Livestream Recorder is in charge of recording and publishing the audio/video recording of the meeting in the Giveth Transparency YouTube channel. In order to properly fulfill this responsibility, it is important that the Livestream Recorder be on time and present for the duration for all meetings that they are responsible for recording to ensure everything is being captured and shared transparently.
+## Tipos de reuniones e intenciones
+Giveth tiene como objetivo operar reuniones que sean eficientes, conectivas, justas, transparentes y centradas en el corazón. Hacemos esto respetando el tiempo y los acuerdos que el colectivo ha acordado. Algunas reuniones, como nuestra Llamada comunitaria dominical semanal, tienen como objetivo brindar actualizaciones y aspectos destacados para que todos los círculos puedan comprender lo último y lo mejor de cada uno, y estar alineados. En nuestra Llamada a la comunidad, el momento no es para generar ideas o tomar decisiones, sino para compartir actualizaciones.
 
-### The Proposer
-The Proposer is the person who put a tension on the agenda for the group to discuss. A 'tension' is languaging commonly used in sociocracy and holacracy. When someone has an objection, it's an issue, or tension, that needs to be processed - usually by way of creating or adapting the proposal until the tension is alleviated and the proposal/solution can be passed.
+Otras reuniones, como nuestra llamada semanal de gobernanza de los lunes, también conocida como GIVernance, están destinadas a presentar propuestas y objeciones de campo o comentarios del grupo. Además de estas reuniones grupales más grandes y recurrentes, los Colaboradores pueden programar sesiones de trabajo 1 a 1 o en grupos pequeños para completar una tarea específica. Estas reuniones reúnen a los participantes necesarios para enfocarse en una meta y llevarla a casa.
 
-It is the Proposer's responsibility to propose a solution to the tension and it is their responsibility to make sure that their solution will alleviate the tension. It is NOT their responsibility to solve other people's problems. One tension at a time.
+## Funciones de reunión
+*Hay roles específicos para ser llenados. En general, usamos roles para evitar que las cosas se vuelvan personales. Por ejemplo, no es que Griff esté interrumpiendo a Dani, sino que el facilitador se asegura de que el reportero de contratos inteligentes respete el proceso de la reunión.*
 
-Don't feel pressured to solve other people's problems with your solution. Everyone is an adult and we need everyone to take care of themselves. That starts with you taking care of your responsibilities. You do not have to take any of the feedback you received.
+### El facilitador
+El Facilitador necesita permanecer curioso y calmado. Se aseguran de que el proceso de la reunión se RESPETE a toda costa, como un árbitro. Se alienta al facilitador a interrumpir cuando las personas se están desviando del tema y se le recomienda no hacer comentarios adicionales o asesorar. Es muy importante que el Facilitador se mantenga neutral.
 
-### The Reactors
-The Reactors are everyone who is not the Proposer during the decision making process. They are encouraged to freely react however they want during the reaction round.
+El facilitador mantiene el espacio para que las personas puedan procesar su tensión por sí mismas y reaccionar según sea necesario para expresarse libremente en un entorno seguro y controlado.
 
-### The Objector
-The Objector needs to stay curious and calm. They are anyone who believes the proposed solution to the Proposer's tension would cause harm or move Giveth backwards. If they have a simple concern about the proposal or think something should be added to the proposal but don't believe the proposal would concretely cause harm or move Giveth backwards, then it is not a valid objection and it should be ruled as an invalid objection by the Facilitator.
 
-## Sample Meeting Flow
+### El tomador de notas
+Tomar notas es importante porque nos permite capturar los aspectos más destacados de la reunión de una manera clara y organizada y almacenarlos en Notion, nuestra herramienta transparente compartida. El facilitador también puede ser el tomador de notas para reuniones más pequeñas, pero en general es mejor si son 2 personas diferentes.
 
-*A Facilitator and a Note Taker for the meeting should have been chosen ahead of time and once everyone is at the meeting, the meeting can begin.*
+La tarea más importante es registrar los puntos de la agenda. Todo lo demás grabado es bonus :D. El tomador de notas tiene la responsabilidad de acudir a la persona cuando hay un conflicto interpretando los resultados de la reunión.
 
-For our GIVernance Call specifically, we follow many of the sociocratic principles. This meeting is structured following the example of governance meetings in sociocracy.
+Después de la reunión, tomador de notas compartirá un enlace a las notas de la reunión en el #meetingnot es el canal de Discord.
 
-The purpose of a governance meeting is to:
-- Create, remove or modify the Roles of the Circle
-- Create, remove or modify the Policies of the Circle
-- Elect people to the core roles of the Circle
+### La grabador de la transmisión en vivo
+El Grabador está a cargo de grabar y publicar la grabación de audio/video de la reunión en el canal de YouTube de Giveth Transparency. Para cumplir adecuadamente con esta responsabilidad, es importante que el grabador esté a tiempo y presente durante todas las reuniones que son responsables de grabar para garantizar que todo se capture y comparta de manera transparente.
 
-Now we will walk through a sample meeting flow and governance process:
+### El proponente
+El Proponente es la persona que pone tensión en la agenda para que el grupo la discuta. Una 'tensión' es un lenguaje comúnmente utilizado en la sociocracia y la holocracia. Cuando alguien tiene una objeción, es un problema o una tensión que debe procesarse, generalmente creando o adaptando la propuesta hasta que se alivie la tensión y se pueda aprobar la propuesta/solución.
 
-#### 1. *Optional Centering*
-The Facilitator may choose to begin the meeting by leading the group through a centering practice to ground everyone's energy and tune into the same frequency. This may look like breathwork, a short meditation or visualization, sharing an inspirational quote or a combo platter.
+Es responsabilidad del Proponente proponer una solución a la tensión y es su responsabilidad asegurarse de que su solución aliviará la tensión. NO es su responsabilidad resolver los problemas de otras personas. Una tensión a la vez.
 
-#### 2. Check in
-Everyone voices what is most alive for them, reveals any momentary personal distractions and states a 30 second or less intention for the meeting. One person speaks at a time. This is not a time for responses or discussion.
+No te sientas presionado a resolver los problemas de otras personas con tu solución. Todos somos adultos y necesitamos que todos se cuiden. Eso comienza cuando usted se hace cargo de sus responsabilidades. No tiene que tomar ninguno de los comentarios que recibió.
 
-#### 3. Facilitator States Meeting Logistics
-A simple space to triage any administrative and logistical issues to take into account for the meeting. E.g., We have 2 hours for the meeting; Jen needs to leave early; this meeting is being live streamed and has 25 viewers so far; we'll be bringing lunch at 1pm; etc.
+### Los reactores
+Los Reactores son todos aquellos que no son el Proponente durante el proceso de toma de decisiones. Se les anima a reaccionar libremente como quieran durante la ronda de reacción.
 
-#### 4. Building the Agenda
-The Faciliator introduces the pre-prepared meeting agenda and then opens the space for additional agenda requests before diving in. Agenda items may be submit ahead of time via Discord, previous meeting discussion and/or curated by the Meeting Facilitator.
+### El objetor
+El Objetor necesita permanecer curioso y calmado. Son cualquiera que crea que la solución propuesta a la tensión del Proponente causaría daño o haría retroceder a Giveth. Si tienen una simple inquietud sobre la propuesta o piensan que se debe agregar algo a la propuesta, pero no creen que la propuesta cause daño concreto o haga retroceder a Giveth, entonces no es una objeción válida y debe declararse como una objeción inválida. por el Facilitador.
 
-The goal is to build an agenda of tensions, or topics, to process. There is no specific order and anyone can add items to the agenda. The Note Taker captures the agenda items for everyone. The Facilitator will determine the order these agenda items are processed.
+## Flujo de la reunion (Ejemplo)
 
-#### 5. Process each agenda item with the Integrative Decision Making process
-The Facilitator encourages everyone to take notes and determines the order these agenda items are processed on the fly.
+*Se debe haber elegido un facilitador y un tomador de notas para la reunión con anticipación y una vez que todos estén en la reunión, la reunión puede comenzar.*
 
-##### Present Proposal
-Either the Meeting Facilitator shares the update/highlight with the group *-or-* the Proposer describes the tension and in one sentence makes a proposal to resolve it. The proposal should in general be a creation of a circle, role or policy. Only the proposer speaks during this time.
+Específicamente para nuestra Llamada GIVernance, seguimos muchos de los principios sociocráticos. Este encuentro está estructurado siguiendo el ejemplo de los encuentros de gobernanza en la sociocracia.
 
-##### Clarifying Questions
-All the meeting participants may ask clarifying questions about the tension or proposal to ensure they have a good understanding. The Proposer then has a chance to respond to questions. This is not a space for back and forth discussion.
+El propósito de una reunión de gobierno es:
+- Crear, eliminar o modificar los Roles del Círculo
+- Crear, eliminar o modificar las Políticas del Círculo
+- Elegir personas para los roles centrales del Círculo
 
-It's NOT allowed to use clarifying questions to give an opinion about the proposal. Opinions, suggestions, reactions... all should be left for the Reaction Round coming next. The Facilitator will cut off any question that's conveying an opinion or isn't intended to better understand the proposal. There is no hard line between clarifying question and reaction, and it's at the Facilitator's discretion to discern between the two.
+Ahora veremos un flujo de reunión de muestra y un proceso de gobierno:
 
-##### Reactions
-One at a time, each person reacts to the proposal as they see fit. No response or interruption is allowed during someone's reaction. Any type of reaction is welcome, from intellectual critiques to emotional outbursts. The only caveat is that reactions should not be engaging someone in particular. Everyone reacts except the Proposer.
+#### 1. *Centrarse* (Opcional)
+El Facilitador puede elegir comenzar la reunión guiando al grupo a través de una práctica de centrado para conectar la energía de todos y sintonizar en la misma frecuencia. Esto puede parecer un trabajo de respiración, una breve meditación o visualización, compartir una cita inspiradora o un plato combinado.
 
-Reactions are the only step of the governance meeting when people can speak freely. It's a perfect phase for providing different perspectives and suggesting improvements to the proposal, so that the Proposer can integrate those changes if he or she likes them.
+#### 2. Presentarse
+Todos expresan lo que es más vivo para ellos, revelan cualquier distracción personal momentánea y declaran una intención de 30 segundos o menos para la reunión. Una persona habla a la vez. Este no es un momento para respuestas o discusión.
 
-This is the dangerous part of this meeting if people want to keep talking and talking… that is ok, and HAS to be allowed. This could make these meetings long.
+#### 3. Logística de la reunión de los Estados facilitadores
+Un espacio sencillo para clasificar cualquier cuestión administrativa y logística a tener en cuenta para la reunión. Por ejemplo, tenemos 2 horas para la reunión; Jen necesita irse temprano; esta reunión se está transmitiendo en vivo y tiene 25 espectadores hasta el momento; estaremos trayendo el almuerzo a la 1pm; etc.
 
-##### Amend & Clarify
-After all reactions are complete, the Proposer can optionally clarify the intent of the proposal, or amend it based on the reactions. Only the proposer speaks; no discussion allowed.
+#### 4. Construcción de la Agenda
+El facilitador presenta la agenda de la reunión preparada previamente y luego abre el espacio para solicitudes de agenda adicionales antes de empezar. Los elementos de la agenda se pueden enviar con anticipación a través de Discord, en una discusión previa a la reunión y/o seleccionados por el facilitador de la reunión.
 
-Although the proposer can modify the proposal however they want, the goal is for the Proposer to amend their proposal if they found a better way to address their tension. It's not his or her job to address all the concerns and reactions heard during the reaction round, or even to make improvements that were suggested by other participants.
+El objetivo es construir una agenda de tensiones, o temas, a procesar. No hay un orden específico y cualquiera puede agregar elementos a la agenda. Tomador de notas captura los elementos de la agenda para todos. El Facilitador determinará el orden en que se procesan estos puntos de la agenda.
 
-Watch out for proposal creep.
+####  5. Procese cada punto de la agenda con el proceso de toma de decisiones integradora
 
-##### Objection Round
-One at a time, the Facilitator asks each participant if they see "any reason why adopting this proposal would cause harm or move Giveth backwards." The proposer also gets the opportunity to raise an objection. Objections are stated, tested and captured without discussion. One person may have several objections, and everyone's objections must be captured before we move to the next step.
+El facilitador alienta a todos a tomar notas y determina el orden en que se procesan estos elementos de la agenda sobre la marcha.
 
-If there is no objection, the proposal is adopted and we move to the next agenda item.
+##### Propuesta actual
+El facilitador de la reunión comparte la actualización/resaltado con el grupo *-o-* el proponente describe la tensión y en una oración hace una propuesta para resolverla. En general, la propuesta debe ser la creación de un círculo, rol o política. Solo el proponente habla durante este tiempo.
 
-The Facilitator will need to test the objection occasionally to determine if the objection is valid or to help the Objector clarify the objection. To test, there are 3 questions to ask:
+##### Preguntas aclaratorias
+Todos los participantes de la reunión pueden hacer preguntas aclaratorias sobre la tensión o propuesta para asegurarse de que tienen un buen entendimiento. El Proponente entonces tiene la oportunidad de responder a las preguntas. Este no es un espacio para discusiones de ida y vuelta.
 
-* How do you believe adopting this proposal would cause harm or move Giveth backwards?
-* Does this objection still exist if this proposal wasn't implemented?
-* Is the proposal good enough for now and safe enough to try, knowing we can readdress this later if problems arise?
+NO está permitido utilizar preguntas aclaratorias para opinar sobre la propuesta. Opiniones, sugerencias, reacciones... todo debe quedar para la próxima Ronda de Reacción. El facilitador cortará cualquier pregunta que transmita una opinión o que no tenga la intención de comprender mejor la propuesta. No existe una línea divisoria entre la pregunta aclaratoria y la reacción, y queda a discreción del Facilitador discernir entre las dos.
 
-##### Integration
-If one or several Objections were raised, the Facilitator moves to the Integration step. The goal is to amend the proposal so that it would not cause the Objection, and would still address the proposer's original tension. Objections are integrated one at a time. For each objection, the Facilitator facilitates a discussion to help integrate the objection. Mostly the Objector and the Proposer speak, but others can help as well. The discussion stops as soon as the Objector and the Proposer have both agreed that an amended proposal would not cause an objection while still addressing the Proposer's tension. This is not a place to debate the value of the proposal or the objection! We need to focus on finding an acceptable amendment to the proposal that both the Objector and Proposer agree on. MOVE FORWARD ASAP!
+##### Reacciones
+Uno a la vez, cada persona reacciona a la propuesta como mejor le parezca. No se permite ninguna respuesta o interrupción durante la reacción de alguien. Cualquier tipo de reacción es bienvenida, desde críticas intelectuales hasta arrebatos emocionales. La única advertencia es que las reacciones no deben involucrar a alguien en particular. Todos reaccionan excepto el Proponente.
 
-Once all objections are integrated, go back to an Objection Round to ensure there is no new objection.
+Las reacciones son el único paso de la reunión de gobierno en el que las personas pueden hablar libremente. Es una fase perfecta para aportar diferentes perspectivas y sugerir mejoras a la propuesta, para que el Proponente pueda integrar esos cambios si le gustan.
 
-#### 6. Check out
-Each person has an opportunity to share a closing reflection on this meeting. No discussion.
+Esta es la parte peligrosa de esta reunión si la gente quiere seguir hablando y hablando… está bien, y TIENE que permitirse. Esto podría hacer que estas reuniones sean largas.
 
-#### 7. Transparency Publishing
-The Note Taker posts the meeting notes in the #meetingnotes channel on the Giveth Discord.
+##### Modificar y aclarar
+Una vez completadas todas las reacciones, el Proponente puede, opcionalmente, aclarar la intención de la propuesta o modificarla en función de las reacciones. Sólo habla el proponente; no se permite la discusión.
 
-The Livestream Recorder publishes the audio/video recording of the meeting in the Giveth Transparency YouTube channel. 
+Aunque el proponente puede modificar la propuesta como quiera, el objetivo es que el proponente modifique su propuesta si encuentra una mejor manera de abordar su tensión. No es su trabajo abordar todas las inquietudes y reacciones escuchadas durante la ronda de reacción, ni siquiera hacer las mejoras sugeridas por otros participantes.
+
+Cuidado con la fluencia de propuestas.
+
+##### Ronda de objeciones
+Uno a la vez, el Facilitador pregunta a cada participante si ven "algún motivo por el cual adoptar esta propuesta podría causar daño o hacer retroceder a Giveth". El proponente también tiene la oportunidad de presentar una objeción. Las objeciones se expresan, prueban y capturan sin discusión. Una persona puede tener varias objeciones, y las objeciones de todos deben ser capturadas antes de pasar al siguiente paso.
+
+Si no hay objeciones, se adopta la propuesta y se pasa al siguiente punto del orden del día.
+
+El Facilitador necesitará probar la objeción ocasionalmente para determinar si la objeción es válida o para ayudar al Objetante a aclarar la objeción. Para probar, hay 3 preguntas para hacer:
+
+* ¿Cómo cree que la adopción de esta propuesta causaría daño o haría retroceder a Giveth?
+* ¿Sigue existiendo esta objeción si esta propuesta no se implementó?
+* ¿La propuesta es lo suficientemente buena por ahora y lo suficientemente segura para intentarlo, sabiendo que podemos volver a abordar esto más adelante si surgen problemas?
+
+##### Integración
+Si se plantearon una o varias Objeciones, el Facilitador pasa al paso de Integración. El objetivo es enmendar la propuesta para que no cause la Objeción y aún aborde la tensión original del proponente. Las objeciones se integran una a la vez. Para cada objeción, el Facilitador facilita una discusión para ayudar a integrar la objeción. La mayoría de las veces hablan el objetor y el proponente, pero otros también pueden ayudar. La discusión se detiene tan pronto como el Objetante y el Proponente hayan acordado que una propuesta enmendada no causaría una objeción mientras se sigue abordando la tensión del Proponente. ¡Este no es un lugar para debatir el valor de la propuesta o la objeción! Necesitamos centrarnos en encontrar una enmienda aceptable a la propuesta en la que tanto el objetor como el proponente estén de acuerdo. ¡AVANCE CUANTO ANTES!
+
+Una vez que todas las objeciones estén integradas, regrese a una ronda de objeciones para asegurarse de que no haya ninguna objeción nueva.
+
+#### 6. Echa un vistazo
+Cada persona tiene la oportunidad de compartir una reflexión final sobre esta reunión. Sin discusión.
+
+#### 7. Publicación de transparencia
+El tomador de notas publica las notas de la reunión en el canal #meetingnotes en Giveth Discord.
+
+Livestream Recorder publica la grabación de audio/video de la reunión en el canal de YouTube de Giveth Transparency.

@@ -1,30 +1,30 @@
 ---
 id: givethIO
-title: Intro to Giveth.io
+title: Introducción a Giveth.io
 slug: dapps/givethIO
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
 
-# Intro to Giveth.io
+# Introducción a Giveth.io
 
-Giveth.io, [launched in March 2021](https://medium.com/giveth/the-future-of-giving-is-here-d480388a3338), offers a simple and streamlined way for the world to donate to for-good projects via the Ethereum Blockchain.
+Giveth.io, [lanzado en marzo de 2021](https://medium.com/giveth/the-future-of-giving-is-here-d480388a3338), ofrece una manera simple y optimizada para que el mundo done para y por buenos proyectos a través de Ethereum Blockchain.
 
-<img id="contentimg" width="650" height="auto" alt="giveth.io homepage" src={useBaseUrl('img/content/givethio/givethIOhome.png')} />
+<img id="contentimg" width="650" height="auto" alt="página de inicio de giveth.io" src={useBaseUrl('img/content/givethio/givethIOhome.png')} />
 
-[Giveth.io](https://giveth.io) boasts a smooth onboarding process for donors and projects. Creating a project can be done in minutes, making donations can be done in seconds. Finding quality projects making social or environmental change is easy.
+[Giveth.io](https://giveth.io) cuenta con un proceso de incorporación fluido para donantes y proyectos. Crear un proyecto se puede hacer en minutos, hacer donaciones se puede hacer en segundos. Encontrar proyectos de calidad que generen cambios sociales o ambientales es fácil.
 
-Our Donation Application uses a direct peer-to-peer donation framework; funds donated are sent to the project owner's Ethereum address. Giveth does not collect any fees from interactions on the platform.
+Nuestra aplicación de donación utiliza un marco de donación directa entre pares; los fondos donados se envían a la dirección de Ethereum del propietario del proyecto. Giveth no cobra ninguna tarifa por las interacciones en la plataforma.
 
-Giveth.io is currently deployed on both Ethereum mainnet and Gnosis Chain (formerly xDai Network).
+Giveth.io se implementa actualmente tanto en la red principal de Ethereum como en Gnosis Chain (anteriormente xDai Network).
 
-## Verification and Traceable Projects
+## Proyectos de Verificación y Rastreabilidad
 
-Great projects make Giveth thrive! We have a Project Verification process to ensure that we have top quality, credible projects on the DApp. One of the benefits of verification is that approved projects can become a Campaign on [Giveth TRACE](https://trace.giveth.io), and gain access to customizable donation management, features and donation traceability. [Learn more](/dapps/makeTraceableProject).
+¡Grandes proyectos hacen prosperar a Giveth! Tenemos un proceso de verificación de proyectos para garantizar que tenemos proyectos creíbles y de alta calidad en la DApp. Uno de los beneficios de la verificación es que los proyectos aprobados pueden convertirse en una campaña en [Giveth TRACE](https://trace.giveth.io) y obtener acceso a la gestión de donaciones personalizable, funciones y rastreabilidad de donaciones. [Más información](/dapps/makeTraceableProject).
 
 ---
-#### Follow any of these links to learn more about Giveth.io:
-- Visit [Giveth.io](https://giveth.io) to see the magic happening
-- Join our [Discord](https://discord.giveth.io) to meet the community
-- For Givers and project owners learn more in [Getting Started](/dapps/gettingStarted)
-- For developers, head over to the [Contributor Guide](/dapps/contributors)
+#### Siga cualquiera de estos enlaces para obtener más información sobre Giveth.io:
+- Visita [Giveth.io](https://giveth.io) para ver cómo sucede la magia
+- Únete a nuestro [Discord](https://discord.giveth.io) para conocer a la comunidad
+- Para donantes y propietarios de proyectos, obtenga más información en [Cómo empezar](/dapps/gettingStarted)
+- Para desarrolladores, diríjase a la [Guía de contribuyentes](/dapps/contributors)

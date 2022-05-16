@@ -1,14 +1,14 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Próximo",
     "description": "The label for version current"
   },
   "sidebar.whatisgiveth.category.Circles": {
-    "message": "Circles",
+    "message": "Círculos",
     "description": "The label for category Circles in sidebar whatisgiveth"
   },
   "sidebar.whatisgiveth.category.Guides": {
-    "message": "Guides",
+    "message": "Guias",
     "description": "The label for category Guides in sidebar whatisgiveth"
   }
 }

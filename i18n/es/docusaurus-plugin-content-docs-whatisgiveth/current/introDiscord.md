@@ -1,157 +1,157 @@
 ---
 id: introDiscord
-title: Discord Introduction and Tutorial
+title: Introducción y tutorial de discord
 ---
 
+## Antecedentes - Migración a Discord
 
-## Background - Migration to Discord
-We have moved the majority of our community chat and contributor collaboration from Riot.im (now Element Chat) to a new server on Discord.
+Hemos trasladado la mayor parte del chat de nuestra comunidad y la colaboración con nuestros colaboradores de [Riot.im](http://riot.im/) (ahora Element Chat) a un nuevo servidor en Discord.
 
-We are using a message relay bridge between Discord, Telegram and Element Chat that reliably mirrors the messages of a few chosen channels between the three applications. If Discord isn't for you, fear not! You can still interact with us using Telegram or Element Chat.
+Estamos utilizando un puente de transmisión de mensajes entre Discord, Telegram y Element Chat que refleja los mensajes de algunos canales elegidos entre las tres aplicaciones. Si Discord no es para ti, ¡no temas! También puede interactuar con nosotros usando Telegram o Element Chat.
 
-The bridging software used is matterbridge. - Shout out to `@geleeroyale` for making the magic happen!
+El software de conexión utilizado es matterbridge. - ¡Grita a @geleeroyale para que la magia suceda!
 
-## Links
-Onboarding site - https://giveth.io/join
+## Enlaces
 
-Direct link to join Discord community - https://discord.giveth.io/
+*incorporación* sitio web - [https://giveth.io/join](https://giveth.io/join)
 
-Direct link to join Telegram community - https://t.me/Givethio
+Enlace correcto para unirse a la comunidad de Discord - [https://discord.giveth.io/](https://discord.giveth.io/)
 
-Direct link to look through the old Riot rooms - http://riot.giveth.io
+Enlace correcto para unirse a la comunidad de Telegram - [https://t.me/Givethio](https://t.me/Givethio)
 
-## How to join the Giveth Discord server
+Enlace directo para ver las antiguas salas de Riot: [http://riot.giveth.io](http://riot.giveth.io/)
 
-Log in to Discord or make a new user. - https://discord.com/ or download the app ([iOS](https://apps.apple.com/us/app/discord-talk-chat-hang-out/id985746746), [Android](https://play.google.com/store/apps/details?id=com.discord&hl=en_CA&gl=US))
-[How to Use Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord) : Video ([Beginner to Advanced](https://www.youtube.com/watch?v=tNUq5Aqv60s))
+## Cómo unirse al servidor Giveth Discord
 
-Join the Giveth community server https://discord.giveth.io/
-Inside each server, you can have a unique nickname so feel free to change yours to whatever you would like to be known as.
+Inicie sesión en Discord o cree un nuevo usuario - [https://discord.com/](https://discord.com/) o descargue la aplicación ([iOS](https://apps.apple.com/) us/app/discord-talk-chat-hang-out/id985746746), [Android](https://play.google.com/store/apps/details?id=com.discord&hl=en_CA&gl=US)) [Cómo use Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord): Video ([Principiante a avanzado](https://www.youtube .com/watch?v=tNUq5Aqv60s))
 
-Once you have joined the server, a bot will send you a message with a Captcha to solve - you're not a robot are you? It should look something like this:
+Únase al servidor de la comunidad Giveth [https://discord.giveth.io/](https://discord.giveth.io/) Dentro de cada servidor, puede tener un apodo único, así que siéntase libre de cambiar el suyo por el que desee. ser conocido como.
 
-![](https://i.imgur.com/XCaAhgo.png)
+Una vez que haya accedido al servidor, un bot le enviará un mensaje con un Captcha para resolver: no es un robot, ¿verdad? Debería ser algo como esto:
+
+![](https://i.imgur.com/dutkvbe.png)
+
+## Descripciones de canales
+
+### Bienvenido (comienza aquí)
+
+- #🤝welcome es nuestro canal de bienvenida. Aquí también es donde puedes definir tu rol: Donante y/o Hacedor.
+- #🚩mission es para comentarios, críticas, elogios y conversaciones sobre la visión y la misión de Giveth. También nos encantaría saber acerca de su organización aquí si ve una buena combinación, háganos saber por qué/cómo le gustaría unir fuerzas.
+- #🔨contribute permite que las partes interesadas se alineen en oportunidades de colaboración.
+- #✋assign-roles le permite asignarse roles para ser etiquetado en roles relacionados con WG.
+- #📢anuncios es donde encontrarás anuncios de la comunidad de Giveth.
+- #📚actualizaciones de socios es donde encontrará anuncios de nuestros socios Galaxy.
+
+## Comunidad
+
+- #general es donde normalmente nos encontrarás hablando entre nosotros. ¡Únetenos!
+- #📅scheduling es el lugar para saber cuándo y dónde se realizarán las reuniones y eventos.
+- #📝meetingnotes es para obtener información sobre agendas y notas de nuestras reuniones.
+- #💡ideas es un lugar para compartir inspiración y sugerencias creativas.
+- El canal #💬support te ayuda a superar cualquier obstáculo que puedas enfrentar en la comunidad o en las plataformas de donación.
+- #📣communications es el centro del equipo de comunicaciones (@Comms Stars). Aquí se habla de creación y edición de contenidos, realización de acciones de difusión y todo lo relacionado con el círculo de la comunicación.
+- #🐦-tweeeeeter es donde están todas las cosas relacionadas con Giveth en Twitter. Se puede usar para sugerir/elaborar tweets, comentarios de Twitter y compartir o promocionar tweets para obtener más participación.
+- ¡Los #🐸memes son poderosos! Organizamos fiestas de memes semanales donde escuchamos música y lanzamos memes picantes. La hora se puede encontrar [en el calendario.](https://calendar.google.com/calendar/u/0/embed?src=givethdotio@gmail.com&ctz=America/Costa_Rica)
+- #✨shtsnggls es pura diversión.
+- ¡#❤ praise es donde puedes llover elogios sobre tus compañeros de equipo! Hágales saber que aprecia el valor que agregan a los proyectos y la comunidad de Giveth escribiendo !elogio @nombredeusuario por lo increíble que hicieron.
+- #🤝project-onboarding es donde los posibles propietarios de proyectos pueden buscar sugerencias o consejos sobre el flujo de creación de proyectos y cómo crear proyectos cautivadores e impresionantes en el dapp.
+- #💸fundraising de fondos es discutir formas de expandir los límites de recaudación de fondos en apoyo de la misión Giveth.
+
+## Gobernanza
+
+- #👍gobernance es donde experimentamos con la gobernanza descentralizada y documentamos cualquier cosa que pueda ser útil para futuras comunidades como la nuestra.
+- #🌐dao proporciona enlaces a las propuestas de DAO e informa a la comunidad cuándo es el momento de votar. En este canal es posible discutir todo lo relacionado con las propuestas.
+- #giveth-trace-payments se utiliza para comunicar información sobre las transacciones de pago que se realizan en el puente Giveth TRACE. puede encontrar Más información sobre cómo funciona el puente [aquí](https://docs.giveth.io/dapps/bridgeSecurity).
+
+## Plataforma
+
+- 👌all-dev es el canal para debates generales de desarrollo que incluyen al equipo de desarrollo de Giveth en su conjunto.
+- #☝givethtrace-dev es el centro de comunicaciones del equipo de desarrollo de Giveth TRACE DApp. Se utiliza para discutir información relacionada con el proceso de creación de nuestro dapp insignia.
+- #✌givethio-dev es el centro de comunicaciones del equipo de desarrollo de [Giveth.io] (http://giveth.io/), que se utiliza para discutir información relacionada con el proceso de creación de nuestra última dapp.
+- #💹giv-economy es el lugar para compartir información sobre la próxima implementación de GIVbacks y la tokenómica subyacente.
+- #🌈design es para compartir ideas de diseño y actividad creativa sobre la apariencia y el lenguaje de cualquier actualización de UI o UX en preparación para los productos de Giveth.
+- #🐇test-reports es para informes de prueba y comunicación de prueba para ambas DApps de Giveth.
+- El canal #🐱github es para solicitudes de notificación de referencias cruzadas y nuevas ediciones en Github para aumentar la transparencia y la participación en Github.
+
+## Puentes
+
+- #🐝1hive sirve como canal puente para nuestras ocupadas abejas vecinas en [1Hive.](https://about.1hive.org/)
+- #🌐te-commons vincula el servidor Giveth con la gran comunidad de ingenieros de tokens en [TEC.](https://tecommons.org/)
+- #🐙metagame conecta con un canal en el servidor Discord de [Metagame.](https://about.1hive.org/)
+- #🌱panvala permite que nuestro servidor se conecte con nuestros amigos en [Panvala.](https://panvala.com/)
+- #gaia-gives nos conecta con el chat de Telegram de la comunidad [Gaia Gives](https://www.gaia.gives/).
+
+## Canales de voz
+
+Estos canales se utilizan para conversaciones de voz y/o video con miembros de la comunidad.
+
+#groovy-playlist es un canal de texto que se usa para escribir comandos de Chip Bot. [(Más información sobre los comandos de bot a continuación)](https://docs.giveth.io/whatisgiveth/introDiscord/#chip)
+**Stage**: este es el canal que se usa para organizar eventos y mostrar Giveth a la comunidad de Ethereum en general.
+**Community**: se utiliza como punto de encuentro para los grupos de trabajo de Community Circle, así como para las llamadas comunitarias semanales.
+**Platform**: es un punto de encuentro para los grupos de trabajo de Platform Circle.
+**Governance**: es el canal de voz para nuestras discusiones semanales de los grupos de trabajo de nGobernanza y DAO.
+**Communications**: es donde el equipo de comunicaciones se reúne para las sesiones semanales de sincronización y pirateo.
+
+*Todos los horarios de las reuniones se pueden encontrar en el [Calendario de Giveth.](https://calendar.google.com/calendar/u/0/embed?src=givethdotio@gmail.com&ctz=America/Costa_Rica)
+
+## Etiquetando
+
+Puede etiquetar ciertos títulos de trabajo usando "@" seguido del título del trabajo. También etiquete a una persona con "@" seguido del nick o apodo de la persona.
+
+**Posiciones:**
+- **@Giver** - Personas a las que les encanta financiar proyectos de calidad. Puedes asignar este rol en el canal de #🤝bienvenida reaccionando al mensaje del bot con el emoji 💝.
+- **@Maker**: personas que trabajan duro para hacer del mundo un lugar mejor. Este rol también se puede asignar a usted mismo en el canal de bienvenida #🤝 reaccionando al mensaje del bot con un emoji 🦄.
+- **@Unicorn** - Personas que asisten regularmente a llamadas y contribuyen muy activamente a Giveth.
+- **@DAO**: poseedores de tokens rGIV. Puede obtener tokens rGIV contribuyendo constantemente a la comunidad.
+- **@Comms Stars**: miembros del equipo de comunicaciones.
+- **@Community Support**: miembros del grupo de trabajo Community Support.
+- **@Governance** - Miembros del grupo de trabajo de Gobernanza.
+- **@Desarrollo** - Miembros del grupo de trabajo de Desarrollo.
+- **@Design** - Miembros del grupo de trabajo de Diseño.
+
+## Comandos de bots
+
+**PraiseBot**
+En Giveth, nos encanta reconocer el valor que cada miembro aporta a la comunidad y brindar reconocimiento por las maravillas que contribuyen. PraiseBot rastrea los elogios otorgados y los utiliza para calcular las recompensas para los contribuyentes activos.
+
+Puede elogiar a un miembro de la comunidad en cualquier canal escribiendo !praise seguido de "@" y el nick del usuario. No olvides mencionar por qué lo elogias.
+
+Por ejemplo: !praise a @WhyldWanderer por crear una Guía de Discord tan genial 😛
+
+Una vez que hayas escrito tu cumplido, sabrás que el bot te ha localizado, porque aparecerá un emoji ✅ como reacción a tu mensaje.
+
+Cuando reciba elogios, el bot le notificará en sus mensajes directos con un enlace al mensaje en el que recibió elogios.
+
+Bot simple para votar
+
+Este bot se puede usar para crear una encuesta como esta:
+
+![](https://i.imgur.com/qDYlm1m.png)
 
 
-## Channel Descriptions
+Para crear la encuesta que se muestra arriba, simplemente escriba el comando de la siguiente manera: /poll "¿Cuál es el mejor bot para votar? "Encuesta simple" "R2D2"
 
-### Welcome (start here)
-**`#🤝welcome`** is our landing channel.  This is also where you can assign yourself the role of Giver and/or Maker.  
-**`#🚩mission`** is for feedback, critique, kudos and conversation on the vision and mission of Giveth. We'd also love to hear about your organization here too if you see a good match, let us know why/how you'd like to join forces!  
-**`#🔨contribute`** allows interested parties to align on opportunities for collaboration.  
-**`#✋assign-roles`** allows you to assign yourself to roles so you get tagged in WG-related posts.  
-**`#📢announcements`** is where you will find announcements from the Giveth community.  
-**`#📚partner-updates`** is where you will find announcements from our Galaxy partners.  
+Al seguir esta plantilla, puede crear tantas respuestas como desee y los miembros de la comunidad pueden responder reaccionando con el emoji correspondiente. /poll "Pregunta" "Respuesta #1" "Respuesta #2" "Respuesta #3" ..etc.
 
+### Chip Bot
 
-### Community
-**`#general`** is where you will find us generally speaking to one another. Join us!  
-**`#📅scheduling`** is the place to get the when and where on meetings and events.  
-**`#📝meetingnotes`** is for information regarding agendas and notes from our meetings.  
-**`#💡ideas`** is a place for you to share inspiration and creative suggestions.  
-**`#💬support`** channel provides assistance with any obstacles that you may be facing within the community or on the donation platforms.  
-**`#📣communications`** is the hub of the communications team (@Comms Stars). Here we discuss creating and editing content, performing outreach and all things related to the communications circle.  
-**`#🐦-tweeeeeter`** is where you find all things related to the Giveth Twitter. It can be used for suggesting / drafting tweets, feedback regarding twitter and sharing or promoting tweets to get more engagement.  
-**`#🐸memes`** are powerful! We host weekly meme parties where we listen to music and pump out spicy memes. The schedule can be found in the [calendar](https://calendar.giveth.io/).  
-**`#✨shtsnggls`** is for pure fun.  
-**`#❤praise`** is where you can rain praise upon your teammates! Let them know that you recognize the value they add to the Giveth projects and community by typing `!praise` *`@username`* for *`the awesome thing they did`*.  
-**`#🤝project-onboarding`** is where prospective project owners can go for suggestions or advice about the project creation flow and how to create engaging and impressive projects on the DApp.  
-**`#💸fundraising`** is for discussing ways to expand fundraising frontiers in support of fulfilling the Giveth mission.  
+Se puede invitar a Chit Bot a cualquiera de los canales de voz del servidor. Una vez que se invita al bot al canal, cualquiera puede escribir comandos en el canal de texto #chip-playlist para comenzar a reproducir o arreglar música. Aquí hay una lista de comandos disponibles:
 
+- ch!p 'enlace o consulta de búsqueda': carga su entrada y la agrega a la cola; si no hay ninguna pista en reproducción, comenzará a reproducirse
+- ch!queue - Muestra la cola de canciones actual
+- ch!skip - Salta a la siguiente canción
+- ch!clear - Elimina todos los rastros de la cola
+- ch!skipto 'posición de pista o título' - Salta a la pista especificada
+- ch!lyrics - Muestra la letra de la pista que se está reproduciendo actualmente
+- ch!pause - Reproducción de pausas
+- ch!resume - Reanudar la reproducción
+- ch!remove 'posición de pista o título' - Elimina la pista especificada de la cola
+- ch!stop: apaga el bot de su canal de voz y borra la cola
+- ch!shuffle - Aleatoriza el orden actual de las pistas en la cola
+- ch!nowplaying: muestra información sobre la pista del juego actual.
 
-### Governance
-**`#👍governance`** is where we experiment with decentralized governance and document anything that could be useful for future communities like ours.  
-**`#🌐dao`** provides links to DAO proposals and informs the community when it's time to vote. You can discuss anything proposal-related in this channel.   
-**`#giveth-trace-payments`** is used to communicate information about payment transactions happening on the Giveth TRACE bridge. You can find more information about how the bridge works [here](https://docs.giveth.io/dapps/bridgeSecurity).  
+Chip Bot puede reproducir música de varias fuentes, incluidas Spotify, YouTube, Soundcloud, etc. Para que el bot Chip pueda reproducir desde Spotify, simplemente haga clic en Compartir > Copiar enlace de lista de reproducción > copie esto en su chat con la etiqueta ch!p y ya está todo listo.
 
+## Soporte
 
-### Platform
-**`👌all-dev`** is the channel for general development discussions that include the Giveth Development Team as a whole.  
-**`#☝givethtrace-dev`** is the hub of communications for the Giveth TRACE DApp Development Team. It is used for discussing information involving the build process of our flagship DApp.  
-**`#✌givethio-dev`** is the hub of communications for the Giveth.io Development Team - used for discussing information involving the build process of our newest DApp.  
-**`#💹giv-economy`** is the place to share information about the upcoming roll out of GIVbacks and the underlying tokenomics.  
-**`#🌈design`** is for design idea sharing and creative activity on the look, feel and language of any UI or UX updates in the pipeline for Giveth products.  
-**`#🐇test-reports`** is for test reports and testing communication for both Giveth DApps.  
-**`#🐱github`** channel is to cross notify pull requests and new Issues in Github in order to increase transparency, and engagement on Github.  
-
-
-### Bridges
-**`#🐝1hive`** serves as bridge channel to our busy bee neighbors at [1Hive](https://about.1hive.org/).  
-**`#🌐te-commons`** links the Giveth server to the vast community of token engineers over at the [TEC](https://tecommons.org).    
-**`#🐙metagame`** bridges to a channel in the [Metagame](https://about.1hive.org/) discord server.  
-**`#🌱panvala`** allows our server to be connected to our friends at [Panvala](https://panvala.com/).  
-**`#gaia-gives`** connects us with the [Gaia Gives](https://www.gaia.gives/) community telegram chat.  
-
-### Voice Channels
-These channels are used for voice and / or video chats with community members.
-
-**`#groovy-playlist`** is a text channel used for typing Chip Bot commands. <a href='#chip'>(More about bot commands **below**)</a>  
-**`Stage`** - This is the channel used for hosting events and showcasing Giveth for the greater Ethereum community.  
-**`Community`** - is used as a meeting place for the Community Circle working groups as well as weekly Community Calls.  
-**`Platform`** - is a meeting place for the Platform Circle working groups.  
-**`Governance`** - is the voice channel for our weekly Governance and DAO working group discussions.  
-**`Communications`** - is where the Communications Team gathers for weekly syncs and hack sessions.  
-
-**All meeting times can be found on the [Giveth Calendar](https://calendar.giveth.io/).*
-
-### Tagging
-You can tag certain roles by using "@" followed by the role. You also can tag an individual with "@" followed by the person's handle or nickname.
-
-#### Roles:
-**@Giver** - People who love funding for-good projects. You can assign yourself this role in the `#🤝welcome` channel by reacting to the bot message with the 💝 emoji.  
-**@Maker** - People who are working hard to make the world a better place. This role can also be self assigned in the `#🤝welcome` channel by reacting to the bot message with a 🦄 emoji.  
-**@Unicorn** - People who regularly attend calls and are very actively contributing to Giveth.  
-**@DAO** - rGIV token holders. You can obtain rGIV tokens by consistently contributing to the community.  
-**@Comms Stars** - Communications Team members.  
-**@Community Support** - Members of the Community Support working group.  
-**@Governance** - Members of the Governance wroking group.  
-**@Development** - Members of the Development working group.  
-**@Design** - Members of the Design working group.  
-
-### Bot Commands
-
-#### PraiseBot
-At Giveth, we love to acknowledge the value that each member brings to the community and provide recognition for the awesomeness that they contribute. The praise given is tracked by PraiseBot and used to calculate rewards for active contributors.
-
-You can praise a fellow community member in any channel by typing **`!praise`** followed by "@" and their username. Dont forget to mention why you're praising them.
-
-**For example:** `!praise @WhyldWanderer for creating such an amazing Discord Guide` :stuck_out_tongue:
-
-Once you have typed your praise, you will know that the bot has tracked it because a ✅ emoji will appear as a reaction to your message.
-
-When you receive praise, you will be notified by the bot in your direct messages with a link to the message where you were praised.
-
-
-#### Simple Poll Bot
-This bot can be used to create a straw poll such as this one:
-
-![](https://i.imgur.com/ExLeqzW.png)
-
-
-To create the poll shown above, you would simply type the command as follows:
-`/poll "What is the best poll bot?" "Simple Poll" "R2D2"`
-
-By following this template, you can create as many answers to the question you would like and community members can answer by reacting with the corresponding emoji.
-`/poll` `"Question"` `"Answer #1"` `"Answer#2"` `"Answer #3"` ..etc.
-
-#### <span id='chip'>Chip Bot</span>
-
-[Chip bot](https://chipbot.gg/home) can be invited to any of the voice channels on the server. Once you have invited the bot into the channel, anyone can type commands in the **`#chip-playlist`** text channel to start playing or queuing songs. Here is a list of the available commands:
-
-**`ch!p`** *'`link or search query`'* - Loads your input and adds it to the queue; If there is no playing track, then it will start playing  
-**`ch!queue`** - Displays the current song queue  
-**`ch!skip`** - Skips to the next song  
-**`ch!clear`** - Removes all tracks from the queue  
-**`ch!skipto`** *'`track position or title`'* - Skips to the specified track  
-**`ch!lyrics`** - Displays lyrics for the currently playing track  
-**`ch!pause`** - Pauses playback  
-**`ch!resume`** - Resumes playback  
-**`ch!remove`** *'`track position or title`'* - Removes the specified track from the queue   
-**`ch!stop`** - Disconnects the bot from your voice channel and clears the queue  
-**`ch!shuffle`** - Randomizes the current order of tracks in the queue  
-**`ch!nowplaying`** - Displays information about the current playing track.  
-
-Chip bot can play music from a multitude of sources including Spotify, YouTube, Soundcloud, etc. In order to have Chip bot play from Spotify just click on Share > Copy Playlist Link > copy this into your chat with the `ch!p` tag and you’re all set.
-
-### Support
-If you run into any problems, or need to ask a question, please tag `@admin` or ask in the `#💬support` channel. 
+Si encuentra algún problema o tiene preguntas, etiquete a @admin o pregunte en el canal #💬  support.

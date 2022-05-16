@@ -1,13 +1,13 @@
 ---
 id: exchangeRates
-title: Exchange Rates
+title: Los tipos de cambio
 slug: dapps/exchangeRates
 ---
 
-When you leave a Trace within [Giveth TRACE](https://beta.giveth.io), you can enter an amount in ether or in fiat. Our system then automatically calculates the conversion rate based on the date of the Trace.
+Cuando dejas un trace dentro de [Giveth TRACE](https://beta.giveth.io), puedes ingresar una cantidad en éter o en fiat. Luego, nuestro sistema calcula automáticamente la tasa de conversión en función de la fecha del trace.
 
-In our Feathers backend we keep a cache of the daily average exchange rate for each date. We use [Crypto Compare](https://min-api.cryptocompare.com/) and [CoinGecko](https://www.coingecko.com/en/api) to fetch these rates.
+En nuestro backend de Feathers, mantenemos un caché del tipo de cambio promedio diario para cada fecha. Usamos [Crypto Compare](https://min-api.cryptocompare.com/) y [CoinGecko](https://www.coingecko.com/en/api) para obtener estas tarifas.
 
-When you enter a currency amount in a Trace, we fetch the cached conversion rate from Feathers and calculate the result in the UI. When you save the Trace we check that conversion again to make sure all is correct.
+Cuando ingresa un monto de moneda en un trace, obtenemos la tasa de conversión almacenada en caché de Feathers y calculamos el resultado en la interfaz de usuario. Cuando guarda el trace, verificamos esa conversión nuevamente para asegurarnos de que todo sea correcto.
 
-Currently we support handling payments in ETH, SAI, DAI, PAN, WBTC, USDC Ethereum Mainnet Tokens. Native currencies whitelisted for trading pair price comparsions are BTC, ETH, AUD, GBP, USD, MXN, CAD, CZK, THB, BRL, CHF.
+Actualmente admitimos el manejo de pagos en ETH, SAI, DAI, PAN, WBTC, USDC Ethereum Mainnet Tokens. Las monedas nativas incluidas en la lista blanca para las comparaciones de precios de pares comerciales son BTC, ETH, AUD, GBP, USD, MXN, CAD, CZK, THB, BRL, CHF.

@@ -1,41 +1,41 @@
 ---
 id: technicalWhitePaper
-title: Technical White Paper
+title: White Paper técnico
 slug: technicalWhitePaper
 ---
 
 
-The purpose of our technology is to give cryptocurrency users the ability to donate effortlessly to Campaigns focused on making the world a better place. They can use the Giveth platform to find those Campaigns and donate directly, or they can pledge their crypto to a cause and have a Delegate choose an appropriate Campaign or Trace for them. As an alternative to traditional donation systems, our ***Liquid Pledging*** contract allows Givers to take back their pledge if they disagree with how their donations were allocated. This can only occur before it has been locked into a Campaign for a specific purpose.
+El propósito de nuestra tecnología es brindar a los usuarios de criptomonedas la capacidad de donar sin esfuerzo a campañas enfocadas en hacer del mundo un lugar mejor. Pueden usar la plataforma Giveth para encontrar esas Campañas y donar directamente, o pueden comprometer su criptografía a una causa y hacer que un Delegado elija una Campaña o Seguimiento apropiado para ellos. Como alternativa a los sistemas de donación tradicionales, nuestro contrato de ***Promesa líquida*** permite a los Donantes retirar su promesa si no están de acuerdo con la forma en que se asignaron sus donaciones. Esto solo puede ocurrir antes de que se haya bloqueado en una Campaña para un propósito específico.
 
-#### To make this new way of giving possible, we have to overcome a few challenges:
+#### Para hacer posible esta nueva forma de dar, tenemos que superar algunos desafíos:
 
-**1.** How to offer a means for Givers to donate without losing ownership of their funds.
-**2.** How to allow third parties to distribute these crypto donations to individuals who can use them effectively.
-**3.** How to securely transfer ownership to the individuals who are making the world a better place.
-**4.** How to determine whether ownership of distributed Ethereum tokens should be transferred or not. In other words: How to be sure a recipient deserves the donated crypto before we transfer it.
+**1.** Cómo ofrecer un medio para que los Donantes donen sin perder la propiedad de sus fondos.
+**2.** Cómo permitir que terceros distribuyan estas donaciones criptográficas a personas que puedan usarlas de manera efectiva.
+**3.** Cómo transferir de forma segura la propiedad a las personas que están haciendo del mundo un lugar mejor.
+**4.** Cómo determinar si la propiedad de los tokens Ethereum distribuidos debe transferirse o no. En otras palabras: cómo asegurarse de que un destinatario merece la criptografía donada antes de que la transfiramos.
 
-#### Challenge #1 - Donate without losing ownership
-This is handled by our [vault](https://github.com/Giveth/vaultcontract) contract. This is a solidity smart contract that can safely store crypto on behalf of the cryptocurrency’s owner. This is how and why a Giver may control or take back their donations. When a giver donates cryptocurrency through Giveth, the coins are actually stored in a vault with the Giver as the owner.
+#### Desafío n.º 1: donar sin perder la propiedad
+Esto es manejado por nuestro contrato [vault](https://github.com/Giveth/vaultcontract). Este es un contrato inteligente de solidez que puede almacenar criptografía de forma segura en nombre del propietario de la criptomoneda. Así es como y por qué un Donante puede controlar o retirar sus donaciones. Cuando un donante dona criptomonedas a través de Giveth, las monedas se almacenan en una bóveda con el donante como propietario.
 
-Once stored in the vault, the cryptocurrency is held in place and cannot be moved further without the owner's permission.
+Una vez almacenada en la bóveda, la criptomoneda se mantiene en su lugar y no se puede mover más sin el permiso del propietario.
 
-#### Challenge #2 - Distribute collected funds
- Our [Minime](https://github.com/Giveth/minime) contract partly handles this challenge. This is a solidity smart contract that can represent Ether and ERC-20's with replica tokens.
+#### Desafío #2 - Distribuir los fondos recaudados
+ Nuestro contrato [Minime](https://github.com/Giveth/minime) maneja en parte este desafío. Este es un contrato inteligente de solidez que puede representar Ether y ERC-20 con tokens de réplica.
 
-Instead of transferring actual Ethereum tokens to individuals for their efforts to do good, we can distribute Minime tokens with the assurance that the real crypto is stored in the vault. Minime tokens are used by a number of well-known projects in the Ethereum space.
+En lugar de transferir tokens reales de Ethereum a individuos por sus esfuerzos para hacer el bien, podemos distribuir tokens Minime con la seguridad de que las criptomonedas reales se almacenan en la bóveda. Los tokens Minime son utilizados por varios proyectos conocidos en el espacio Ethereum.
 
-Our Giveth TRACE uses another strategy for flexible transfers. [***Liquid Pledging***](https://github.com/Giveth/liquidpledging) is a solidity smart contract that allows us to redistribute Ether in a myriad of networked permutations (aka a graph). It's a bit like liquid democracy, but there is no voting (unless you add that as a plugin).
+Nuestro Giveth TRACE utiliza otra estrategia para transferencias flexibles. [***Liquid Pledging***](https://github.com/Giveth/liquidpledging) es un contrato inteligente de solidez que nos permite redistribuir Ether en una miríada de permutaciones en red (también conocido como un gráfico). Es un poco como democracia líquida, pero no hay votación (a menos que lo agregues como complemento).
 
-At its core, Liquid Pledging maintains a list of Ethereum token transfers and owners. These two lists serve as the data structure for the graph. The contract's API provides the means to donate, delegate, and transfer Ethereum tokens stored in the vault.
+En su esencia, Liquid Pledging mantiene una lista de propietarios y transferencias de tokens de Ethereum. Estas dos listas sirven como estructura de datos para el gráfico. La API del contrato proporciona los medios para donar, delegar y transferir tokens de Ethereum almacenados en la bóveda.
 
-#### Challenge #3 - Transfer ownership
-Once again, this is resolved by our [vault](https://github.com/Giveth/vaultcontract) contract. Ethereum tokens are only ever released to addresses whitelisted with the permission of the original donor. In order to fully meet the requirements of challenge #3, we must set some sort of approval process.
+#### Desafío n.º 3: transferir la propiedad
+Una vez más, esto se resuelve mediante nuestro contrato [vault](https://github.com/Giveth/vaultcontract). Los tokens de Ethereum solo se envían a direcciones incluidas en la lista blanca con el permiso del donante original. Para cumplir completamente con los requisitos del desafío n.º 3, debemos establecer algún tipo de proceso de aprobación.
 
-#### Challenge #4 - Determine if transfer should occur
-The rules for how transfers are approved are handled by liquid-pledging plugins (lpp). These plugins are separate contracts referenced by the Liquid Pledging contract (*see challenge #2*).
+#### Desafío n.° 4: determinar si se debe realizar la transferencia
+Las reglas sobre cómo se aprueban las transferencias se manejan mediante complementos de compromiso líquido (lpp). Estos complementos son contratos separados a los que se hace referencia en el contrato de Liquid Pledge (*ver desafío #2*).
 
-For example, you could use our [lpp-milestone](https://github.com/Giveth/lpp-milestone) plugin to require reviewer approval as a condition to releasing Ether from its original donor. In this case, the reviewer is another Ethereum address. If 'acceptMilestone' is called from this approved reviewer address, then the ownership of donated Ether can be released to the Trace (formerly Milestone) recipient's address.
+Por ejemplo, podría usar nuestro complemento [lpp-milestone](https://github.com/Giveth/lpp-milestone) para solicitar la aprobación del revisor como condición para liberar Ether de su donante original. En este caso, el revisor es otra dirección de Ethereum. Si se llama a 'acceptMilestone' desde esta dirección de revisor aprobado, entonces la propiedad de Ether donado puede transferirse a la dirección del destinatario de Trace (anteriormente Milestone).
 
-You don’t have to use our lpp-milestone plugin. You can make your own with whatever you want. Use a contract that mandates the rules you need for your community.
+No tiene que usar nuestro complemento lpp-milestone. Puedes hacer el tuyo con lo que quieras. Use un contrato que ordene las reglas que necesita para su comunidad.
 
-This concludes the Giveth TRACE Technical White Paper for now. Reach out to us on [Discord](https://discord.gg/qf7XZ48gCU) if you have something you want to do with the ideas listed. We are an open-source project, and it is our mission to help communities.
+Esto concluye el White Paper técnico de Giveth TRACE por ahora. Comuníquese con nosotros en [Discord](https://discord.gg/qf7XZ48gCU) si desea hacer algo con las ideas enumeradas. Somos un proyecto de código abierto y nuestra misión es ayudar a las comunidades.
