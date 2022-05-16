@@ -35,9 +35,9 @@ Giveth es una comunidad enfocada en **Construir el futuro de la generosidad** ut
 
 ---
 
-## **¿Qué son las Giveth Daaps?**
+## **¿Qué son las Giveth DApps?**
 
-Las aplicaciones de donaciones de Giveth (DApps) crean puentes entre los proyectos para el bien y los donantes que quieren marcar la diferencia. Giveth tiene dos aplicaciones de donación (DApps), [Giveth TRACE](http://trace.giveth.io/) y Giveth.io, cada una con características y beneficios únicos para proyectos filantrópicos que buscan financiamiento.
+Las aplicaciones de donaciones de Giveth (DApps) crean puentes entre los proyectos para el bien y los donantes que quieren marcar la diferencia. Giveth tiene dos aplicaciones de donación (DApps), [Giveth TRACE](https://trace.giveth.io/) y [Giveth.io][https://giveth.io], cada una con características y beneficios únicos para proyectos filantrópicos que buscan financiamiento.
 
 **Giveth.io** está diseñado para que sea fácil de usar y cualquiera pueda participar. Crear una cuenta es fácil; donar y crear proyectos se puede hacer en minutos. Giveth es el hogar de una amplia gama de esfuerzos filantrópicos y es ampliamente reconocido en todo el ecosistema Ethereum, por lo que, naturalmente, ¡es un gran lugar para obtener exposición para su misión!
 

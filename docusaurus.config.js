@@ -39,6 +39,11 @@ module.exports = {
     }
   },
   themeConfig: {
+    docs: {
+      sidebar: {
+        hideable: true
+      }
+    },
     algolia: {
       apiKey: 'fe5b34ba5c3a21a81a7e6f77e6bb1b5e',
       indexName: 'giveth',
@@ -54,7 +59,6 @@ module.exports = {
 
       //... other Algolia params
     },
-    hideableSidebar: true,
     navbar: {
       title: 'Giveth Documentation',
       logo: {
@@ -170,9 +174,7 @@ module.exports = {
         routeBasePath: '/',
 
         sidebarPath: require.resolve('./sidebarsDapps.js'),
-
         showLastUpdateAuthor: true,
-
         showLastUpdateTime: true,
         remarkPlugins: [math],
         rehypePlugins: [katex]
