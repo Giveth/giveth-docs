@@ -13,7 +13,7 @@ module.exports = {
   projectName: 'giveth-docs', // Usually your repo name.
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'es', 'de', 'pt'],
+    locales: ['en', 'es', 'de', 'pt', 'tr'],
     localeConfigs: {
       en: {
         label: 'English',
@@ -25,6 +25,11 @@ module.exports = {
         label: 'Español',
         direction: 'ltr',
         htmlLang: 'es-MX'
+      },
+      tr: {
+        label: 'Turkish',
+        direction: 'ltr',
+        htmlLang: 'tr-TR'
       },
       pt: {
         label: 'Portugués',
