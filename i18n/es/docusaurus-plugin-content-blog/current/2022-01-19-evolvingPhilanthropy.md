@@ -6,7 +6,7 @@ author_image_url: /img/laurenAuthor.png
 image: /img/blog/GIVbackBanner.png
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../src/css/custom.css'
+import styles from '../../../../src/css/custom.css'
 
 
 _La misión de Giveth es recompensar y empoderar a quienes dan, a proyectos, a la sociedad y al mundo. Con GIVbacks, estamos recompensando a los donantes dando GIV a los donantes de proyectos verificados en Giveth._
@@ -46,7 +46,7 @@ GIVbacks está cambiando eso. Los donantes tienen la oportunidad de apoyar proye
 <img alt='meme de devolución' src={useBaseUrl('img/blog/GIVbacksMeme3.png')} />
 
 
-Giveth es de los donantes, por los donantes y para los donantes. [Nuestro GIVdrop](https://giv.giveth.io/claim) se envió a la comunidad Blockchain4good — [y en particular a los donantes de criptomonedas y a los usuarios de Giveth](https://docs.giveth.io/giveconomy/givdrop/) — porque queríamos poner en marcha la [GIVeconomy](https://giv.giveth.io/) con GIVers alineados con el valor. Ahora, a medida que la economía se expande, queremos que los donantes que utilizan la plataforma y contribuyen a las causas que les interesan obtengan un poder de gobierno proporcionalmente mayor. Con GIVbacks, cuanto más das, más GIV obtienes, y ese GIV se puede usar en [GIVgarden](https://giv.giveth.io/givgarden) para decidir qué propuestas se financian para expandir la economía GIV.
+Giveth es de los donantes, por los donantes y para los donantes. [Nuestro GIVdrop](https://giv.giveth.io/claim) se envió a la comunidad Blockchain4good — [y en particular a los donantes de criptomonedas y a los usuarios de Giveth](/es/giveconomy/givdrop/) — porque queríamos poner en marcha la [GIVeconomy](https://giv.giveth.io/) con GIVers alineados con el valor. Ahora, a medida que la economía se expande, queremos que los donantes que utilizan la plataforma y contribuyen a las causas que les interesan obtengan un poder de gobierno proporcionalmente mayor. Con GIVbacks, cuanto más das, más GIV obtienes, y ese GIV se puede usar en [GIVgarden](https://giv.giveth.io/givgarden) para decidir qué propuestas se financian para expandir la economía GIV.
 
 ### Las devoluciones son como donaciones deducibles de impuestos pero sin gobiernos ni fronteras
 
@@ -60,7 +60,7 @@ GIVbacks proporciona un fin similar, pero reduce la burocracia. Si un proyecto p
 
 <img alt='meme de devolución' src={useBaseUrl('img/blog/GIVbacksMeme5.png')} />
 
-La visión a largo plazo de Giveth es permitir que los proyectos positivos utilicen la ingeniería de tokens y la coordinación de DAO sobre el terreno. GIVbacks es [el primer paso para lograr este objetivo](https://youtu.be/VV7TmNILk6o?t=1640). Con GIVbacks, los donantes ordinarios comienzan a aprender y sentir curiosidad por las herramientas DAO como [token streams](https://docs.giveth.io/giveconomy/givstream), [DeFi](https://docs.giveth.io/giveconomy /givfarm) y [votación ponderada por token](https://docs.giveth.io/giveconomy/givgarden). Además, cuando los donantes obtienen GIV, ¡están naturalmente inclinados a donarlo! En la ronda 1 de GIVbacks, el 75 % del valor total de las donaciones a proyectos verificados en nuestra plataforma estaba en GIV.
+La visión a largo plazo de Giveth es permitir que los proyectos positivos utilicen la ingeniería de tokens y la coordinación de DAO sobre el terreno. GIVbacks es [el primer paso para lograr este objetivo](https://youtu.be/VV7TmNILk6o?t=1640). Con GIVbacks, los donantes ordinarios comienzan a aprender y sentir curiosidad por las herramientas DAO como [token streams](/es/giveconomy/givstream), [DeFi](/es/giveconomy /givfarm) y [votación ponderada por token](/es/giveconomy/givgarden). Además, cuando los donantes obtienen GIV, ¡están naturalmente inclinados a donarlo! En la ronda 1 de GIVbacks, el 75 % del valor total de las donaciones a proyectos verificados en nuestra plataforma estaba en GIV.
 
 Con el programa GIVbacks, tanto los donantes como los proyectos reciben GIV y comienzan a buscar cómo aumentar sus ganancias, cayendo rápidamente en la madriguera del conejo web3 a través de [giv.giveth.io](https://giv.giveth.io/).
 
@@ -86,7 +86,7 @@ Entonces, ¿cómo funciona exactamente este programa? Bueno, hace uso de un sist
 
 Para los proyectos que no son de Giving Block, los propietarios del proyecto deben completar un [typeform](https://giveth.typeform.com/verification) y responder algunas preguntas. Los proyectos verificados deben demostrar que están trabajando para crear [no excluible](https://www.khanacademy.org/economics-finance-domain/microeconomics/market-failure-and-the-role-of-government/externalities-topic/a/public-goods-cnx) valor para la sociedad y que tienen cierta reputación en juego que les impediría jugar o manipular el programa GIVbacks para beneficio personal.
 
-Nuestro increíble equipo de verificación de proyectos luego revisa estas solicitudes, investiga la información proporcionada e informa a los propietarios del proyecto sobre el veredicto. Los proyectos aprobados tendrán sus distintivos Verificados [al comienzo de la próxima ronda de GIVbacks](https://docs.giveth.io/giveconomy/givbacks#project-verification). Puede obtener más información sobre el proceso de verificación del proyecto y los factores de calificación/descalificación en nuestra [documentación de GIVbacks](https://docs.giveth.io/giveeconomy/givbacks/).
+Nuestro increíble equipo de verificación de proyectos luego revisa estas solicitudes, investiga la información proporcionada e informa a los propietarios del proyecto sobre el veredicto. Los proyectos aprobados tendrán sus distintivos Verificados [al comienzo de la próxima ronda de GIVbacks](/es/giveconomy/givbacks#project-verification). Puede obtener más información sobre el proceso de verificación del proyecto y los factores de calificación/descalificación en nuestra [documentación de GIVbacks](/es/giveeconomy/givbacks/).
 
 <img alt='insignia verificada' src={useBaseUrl('img/blog/GivethIOdonateButton.png')} />
 
@@ -94,15 +94,15 @@ Nuestro increíble equipo de verificación de proyectos luego revisa estas solic
 
 ### Rondas de devolución
 
-Las rondas de GIVbacks son períodos de 2 semanas en los que todas las donaciones a proyectos verificados se rastrean y registran en nuestra base de datos. Al final de una ronda, nuestro equipo revisa las donaciones y [calcula la cantidad de GIV para enviar a cada donante](https://docs.giveth.io/giveeconomy/givbacks#getting-givbacks). Tenga en cuenta que las direcciones de los destinatarios de los proyectos verificados en Giveth no obtienen devoluciones por sus donaciones. Esto es para evitar la recirculación de fondos y otras actividades fraudulentas**_._**
+Las rondas de GIVbacks son períodos de 2 semanas en los que todas las donaciones a proyectos verificados se rastrean y registran en nuestra base de datos. Al final de una ronda, nuestro equipo revisa las donaciones y [calcula la cantidad de GIV para enviar a cada donante](/es/giveeconomy/givbacks#getting-givbacks). Tenga en cuenta que las direcciones de los destinatarios de los proyectos verificados en Giveth no obtienen devoluciones por sus donaciones. Esto es para evitar la recirculación de fondos y otras actividades fraudulentas**_._**
 
-Una vez que se ha determinado la distribución y se ha resuelto [cualquier actividad sospechosa](https://docs.giveth.io/giveconomy/givbacks#disqualifying-factors-for-givbacks-program), [los titulares de tokens DAO de reputación](https://medium.com/giveth/the-giveth-dao-community-givernance-84f55fa1ce36) votar para aprobar la asignación. Puede ver los votos para distribuir GIVbacks para cada ronda en nuestro foro [aquí](https://forum.giveth.io/tag/givbacks-distro). Cuando pasa la votación, se notifica a los donantes por correo electrónico que sus GIVbacks están listos para reclamar [desde la página de GIVbacks](https://giv.giveth.io/givbacks).
+Una vez que se ha determinado la distribución y se ha resuelto [cualquier actividad sospechosa](/es/giveconomy/givbacks#disqualifying-factors-for-givbacks-program), [los titulares de tokens DAO de reputación](https://medium.com/giveth/the-giveth-dao-community-givernance-84f55fa1ce36) votar para aprobar la asignación. Puede ver los votos para distribuir GIVbacks para cada ronda en nuestro foro [aquí](https://forum.giveth.io/tag/givbacks-distro). Cuando pasa la votación, se notifica a los donantes por correo electrónico que sus GIVbacks están listos para reclamar [desde la página de GIVbacks](https://giv.giveth.io/givbacks).
 
 <img alt='ejemplo de ronda de devoluciones' src={useBaseUrl('img/blog/GIVbacksRoundExample.png')} />
 
 **¡Cada 2 semanas, hay 1 millón de GIV disponibles para devolver a los donantes!**
 
-Hasta el 23 de diciembre de 2026, los donantes que obtienen GIV de GIVbacks pueden reclamar una parte inmediatamente después de la distribución, y una parte agregada a su [tasa de flujo GIVstream](https://docs.giveth.io/giveconomy/givstream). Con GIVstream, los donantes que donan a proyectos verificados en Giveth obtienen más GIV continuamente [a medida que GIViverse se expande](https://giv.giveth.io/givstream)
+Hasta el 23 de diciembre de 2026, los donantes que obtienen GIV de GIVbacks pueden reclamar una parte inmediatamente después de la distribución, y una parte agregada a su [tasa de flujo GIVstream](/es/giveconomy/givstream). Con GIVstream, los donantes que donan a proyectos verificados en Giveth obtienen más GIV continuamente [a medida que GIViverse se expande](https://giv.giveth.io/givstream)
 
 GIVbacks es la próxima generación de filantropía en la que, utilizando el poder de web3, podemos transformar los sistemas heredados que requieren que aquellos que dan se sacrifiquen, en sistemas en los que dar realmente devuelve.
 

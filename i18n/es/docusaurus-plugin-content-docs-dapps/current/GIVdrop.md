@@ -13,7 +13,7 @@ All addresses have 5 years from December 24, 2021 to claim their GIVdrop. After 
 
 ## GIVdrop Eligibility
 
-17.05% of the total initial supply (1 billion GIV) has been distributed to our trusted seed. The trusted seed is a group of individuals - previous supporters  10% of these tokens are instantly claimable on Gnosis Chain (formerly xDai Network) as the GIVdrop. The rest initializes and sustains [the GIVstream](https://docs.giveth.io/giveconomy/givstream) - a flow of GIV that becomes claimable gradually and continuously until December 23, 2026.
+17.05% of the total initial supply (1 billion GIV) has been distributed to our trusted seed. The trusted seed is a group of individuals - previous supporters  10% of these tokens are instantly claimable on Gnosis Chain (formerly xDai Network) as the GIVdrop. The rest initializes and sustains [the GIVstream](/es/giveconomy/givstream) - a flow of GIV that becomes claimable gradually and continuously until December 23, 2026.
 
 Eligible recipients of the GIVdrop and the associated GIVstream include:
 
@@ -24,7 +24,7 @@ Eligible recipients of the GIVdrop and the associated GIVstream include:
 - Past users of beta Giveth TRACE 1%
 - Past donors to Gitcoin Grants in Rounds 1-7 1%
 
-The Blockchain4Good DAO heroes group includes a list of over 2500 unique addresses, with over 60 different groupings. The majority of addresses belong to people who have been identified as crypto donors, with the rest belonging to value-aligned DAO members that are working, directly or indirectly, to further [Giveth's mission](https://docs.giveth.io/whatisgiveth/). You may have a GIVdrop if you are part of any of these groups (and many others!):
+The Blockchain4Good DAO heroes group includes a list of over 2500 unique addresses, with over 60 different groupings. The majority of addresses belong to people who have been identified as crypto donors, with the rest belonging to value-aligned DAO members that are working, directly or indirectly, to further [Giveth's mission](/es/whatisgiveth/). You may have a GIVdrop if you are part of any of these groups (and many others!):
 
 - 1Hive
 - ChievMint

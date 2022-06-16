@@ -6,7 +6,7 @@ author_image_url: /img/mitchAuthor.jpeg
 image: /img/blog/change-makersMeme1.jpeg
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../src/css/custom.css'
+import styles from '../../../../src/css/custom.css'
 
 **¿Te apasiona cambiar el mundo para mejor?** Queremos saber cómo estás tomando medidas para mejorar un problema social o ambiental que te afecta. Cuéntanos cómo estás marcando la diferencia. **Comparte tu historia.**
 
@@ -35,7 +35,7 @@ Destacaremos los proyectos enviados compartiéndolos en publicaciones de blog de
 ## ¿Quieres estar más implicado?
 
 * Únase a nosotros en [Discord](https://discord.gg/JftjK8Un3z) o [Telegram](http://t.me/givethio)
-* Descubra nuestro [Sitio](http://giveth.io/), [Docs](https://docs.giveth.io/) y [Wiki](https://wiki.giveth.io/)
+* Descubra nuestro [Sitio](http://giveth.io/), [Docs](/es/) y [Wiki](https://wiki.giveth.io/)
 * Bifurca nuestro código en [GitHub](https://github.com/Giveth/)
 * Síguenos en [Medio](http://medium.com/giveth/), [Facebook](https://www.facebook.com/givethio), [Twitter](http://twitter.com/givethio ) y [Reddit](https://www.reddit.com/r/giveth/)
 

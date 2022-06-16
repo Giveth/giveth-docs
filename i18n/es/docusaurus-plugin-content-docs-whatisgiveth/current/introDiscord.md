@@ -61,7 +61,7 @@ Una vez que haya accedido al servidor, un bot le enviará un mensaje con un Capt
 
 - #👍gobernance es donde experimentamos con la gobernanza descentralizada y documentamos cualquier cosa que pueda ser útil para futuras comunidades como la nuestra.
 - #🌐dao proporciona enlaces a las propuestas de DAO e informa a la comunidad cuándo es el momento de votar. En este canal es posible discutir todo lo relacionado con las propuestas.
-- #giveth-trace-payments se utiliza para comunicar información sobre las transacciones de pago que se realizan en el puente Giveth TRACE. puede encontrar Más información sobre cómo funciona el puente [aquí](https://docs.giveth.io/dapps/bridgeSecurity).
+- #giveth-trace-payments se utiliza para comunicar información sobre las transacciones de pago que se realizan en el puente Giveth TRACE. puede encontrar Más información sobre cómo funciona el puente [aquí](/es/dapps/bridgeSecurity).
 
 ## Plataforma
 
@@ -85,7 +85,7 @@ Una vez que haya accedido al servidor, un bot le enviará un mensaje con un Capt
 
 Estos canales se utilizan para conversaciones de voz y/o video con miembros de la comunidad.
 
-#groovy-playlist es un canal de texto que se usa para escribir comandos de Chip Bot. [(Más información sobre los comandos de bot a continuación)](https://docs.giveth.io/whatisgiveth/introDiscord/#chip)
+#groovy-playlist es un canal de texto que se usa para escribir comandos de Chip Bot. [(Más información sobre los comandos de bot a continuación)](/es/whatisgiveth/introDiscord/#chip)
 **Stage**: este es el canal que se usa para organizar eventos y mostrar Giveth a la comunidad de Ethereum en general.
 **Community**: se utiliza como punto de encuentro para los grupos de trabajo de Community Circle, así como para las llamadas comunitarias semanales.
 **Platform**: es un punto de encuentro para los grupos de trabajo de Platform Circle.

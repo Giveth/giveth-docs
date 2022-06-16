@@ -6,7 +6,7 @@ author_image_url: /img/mitchAuthor.jpeg
 image: /img/blog/communitySpotlight2Cover.gif
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../src/css/custom.css'
+import styles from '../../../../src/css/custom.css'
 
 We’re back with another fresh batch of amazing projects on Giveth.io. We have six projects from a wide range of causes that we are featuring in this project spotlight. This is also an extra special spotlight because Giveth.io itself is currently active and accepting donations on the latest round of [**Gitcoin Grants**](https://gitcoin.co/grants/) **(GR11)**. If you feel inspired by the Giveth mission after reading this article then consider making a contribution via our [Grants listing](https://gitcoin.co/grants/795/givethio-panvala-league) and learn about the magic of _Quadratic Funding_! More on that later…
 
@@ -113,7 +113,7 @@ Want to get more involved?
 --------------------------
 
 *   Join us on [Discord](https://discord.gg/JftjK8Un3z) or [Telegram](http://t.me/givethio)
-*   Discover our [Docs](https://docs.giveth.io/)
+*   Discover our [Docs](/es/)
 *   Fork our code on [GitHub](https://github.com/Giveth/)
 *   Follow us on [Medium](http://medium.com/giveth/), [Twitter](http://twitter.com/givethio), [Reddit](https://www.reddit.com/r/giveth/) and [YouTube](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ)
 

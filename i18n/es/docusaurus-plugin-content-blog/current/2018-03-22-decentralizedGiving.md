@@ -5,7 +5,7 @@ author: Lanski
 author_image_url: /img/Lanski.jpeg
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../src/css/custom.css'
+import styles from '../../../../src/css/custom.css'
 
 
 Oxfam, constantemente calificada como [una de las mejores ONG del mundo](https://www.oxfam.org.uk/blogs/2012/01/oxfam-number-three-in-top-100-best-ngos) y un nombre familiar en la mayoría de los países occidentales, está envuelto en un escándalo por el supuesto [abuso tanto de personas como de fondos](http://nationalpost.com/news/world/a-full-on-caligula-orgy-oxfam-charity-accused-of-exploiting-haiti-disaster-victims-for-sex) en Haití durante la misión de ayuda desplegada tras el paso del huracán Harvey. No sólo eso, sino que también se le acusa de que sus empleados intercambien ayuda por favores sexuales, puro y simple abuso sexual. El caso ha abierto la puerta a un grito del sector sin fines de lucro para destapar y denunciar estas prácticas, que parecen ser [más comunes de lo que uno piensa](https://www.theguardian.com/global-development/audio/2018/feb/14/oxfam-allegations-are-tip-of-iceberg-sexual-harssment-and-aid-workers-podcast).

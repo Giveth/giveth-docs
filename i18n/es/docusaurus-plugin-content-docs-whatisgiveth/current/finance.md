@@ -14,7 +14,7 @@ Si prefiere donar directamente a nuestra dirección o a través de MyCrypto o Me
 **Gastos operacionales**
 Los gastos relacionados con Giveth se pueden reclamar creando un seguimiento en la campaña de un círculo de Giveth en trace.giveth.io. Si no ha tenido ningún gasto con Giveth antes, primero debe [comuníquese con el equipo](https://discord.gg/cCsYnNDkq2).
 
-Los Círculos individuales (ver [Circulos de Giveth](https://docs.giveth.io/es/whatisgiveth/givethCircles)) son responsables de los gastos de sus miembros, incluidos, entre otros:
+Los Círculos individuales (ver [Circulos de Giveth](/es/es/whatisgiveth/givethCircles)) son responsables de los gastos de sus miembros, incluidos, entre otros:
 
 - Gastos de oficina (alquiler, facturas de servicios públicos, equipo, comestibles para las reuniones del equipo Giveth)
 - Transporte hacia y desde las reuniones oficiales del equipo Giveth

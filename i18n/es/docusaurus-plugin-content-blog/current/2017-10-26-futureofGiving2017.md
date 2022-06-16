@@ -5,7 +5,7 @@ author: Kris
 author_image_url: /img/krisAuthor.jpeg
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../src/css/custom.css'
+import styles from '../../../../src/css/custom.css'
 
 
 Una descripción general de la solicitud de donación de Giveth

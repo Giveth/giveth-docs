@@ -6,7 +6,7 @@ author_image_url: /img/mitchAuthor.jpeg
 image: /img/blog/changeMakersRoundup1Meme1.png
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../src/css/custom.css'
+import styles from '../../../../src/css/custom.css'
 
 <img alt="Cowboy Rounding up Submissions" class="leftfloat" src={useBaseUrl('img/blog/changeMakersRoundup2img1.jpg')} width="450" height="auto" />
 
@@ -60,7 +60,7 @@ Cuando empezamos por primera vez con la campaña de creadores de cambios, había
 ## ¿Quieres conseguir más implicado?
 
 * Únase a nosotros en [Discord](https://discord.gg/JftjK8Un3z) o en [Telegram](http://t.me/givethio)
-* Descubra nuestro [Sitio](http://giveth.io/), [Docs](https://docs.giveth.io/) y [Wiki](https://wiki.giveth.io/)
+* Descubra nuestro [Sitio](http://giveth.io/), [Docs](/es/) y [Wiki](https://wiki.giveth.io/)
 * Bifurca nuestro código en [GitHub](https://github.com/Giveth/)
 * Síguenos en [Medio](http://medium.com/giveth/), [Facebook](https://www.facebook.com/givethio), [Twitter](http://twitter.com/givethio ) y [Reddit](https://www.reddit.com/r/giveth/)
 

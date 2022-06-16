@@ -7,7 +7,7 @@ author_image_url: /img/laurenAuthor.png
 image: img/blog/whatsDappening1Meme.gif
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../src/css/custom.css'
+import styles from '../../../../src/css/custom.css'
 
 _Hola amigos y fans de Giveth! Esta es una parte de una serie de breves publicaciones de transparencia donde lo mantenemos informado con actualizaciones sobre lo que está en desarrollo para_ [_giveth.io_](http://giveth.io)_._
 

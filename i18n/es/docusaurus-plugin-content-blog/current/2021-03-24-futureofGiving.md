@@ -7,7 +7,7 @@ author_image_url: /img/laurenAuthor.png
 image: /img/blog/futureofGivingimg1.png
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../src/css/custom.css'
+import styles from '../../../../src/css/custom.css'
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/ASv420Vf3F8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

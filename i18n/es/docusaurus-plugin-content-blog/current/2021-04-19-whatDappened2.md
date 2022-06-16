@@ -7,11 +7,11 @@ author_image_url: /img/laurenAuthor.png
 image: img/blog/whatsDappening2Gif.gif
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../src/css/custom.css'
+import styles from '../../../../src/css/custom.css'
 
 _¡Regresamos con otra actualización de desarrollo de nuestro reciente ciclo de sprint! Siga leyendo para mantenerse informado sobre lo que está sucediendo en_ [_giveth.io_](https://giveth.io/)
 
-En este sprint pasado, descubrimos en nuestras pruebas un pequeño error en nuestra función de "clasificación" que causaba que solo se ordenaran los proyectos precargados. Tenga la seguridad de que solucionamos ese error y ahora la funcionalidad de clasificación/filtro/búsqueda funciona sin problemas. Hemos documentado cómo obtener un proyecto con un "puntaje de calidad" alto en nuestros [Documentos de Giveth](https://docs.giveth.io/guides/qualityscore/). ¡Los creadores ahora pueden asegurarse de que están haciendo todo lo posible para que sus proyectos lleguen a la cima!
+En este sprint pasado, descubrimos en nuestras pruebas un pequeño error en nuestra función de "clasificación" que causaba que solo se ordenaran los proyectos precargados. Tenga la seguridad de que solucionamos ese error y ahora la funcionalidad de clasificación/filtro/búsqueda funciona sin problemas. Hemos documentado cómo obtener un proyecto con un "puntaje de calidad" alto en nuestros [Documentos de Giveth](/es/guides/qualityscore/). ¡Los creadores ahora pueden asegurarse de que están haciendo todo lo posible para que sus proyectos lleguen a la cima!
 
 También hemos actualizado la página de proyectos con "desplazamiento infinito", lo que permite al usuario desplazarse hacia abajo en la página a medida que los nuevos proyectos se cargan automáticamente.
 
@@ -46,7 +46,7 @@ _¡Muchas gracias a nuestro increíble equipo por hacer posible todo esto: James
 ## ¿Quieres conseguir estar mas implicado?
 
 * Únase a nosotros en [Discord](https://discord.gg/JftjK8Un3z) o [Telegram](http://t.me/givethio)
-* Descubra nuestro [Sitio](http://giveth.io/), [Docs](https://docs.giveth.io/) y [Wiki](https://wiki.giveth.io/)
+* Descubra nuestro [Sitio](http://giveth.io/), [Docs](/es/) y [Wiki](https://wiki.giveth.io/)
 * Bifurca nuestro código en [GitHub](https://github.com/Giveth/)
 * Síguenos en [Medio](http://medium.com/giveth/), [Facebook](https://www.facebook.com/givethio), [Twitter](http://twitter.com/givethio ), [Reddit](https://www.reddit.com/r/giveth/) y [YouTube](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ)
 

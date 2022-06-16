@@ -6,7 +6,7 @@ author_image_url: /img/laurenAuthor.png
 image: /img/blog/traceLiveBanner.png
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../src/css/custom.css'
+import styles from '../../../../src/css/custom.css'
 
 
 **_We are pleased to announce the official full release of_** [**_Giveth TRACE_**](http://trace.giveth.io/?utm_source=medium&utm_medium=article&utm_campaign=traceLaunch) **_— a platform for traceable, accountable, effective donations powered by blockchain technology._**
@@ -84,7 +84,7 @@ So what are you waiting for?  Head over to [Giveth TRACE](http://trace.giveth.io
 **Want to get more involved?**
 
 *   Join us on [Discord](https://discord.gg/JftjK8Un3z) or [Telegram](http://t.me/givethio)
-*   Discover our [Docs](https://docs.giveth.io/)
+*   Discover our [Docs](/es/)
 *   Fork our code on [GitHub](https://github.com/Giveth/)
 *   Follow us on [Medium](http://medium.com/giveth/), [Facebook](https://www.facebook.com/givethio), [Twitter](http://twitter.com/givethio), [Reddit](https://www.reddit.com/r/giveth/) and [YouTube](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ)
 
