@@ -4,15 +4,15 @@
     "description": "The label for version current"
   },
   "sidebar.dapps.category.DApps Documentation": {
-    "message": "DApps Documentation",
+    "message": "DApp Belgeleri",
     "description": "The label for category DApps Documentation in sidebar dapps"
   },
   "sidebar.dapps.category.DApps Documentation.link.generated-index.title": {
-    "message": "Dapps Documentation",
+    "message": "DApp Belgeleri",
     "description": "The generated-index page title for category DApps Documentation in sidebar dapps"
   },
   "sidebar.dapps.category.DApps Documentation.link.generated-index.description": {
-    "message": "Learn more about how the Giveth Dapp works. We have a variety of articles tailored for Users and Developers for Giveth.io, Giveth TRACE and the GIVeconomy.",
+    "message": "Giveth Dapp'inin nasıl çalıştığını ögrenin. Giveth.io, Giveth TRACE ve GIVeconomy Kullanıcıları ve Geliştiricileri için hazırladığımız özel makalelere göz atın.",
     "description": "The generated-index page description for category DApps Documentation in sidebar dapps"
   },
   "sidebar.dapps.category.User Guides": {
