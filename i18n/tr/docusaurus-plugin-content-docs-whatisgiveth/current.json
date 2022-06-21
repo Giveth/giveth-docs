@@ -4,11 +4,11 @@
     "description": "The label for version current"
   },
   "sidebar.whatisgiveth.category.Circles": {
-    "message": "Circles",
+    "message": "Katmanlar",
     "description": "The label for category Circles in sidebar whatisgiveth"
   },
   "sidebar.whatisgiveth.category.Guides": {
-    "message": "Guides",
+    "message": "Kılavuzlar",
     "description": "The label for category Guides in sidebar whatisgiveth"
   }
 }

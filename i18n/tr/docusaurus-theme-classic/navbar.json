@@ -1,14 +1,14 @@
 {
   "title": {
-    "message": "Giveth Documentation",
+    "message": "Giveth Dokümanları",
     "description": "The title in the navbar"
   },
   "item.label.What is Giveth?": {
-    "message": "What is Giveth?",
+    "message": "Giveth Nedir?",
     "description": "Navbar item with label What is Giveth?"
   },
   "item.label.DApps": {
-    "message": "DApps",
+    "message": "DApp'ler",
     "description": "Navbar item with label DApps"
   },
   "item.label.GIVeconomy": {
@@ -16,11 +16,11 @@
     "description": "Navbar item with label GIVeconomy"
   },
   "item.label.Jobs": {
-    "message": "Jobs",
+    "message": "İş İlanları",
     "description": "Navbar item with label Jobs"
   },
   "item.label.Newsletter": {
-    "message": "Newsletter",
+    "message": "Haberler",
     "description": "Navbar item with label Newsletter"
   },
   "item.label.Blog": {

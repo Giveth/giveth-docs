@@ -1,15 +1,15 @@
 {
-  "What is Giveth?": {
-    "message": "What is Giveth?"
+  "'What is Giveth?'": {
+    "message": "Giveth Nedir?"
   },
   "Everything you need to know about how we do things at Giveth. If you're a new contributor, start here!": {
-    "message": "Everything you need to know about how we do things at Giveth. If you're a new contributor, start here!"
+    "message": "Giveth'te nasıl çalıştığımıza dair bilmeniz gereken her şey. Giveth'e katkıda bulunmak istiyorsanız, buradan başlayın!"
   },
   "User Guides, Developer Documentation and all things technical for Giveth.io and Giveth TRACE.": {
-    "message": "User Guides, Developer Documentation and all things technical for Giveth.io and Giveth TRACE."
+    "message": "Giveth.io ve Giveth TRACE hakkında Kullanıcı Kılavuzları, Geliştirici Dokümanları ve tüm teknik şeyler."
   },
   "All you need to know about the GIVeconomy; contract addresses, functionality, tutorials and more!": {
-    "message": "All you need to know about the GIVeconomy; contract addresses, functionality, tutorials and more!"
+    "message": "GIVeconomy hakkında bilmeniz gereken her şey; kontrat adresleri, işlevsellik, tutorial'lar ve dahası!"
   },
   "theme.ErrorPageContent.title": {
     "message": "This page crashed.",
