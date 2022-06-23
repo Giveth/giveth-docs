@@ -43,7 +43,7 @@ GIV Gnosis Chain (formerly xDai Network) - 0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD
 ## GIVfarming the GIVgarden
 The GIVeconomy implements a unique feature in its GIV Staking pool on Gnosis Chain (formerly xDai Network). When you stake tokens in this farm, you are also wrapping those GIV in the GIVgarden. This means that while collecting rewards from the GIVfarm, you also unlock voting power within the [GIVgarden](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98) as long as you stay staked in this farm. Conversely, while wrapping GIV in the GIVgarden you are also staking tokens into the aforementioned GIV staking pool.
 
-### Weekly Distribution
+## Weekly Distribution
 
 **Round 1 (26 weeks)** weekly GIV rewards distribution percentages based on GIVfarm liqudity mining supply are as follows:
 
@@ -80,3 +80,38 @@ The GIVeconomy implements a unique feature in its GIV Staking pool on Gnosis Cha
 Note that, as a result of the termination of the Univ3 rewards program in week 13 there is approximately 5M GIV, previously earmarked for these rewards, that are no longer part of the GIVfarm allocation.
 
 Further rounds may be launched after this period that could contain new pools and changes in distribution. All rewards from GIVfarm will be affected by the GIVstream. Read up on the [GIVstream documentation](./givstream) for more information.
+
+## GIVfarm Extension (Q2 2022)
+
+The first GIVfarm Extension happened on June 24th, 2022. The farm was extended a further 8 weeks with an additional 4 Million GIV allocated to farming rewards. 
+
+A flat **500,000 GIV** is distributed weekly from June 24th until August 19th 2022
+
+Here is a breakdown of the farms, the percentage allocated to each and the flat amount of GIV distributed weekly:
+
+| Farm | % Allocated | GIV Per Week |
+| --- | --- | --- |
+| GIV/DAI Uniswap V2 on Mainnet | 23% | 115,000 |
+| 80GIV/ETH Balancer on Mainnet | 15% | 75,000 |
+| GIV Staking on Mainnet | 5% | 25,000 |
+| 50GIV/xDAI Honeyswap on xDai | 25% | 125,000 |
+| 50GIV/WETH Sushiswap on xDai | 17% | 85,000 |
+| GIVgardens/staking on xDai | 15% | 75,000 |
+
+Here's the contract information:
+
+#### Staking Contract Addresses (Mainnet)
+- Balancer v2 80GIV/ETH Pool - 0xc0dbDcA66a0636236fAbe1B3C16B1bD4C84bB1E1
+- GIV Staking  - 0x4B9EfAE862a1755F7CEcb021856D467E86976755
+- Uniswap v2 GIV/DAI - 0xa4523D703F663615Bd41606B46B58dEb2F926D98
+#### Staking Contract Addresses (Gnosis Chain (formerly xDai Network))
+- GIV Staking - 0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2
+- GIV/xDAI Honeyswap - 0x24A6067fEd46dc8663794c4d39Ec91b074cf85D4
+- GIV/WETH SushiSwap - 0xfB429010C1e9D08B7347F968a7d88f0207807EF0
+
+#### LP Token Addresses (Mainnet)
+- Balancer v2 - 0x7819f1532c49388106f7762328c51ee70edd134c
+- Uniswap v2 - 0xbeba1666c62c65e58770376de332891b09461eeb
+#### LP Token Addresses (Gnosis Chain (formerly xDai Network))
+- GIV/xDAI Honeyswap - 0xB7189A7Ea38FA31210A79fe282AEC5736Ad5fA57
+- GIV/WETH SushiSwap - 0x55FF0cef43F0DF88226E9D87D09fA036017F5586
