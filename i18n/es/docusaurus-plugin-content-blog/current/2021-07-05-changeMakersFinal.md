@@ -1,6 +1,6 @@
 ---
 slug: changeMakersFinal
-title: "Change-Makers: Final Round-up!"
+title: "Agentes de cambio: ¡La ronda final!"
 author: Mitch
 author_image_url: /img/mitchAuthor.jpeg
 image: /img/blog/changeMakersFinalCover.jpeg
@@ -10,66 +10,66 @@ import styles from '../src/css/custom.css'
 
 
 
-Giveth has been buzzing with action! While we’ve been hard at work behind-the-scenes building for our community, Giveth change-makers have been hard at work creating positive impact on the ground. We are excited to share with you one final round-up of projects in the Change-Maker Campaign.
+¡Giveth ha estado lleno de acción! Mientras hemos estado trabajando duro entre bastidores para construir nuestra comunidad, los agentes de cambio de Giveth han estado trabajando duro para crear un impacto positivo sobre el terreno. Nos emociona compartir una última ronda de los proyectos en la campaña de agentes de cambio.
 
 <img alt="Change Makers Going out to pasture" src={useBaseUrl('/img/blog/changeMakersFinalCover.jpeg')}  />
 
-Our [Calling All Change-Makers Campaign](/blog/changeMakers) launched in April 2021 as a way to highlight the unique stories of for-good projects on Giveth and bring extra attention to the work that they are doing to change the world for the better. Read on to discover the final submissions!
+Nuestra [campaña “Llamado a todos los agentes de cambio”](https://docs.giveth.io/blog/changeMakers) se lanzó en abril del 2021 como una forma de destacar las historias únicas de los proyectos para el bien en Giveth y llamar la atención al trabajo que están haciendo para cambiar el mundo a mejor. ¡Sigue leyendo para descubrir las propuestas finales!
 
 <img alt="Perfect Village Communities (PVC) in Burundi" src={useBaseUrl('/img/blog/changeMakersFinal1.png')}  />
 
 Perfect Village Communities (PVC) in Burundi
 ============================================
 
-Is an organization that aims to improve the living conditions in rural communities across the central African country of Burundi. The project’s creator, Mugisha, states that in rural Burundi up to **58% of children suffer from malnutrition** and communities often have no access to medical services. Agriculture and livestock can represent up to 95% of a village’s commercial activities, yet families still struggle to get enough food to sustain themselves.
+Esta es una organización que pretende mejorar las condiciones de vida en las comunidades rurales del país centroafricano Burundi. El creador del proyecto, Mugisha, afirma que en las zonas rurales de Burundi hasta el **58% de los niños sufren desnutrición** y las comunidades no suelen tener acceso a servicios médicos. La agricultura y ganadería puede representar hasta el 95% de las actividades comerciales de una aldea, sin embargo las familias siguen luchando para conseguir alimentos suficientes para mantenerse.
 
-PVC Burundi began in 2015 and is teaching rural communities how to implement regenerative systems for improving education, agriculture and healthcare. Activities focus on soil regeneration, organic waste recycling, tree planting, and of course, growing food. PVC Burundi provides healthcare access to communities in exchange for tree-planting services, incentivizing a healthy environment in tandem with healthy humans.
+PVC Burundi comenzó en 2015 y está enseñando a las comunidades rurales como implementar sistemas regenerativos para mejorar la educación, agricultura y atención médica. Las actividades se enfocan en la regeneración del suelo, reciclaje de residuos orgánicos, plantación de árboles y, por supuesto, el cultivo de alimentos. PVC Burundi proporciona acceso a servicios médicos a cambio de servicios de plantación de árboles, incentivando un entorno saludable junto con humanos sanos.
 
-Food sold in markets via Village Communities are used to fund PVC’s healthcare and education initiatives. Every year they launch “Community Reconciliation” where they expose new communities to different regenerative techniques, begin tree planting campaigns and bring food to market. Currently, one of their main goals is to extend their healthcare facilities in Burundi.
+Los alimentos que se venden en los mercados a través de _Village Communities_ se utilizan para financiar las iniciativas de salud y educación de PVC. Todos los años lanzan una “Reconciliación Comunitaria”, donde exponen nuevas comunidades a varias técnicas regenerativas, inician campañas de plantación de árboles y llevan alimentos al mercado. Actualmente, uno de sus objetivos principales es ampliar sus instalaciones médicas en Burundi.
 
-[Check out Perfect Villages in Burundi](https://giveth.io/project/CREATING-THE-PERFECT-VILLAGES-IN-BURUNDI) and help spread the regenerative movement in Africa!
+[Echa un vistazo a Perfect Villages en Burundi](https://giveth.io/project/CREATING-THE-PERFECT-VILLAGES-IN-BURUNDI) y ¡ayuda a difundir el movimiento regenerativo en África!
 
 <img alt="Bridging Digital Communities" src={useBaseUrl('/img/blog/changeMakersFinal2.png')}  />
 
 Bridging Digital Communities
 ============================
 
-Is run by a Digital Wizard by the name of Kay. He creates online bridges that allow communities to stay connected. In the decentralized world of Blockchain, communities can spring up seemingly out of nowhere, forming around causes, concepts, technologies or protocols. In this rapidly growing part of the world wide web, communities thrive off of the collective innovation and synergy of ideas, exponentiated greatly by the digital bridges that Kay creates. He has been creating and maintaining bridge servers for applications such as Discord, Telegram or Riot and has never charged anyone to make these connections. He bridges quite a few notable Ethereum projects such as: Matic, Gitcoin, 1hive, Conensys, Aragon and even Giveth (Thanks Kay! 😉)
+Esta iniciativa está dirigida por un mago digital llamado Kay. Él crea puentes en línea que permiten a las comunidades estar conectadas. En el mundo descentralizado del blockchain, las comunidades pueden surgir de la nada formándose en torno a causas, conceptos, tecnologías o protocolos. En esta parte de la red mundial que crece rápidamente, las comunidades prosperan gracias a la innovación colectiva y la sinergia de las ideas, potenciadas gratamente por los puentes digitales de Kay. Ha estado creando y manteniendo servidores de puentes para aplicaciones como Discord, Telegram o Riot y nunca le ha cobrado a nadie por hacer estas uniones. Conecta bastantes proyectos notables de Ethereum como Matic, Gitcoin, 1Hive, ConsenSys, Aragon e incluso Giveth (¡Gracias Kay! 😉)
 
-Kay has a project on Giveth — the proceeds of which go into funding the work he does building bridges and keeping digital communities connected. [Check out his project on Giveth here!](https://giveth.io/project/Bridging-Digital-Communities-1)
+Kay tiene un proyecto en Giveth, las donaciones se destinan a financiar el trabajo que realiza construyendo puentes y manteniendo las comunidades digitales conectadas. [¡Descubre su proyecto en Giveth aquí!](https://giveth.io/project/Bridging-Digital-Communities-1)
 
 <img alt="Vegan Africa Fund" src={useBaseUrl('/img/blog/changeMakersFinal3.png')}  />
 
 Vegan Africa Fund
 =================
 
-Is a Social Enterprise focused on creating a vegan economy in Africa. They actively support African ventures in education, regenerative agriculture, renewable-energy cryptocurrency mining, vegan leather and clothing, reforestation and making delicious vegan food! They have minted their own digital $VAF impact-tokens which are accepted by all of their affiliate businesses for any products, services and experiences they might offer. Vegan Africa Fund hopes to kick-start their green economy with initial funding to back their $VAF token.
+Esta es una empresa social centrada en crear una economía vegana en África. Apoyan activamente empresas africanas en educación, agricultura regenerativa, minería de criptomonedas con energía renovable, cuero y ropa vegana, reforestación y elaboración de comida vegana deliciosa. Han acuñado su propio token de impacto, $VAF, el cual es aceptado por todos sus afiliados para cualquier producto, servicio y experiencias que puedan ofrecer. Vegan Africa Fund espera poner en marcha su economía verde con financiación inicial para respaldar su token $VAF.
 
-Help Vegan Africa Fund pave the way for a plant-based Africa by making a donation to [their project on Giveth.](https://giveth.io/project/vegan-africa-fund)
+Ayuda a Vegan Africa Fund a construir el camino a una África basada en plantas haciendo una donación a [su proyecto en Giveth](https://giveth.io/project/vegan-africa-fund).
 
 <img alt="Spread the Love Commission" src={useBaseUrl('/img/blog/changeMakersFinal4.png')}  />
 
 Spread the Love Commission
 ==========================
 
-Bridges the divide in the US between those experiencing homelessness and the inspired individuals who want to lend a hand. Wren Fialka, the founder, started it all by asking a man experiencing homelessness one question: “If there was a bag of items that I could bring you tomorrow to make your day-to-day life easier, what would be in the bag?”. Based on their simple approach focused on “Connection, Compassion and Vital Supplies” they have been serving communities across the US for the last 6 years.
+Spread the Love Commission (La comisión difunde el amor) tiende un puente entre las personas sin hogar y las personas deseando echar una mano en Estados Unidos. Wren Fialka, el fundador, lo empezó todo haciéndole una pregunta a un hombre sin hogar: “Si hubiese una bolsa de artículos que pudiera traerle mañana para facilitarle el día, ¿qué tendría la bolsa?”. Basándose en un simple planteamiento, centrado en “conexión, compasión y suministros vitales”, llevan 6 años sirviendo a comunidades en todo EE.UU.
 
-On the Spread the Love project page they state that anywhere between 600,000 to 1.5 million people experience homelessness across the country, and with Covid-19 financial support ending soon, that number is likely to rise. With only one employee, Spread the Love Commission needs to grow in order to meet these rising challenges. So far they have served over 30 communities and with Giver support they hope to serve many more.
+En la página del proyecto afirman que entre 600 mil y 1.5 millones de personas carecen de hogar en todo el país y que con el apoyo financiero del Covid-19 terminando pronto, es probable que esa cifra aumente. Con un solo empleado, Spread the Love necesita crecer para hacer frente a estos crecientes desafíos. Hasta ahora han servido a más de 30 comunidades y, con el apoyo de los Givers, esperan servir a muchas más.
 
-Spread the Love Commission aims to remove the stigma of homelessness and connect those stuck in a vicious cycle with support from those who are ready to offer it. With sustainability, compassion and persistence they hope to end the homelessness crisis once and for all.
+Spread The Love Commission pretende eliminar el estigma de los sin techo y conectar a quienes están atrapados en un círculo vicioso con el apoyo de quienes están dispuestos a ofrecerlo. Con la sustentabilidad, compasión y persistencia esperan acabar con la crisis de personas sin hogar de una vez por todas.
 
-[Visit the Spread the Love Commission Giveth project page](https://giveth.io/project/spread-the-love-commission) to find out more and help them fund their critical mission!
+¡[Visita la página de Spread the Love Commission en Giveth](https://giveth.io/project/spread-the-love-commission) para obtener más información y ayudarlos a financiar su importante misión!
 
-And that’s a wrap! Thank you to all the Givers that provide support to projects that are making a difference, and to all the change-makers that are finding a way to make positive global impact. It has been amazing to have the opportunity to learn from and highlight so many projects that are daring to be different, working hard to connect humans and improving the world we live in!
+Y con esto terminamos. Gracias a todos los Givers que apoyan proyectos que marcan la diferencia, y a todos los agentes de cambio que están encontrando formas de tener un impacto global positivo. Ha sido increíble tener la oportunidad de aprender y destacar tantos proyectos que se atreven a ser diferentes, trabajando duro para conectar humanos y mejorar el mundo en el que vivimos.
 
-While the Change-Maker campaign has ended you can still get some **_Giveth love_** by sharing your project with us on [Reddit](https://www.reddit.com/r/giveth/) or [Twitter](https://twitter.com/Givethio) for a shout out or a repost on our social media channels. We always appreciate outstanding Giveth projects and are planning to keep highlighting Makers going the extra mile on the Giveth.io. Thank you to all of our participants!
+Aunque la campaña de agentes de cambio ha culminado, todavía puedes conseguir un poco de **_amor Giveth_** compartiendo tu proyecto con nosotros en [Reddit](https://www.reddit.com/r/giveth/) o [Twitter](https://twitter.com/Givethio) para que lo compartamos en nuestras redes sociales. Agradecemos los proyectos sobresalientes de Giveth y tenemos planeado seguir destacando a los creadores que van más allá en Giveth.io. ¡Gracias a todos los participantes!
 
-Want to get more involved?
---------------------------
+¿Quieres involucrarte más?
+=========================
 
-*   Join us on [Discord](https://discord.gg/JftjK8Un3z) or [Telegram](http://t.me/givethio)
-*   Discover our [Docs](https://docs.giveth.io/)
-*   Fork our code on [GitHub](https://github.com/Giveth/)
-*   Follow us on [Medium](http://medium.com/giveth/), [Facebook](https://www.facebook.com/givethio), [Twitter](http://twitter.com/givethio), [Reddit](https://www.reddit.com/r/giveth/) and [YouTube](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ)
+* Únete a nosotros en [Discord](https://discord.giveth.io/) o [Telegram](http://t.me/givethio)
+* Descubre nuestra [documentación](https://docs.giveth.io/)
+* Haz un fork de nuestro código en [Github](https://github.com/Giveth/)
+* Síguenos en [Medium](http://medium.com/giveth/), [Twitter](http://twitter.com/givethio), [Reddit](https://www.reddit.com/r/giveth/) y [YouTube](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ)
 
-Help us Build the Future of Giving: 🦄 [Donate directly](http://donate.giveth.io/) 🦄 or [buy a Ledger with our affiliate link](https://www.ledgerwallet.com/products/ledger-nano-s?utm_source=&utm_medium=affiliate&utm_campaign=d663)
+Ayúdanos a construir el futuro de las donaciones: 🦄 [Dona directamente](http://donate.giveth.io/) 🦄 o [compra un Ledger con nuestro enlace de afiliado](https://www.ledgerwallet.com/products/ledger-nano-s?utm_source=&utm_medium=affiliate&utm_campaign=d663).
