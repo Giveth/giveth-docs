@@ -1,67 +1,50 @@
 ---
 id: regenFarmContracts
-title: Regen Farm Smart Contract Guide
+title: Regen Farm Akıllı Kontrat Rehberi
 slug: dapps/regenFarmContracts
 ---
 
+GIVeconomy, bazı olanaklar sunmak üzere birlikte çalışan denetimden geçmiş akıllı kontratlardan oluşan bir koleksiyon olarak değerlendirilebilir: bunlar arasında token streaming, airdrop ve çeşitli farming yöntemleribulunur. Kontratlar ve script'lere Giveth [giv-token-contracts](https://github.com/Giveth/giv-token-contracts) repository'den erişebilirsiniz.
 
-GIVeconomy is a collection of audited smart contracts which work together to provide capabilities, including: token streaming, airdropping, and various types of farming. Contracts and scripts can be found at the **Giveth** [giv-token-contracts](https://github.com/Giveth/giv-token-contracts) repository.
-
-## Contracts
+## Kontratlar
 ### Streaming
-The streaming allows any rewards (e.g. airdrop, liquidity mining reward, ...) to be released gradually across a given time span instead of the whole sum moving immediately to the end user's wallet. To achieve that, every reward payment to users will be an `allocate` on stream instead of a traditional `transfer/safeTransfer`.
+Streaming kontratı, ödüllerin (airdrop, likidite madenciliği ödülleri, vb.) tamamının son kullanıcı cüzdanına derhal gönderilmesi yerine belirli bir zaman aralığında kademeli olarak serbest bırakılmasına olanak sağlar. Bunun için kullanıcılara yapılacak bütün ödül ödemeleri, gelleneksel `transfer/safeTransfer` yerine `allocate` yöntemi ile gerçekleştirilir.
+**Stream** kontratları, aşağıdaki yapılandırma parametreleri ile deploy edilir:
+* **Total Tokens**: Stream süresi boyunca dağıtılacak toplam token miktarı
+* **Start Time**: Stream'in başlayacağı zaman damgası
+* **Duration**: Stream'in toplam süres. Stream'in sonunda tokenların %100'ü serbest kalır ve alıcılar tarafından claim edilebilir.
+* **Cliff Period**: Stream'in başlangıcından sonra ilk periyodun süresi. Bu periyotta strem'in yalnızca başlangıç yüzdesi claim edilebilir.
+* **Initial Percentage**: *Cliff Period* sırasında ödüllerin hemen claim edilebilir kısmı (yüzdesi)
 
-Each instance of a **Stream** is deployed with these configuration parameters:
+**TokenDistro**, steraming özelliğini uygulayan akıllı kontrattır. Alıcının bakiyesini stream'e eklemek için hak sahibi her türlü kontrat veya hak sahii kullanıcı **TokenDistro** üzerindeki `allocate` yöntemini çağırabilir. `allocate`'i çağırabilen kontratlar ve kullanıcıların **TokenDistro** akıllı knotratında **DISTRIBUTOR** rolüne sahip olmaları gerkeir. Bunlara **Distributor** adı verilir. Distributor'ların her biri dağıtım yapabileceği bakiyeye sahiptipr. Dolayısıyla, allocation fonksiyonu çağrıldığında, tahsis edilen gönderilecek miktar distributor'un bakiyesinden düşülür ve alıcının bakiyesine eklenir.
+Tahsis edilen miktarın belirli bir yüzdesi hemen claim edilebilir ve geri kalan yüzde ise alıcının stream akış hızını artırır. Akış hızı, haftalık periyorlarda stream'den claim edilebilecek token sayısını ifade eder. Zaman içerisinde, stream'in genişlemesi arttıkça alıcının hemen claim edebileceği yüzde artar.
 
-* **Total Tokens:** Total amount of tokens that will be distributed over the stream period
-* **Start Time:** The time stamp that the stream begins
-* **Duration:** Total duration of the stream. At the end of stream 100% of tokens are released and can be claimed by recipients.
-* **Cliff Period:** The length of an initial period after the start of the stream. During this period, only the intitial percentage of the stream can be claimed and not more.
-* **Initial Percentage:** The percentage of immediately claimable rewards during the *Cliff Period*  
-
-
-The **TokenDistro** is the smart contract which has implemented the streaming feature.  Any eligible smart contract or eligible user can call `allocate` method on the **TokenDistro** to add to the recipient's balance of their stream. Eligible contracts or users who can call `allocate` should have the **DISTRIBUTOR** role for the **TokenDistro** smart contract. They are called **Distributors**. Each Distributor has a balance that they can distribute. Therefore, on each allocation the allocated amount sent is decreased from the distributor's balance and is added to recipient's balance.
-
-A percentage of the allocated amount is claimable immediately, and the remaining percent goes into increasing recipient's stream flowrate. The flowrate is an expression of how many tokens become claimable from their stream over a weekly period. Over time, a greater percentage of the recipient's balance will be claimable immediately following the continued expansion of the stream.
-
-
-### Air Drop
-
-The initial token distribution can be done by the **MerkleDistro** smart contract. It utilizes *Merkle Tree* theory and each eligible recipient should provide its own unique proof data to claim their air drop. The air drop value actually will be allocated by calling `allocate` on **TokenDistro** and will be added to user's stream balance.
-
-Each instance of **MerkleDistro** is deployed with these configuration parameters:
-
-* **Merkle Tree Root:** The key of the merkle tree root (read blow).
-* **Token Distro Address:** The address of the deployed TokenDistro instance.
-
-In order to deploy the **MerkleDistro** smart contract, the deployer must generate a merkle tree. The value of root will be used on the smart contract at deployment time, and the whole tree data is needed to obtain each user unique path to root. In [giv-token-contracts](https://github.com/Giveth/giv-token-contracts) repo, there is a script to generate merkle tree data.
+## Airdrop
+Başlangıçta token dağıtımı, **MerkleDistro** akıllı kontratı ile gerçekleştirilebilir. Bu knotrat Merkle Tree teorisini kullanır ve hak kazanan alıcıların her birinin airdrop'u claim edebilmek için kendilerine özgü proof verisini sağlamaları gerekir. Airdrop değeri aslında **TokenDistro** üzerinde `allocate` fonksiyonu çağrılarak tahsis edilir ve kullanıcının stream bakiyesine eklenir.
+MerkleDistro kontratları aşağıdaki yapılandırma parametreleri ile deploy edilir:
+* **Merkle Tree Root**: Merkle tree root anahtarı
+* **Token Distro Address**: Deploy edilen TokenDistro kontratının adresi.
+**MerkleDistro** akıllı kontratını deploy etmek için, bir merkle tree oluşturulmalıdır. Root'un değeri, deploy edilirken akıllı knotratta kullanılacak ve tree verisinin tamamı her bir kulllanıcının kendine özgü path'inden root'u almak için gereklidir. [giv-token-contracts](https://github.com/Giveth/giv-token-contracts) repo'da, merkle tree verisini oluşturmak için kullanabileceğinir bir script bulunmaktadır.
 ```
 ts-node scripts/generate-merkle-root.ts --input <airdrop json file path> --output <output file path>
 ```
-
-A JSON format of the airdrop data is not easy to generate for everyone, an `airdrop json file` can be generated by a separate script from a CSV file, which is a more convenient format.
+Airdrop verisinin JSON formatında oluşturulması herkes için kolay bir işlem değildir; kullanımı daha kolay bir format olan CSV dosyası ile ayrı bir script aracılığıyla `airdrop json file` oluşturulabilir.
 ```
 ts-node scripts/csv2json.ts <airdrop csv list path> <airdrop json file path>
 ```
 
-### Farming
+## Farming
+Giveth farming için, *Unipool* akıllı kontratının bir türevi olan **UnipoolTokenDistro**'yu kullanmaktadır. **UnipoolTokenDistro**'nun farkı, tokenların alıcı adresine transfer edilmesindense *TokenDistro(stream)* üzerinde allocate fonksiyonunun çağrılarak stake edenlere ödeme yapılmasıdır.
+Genel anlamda, Unipool kontratı stake edenleri stake ettikleri likiditeye göre ödüllendirir. Stake edenler tarafından yatırılan, `uni` adı verilen likidite tokenı native token (örn: GIV, FOX, vb.) veya bir havuza likidite eklenerek alınan LP tokenı (örn: UniswapV2, Sushiswap, Honeyswap, vb.) olabilir.
+Unipool ödül miktarı, **rewardDistribution** tarafından `notifyRewardAmount(uint256 reward)` çağrılarak ayarlanır. **rewardDistribution**, **owner** olarak ayarlanabilr ve kontratı deploy eden varsayılan olarak kendi adresini **rewardDistribution** şeklinde ayarlayabilir. Bu yöntem her çağrıldığında, Unipool stake edenlere `duration` uzunluğunda bir süre akdar ödül dağıtmaya hazır hale gelir. Dolayısıyla, ödül dağıtıcının pozitif ödül oranını tutturması ve her bir turda ödül oranının farklı bir şekilde ayarlanması için `notifyRewardAmount` yöntemini düzenli olarak çağırması gerekmektedir.
+**UnipoolTokenDistro** kontratları aşağıdaki yapılandırma parametreleri ile deploy edilir:
+* TokenDistro Address: Deploy edilen TokenDistro kontratının adresi.
+* Uni Token Address: Likidite tokenının adresi
+* Duration: Ödül programı turunun uzunluğu
 
-Giveth uses the **UnipoolTokenDistro**, a derivative of the *Unipool* smart contract, for farming purposes. The difference is that **UnipoolTokenDistro** pays stakers' rewards by calling `allocate` method on the *TokenDistro(stream)* instead of transferring real tokens to the recipient's address.
-
-Generally, the Unipool contract rewards stakers based on the liquidity they have staked. The liquidity token is named `uni` deposited by stakers, and can be any token such as native token (e.g. GIV, FOX, ...)  or a LP token obtained by staking in a pool (e.g. UniswapV2, SushiSwap, HoneySwap, ...).
-
-The Unipool reward amount is set by calling the `notifyRewardAmount(uint256 reward)` method by the **rewardDistribution**. **rewardDistribution** can be set by the **owner** role and in the deployment script, deployer set its own address as **rewardDistribution** by default. Each time this method is called, the Unipool will set to disperse rewards in the `duration` length period to stakers. Therefore, the reward distributor need to regularly call `notifyRewardAmount` to keep a positive reward rate, and adjust the reward rate as it can be different on each round.
-Each instance of the **UnipoolTokenDistro** is deployed with these configuration parameters:
-
-* **TokenDistro Address:** The address of deployed TokenDistro instance.
-* **Uni Token Address:** The liquidity token address
-* **Duration:** Each rewarding program round length
-
-
-## Deployment
-Deployment of a stream with farms and an airdrop is complicated and would be error prone to be done manually. Therefore, [giv-token-contracts](https://github.com/Giveth/giv-token-contracts) has scripts to make it easier. Most of these scripts are tailored for GIVeconomy use cases.
-
-However, a script is ready for DAOs to deploy their own stream (tokenDistro) and farming programs (Unipools). The script can be found in the path `deployments/regenFarms/1_regenFarm.ts`. The script reads the deployment configuration from `deployments/regenFarms/config.ts` file. The configuration format in `config.ts` is as below:
+## Deploy İşlemi
+Airdrop ve farmlar ile stream'in deploy işlemi karmaşık olabilir ve manuel olarak yapılırken hataya yol açabilir. Dolayısıyla, [giv-token-contracts](https://github.com/Giveth/giv-token-contracts) repository içerisinde işlemi kolaylaştıracak script'ler bulunmaktadır. Bu script'lerin çoğu, GIVeconomy kullanımına uygun şekilde hazırlanmıştır.
+Ancak, DAO'ların kendi stream'lerini (tokenDistro) ve farming programlarını (Unipool) deploy edebilmeleri için de bir script mevcuttur. Script'e `deployments/regenFarms/1_regenFarm.ts` üzerinden erişebilirsiniz. Bu script, deploy öncesi yapılandırmayı `deployments/regenFarms/config.ts` dosyasından okur. `config.ts` içerisindeki yapılandırma formatı aşağıdaki gibidir:
 ```
 const config: IRegenConfig = {
     alreadyDeployedTokenDistroAddress: "",
@@ -82,16 +65,13 @@ const config: IRegenConfig = {
         },
         ...
     },
-};
 ```
+Script aracılığıyla deploy etmek için, bu ortam değişkenleri (env variables) ayarlanmalıdır:
+* INFURA_PROJECT_ID: Deploy edilecek ağ xDai (Gnosis Chain) yerine farklı bir ağ olduğunda
+* PRIVATE_KEY: xDai (Gnosis Chain) yerine farklı bir ağ kullanıldığında deploy edecek hesabın gizli anahtarı
+* PRIVATE_KEY_XDAI: xDai (Gnosis Chain) kullanıldığında, deploy edecek hesabın gizli anahtarı
 
-To deploy via script these environmental variables should be set:
-* **INFURA_PROJECT_ID:** When the network is not xDai (Gnosis-Chain)
-* **PRIVATE_KEY:** The private key of deployer account, used when network is not xDAI (Gnosis-Chain)
-* **PRIVATE_KEY_XDAI:** The private key of deployer account, used when network is xDAI (Gnosis-Chain)
-
-
-The script can be run by this command
+Script, aşağıdaki komut ile çalıştırılabilir
 ```
 HARDHAT_NETWORK=<network e.g. xDAI, mainnet, kovan> ts-node deployments/regenFarms/1_regenFarm.ts
 ```

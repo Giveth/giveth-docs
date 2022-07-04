@@ -4,38 +4,33 @@ title: Regen Farms
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
+[RegenFarms](https://giveth.io/givfarm), DAO'lar ve bizim gibi regenler için yeni nesil ReFi likidite madenciliği fırsatlarıdır. [GIVfarm](https://giveth.io/givfarm) ve [GIVstream](https://giveth.io/givstream) kontratlarımızı kullanarak, iyiye hizmet eden DAO'ların kendi likidite madenciliği girişimlerini destekliyoruz. RegenFarm'lar kendi ödül akışlarına sahip.
 
-[RegenFarms](https://giveth.io/givfarm) is the next generation of ReFi liquidity mining opportunities for DAOs and regens alike. Using our contracts for the [GIVfarm](https://giveth.io/givfarm) and the [GIVstream](https://giveth.io/givstream), we are empowering other for-good DAOs to launch liquidity mining incentive programs, “RegenFarms”, with streams of their own.
+## Fikrin Arka Planı
+[GIVstream](https://docs.giveth.io/giveconomy/givstream) sayesinde, [GIVfarm](https://giveth.io/givfarm)'da kazanılan bütün ödüller (23 Aralık 2026'ya kadar) kısmen likit kısmen de streaming ödüllerden oluşuyor. Bu durum, aşırı satış baskısı oluşturmaksızın yüksek APR'lı ödüller vermemize olanak sağlıyor. GIVstream sayesinde Giveth geleneksel likidite madenciliğine karşı mükemmel bir alternatife öncülük yaptı. GIVfarm ve GIVstream bir araya geldiğinde uzun vadeli hodler'ları ödüllendirirken katılımcıların projeye uzun yıllar boyunca ilgili kalmasını sağlanmış oluyor.
 
-## Background
-Utilizing the [GIVstream](/tr/giveconomy/givstream), all rewards earned in the [GIVfarm](https://giveth.io/givfarm) (until December 23, 2026) include some part liquid and some part streaming. This allows the GIVfarm to offer high APRs without creating excessive sell pressure. Thanks to the GIVstream, Giveth has pioneered an elegant evolution to traditional liquidity mining that offers lucrative rewards while attracting and rewarding long-term hodlers, and keeping participants invested in the project for years to come.
+## İlgili DAO'lar için
+Artık bu teknolojiyi diğer [Blockchain4Good](https://twitter.com/search?q=%23blockchain4good&src=typed_query) DAO'lar için [bir hizmet](https://forum.giveth.io/t/crazy-idea-stream-as-a-service-giviverse-multiverse-now-called-regenfarms/295) olarak sunuyoruz! İlgili DAO'ların bu programa katılabilmek için "Regen Ekonomi" olduklarını kanıtlamaları gerekiyor. Yani, kamu mallarını bir şekilde destekleyerek veya inşa ederek toplum üzerinde pozitif bir etki yaratmaları gerekiyor. Katkıda bulunduğunuz DAO, RegenFarm programına katılmak istiyorsa, [şu formu doldurabilirsiniz](https://giveth.typeform.com/regenfarms). RegenFarm programına yeni bir DAO'yu kabul etmeden önce GIV token sahiplerinin onayını almak için Snapshot oylaması gerçekleştiriyoruz. Kabul edildikten sonra, ilgili DAO'nun RegenFarm [parametrelerini](https://www.notion.so/giveth/Regen-Farm-Parameters-a5b474e75f334d03ad1c1c43f5d923d4) belirlemek ve farm'ı başlatmak için finansmanın sağlanması gibi konularda ekibimizle birlikte çalışması gerekiyor.
 
-## For Interested DAOs
-We are now offering this technology [as a service](https://forum.giveth.io/t/crazy-idea-stream-as-a-service-giviverse-multiverse-now-called-regenfarms/295) to other [Blockchain4Good](https://twitter.com/search?q=%23blockchain4good&src=typed_query) DAOs! Interested DAOs must be able to prove that they are a “Regen Economy”, i.e., are creating a positive impact for society such as by supporting or building public goods in some way. **If your DAO is interested in applying to kickstart a RegenFarm, [fill out this form](https://giveth.typeform.com/regenfarms).**
-We use [snapshot](https://snapshot.org/#/giv.eth/) to get approval from GIV token holders before accepting a new DAO for RegenFarms. Once accepted, the interested DAO will need to work with our team to provide their RegenFarm [parameters](https://www.notion.so/giveth/Regen-Farm-Parameters-a5b474e75f334d03ad1c1c43f5d923d4) and the funds to kickstart their farm.
+## Finansman
+Farm'ın başlatılmasına ilişkin maliyet olarak RegenFarm'a başvuran DAO tarafından Giveth'e $5000 (veya eşit dolar değeri kadar DAO'nun kendi tokeni) sabit ücret olarak sağlanmaktadır. Bu ücretin $2500, iyiye hizmet eden projelerin bağışlarını finanse etme açısından [Giveth Matching Pool](https://giveth.io/project/donation-eth)'a, yani donation.eth adresine gönderilir. Diğer $2500 ise [Giveth likidite multisig](https://blockscout.com/xdai/mainnet/address/0xf924fF0f192f0c7c073161e0d62CE7635114e74f/transactions)'e gönderilerek Giveth tarafından $GIV/DAO tokeni çiftinde likiidte sağlamak için kullanılır.
+RegenFarm'a başvuran DAO ayrıca Likidite Sağlayıcıların ödüllendirilmesi için de finansman sağlar. Farm başlatılmadan önce, bu fonların %1'i yukarıda bahsedildiği gibi likidite eklemek için [Giveth likidite multisig](https://blockscout.com/xdai/mainnet/address/0xf924fF0f192f0c7c073161e0d62CE7635114e74f/transactions)'e gönderilir ve ek olarak bu fonların %1'i, onaylı projelerin bağışlarının finanse edilmesi açısından yine [Giveth Matching Pool](https://giveth.io/project/donation-eth)'a gönderilir.
 
-## Funding
-To justify the cost of initiating the farm, a base fee of $5000 (equivalent USD value in the DAO’s token) is provided by the RegenFarm DAO to Giveth. $2500 of this will be sent to donation.eth for the [Giveth Matching Pool](https://giveth.io/project/donation-eth) to fund donations to verified for-good projects. The remaining $2500 will be sent to the [Giveth liquidity multisig](https://blockscout.com/xdai/mainnet/address/0xf924fF0f192f0c7c073161e0d62CE7635114e74f/transactions) and will be used by Giveth provide $GIV / [DAO token] liquidity.
-
-RegenFarm DAOs also provide the funds to reward their Liquidity Providers. Before initiating the farm, 1% of these funds are sent to the [Giveth liquidity multisig](https://blockscout.com/xdai/mainnet/address/0xf924fF0f192f0c7c073161e0d62CE7635114e74f/transactions) to be used, as above, for liquidity, and an additional 1% of these funds are sent to the [Giveth Matching Pool](https://giveth.io/project/donation-eth) to fund donations to verified projects.
-
-## RegenFarms UI
+## RegenFarms Kullanıcı Arayüzü
 
 <img alt='shapeshift' src={useBaseUrl('img/Regenfarm1.png')} />
 
-Liquidity mining opportunities for RegenFarms can be found on the [GIVfarm page](https://giveth.io/givfarm). You can provide liquidity (by following the `provide liquidity` link at the bottom of the card) and stake LP tokens to begin earning rewards. When you "harvest" your earnings, the liquid part will be sent to your wallet, and the streaming part will kickstart your corresponding RegenStream. Liquid rewards earned from your RegenStream are claimable at the bottom right. Note that when you harvest rewards from the RegenFarm card, all liquid rewards from your RegenStream are also sent to your wallet.
+RegenFarms için likidite madenciliği fırsatlarına [GIVfarm sayfasından](https://giveth.io/givfarm) erişilebilir. Likidite ekleyerek (kardın alt kısmındaki `provide liquidity` linkine tıklayarak) ve LP tokenlarınızı stake ederek ödül kazanmaya başlayabilirsiniz. Kazancınızı "harvest" ettiğinizde, ödülerin likit kısmı cüzdanınıza gönderilir ve streaming kısmı ise RegenStream'e gider. RegenStream'den hak kazanılan likit ödüller de sağ alt kısımdan claim edilebilir. RegenFarm kartından ödüllerinizi "harvest" ettiğinizde, Regenstream ödülleriniz de cüzdanınıza gönderilir.
 
 <img alt='foxfarm' src={useBaseUrl('img/Regenfarm2.png')} />
 
-To learn more about the RegenFarm's mission, click the `?` in the top right corner of the Regen Farm Card.
+RegenFarm misyonu hakkında ayrıntılı bilgi için, söz konusu Regen Farm Kartının sağ üst köşesindeki `?` simgesine tıklayabilrisiniz.
 
 ---
 
-[Our mission](/tr/whatisgiveth/) at Giveth is to reward and empower those who give. RegenFarms is creating win-win opportunities for everyone who interacts with them. To summarize the benefits:
-
-- Blockchain4good DAOs benefit from the ready-made UI, network effects of offering incentives among other Regen Economies, and the novel benefits of combining rewards with a streaming service.
-- Stakers benefit from high yields and a wealth of farming opportunities, as well as the opportunity to explore for-good web3 projects.
-- Verified projects benefit from boosted Giveth Matching Pool contributions, courtesy of for-good DAOs.
-- The GIVeconomy benefits from additional liquidity and strengthened partnerships in the Blockchain4Good ecosystem.
-
-Explore [RegenFarms](https://giveth.io/givfarm) today.
+Giveth'te misyonumuz, bağış yapanları ödüllendirmektir. RegenFarms, etkileşime geçen herkes için kazan-kazan fırsatları oluşturmaktadır. Bu faydaları özetlemek gerekirse:
+* Blockchain4Good DAO'lar hazır kullanıcı arayüzü, diğer Regen Ekonomilerin sağladığı network etkisi ve uzun vadeli ödül akışına sahip bu yenilikçi üründen faydalanabiliyor.
+* Stake edenler, yüksek getiri ve çeşitli farming fırsatları elde ederken iyiye hizmet eden web3 projelerinden haberdar olabiliyor.
+* Onaylı projeler, Giveth Matching Pool'a aktarılan fonlardan faydalanıyor.
+* GIVeconomy ise Blockchain4Good ekosisteminde ekstra likidite ve sağlam ortaklıklardan faydalanmış oluyor.
+[RegenFarm](https://giveth.io/givfarm)'ları incelemeyi unutmayın!
