@@ -1,6 +1,6 @@
 ---
 slug: communitySpotlight2
-title: "Community Project Spotlight #2"
+title: "Proyectos destacados de la comunidad #2"
 author: Mitch
 author_image_url: /img/mitchAuthor.jpeg
 image: /img/blog/communitySpotlight2Cover.gif
@@ -8,113 +8,115 @@ image: /img/blog/communitySpotlight2Cover.gif
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
 
-We’re back with another fresh batch of amazing projects on Giveth.io. We have six projects from a wide range of causes that we are featuring in this project spotlight. This is also an extra special spotlight because Giveth.io itself is currently active and accepting donations on the latest round of [**Gitcoin Grants**](https://gitcoin.co/grants/) **(GR11)**. If you feel inspired by the Giveth mission after reading this article then consider making a contribution via our [Grants listing](https://gitcoin.co/grants/795/givethio-panvala-league) and learn about the magic of _Quadratic Funding_! More on that later…
+Estamos de vuelta con otro lote fresco de proyectos increíbles en Giveth.io. Tenemos seis proyectos de un amplio rango de causas que estamos presentando en esta entrega de proyectos destacados. Esta es una entrega extra especial porque Giveth.io está activo y aceptando donaciones en la última ronda de [Gitcoin Grants](https://gitcoin.co/grants/) **(GR11)**. Si te sientes inspirado por la misión de Giveth tras leer este artículo, considera hacer una contribución a través de nuestra [lista de grants](https://gitcoin.co/grants/795/givethio-panvala-league) y aprende sobre la magia de la financiación cuadrática. Más sobre eso después…
+
 
 <img alt="GR11 Magic" src={useBaseUrl('/img/blog/communitySpotlight2Cover.gif')}  />  
 
-Without further ado let’s dive in and highlight these projects that are making our DApp great!  
+Sin más preámbulos, ¡vamos a sumergirnos y destacar estos proyectos que están haciendo que nuestra DApp sea excelente!
 
 ---
 
 <img alt="ETHOS" src={useBaseUrl('/img/blog/communitySpotlight2-1.png')}  />  
 
-**ETHOS**
-=========
+Art Is Solidarity presenta E.T.H.O.S. - Experiencia y subasta de microcasas.
 
-**Emergency Transitional Housing Offering Services (ETHOS)** is designing funding solutions for the homelessness crisis in Olympia, Washington State. ETHOS has been championed by ‘Art Is Solidarity’ which is a local non-profit combining blockchain technology and art mediums to find solutions and funding opportunities for pressing social issues. At the heart of this project is the city’s first initiative: to combat homelessness. From ETHOS’s project description:
+Refugio de emergencia para personas sin hogar.
 
-> “In 2018, the City of Olympia sanctioned a tent city adjacent to the transit center downtown dubbed the “Mitigation Site” for those struggling on the streets to have somewhere to rest and seek shelter. In late 2020, two-and-a-half winters and many tents later, a next step in creating a path to housing for downtowners was conceived when the City of Olympia contracted a local design and build firm to create 60 ‘micro-houses’ to replace tents and offer more security and safety for those trying to get on their feet.“
+**Refugio de emergencia para personas sin hogar. (ETHOS)** Los **Servicios de Oferta de Vivienda Transitoria de Emergencia (del inglés Emergency Transitional Housing Offering Services o ETHOS)** están diseñando soluciones de financiamiento para la crisis de personas sin hogar en Olympia en el estado de Washington. ETHOS ha sido promovido por “Art Is Solidarity”, una organización local sin fines de lucro que combina tecnología blockchain y medios artísticos para encontrar soluciones y oportunidades de financiamiento para problemas sociales urgentes. En el corazón de este proyecto se encuentra la primera iniciativa de la ciudad: combatir la falta de vivienda. De la descripción de ETHOS:
 
-Following the successful construction and installation of these micro-houses, Art Is Solidarity will use additional funds raised to improve upon the amenities inside the Mitigation Site in a unique way. They are engaging the help of local artists to beautify the micro-houses into works of art and mint the art pieces into NFTs to be auctioned off digitally. Proceeds of these auctions will go towards outfitting the house with furniture, heaters and more!
+> “En 2018, la ciudad de Olympia autorizó una ciudad de tiendas de campaña adyacente al centro de tránsito en el centro llamada “Sitio de Mitigación” para aquellos que andan batallando en las calles tengan un lugar para descansar y buscar refugio. A finales del 2020, dos inviernos y medio y muchas tiendas de campaña después, se concibió el siguiente paso en la creación de un camino hacia la vivienda para los habitantes del centro de la ciudad cuando la ciudad de Olympia contrató a una empresa local de diseño y construcción para crear 60 “microcasas” para sustituir las tiendas de campaña y ofrecer más seguridad y protección para aquellos que intentan ponerse nuevamente en pie.”
 
-Art Is Solidarity also intends to educate the shelter’s inhabitants and local artists about the vast opportunities that NFTs and cryptocurrencies can offer for alternative forms of income, and provide them with the tools to get involved. Check out their [project on Giveth.io](https://giveth.io/project/ETHOS-Emergency-Transitional-Housing-Offering-Services-1) and donate to help the build and beautification of micro-housing, and the educational opportunities being created for the homeless in Olympia.
+Tras la exitosa construcción e instalación de estas microcasas, Art Is Solidarity usará los fondos recaudados adicionales para mejorar los servicios dentro del Sitio de Mitigación de manera única. Están recurriendo a la ayuda de artistas locales para embellecer las microcasas y convertirlas en obras de arte para acuñarlas como NFTs y subastarlas digitalmente. ¡Los ingresos de estas subastas se destinarán a equipar la casa con muebles, calefacción y mucho más!
+
+Art Is Solidarity también pretende educar a los habitantes del refugio y artistas locales sobre las tremendas oportunidades que los NFT y criptodivisas pueden ofrecer como formas alternativas de ingreso, además de proporcionarles las herramientas para participar. Echa un vistazo a su [proyecto en Giveth.io](https://giveth.io/project/ETHOS-Emergency-Transitional-Housing-Offering-Services-1) y haz una donación para ayudar a la construcción y embellecimiento de microviviendas y las oportunidades educativas que se están creando para las personas sin hogar en Olympia.
 
 <img alt="Finca Morpho" src={useBaseUrl('/img/blog/communitySpotlight2-2.png')}  />  
 
 Finca Morpho
 ================
 
-Nestled in the Osa Peninsula, Costa Rica, there is a community of thriving nomads building ecological harmony at Finca Morpho. This 5-acre beachfront paradise is where humans create strong ties with each other and the land while learning a wide range of skills for a harmonized lifestyle. These skills include permaculture, bamboo building, recycling techniques, holistic medicine, renewable energy, and healthy cooking techniques.
+Ubicada en la península de Osa, Costa Rica, hay una comunidad de nómadas prósperos construyendo armonía ecológica en la Finca Morpho. Este paraíso de acres frente a la playa es donde los humanos crean fuertes lazos entre ellos y la tierra mientras aprenden un amplio rango de habilidades para un estilo de vida en armonía. Estas habilidades incluyen permacultura, construcción con bambú, técnicas de reciclaje, medicina holística, energías renovables y técnicas de cocina saludable.
 
-Founded in 2014 Finca Morpho is a place for curious travelers to spend time in nature and to fully immerse themselves in communal living. They also host events and retreats to further share the important knowledge they have cultivated on the farm. They have created closed-loop recycling systems from the ground up, having found ways to completely repurpose all of their waste. From a simple sandy beach they have nurtured a thriving permaculture system complete with aquaponics, soil sanctuaries and carbon sequestration techniques. They have come a long way from their humble beginnings.
+Fundada en 2014, la Finca Morpho es un lugar para que los viajeros curiosos pasen tiempo en la naturaleza y se sumerjan completamente en la vida comunitaria. También organizan eventos y retiros para compartir los conocimientos importantes que han cultivado en la granja. Han creado un circuito cerrado de sistemas de reciclaje desde cero, habiendo encontrado formas de reutilizar completamente todos sus residuos. Desde una playa arenosa sencilla han creado un próspero sistema de permacultura con acuaponía, santuarios de suelo y técnicas de captura de carbono. Han recorrido un largo camino desde sus humildes comienzos.
 
-There are 7 pillars that comprise the core physical and conceptual foundations of the farm: **The Kitchen, The Resource Center, Permaculture, Hospitality, Infrastructure, Project Management and Relationships**. Finca Morpho is seeking funding to upgrade a few of these pillars which need a bit of love in order to maintain and improve their functions. The four pillars needing improvements are:
+Hay 7 pilares que componen los fundamentos físicos y conceptuales de la granja: **La Cocina, El Centro de Recursos, Permacultura, Hospitalidad, Infraestructura, Gestión de Proyectos y Relaciones**. La Finca Morpho está buscando financiación para mejorar algunos de estos pilares que necesitan un poco de amor para mantener y optimizar sus funciones. Los cuatro pilares necesitando mejoras son:
 
-*   **Kitchen** — To keep feeding hungry mouths and processing the bounty of the land. Buying new equipment such as blenders and stoves.
-*   **Resource Center** — To fulfill their mission of recycling or repurposing everything they use. Purchasing a 3d printer, plastic shredder, extruder, microscope and expanding the area of the center.
-*   **Infrastructure** — The cabins, water storage system and solar grid they maintain are in need of love. Buying new solar batteries, renovating cabins and installing a new water storage system.
-*   **Permaculture** — Every season comes with new challenges and needs. Purchasing seeds, plants and trees.
+* **La Cocina** - Para seguir alimentando bocas hambrientas y procesando la generosidad de la tierra. Comprando nuevos equipos como batidoras y estufas.
+* **El Centro de Recursos** - Para cumplir su misión de reciclar o reutilizar todo lo que usan. Adquirir una impresora 3D, una trituradora de plástico, una extrusora, un microscopio y ampliar la superficie del centro.
+* **Infraestructura** - Las cabañas, el sistema de almacenamiento de agua y la red solar que mantienen necesitan amor. Comprar nuevas baterías solares, renovar cabañas e instalar un nuevo sistema de almacenamiento de agua.
+* **Permacultura** - Cada temporada viene con nuevos retos y necesidades. Comprar semillas, plantas y árboles.
 
-Check out [Finca Morpho’s project on Giveth.io](https://giveth.io/project/Finca-Morpho) and make a donation to keep this community thriving and capable of spreading its message to those who seek it, and learn more about how they do it on their [website](https://www.fincamorpho.com/).
+Echa un vistazo al proyecto de [Finca Morpho en Giveth.io](https://giveth.io/project/Finca-Morpho) y haz una donación para mantener esta comunidad siga prosperando y sea capaz de difundir su mensaje a quienes lo buscan, aprende más sobre cómo lo hacen en su [página web](https://www.fincamorpho.com/).
 
 <img alt="Solidity Development Course in Farsi" src={useBaseUrl('/img/blog/communitySpotlight2-3.png')}  />  
 
-Solidity Development Course in Farsi
+Curso de desarrollo de Solidity en Farsi
 ========================================
 
-The language and gender barriers created by the english-dominated blockchain industry severely hamper opportunities of up-and-coming demographics to fully participate in the revolutionary technology that Blockchain produces. Shayan Eskandari, the project’s creator summarizes the opportunity to provide support:
+Las barreras lingüísticas y de género creadas por la industria blockchain dominada en inglés, obstaculizan las oportunidades de grupos demográficos emergentes de participar en la tecnología revolucionaria que producen los blockchains. Shayan Eskandari, la creadora del proyecto, resume la oportunidad de apoyar:
 
-> “Farsi is spoken by an estimated 110 million speakers mostly in Iran, Tajikistan, Uzbekistan, Iraq, Russia, Azerbaijan and Afghanistan . . . In contrast to the West where computer engineers are predominantly men, Iran’s STEM (Science, Technology, Engineering, Mathematics) graduates are about 70% women.”
+> “Se calcula que el farsi es practicado por unos 110 millones de hablantes en Irán, Tayikistán, Uzbekistán, Irak, Rusia, Azerbaiyán y Afganistán… A diferencia del Occidente, donde los ingenieros informáticos son primariamente hombres, los graduados en STEM (ciencia, tecnología, ingeniería y matemáticas) en Irán son aproximadamente 70% mujeres.”
 
-CoinIran, the project’s host organization, has built opportunities to overcome these barriers by creating unique programs for Farsi speakers, notably their latest project, “Women in Blockchain’’. This program is putting Iranian women through the ConsenSys Academy Blockchain Developer bootcamp while providing technical and linguistic support, giving them the knowledge and skills to acquire jobs as Ethereum developers. Their initial cycle put 7 women through the course, who all passed, receiving developer certifications from ConsenSys.
+CoinIran, la organización anfitriona del proyecto, ha desarrollado oportunidades para superar estas barreras al crear programas únicos para hablantes de farsi, en particular su último proyecto, “Mujeres en Blockchain”. Este programa hace que las mujeres iraníes pasen por el campamento de iniciación para desarrolladores de blockchain de la academia ConsenSys, mientras se les proporciona apoyo técnico y lingüístico, dándoles los conocimientos y habilidades para adquirir puestos de trabajo como desarrolladoras de Ethereum. Su ciclo inicial hizo pasar por el curso a 7 mujeres, que aprobaron todas, recibiendo las certificaciones de desarrollador de ConsenSys.
 
-**Making Blockchain and Cryptocurrency more accessible will only help to ensure its growth and adoption.** The project is seeking funding to cover the expenses of putting the women through the course and for the costs of building the course tailored for Farsi speakers with comprehensive media, translations and syllabuses. Further funds raised will allow more women to go through the program. Read the [full article on CoinIran](https://coiniran.com/empowering-iranian-women-with-blockchain/) and visit their [project on Giveth.io](https://giveth.io/project/solidity-development-course-in-farsi-by-women-in-blockchain-iran) to make a donation!
+**Hacer blockchain y criptomonedas más accesibles solo ayudarán a garantizar su crecimiento y adopción**. El proyecto busca financiación para cubrir los gastos de formación de las mujeres y los costes de creación de un curso adaptado a los hablantes de farsi con medios de comunicación, traducciones y programas de estudio completo. Los fondos que se recauden permitirán a más mujeres pasar por el programa. ¡Lee el [artículo completo en CoinIran](https://coiniran.com/empowering-iranian-women-with-blockchain/) y visita su [proyecto en Giveth.io](https://giveth.io/project/solidity-development-course-in-farsi-by-women-in-blockchain-iran) para hacer una donación!
 
 <img alt="Oika" src={useBaseUrl('/img/blog/communitySpotlight2-4.png')}  />  
 
 Oika
 ========
 
-Can be defined as _“The feeling of ecological wellbeing and belonging to nature. It is the intelligence of nature as expressed through human thought and action.”_. The word is derived from the Greek word **_Oikos_**, meaning “home”. The project, Oika, is reconnecting humans with nature and raising awareness of climate change through NFT technology. Dr. Rich Blundell, the project’s creator, has gathered a team of scientists, artists and storytellers to cultivate _Ecological Intelligence_. They are combining the realms of academic ecological analysis with different artistic techniques to produce images and videos that are minted as NFTs. You can check out their creations on the [Oika Media page](https://oika.com/oika-media-projects).
+Puede definirse como “El sentimiento de bienestar ecológico y de pertenencia a la naturaleza. Es la inteligencia de la naturaleza expresada a través del pensamiento y la acción humana”. La palabra deriva del griego **Oikos**, que significa “hogar”. El proyecto, Oika, está reconectando a los humanos con la naturaleza y creando conciencia sobre el cambio climático a través de la tecnología NFT. El doctor Rich Blundell, creador del proyecto, ha reunido un equipo de científicos, artistas y narradores para cultivar la _Inteligencia Colectiva_. Están combinando los ámbitos del análisis ecológico académico con diferentes técnicas artísticas para producir imágenes y videos que son acuñados como NFTs. Puedes ver sus creaciones en la [página de Oika](https://oika.com/oika-media-projects).
 
-Oika also maintains an off-grid homestead and marine research vessel for inspired researchers to collaborate, incubating new ideas and generating knowledge. There are a wide variety of subjects that Oika advocates research on, such as:
+Oika también mantiene una granja fuera de la red y un barco de investigación marina para que investigadores inspirados colaboren, incubando nuevas ideas y generando conocimiento. Hay una gran variedad de temas sobre los que Oika aboga por investigar, como por ejemplo:
 
-*   Ecological Survey & Monitoring
-*   Invasive Species Response
-*   Pelagic/Neritic, Plastics Clean-up
-*   Fishing Debris Location & Removal
-*   Wildlife Reporting & Monitoring
-*   Aquaculture Research
-*   Phenology (study of climate change effects)
-*   Citizen Science
-*   Sci-Art Collaboration
-*   Public Interpretation/Communication
-*   Conservation Journalism/Documentary
+* Estudio y seguimiento ecológico
+* Respuesta a especies invasoras
+* Limpieza de plásticos pelágicos/neríticos
+* Localización y eliminación de residuos pesqueros
+* Informes y seguimiento de vida silvestre
+* Investigación de acuicultura
+* Fenología (estudio de los efectos del cambio climático)
+* Ciencia ciudana
+* Colaboración de ciencia y arte
+* Interpretación/Comunicación pública
+* Periodismo/documentación de conservación
 
-Oika also offers courses for teaching the concepts of Ecological Intelligence. They seek funding to continue operating their off-grid research center and to pay artists and scientists for their contributions and collaborations involved in crafting the NFTs. Visit the [Oika website](https://oika.com/) to learn more and check out their [project on Giveth.io](https://giveth.io/project/Oika-in-the-Blockchain-1) to make a donation!
+Oika también ofrece cursos para enseñar los conceptos de la Inteligencia Ecológica. Buscan financiación para continuar operando su centro de investigación fuera de la red y para pagar a los artistas y científicos por sus contribuciones y colaboraciones en la elaboración de los NFTs. ¡Visita el [sitio web de Oika](https://oika.com/) para aprender más y echa un vistazo a su [proyecto en Giveth.io](https://giveth.io/project/Oika-in-the-Blockchain-1) para hacer una donación!
 
 <img alt="Grassroots Economics" src={useBaseUrl('/img/blog/communitySpotlight2-5.png')}  />  
 
 Grassroots Economics
 ========================
 
-The ability for local economies to spring up, create their own money and give it value is one of the most revolutionary concepts created by cryptocurrency. Grassroots Economics is proving this concept by building open-source economies in communities throughout Kenya. Their base token. known as Community Inclusion Currency (CIC). is to be used across all their participating communities in order to quantify and redistribute the abundance of goods they produce.
+La capacidad de las economías locales de surgir, crear su propio dinero y darle valor es uno de los conceptos más revolucionarios creados por las criptomonedas. Grassroots Economics (Economías de base) está probando este concepto construyendo economías de código abierto en comunidades de toda Kenia. Su token, conocido como Community Inclusion Currency ($CIC, Moneda de Inclusión Comunitaria en español), se utilizará en todas las comunidades participantes para cuantificar y redistribuir la abundancia de bienes que producen.
 
-Their vision is to create healthy and decentralized ecosystems by empowering locals to design their own economies. They also believe heavily in syntropic agroforestry as the main technique to provide agricultural abundance and economic value production.
+Su visión es crear ecosistemas sanos y descentralizados capacitando a la población local para diseñar sus propias economías. También creen firmemente en la agroforestería sintrópica como técnica principal para proveer abundancia agrícola y producción de valor económico.
 
-They seek funding in order to build the open-source software they need in order to achieve their goals. Development currently takes place on their [public repository on Gitlab](https://gitlab.com/grassrootseconomics). Check out their [project on Giveth.io](https://giveth.io/project/grassroots-economics-community-currency) and make a donation to allow Kenyan communities to build new economies using Blockchain!
+​​Buscan financiación para construir el software de código abierto que necesitan para cumplir sus objetivos. El desarrollo se realiza en su [repositorio público en Gitlab](https://gitlab.com/grassrootseconomics). ¡Echa un vistazo a su [proyecto en Giveth.io](https://giveth.io/project/grassroots-economics-community-currency) y haz una donación para permitir que las comunidades kenianas construyan nuevas tecnologías utilizando blockchain!
 
 <img alt="Rainbow Crystal Land" src={useBaseUrl('/img/blog/communitySpotlight2-6.png')}  />  
 
 Rainbow Crystal Land
 ========================
 
-Among the Andes mountains in San Agustin, Colombia, there is a community of free-spirits liberating mother nature and creating communal living spaces. Rainbow Crystal Land (RCL), established in 2014, strives to create a global network of leaderless, horizontally structured communities that live in harmony with each other and the Earth. Currently they operate out of their main hub in San Agustin but are seeking to build a global community that shares their philosophy. They are mostly donation based but also sell the food they grow on the land to the local markets. All of these funds go into their “Magic Hat” which is used to buy necessary food and pay overhead costs to continue their existence.
+Entre las montañas de los Andes, en San Agustín, Colombia, hay una comunidad de espíritus libres librando a la madre naturaleza y creando espacios de vida comunitarios. Rainbow Crystal Land (RCL), establecido en 2014, se esfuerza por crear una red global de comunidades sin líderes y estructuras horizontales que viven en armonía entre sí y con la Tierra. Por ahora operan desde su centro principal en San Agustín, pero buscan construir una comunidad global que comparta su filosofía. Se basan principalmente en donaciones pero también venden la comida que cultivan en la tierra en los mercados locales. Todos estos fondos van a parar a su “Sombrero Mágico”, que se utiliza para comprar los alimentos necesarios y pagar gastos generales para seguir existiendo.
 
-They have written a [comprehensive handbook](https://rainbowcrystal.land/document/handbook/) detailing many aspects of their organization, including their declaration of Common Intention as well as their Mission, Vision and Values. On the land they maintain several houses for families and dormitories for their human inhabitants. They operate a solar grid for closed-loop electricity provision and also a permaculture farm on their 14 hectare plot of land.
+Han redactado un [completo manual](https://rainbowcrystal.land/document/handbook/) en el que detallan varios aspectos de su organización, incluyendo su declaración de Intenciones Comunes, además de su Misión, Visión y Valores. En el terreno mantienen varias casas para familias y dormitorios para sus habitantes humanos. Tienen una red solar para suministro de electricidad en circuito cerrado y también una granja de permacultura en su parcela de 14 hectáreas.
 
-RCL is seeking funding to improve much of their existing infrastructure. They are hoping to purchase treated bamboo and other wood to finish building their housing projects. Tools and plant supplies need to be bought to begin putting to use their recently acquired land. Funding also is always needed to feed their citizens, namely, those who are working hard to build their utopian vision. Check out their [project on Giveth.io](https://giveth.io/project/rainbow-crystal-land-colombia) to learn more and make a donation!
+RCL está buscando financiamiento para mejorar gran parte de su infraestructura existente. Esperan comprar bambú tratado y otras maderas para terminar sus proyectos de vivienda. Necesitan comprar herramientas y material vegetal para empezar a utilizar sus terrenos recién adquiridos. También se requieren fondos para alimentar a sus ciudadanos, es decir, a los que trabajan duro para construir su visión utópica. ¡Consulta este [proyecto en Giveth.io](https://giveth.io/project/rainbow-crystal-land-colombia) para aprender más y hacer una donación!
 
-**That’s a wrap for this community project spotlight!** Six diverse projects that are making a positive change across the globe, check them out and consider making a donation to keep these important causes alive and thriving! Stay tuned for more featured projects in the future!
+**¡Con esto terminamos esta edición de proyectos destacados de la comunidad!** Seis Proyectos diversos que están teniendo un impacto positivo en todo el mundo, échales un vistazo y considera hacer una donación para mantener estas importantes causas vivas y prósperas. ¡Sigue atento a más proyectos destacados en el futuro!
 
-Also, if you love Giveth.io and the work we do to provide free and open-source funding platforms for philanthropic causes, consider making a donation to our [Gitcoin Grant](https://gitcoin.co/grants/795/givethio-panvala-league). We also have **our other DApp,** [**Giveth TRACE**](http://trace.giveth.io), for more complex projects that want to offer traceable donations. You can make a donation to Giveth TRACE on its [Gitcoin Grants listing](https://gitcoin.co/grants/2154/givethtrace) as well. Every unique donor to our listings increases the amount of matching funds we receive via [_Quadratic Funding_](https://wtfisqf.com/?grant=&grant=&grant=&grant=&match=1000), so the more the merrier!
+Además, si te gusta Giveth.io y el trabajo que hacemos para ofrecer plataformas de financiación gratuitas y de código abierto para causas filantrópicas, considera hacer una donación a nuestro [Gitcoin Grant](https://gitcoin.co/grants/795/givethio-panvala-league). Asimismo tenemos **nuestra otra DApp**, [Giveth TRACE](http://trace.giveth.io/), para proyectos más complejos que quieren ofrecer donaciones rastreables. Puedes hacer una donación a Giveth TRACE en su [listado de Gitcoin Grants](https://gitcoin.co/grants/2154/givethtrace) también. Cada donante único en nuestra lista aumenta la cantidad de fondos igualados que recibimos a través de [financiamiento cuadrático](https://wtfisqf.com/?grant=&grant=&grant=&grant=&match=1000), así que, ¡cuantos más seamos, mejor!
 
-Want to get more involved?
+## ¿Quieres involucrarte más?
 --------------------------
 
-*   Join us on [Discord](https://discord.gg/JftjK8Un3z) or [Telegram](http://t.me/givethio)
-*   Discover our [Docs](/es/)
-*   Fork our code on [GitHub](https://github.com/Giveth/)
-*   Follow us on [Medium](http://medium.com/giveth/), [Twitter](http://twitter.com/givethio), [Reddit](https://www.reddit.com/r/giveth/) and [YouTube](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ)
+* Únete a nosotros en [Discord](https://discord.giveth.io/) o [Telegram](http://t.me/givethio)
+* Descubre nuestra [documentación](https://docs.giveth.io/)
+* Haz un fork de nuestro código en [Github](https://github.com/Giveth/)
+* Síguenos en [Medium](http://medium.com/giveth/), [Twitter](http://twitter.com/givethio), [Reddit](https://www.reddit.com/r/giveth/) y [YouTube](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ)
 
-Help us Build the Future of Giving: 🦄 [Donate directly](http://donate.giveth.io/) 🦄 or [buy a Ledger with our affiliate link](https://www.ledgerwallet.com/products/ledger-nano-s?utm_source=&utm_medium=affiliate&utm_campaign=d663)
+Ayúdanos a construir el futuro de las donaciones: 🦄 [Dona directamente](http://donate.giveth.io/) 🦄 o [compra un Ledger con nuestro enlace de afiliado](https://www.ledgerwallet.com/products/ledger-nano-s?utm_source=&utm_medium=affiliate&utm_campaign=d663).

@@ -1,6 +1,6 @@
 ---
 slug: changeMakersRoundup1
-title: The First Change-Maker Submission Roundup is In!
+title: ¡La primera ronda de presentaciones de los agentes de cambio ya está aquí!
 author: Mitch
 author_image_url: /img/mitchAuthor.jpeg
 image: /img/blog/changeMakersRoundup1Meme1.png
@@ -8,20 +8,20 @@ image: /img/blog/changeMakersRoundup1Meme1.png
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
 
-_We asked our community to add their projects to_ [_giveth.io_](https://giveth.io/) _and_ [_share their stories_](2021-04-15-change-makers.md) _about how they are changing the world for the better using #giveth4change. Read on to discover our first round of submissions, or_ [_submit your story_](2021-04-15-change-makers.md) _via_ [_twitter_](https://twitter.com/Givethio) _or_ [_reddit_](https://www.reddit.com/r/giveth/) _to be featured in our next summary._
+_Le pedimos a nuestra comunidad que agregara sus proyectos a [giveth.io](https://giveth.io/) y [compartieran las historias](https://docs.giveth.io/blog/changeMakers) sobre cómo están cambiando el mundo para mejor sando #giveth4thechange (Giveth para el cambio). Sigue leyendo para descubrir nuestra primera ronda de presentaciones, o [envía tu historia](https://docs.giveth.io/blog/changeMakers) vía [twitter](https://twitter.com/Givethio) o [reddit](https://www.reddit.com/r/giveth/) para aparecer en el siguiente resumen._
 
 <img alt="Purrfect Project on Giveth" class="leftfloat" src={useBaseUrl('img/blog/changeMakersRoundup1Meme1.png')} width="370" height="auto" />
 
-Wow 2 weeks already into the change-maker campaign! It’s been an exciting couple of months for Giveth. We’ve come hot off the heels from the Giveth.io launch right into this opportunity to hear about projects making a difference across the globe. We’ve received **six outstanding submissions** that we would like to highlight in our first roundup. Without further ado here they are!
+¡Ya van 2 semanas de la campaña de agentes de cambio! Han sido un par de semanas increíbles para Giveth, Venimos de la mano del lanzamiento de Giveth.io y de esta oportunidad de conocer los proyectos que están marcando la diferencia en todo el mundo. Hemos recibido **seis propuestas extraordinarias** que nos gustaría destacar en nuestra primera ronda. Sin más preámbulos, ¡aquí están!
 
 ---
 
 
 ## **Sage to Saddle**
 
-aims to focus Native American youth on healthy lifestyle alternatives, rising above the poverty and substance abuse that they often live with. Nate Bressler realized while on photo-assignment shooting Native American horse racing teams for Outside Magazine, that a winter horse riding facility would greatly benefit the community of Pine Ridge, South Dakota. He teamed up with Lakota Native, Stan Brewer, the driving force behind Pine Ridge’s horse community and Angela Smith, who grew up in Utah and has been involved in nonprofits her whole life. Together, they created lofty but attainable goals that will bring structure, education, celebration, along with the opportunity for these Native youth to lift their chins with pride.
+Su objetivo es orientar a los jóvenes nativos americanos acerca de alternativas de estilo de vida saludable, superando la pobreza y el abuso de sustancias que a menudo enfrentan. Nate Bressler se dio cuenta mientras fotografiaba equipos de carrera de caballos de nativos americanos para la revista Outside de que un centro hípico de invierno sería beneficioso para la comunidad de Pine Ridge en Dakota del Sur. Se asoció con Stan Brewer, nativo de Lakota y la persona detrás de la comunidad ecuestre de Pine Ridge, y con Angela Smith, que creció en Utah y ha estado involucrada en organizaciones sin ánimo de lucro toda su vida. Juntos idearon objetivos elevados pero posibles que traerán estructura, educación y celebración junto con la oportunidad de que estos jóvenes nativos levanten la cabeza con orgullo.
 
-This project hopes to provide an after-school program for kids 8–18 focused on equine relationships in an indoor horse riding arena. Students of the program will be granted the opportunity to learn and grow while carrying on a traditional relationship with the very animal that made their ancestors’ survival possible. [Check out Sage to Saddle on Giveth here!](https://giveth.io/project/sage-to-saddle/)
+Este proyecto espera ofrecer un programa extraescolar para niños de 8 a 18 años enfocado en las relaciones con los caballos en un recinto cubierto. Los alumnos del programa tendrán la oportunidad de aprender y crecer mientras mantienen una relación tradicional con el mismo animal que hizo posible la supervivencia de sus antepasados. [¡Descubre Sage to Saddle aquí!](https://giveth.io/project/sage-to-saddle/)
 
 ## **Conscious Medicine Collective**
 
@@ -29,37 +29,35 @@ dreams to create a one-of-a-kind psychedelic consciousness center. Manex Ibar an
 
 ## **Trust Graphic Novel**
 
-is a transmedia project by Blockchain Philanthropy Champion Anne Connelly and accomplished artist and storyteller Chief Nyamweya. Both a graphic novel and motion comic, it is set in a future African nation that tells the story of Moraa, a young woman who learns about blockchain and uses it to protect her homeland from cultural and ecological destruction. By using storytelling to educate readers about blockchain technology, they hope to inspire African youth to see a bright future and link them to the training to create it. Currently Anne and her team are partnered with groups in Ghana, Kenya, Rwanda and South Africa. The book will cover the basics of blockchains and cryptocurrency, and provide resources and links to their African-based educational partners. [You can find their Giveth project here.](https://giveth.io/project/trust-graphic-novel-and-motion-comic/)
+Es un proyecto multimedia de la campeona de filantropía blockchain Anne Connelly y el reconocido artista y narrador Chief Nyamweya. Tanto una novela gráfica como un cómic en movimiento, está ambientada en una nación africana en el futuro que cuenta la historia de Moraa, una joven que aprende sobre blockchain y los utiliza para proteger su tierra natal de la destrucción cultural y ecológica. Mediante narración para concienciar a los lectores sobre la tecnología blockchain, esperan inspirar a la juventud africana para que vean un futuro brillante y acercarlos a la educación para crearlo Actualmente Anne y su equipo están asociados con grupos en Ghana, Kenya, Rwanda y Sudáfrica. El libro cubrirá los fundamentos de blockchain y criptomonedas, y proporcionará recursos y enlaces educativos de sus aliados basados en África. [Puedes encontrar su proyecto en Giveth aquí](https://giveth.io/project/trust-graphic-novel-and-motion-comic/).
 
 ## **Bloom Network**
 
-represents an international community of people and projects working toward regenerative cultures. Local Bloom hubs around the world grow participation in practices such as food security, local economies, celebrations of diversity, and art as cultural transformation. There are tens of thousands of initiatives solving major social and environmental problems, who are excluded from mainstream media and institutional finance because the way they work is naturally collaborative and polycentric. Three big picture goals the Bloom Network hopes to achieve are:
+Representa una comunidad internacional de gente y proyectos trabajando por las culturas regenerativas. La participación en los centros locales de Bloom alrededor del mundo se basa en prácticas como la seguridad alimentaria, economías locales, celebraciones de la diversidad y el arte como transformación cultural. Hay decenas de miles de iniciativas que resuelven grandes problemas sociales y medioambientales que están excluidas de los medios de comunicación populares y de la financiación institucional porque su forma de trabajar es naturalmente colaborativa y policéntrica. Los tres objetivos que Bloom Network espera alcanzar son:
 
-*   Inspire a billion acts of regeneration.
-*   Build capacity and relationships across regenerative culture initiatives.
-*   Transfer power and resources to decentralized networks.
+* Inspirar mil millones de actos de regeneración.
+* Construir capacidad y relaciones entre las iniciativas de cultura regenerativa.
+* Transferir poder y recursos a redes descentralizadas.
 
-Contributions made to their project will go towards “Regenerative Actions Ticker” on their homepage, DAO templates that local Bloom chapters can use to fund the coordination labor of actions and launch the “Call to Bloom” that will help 100+ local Blooms get started as centers of regenerative action in their cities. [Donate to Bloom Network on Giveth.io!](https://giveth.io/project/bloom-network/)
+Las contribuciones hechas a su proyecto se destinarán al “Marcador de Acciones Regenerativas” en su página web, a las plantillas de DAO que los grupos locales de Bloom pueden usar para financiar la coordinación y lanzar una “Llamada a Bloom” que ayudará a más de 100 Blooms locales a iniciarse como centros de acción regenerativa en sus ciudades. [¡Dona al Bloom Network en Giveth.io!](https://giveth.io/project/bloom-network/)
 
 ## **Must Have Crypto**
 
-is a Cryptocurrency project based out of Kenya led by Mutinda Kisio. The Project is about teaching the masses about Crypto while enabling them to earn a daily basic income. They have minted their own token and plan to use it to teach low income individuals and families about how to use cryptocurrency by providing a steady stream of airdrops up to a maximum of a 1000 addresses. Mutinda is seeking funding to back the value of the token and provide real value to the tokens that are being airdropped. [Make a Contribution to Must Have Crypto on their Giveth project page.](https://giveth.io/project/musthavecrypto/)
+Este es un proyecto de criptodivisas con sede en Kenia y dirigido por Mutinda Kisio. El proyecto consiste en enseñar a las masas sobre criptomonedas mientras obtienen un ingreso básico diario. Han acuñado su propio token y planean utilizarlo para enseñar a las personas y familias de bajos ingresos cómo utilizar las criptos proporcionando un flujo constante hasta un máximo de 1000 direcciones. Mutinda está buscando financiación para respaldar el valor del token y proveer valor auténtico a los tokens que se repartirán. [Haz una contribución a Must Have Crypto en su página en Giveth](https://giveth.io/project/musthavecrypto/).
 
 ## **Diamante Bridge Collective**
 
-is a group of land stewards in the Diamante Valley, Costa Rica working together to create collective foundational agreements and a local regenerative economy that includes digital currencies for the transparent and accountable recordkeeping of their exchanges. They are building bridges between communities and organizations, local and global cultures, property owners and skilled service providers who are committed to working together long term to care for their bio-region, their neighbors, and the community at large. The Diamante Bridge Collective functions as a hub of many physical nodes, connected via global networks of shared vision and missions with the goal of restoring, preserving and consciously stewarding surrounding lands and watersheds while living harmoniously within them in alignment with planetary values. Donations will help develop infrastructure systems to support growing communities. [Head over to their project on giveth.io to make a donation!](https://giveth.io/project/diamante-bridge-collective)
+Es un grupo de gestores de tierra en el Valle del Diamante, Costa Rica, que trabajan juntos para crear acuerdos básicos colectivos y una economía regenerativa local que incluye monedas digitales para el registro transparente y responsable de los movimientos. Están construyendo conexiones entre las comunidades y organizaciones, las culturas locales y globales, los propietarios y proveedores de servicios cualificados que están comprometidos a trabajar juntos en el largo plazo para cuidar del medio ambiente en su región, sus vecinos y la comunidad en general. El Diamante Bridge Collective funciona como un centro de muchos nodos físicos conectados a través de redes globales con visiones y misiones en común con el objetivo de restaurar, preservar y administrar conscientemente las tierras y cuerpos de agua alrededor, mientras se vive armoniosamente en ellas y en alineación con los valores planetarios. Las donaciones ayudarán a desarrollar sistemas de infraestructura para apoyar a las comunidades en crecimiento. [¡Dirígete a su proyecto en giveth.io para hacer una donación!](https://giveth.io/project/diamante-bridge-collective)
 
-Six change-making projects live on Giveth and inspiring change! There are a couple more weeks left to make submissions so if you or someone you know is working on a great cause then now is the time to get on board! [You can check out our original medium post here for more details!](2021-04-15-change-makers.md)
+¡Seis proyectos de impacto en vivo en Giveth e inspirando el cambio! Quedan un par de semanas más para presentar propuestas, así que si tú o alguien que conozcas está trabajando en una buena causa, ¡este es el momento de participar! [Puedes consultar el post original para obtener más detalles](https://docs.giveth.io/blog/changeMakers).
 
 <img alt="Koolaid Man" width="350" height="auto" class="leftfloat" src={useBaseUrl('img/blog/changeMakersRoundup1Meme2.jpg')} />
 
-## Want to get more involved?
+## ¿Quieres involucrarte más?
 
+* Únete a nosotros en [Discord](https://discord.giveth.io/) o [Telegram](http://t.me/givethio)
+* Descubre nuestra [documentación](https://docs.giveth.io/)
+* Haz un fork de nuestro código en [Github](https://github.com/Giveth/)
+* Síguenos en [Medium](http://medium.com/giveth/), [Twitter](http://twitter.com/givethio), [Reddit](https://www.reddit.com/r/giveth/) y [YouTube](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ)
 
-*   Try out [Giveth.io](https://giveth.io/project/giveth/) or [Giveth TRACE](https://beta.giveth.io/dac/giveth-dac)
-*   Discover our [Docs](/es/) and [Wiki](https://wiki.giveth.io/)
-*   Join us on [Discord](https://discord.gg/JftjK8Un3z) or [Telegram](http://t.me/givethio)
-*   Fork our code on [GitHub](https://github.com/Giveth/)
-*   Follow us on [Medium](http://medium.com/giveth/), [Facebook](https://www.facebook.com/givethio), [Twitter](http://twitter.com/givethio) and [Reddit](https://www.reddit.com/r/giveth/)
-
-Help us Build the Future of Giving: 🦄 [Donate directly](http://donate.giveth.io/) 🦄 or [buy a Ledger with our affiliate link](https://www.ledgerwallet.com/products/ledger-nano-s?utm_source=&utm_medium=affiliate&utm_campaign=d663)
+Ayúdanos a construir el futuro de las donaciones: 🦄 [Dona directamente](http://donate.giveth.io/) 🦄 o [compra un Ledger con nuestro enlace de afiliado](https://www.ledgerwallet.com/products/ledger-nano-s?utm_source=&utm_medium=affiliate&utm_campaign=d663).
