@@ -5,7 +5,7 @@ author: Yalor
 author_image_url: /img/yalorAuthor.jpeg
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../src/css/custom.css'
+import styles from '../../../../src/css/custom.css'
 
 Le [pedimos](https://medium.com/giveth/giveth-make-it-so-manifesto-80c7e3576e16) a usted (nuestra comunidad) que profundice en sus corazones y mentes, para brindarnos su mejor versión de Giveth Manifiesto. Los resultados no decepcionaron.
 

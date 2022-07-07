@@ -12,7 +12,7 @@ Nuestro objetivo es unir a las personas y promover la resiliencia en Giveth DAO 
 
 ### ¿Qué es Gravity?
 
-Gravity tiene como objetivo establecer una cultura de cumplimiento voluntario en torno al [Pacto comunitario](https://docs.giveth.io/whatisgiveth/covenant), [Código de conducta](https://docs.giveth.io/whatisgiveth/codeofconduct) , y [Guía de comunicaciones comunitarias](https://docs.giveth.io/whatisgiveth/communityCommsGuide) de Giveth. Propone el reconocimiento y aplicación de mecanismos de manejo de conflictos para configurar interacciones armoniosas entre los miembros de su comunidad.
+Gravity tiene como objetivo establecer una cultura de cumplimiento voluntario en torno al [Pacto comunitario](/es/whatisgiveth/covenant), [Código de conducta](/es/whatisgiveth/codeofconduct) , y [Guía de comunicaciones comunitarias](/es/whatisgiveth/communityCommsGuide) de Giveth. Propone el reconocimiento y aplicación de mecanismos de manejo de conflictos para configurar interacciones armoniosas entre los miembros de su comunidad.
 
 
 ### ¿Qué es un gravitón Giveth?
@@ -67,13 +67,13 @@ La capacitación se ofrece 2 veces al año con la intención de formar Gravitron
 * Las llamadas y chats de resolución de conflictos están cerrados para Gravitons y las partes involucradas para respetar la privacidad y la vulnerabilidad.
 * El grupo de trabajo de Resolución de Conflictos de Giveth puede facilitar espacios seguros, talleres de nivelación de habilidades y colaborar con el grupo de trabajo de Gravedad de TEC para organizar capacitaciones y capacitar a las personas para que se conviertan en Gravitones.
     * El entrenamiento Gravity es gratuito y abierto para todos.
-* Gravity puede eliminar propuestas de todas las categorías de votación si reciben **banderas** y/o se consideran dañinas para la comunidad según nuestras reglas, límites, T&C, [Convenio de la comunidad](https://docs.giveth.io/es/whatisgiveth/covenant), [Código de conducta](https://docs.giveth.io/es/whatisgiveth//codeofconduct) y [Guía de comunicaciones comunitarias](https://docs.giveth.io/es/whatisgiveth/communityCommsGuide).
+* Gravity puede eliminar propuestas de todas las categorías de votación si reciben **banderas** y/o se consideran dañinas para la comunidad según nuestras reglas, límites, T&C, [Convenio de la comunidad](/es/whatisgiveth/covenant), [Código de conducta](/es/whatisgiveth//codeofconduct) y [Guía de comunicaciones comunitarias](/es/whatisgiveth/communityCommsGuide).
 
 **¿Qué acciones o resultados se requieren o fomentan?**
 
 * Todos los miembros deben conocer las [directrices para la escala del conflicto y las sanciones graduadas](https://forum.tecommons.org/t/scale-of-conflicts-graduated-sanction-guideline/234).
-* Todos los miembros deben comprometerse a respetar el protocolo para [Giveth Meetings](https://docs.giveth.io/whatisgiveth/meetingsGuide).
-* Los gravitones deben cumplir con el [Pacto comunitario de Giveth](https://docs.giveth.io/whatisgiveth/covenant), [Código of Conduct](https://docs.giveth.io/whatisgiveth/codeofconduct) y [Guía de comunicaciones comunitarias](https://docs.giveth.io/whatisgiveth/communityCommsGuide) y el adicional [Código de conducta de Graviton](https://forum.tecommons.org/t/gravity-role-design/174).
+* Todos los miembros deben comprometerse a respetar el protocolo para [Giveth Meetings](/es/whatisgiveth/meetingsGuide).
+* Los gravitones deben cumplir con el [Pacto comunitario de Giveth](/es/whatisgiveth/covenant), [Código of Conduct](/es/whatisgiveth/codeofconduct) y [Guía de comunicaciones comunitarias](/es/whatisgiveth/communityCommsGuide) y el adicional [Código de conducta de Graviton](https://forum.tecommons.org/t/gravity-role-design/174).
 * Los gravitones deben aceptar casos en función de su competencia y comunicarse con el grupo de trabajo de resolución de conflictos si no se sienten capaces de manejar un problema.
 * Los gravitones deben promover la confianza y las buenas relaciones entre la comunidad.
 * Se requiere completar el Entrenamiento Graviton con éxito para convertirse en un Graviton.

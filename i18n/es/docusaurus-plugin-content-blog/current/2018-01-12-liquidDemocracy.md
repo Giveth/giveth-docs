@@ -5,7 +5,7 @@ author: Yalor
 author_image_url: /img/yalorAuthor.jpeg
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../src/css/custom.css'
+import styles from '../../../../src/css/custom.css'
 
 <img alt="Liquid Democracy" src={useBaseUrl('img/blog/liquidDemocracy.jpeg')} />
 Bienvenido al futuro de la votación.

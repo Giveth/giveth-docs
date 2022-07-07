@@ -5,7 +5,7 @@ author: Lanski
 author_image_url: /img/Lanski.jpeg
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../src/css/custom.css'
+import styles from '../../../../src/css/custom.css'
 
 
 _¿Por qué son necesarios los jefes? no lo son Las organizaciones autogestionadas existen en todo el mundo, pero no existe un modelo de cómo debería funcionar una organización autogestionada descentralizada. Tratemos de cambiar eso._

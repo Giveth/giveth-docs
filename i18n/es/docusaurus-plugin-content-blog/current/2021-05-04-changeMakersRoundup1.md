@@ -6,7 +6,7 @@ author_image_url: /img/mitchAuthor.jpeg
 image: /img/blog/changeMakersRoundup1Meme1.png
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../src/css/custom.css'
+import styles from '../../../../src/css/custom.css'
 
 _Le pedimos a nuestra comunidad que agregara sus proyectos a [giveth.io](https://giveth.io/) y [compartieran las historias](https://docs.giveth.io/blog/changeMakers) sobre cómo están cambiando el mundo para mejor sando #giveth4thechange (Giveth para el cambio). Sigue leyendo para descubrir nuestra primera ronda de presentaciones, o [envía tu historia](https://docs.giveth.io/blog/changeMakers) vía [twitter](https://twitter.com/Givethio) o [reddit](https://www.reddit.com/r/giveth/) para aparecer en el siguiente resumen._
 
@@ -54,8 +54,6 @@ Es un grupo de gestores de tierra en el Valle del Diamante, Costa Rica, que trab
 <img alt="Koolaid Man" width="350" height="auto" class="leftfloat" src={useBaseUrl('img/blog/changeMakersRoundup1Meme2.jpg')} />
 
 ## ¿Quieres involucrarte más?
-
-
 
 * Únete a nosotros en [Discord](https://discord.giveth.io/) o [Telegram](http://t.me/givethio)
 * Descubre nuestra [documentación](https://docs.giveth.io/)

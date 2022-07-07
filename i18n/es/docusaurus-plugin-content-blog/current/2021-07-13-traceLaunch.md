@@ -6,7 +6,7 @@ author_image_url: /img/laurenAuthor.png
 image: /img/blog/traceLiveBanner.png
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../src/css/custom.css'
+import styles from '../../../../src/css/custom.css'
 
 
 **_We are pleased to announce the official full release of_** [**_Giveth TRACE_**](http://trace.giveth.io/?utm_source=medium&utm_medium=article&utm_campaign=traceLaunch) **_— a platform for traceable, accountable, effective donations powered by blockchain technology._**

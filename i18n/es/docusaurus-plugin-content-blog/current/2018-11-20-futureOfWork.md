@@ -5,7 +5,7 @@ author: Agent Smith
 author_image_url: /img/agentSmithAuthor.jpeg
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../src/css/custom.css'
+import styles from '../../../../src/css/custom.css'
 
 <img alt="Connections" src={useBaseUrl('img/blog/futureOfWork.png')} />
 

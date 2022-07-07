@@ -6,7 +6,7 @@ author_image_url: /img/mitchAuthor.jpeg
 image: /img/blog/twoFlavoursBanner.png
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../src/css/custom.css'
+import styles from '../../../../src/css/custom.css'
 
 <img alt=""  src={useBaseUrl('img/blog/givethsSIDEbySIDE.png')} width="700" height="auto" />
 

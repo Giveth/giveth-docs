@@ -16,7 +16,7 @@ All GIVstreams flow until December 23, 2026, at which point the GIVeconomy will 
 
 
 ## How it Works
-At launch, 10% of the total token supply of 1 billion GIV will be liquid and distributed across the [GIVeconomy](https://docs.giveth.io/giveconomy/). The rest supplies the GIVstream which flows for 5 years, releasing more liquid GIV every second. After the 5 year period, 100% of GIV tokens will be liquid.
+At launch, 10% of the total token supply of 1 billion GIV will be liquid and distributed across the [GIVeconomy](/es/giveconomy/). The rest supplies the GIVstream which flows for 5 years, releasing more liquid GIV every second. After the 5 year period, 100% of GIV tokens will be liquid.
 
 The following table explains what percentage of GIV is liquid and distributed throughout the GIViverse, and which part is still yet to flow from the GIVstream.
 
@@ -34,7 +34,7 @@ The following table explains what percentage of GIV is liquid and distributed th
 
 <img width='85%' alt='flowrate counter' src={useBaseUrl('/img/content/giveconomy/flowrate.png')} />
 
-Your GIVstream flowrate is the rate (GIV/week) at which your GIV becomes liquid. All recipients of the [GIVdrop](https://docs.giveth.io/giveconomy/givdrop) will also receive a GIVstream on Gnosis Chain (formerly xDai Network). If you did not receive a GIVdrop, you can still get a GIVstream by participating in the GIVeconomy.
+Your GIVstream flowrate is the rate (GIV/week) at which your GIV becomes liquid. All recipients of the [GIVdrop](/es/giveconomy/givdrop) will also receive a GIVstream on Gnosis Chain (formerly xDai Network). If you did not receive a GIVdrop, you can still get a GIVstream by participating in the GIVeconomy.
 
 You can get (or increase) your GIVstream flowrate on Gnosis Chain (formerly xDai Network) by donating (on Gnosis Chain or Mainnet) and getting [GIVbacks](https://giv.giveth.io/givbacks), by wrapping GIV to use in the [GIVgarden](https://giv.giveth.io/givgarden), or by staking in the [GIVfarm](https://giv.giveth.io/givfarm) on Gnosis Chain.
 

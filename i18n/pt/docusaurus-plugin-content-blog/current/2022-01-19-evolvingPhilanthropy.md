@@ -6,7 +6,7 @@ author_image_url: /img/laurenAuthor.png
 image: /img/blog/GIVbackBanner.png
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../src/css/custom.css'
+import styles from '../../../../src/css/custom.css'
  
 
 <img alt='what if giving gave back' src={useBaseUrl('img/blog/GIVbackBanner.png')} />

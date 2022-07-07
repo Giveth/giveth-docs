@@ -5,7 +5,7 @@ slug: dapps/projectVerification
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
-Giveth is making use of project verification to review a project’s legitimacy and to reward donors to those projects via the [GIVbacks program](https://docs.giveth.io/giveconomy/givbacks). Project owners can apply for verification [here](https://giveth.typeform.com/verification).
+Giveth is making use of project verification to review a project’s legitimacy and to reward donors to those projects via the [GIVbacks program](/es/giveconomy/givbacks). Project owners can apply for verification [here](https://giveth.typeform.com/verification).
 
 This document serves as a guide to understanding the Project Verification process, what information is needed to apply, as well as what qualifies/disqualifies a project for participation in the GIVbacks program.
 

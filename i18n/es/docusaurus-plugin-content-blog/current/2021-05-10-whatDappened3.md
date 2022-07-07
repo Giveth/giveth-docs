@@ -7,7 +7,7 @@ author_image_url: /img/laurenAuthor.png
 image: img/blog/whatsDappening3img1.png
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../src/css/custom.css'
+import styles from '../../../../src/css/custom.css'
 
 _Mantener nuestros valores de Transparencia y Responsabilidad al compartir actualizaciones de desarrollo recientes de este último sprint._
 
@@ -19,7 +19,7 @@ En este último sprint, solucionamos los problemas en nuestro **editor de texto 
 
 También dedicamos un tiempo a optimizar la presentación de nuestra Dapp para dispositivos móviles, arreglando algunas inconsistencias visuales y mejorando la usabilidad general. Mejoramos nuestras notificaciones por correo electrónico, asegurándonos de que los donantes y los creadores reciban una confirmación cuando se realiza una donación.
 
-Desarrollamos e implementamos pruebas automatizadas para el flujo de creación de un proyecto y actualizamos las [directrices de prueba](https://docs.giveth.io/docs/testing-guidelines/) en nuestra documentación, dos medidas para garantizar que las nuevas características funcionan como es debido.
+Desarrollamos e implementamos pruebas automatizadas para el flujo de creación de un proyecto y actualizamos las [directrices de prueba](/es/docs/testing-guidelines/) en nuestra documentación, dos medidas para garantizar que las nuevas características funcionan como es debido.
 
 También solucionamos algunos errores: nos aseguramos de que los proyectos cancelados no aparecieran en la lista de proyectos, precios fijos y enlaces externos redirigidos para las donaciones de xDai a blockcout.
 
@@ -48,7 +48,7 @@ _¡Muchas gracias a nuestro increíble equipo por hacer posible todo esto: James
 ## ¿Quieres conseguir estar más implicado?
 
 * Únase a nosotros en [Discord](https://discord.gg/JftjK8Un3z) o en [Telegram](http://t.me/givethio)
-* Descubra nuestro [Sitio](http://giveth.io/), [Docs](https://docs.giveth.io/) y [Wiki](https://wiki.giveth.io/)
+* Descubra nuestro [Sitio](http://giveth.io/), [Docs](/es/) y [Wiki](https://wiki.giveth.io/)
 * Bifurca nuestro código en [GitHub](https://github.com/Giveth/)
 * Síguenos en [Medio](http://medium.com/giveth/), [Facebook](https://www.facebook.com/givethio), [Twitter](http://twitter.com/givethio ), [Reddit](https://www.reddit.com/r/giveth/) y [YouTube](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ)
 

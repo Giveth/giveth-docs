@@ -6,7 +6,7 @@ author_image_url: /img/mitchAuthor.jpeg
 image: /img/blog/communitySpotlight2Cover.gif
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../src/css/custom.css'
+import styles from '../../../../src/css/custom.css'
 
 Estamos de vuelta con otro lote fresco de proyectos increíbles en Giveth.io. Tenemos seis proyectos de un amplio rango de causas que estamos presentando en esta entrega de proyectos destacados. Esta es una entrega extra especial porque Giveth.io está activo y aceptando donaciones en la última ronda de [Gitcoin Grants](https://gitcoin.co/grants/) **(GR11)**. Si te sientes inspirado por la misión de Giveth tras leer este artículo, considera hacer una contribución a través de nuestra [lista de grants](https://gitcoin.co/grants/795/givethio-panvala-league) y aprende sobre la magia de la financiación cuadrática. Más sobre eso después…
 

@@ -29,7 +29,7 @@ Esta innovación pionera (de su tiempo) permite a Giveth y al usuario realizar i
 
 Cuando envía fondos reales a cualquier entidad en Giveth TRACE, lo hace con la red principal de Ethereum. Por el contrario, cuando reclama fondos que se han delegado a un Trace completo del que es destinatario, **Giveth paga el gas** para conectar su transacción a la red principal y enviarle los fondos.
 
-Para obtener más información sobre el puente Giveth, diríjase a la documentación [aquí](https://docs.giveth.io/dapps/bridgeSecurity). También hay un [artículo de Medium maravilloso](https://medium.com/giveth/tackling-ethereum-scalability-issues-29bd700b5060) de 2017, que identifica los principales problemas de escalabilidad de esa era en la criptografía y cómo encontramos una solución. .
+Para obtener más información sobre el puente Giveth, diríjase a la documentación [aquí](/es/dapps/bridgeSecurity). También hay un [artículo de Medium maravilloso](https://medium.com/giveth/tackling-ethereum-scalability-issues-29bd700b5060) de 2017, que identifica los principales problemas de escalabilidad de esa era en la criptografía y cómo encontramos una solución. .
 
 ### Desarrollo
 Puede seguir el desarrollo en [Github](https://github.com/Giveth/giveth-dapp), leer más en esta documentación o unirse a nuestro canal de colaboradores en [Discord](https://discord.gg/qf7XZ48gCU). Nuestras reuniones están en el [calendario de Giveth](https://calendar.google.com/calendar/embed?src=givethdotio@gmail.com&pli=1), ¡y le invitamos a unirse!

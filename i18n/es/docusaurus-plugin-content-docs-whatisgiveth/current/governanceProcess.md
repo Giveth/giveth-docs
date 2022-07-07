@@ -17,8 +17,8 @@ El mejor lugar para conversaciones formales sobre Giveth es nuestro [Foro de deb
 Cualquier miembro de la comunidad puede crear una propuesta, sin embargo, hay algunas consideraciones:
 
 - Idealmente, **las propuestas** tienen una intención claramente definida que describe las acciones a tomar, las posibles consecuencias y los fondos solicitados (si corresponde).
-- Nos adherimos a un [Pacto comunitario](https://docs.giveth.io/whatisgiveth/covenant) que es nuestro principal punto de referencia para cualquier disputa .
-- Usamos el [Proceso de asesoramiento](https://docs.giveth.io/whatisgiveth/adviceProcess) para recopilar comentarios y refinar propuestas.
+- Nos adherimos a un [Pacto comunitario](/es/whatisgiveth/covenant) que es nuestro principal punto de referencia para cualquier disputa .
+- Usamos el [Proceso de asesoramiento](/es/whatisgiveth/adviceProcess) para recopilar comentarios y refinar propuestas.
 - Las propuestas deberán permanecer en el foro, abierto en Proceso Consultivo, **por un mínimo de 5 días**.
 
 Si se han cumplido todas las condiciones, incluidos los requisitos de tiempo para el proceso de asesoramiento, las propuestas pueden pasar a GIVgarden o a **rDAO *dapps* para votar. Para participar en estos *dapps* debes tener un GIV o nrGIV, respectivamente. Todos los *dapps* de Giveth Governance operan en la Cadena Gnosis (anteriormente red xDai).
@@ -31,7 +31,7 @@ A menudo usamos encuestas dentro del foro o en Discord para obtener un consenso 
 
 ## Titular de la ficha GIV
 
-Los poseedores de tokens GIV pueden participar en la toma de decisiones a través de [GIVgarden](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98). Esto aprovecha los sistemas [Votación de convicción](https://forum.giveth.io/t/conviction-voting/154) y [Votación de Tao](https://forum.giveth.io/t/tao-voting-explained/155) para permitir a los titulares de tokens GIV crear, discutir y votar propuestas utilizando sus tokens GIV. Las decisiones que se toman giran en torno a solicitudes y sugerencias de financiamiento comunitario, así como cualquier modificación metagubernamental. Para obtener más información, visite [nuestra documentación sobre GIVgarden.](https://docs.giveth.io/giveconomy/givgarden)
+Los poseedores de tokens GIV pueden participar en la toma de decisiones a través de [GIVgarden](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98). Esto aprovecha los sistemas [Votación de convicción](https://forum.giveth.io/t/conviction-voting/154) y [Votación de Tao](https://forum.giveth.io/t/tao-voting-explained/155) para permitir a los titulares de tokens GIV crear, discutir y votar propuestas utilizando sus tokens GIV. Las decisiones que se toman giran en torno a solicitudes y sugerencias de financiamiento comunitario, así como cualquier modificación metagubernamental. Para obtener más información, visite [nuestra documentación sobre GIVgarden.](/es/giveconomy/givgarden)
 
 ## Titular del token nrGIV
 
@@ -47,13 +47,13 @@ Aprenda cómo convertirse en colaborador (y obtener nrGIV) en nuestro documento 
 
 No todas las decisiones requieren un voto formal en cadena. Hay espacio para tomar decisiones ágiles y de bajo impacto en una variedad de plataformas que utiliza la comunidad de Giveth. Para mayor claridad, traemos la sección del Pacto, sobre la toma de decisiones fuera de la cadena:
 
-Giveth utiliza un [Proceso de asesoramiento](https://docs.giveth.io/whatisgiveth/adviceProcess) como su práctica central de toma de decisiones para empoderar a los contribuyentes para llevar a cabo sus propuestas culturales. El proceso de asesoramiento está escrito en la documentación de Giveth y se promueve verbalmente en llamadas comunitarias. Cuando una decisión sin impactos financieros o de código de protocolo podría afectar a una gran parte de la comunidad, se implementa el uso de votaciones fuera de la cadena mediante encuestas de Discord o Forum. Una decisión se considera legítima cuando respeta este pacto, se promueve a la conciencia de la comunidad y sus resultados no se impugnan dentro de las 2 semanas.
+Giveth utiliza un [Proceso de asesoramiento](/es/whatisgiveth/adviceProcess) como su práctica central de toma de decisiones para empoderar a los contribuyentes para llevar a cabo sus propuestas culturales. El proceso de asesoramiento está escrito en la documentación de Giveth y se promueve verbalmente en llamadas comunitarias. Cuando una decisión sin impactos financieros o de código de protocolo podría afectar a una gran parte de la comunidad, se implementa el uso de votaciones fuera de la cadena mediante encuestas de Discord o Forum. Una decisión se considera legítima cuando respeta este pacto, se promueve a la conciencia de la comunidad y sus resultados no se impugnan dentro de las 2 semanas.
 
 Se espera que los espacios comunitarios de Giveth, incluidos [Giveth Forum](https://forum.giveth.io/), [GitHub](https://github.com/Giveth) y [Discord](https://discord.gg/JxF38Tj364), así como otros foros fuera de la cadena que puedan surgir en el futuro, cumplen con este pacto.
 
 ## Resumen
 
-1- Haz una [propuesta](https://docs.giveth.io/whatisgiveth/governanceProcess/#proposal) en el [foro de Giveth](https://forum.giveth.io/).
+1- Haz una [propuesta](/es/whatisgiveth/governanceProcess/#proposal) en el [foro de Giveth](https://forum.giveth.io/).
 
 - Permitir un mínimo de 5 días para el proceso de consejería.
 

@@ -6,7 +6,7 @@ author_image_url: /img/mitchAuthor.jpeg
 image: /img/blog/communitySpotlight1Cover.jpeg
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../src/css/custom.css'
+import styles from '../../../../src/css/custom.css'
 
 
 <img alt="Watching for those doing good" src={useBaseUrl('/img/blog/communitySpotlight1Cover.jpeg')}  />

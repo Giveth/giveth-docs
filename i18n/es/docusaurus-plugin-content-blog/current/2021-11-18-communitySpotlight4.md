@@ -6,7 +6,7 @@ author_image_url: /img/mitchAuthor.jpeg
 image: /img/blog/projectSpotlight4banner.png
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../src/css/custom.css'
+import styles from '../../../../src/css/custom.css'
 
 
 
@@ -83,7 +83,7 @@ Keep your eyes peeled for more details on the next phase of Giveth, it’s going
 ### Want to get more involved?
 
 *   Join us on [Discord](https://discord.gg/JftjK8Un3z) or [Telegram](http://t.me/givethio)
-*   Discover our [Docs](https://docs.giveth.io/)
+*   Discover our [Docs](/es/)
 *   Fork our code on [GitHub](https://github.com/Giveth/)
 *   Follow us on [Medium](http://medium.com/giveth/), [Twitter](http://twitter.com/givethio), [Reddit](https://www.reddit.com/r/giveth/) and [YouTube](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ)
 

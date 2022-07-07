@@ -6,7 +6,7 @@ author_image_url: /img/mitchAuthor.jpeg
 image: /img/blog/changeMakersFinalCover.jpeg
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import styles from '../src/css/custom.css'
+import styles from '../../../../src/css/custom.css'
 
 
 
@@ -66,6 +66,7 @@ Aunque la campaña de agentes de cambio ha culminado, todavía puedes conseguir 
 
 ¿Quieres involucrarte más?
 =========================
+
 
 * Únete a nosotros en [Discord](https://discord.giveth.io/) o [Telegram](http://t.me/givethio)
 * Descubre nuestra [documentación](https://docs.giveth.io/)
