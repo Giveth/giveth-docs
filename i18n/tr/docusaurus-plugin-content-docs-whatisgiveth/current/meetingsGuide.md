@@ -2,6 +2,9 @@
 id: meetingsGuide
 title: Meetings Guide
 ---
+import NotTranslatedMessage from '../../_notTranslatedTR.mdx'
+
+<NotTranslatedMessage />
 
 ## Meeting Planning
 * Please announce the meeting a few days in advance. You might want to use the advice process and [Doodle](https://doodle.com/dashboard) to find a date if the meeting is not regular.

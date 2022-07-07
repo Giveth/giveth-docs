@@ -3,6 +3,10 @@ id: history
 title: The History of Giveth
 ---
 
+import NotTranslatedMessage from '../../_notTranslatedTR.mdx'
+
+<NotTranslatedMessage />
+
 Giveth has a rich history, from humble beginnings to grand visions, building the Future of Giving. Here we share our story in hopes of inspiring other communities that want to work in a decentralized way.
 
 ## 2016

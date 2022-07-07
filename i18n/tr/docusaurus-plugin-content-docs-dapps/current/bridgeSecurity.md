@@ -5,6 +5,9 @@ slug: dapps/bridgeSecurity
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
+import NotTranslatedMessage from '../../_notTranslatedTR.mdx'
+
+<NotTranslatedMessage />
 
 ####  A technical overview of the features, roles and theory behind the security of the Giveth Bridge.
 *This document assumes that the reader has basic knowledge of smart contracts, multisig contracts and Ethereum testnet chains.*

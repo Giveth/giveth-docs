@@ -3,6 +3,10 @@ id: traceContracts
 title: Contracts, Bridges and Multisigs Technical Information
 slug: dapps/traceContracts
 ---
+import NotTranslatedMessage from '../../_notTranslatedTR.mdx'
+
+<NotTranslatedMessage />
+
 
 ## Contracts:
 * GivethBridge on Mainnet

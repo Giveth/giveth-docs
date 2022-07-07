@@ -2,6 +2,9 @@
 id: conflictResolution
 title: Conflict Resolution Working Group
 ---
+import NotTranslatedMessage from '../../_notTranslatedTR.mdx'
+
+<NotTranslatedMessage />
 
 # Conflict Resolution Working Group
 

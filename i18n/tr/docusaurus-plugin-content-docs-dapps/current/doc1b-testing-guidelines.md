@@ -4,6 +4,10 @@ title: Giveth.io Testing Guidelines
 slug: dapps/testing-guidelines
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
+import NotTranslatedMessage from '../../_notTranslatedTR.mdx'
+
+<NotTranslatedMessage />
+
 
 This guide provides a framework for testing the [Giveth.io](https://giveth.io/) DApp.
 

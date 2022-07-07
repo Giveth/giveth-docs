@@ -2,6 +2,10 @@
 id: finances
 title: Giveth Finances
 ---
+import NotTranslatedMessage from '../../_notTranslatedTR.mdx'
+
+<NotTranslatedMessage />
+
 **Donations**
 
 Every donation and pledge made through Giveth is traceable and projects can be held accountable, unlike with traditional charities. You always know exactly where your donation went and can get a good sense of the impact it made through communication with your chosen beneficiary.

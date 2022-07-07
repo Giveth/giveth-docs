@@ -67,7 +67,7 @@ La capacitación se ofrece 2 veces al año con la intención de formar Gravitron
 * Las llamadas y chats de resolución de conflictos están cerrados para Gravitons y las partes involucradas para respetar la privacidad y la vulnerabilidad.
 * El grupo de trabajo de Resolución de Conflictos de Giveth puede facilitar espacios seguros, talleres de nivelación de habilidades y colaborar con el grupo de trabajo de Gravedad de TEC para organizar capacitaciones y capacitar a las personas para que se conviertan en Gravitones.
     * El entrenamiento Gravity es gratuito y abierto para todos.
-* Gravity puede eliminar propuestas de todas las categorías de votación si reciben **banderas** y/o se consideran dañinas para la comunidad según nuestras reglas, límites, T&C, [Convenio de la comunidad](/es/es/whatisgiveth/covenant), [Código de conducta](/es/es/whatisgiveth//codeofconduct) y [Guía de comunicaciones comunitarias](/es/es/whatisgiveth/communityCommsGuide).
+* Gravity puede eliminar propuestas de todas las categorías de votación si reciben **banderas** y/o se consideran dañinas para la comunidad según nuestras reglas, límites, T&C, [Convenio de la comunidad](/es/whatisgiveth/covenant), [Código de conducta](/es/whatisgiveth//codeofconduct) y [Guía de comunicaciones comunitarias](/es/whatisgiveth/communityCommsGuide).
 
 **¿Qué acciones o resultados se requieren o fomentan?**
 

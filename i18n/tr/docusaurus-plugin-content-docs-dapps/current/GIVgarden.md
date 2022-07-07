@@ -7,7 +7,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
 
 
-Giveth, GIV token sahiplerinin DAO yönetmesine ve [misyon, vizyon ve değerleriyle](/tr/whatisgiveth/) uyumlu projelere fon tahsis etmesine izin vermek için [1hive](/tr/giveconomy/_https://forum.1hive.org/t/welcome-to-1hive/7) tarafından geliştirilen Gardens DAO yönetişim platformunu seçti. Eşsiz Giveth Garden, "GIVgarden" olarak adlandırılmıştır ve Gnosis Chain'de (eski adıyla xDai Network) konuşlandırılmıştır. GIVgarden'da yönetişim için kullanılan ana araçlar [Kanaat Oylaması](/tr/whatisgiveth/covenant) ve Tao Oylamasıdır.
+Giveth, GIV token sahiplerinin DAO yönetmesine ve [misyon, vizyon ve değerleriyle](/tr/whatisgiveth/) uyumlu projelere fon tahsis etmesine izin vermek için [1hive](https://forum.1hive.org/t/welcome-to-1hive/7) tarafından geliştirilen Gardens DAO yönetişim platformunu seçti. Eşsiz Giveth Garden, "GIVgarden" olarak adlandırılmıştır ve Gnosis Chain'de (eski adıyla xDai Network) konuşlandırılmıştır. GIVgarden'da yönetişim için kullanılan ana araçlar [Kanaat Oylaması](/tr/whatisgiveth/covenant) ve Tao Oylamasıdır.
 
 GIVgarden, Giveth [Topluluk Sözleşmesi](/tr/whatisgiveth/covenant) zincir üstü ve zincir dışı davranış standartlarını belirleyen merkeziyetsiz bir sosyal sözleşme olarak kullanır.
 
