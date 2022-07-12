@@ -38,8 +38,8 @@ The launch of GIVeconomy with all the features described above is only the begin
 
 Keep reading to learn more about some of the raw, exciting and beautiful ideas that we intend to bring to fruition. If you want to have a hand in shaping the next generation of philanthropy, start to [explore GIVeconomy](https://giveth.io/) and [join our team](https://giveth.io/join)!
 
-### **GIVcuration**
-This will be a decentralized way to replace [Project Verification](https://docs.giveth.io/dapps/makeTraceableProject) for the GIVbacks program. Community members will be able to stake GIV (using Conviction Voting) on their favourite projects on Giveth. During GIVbacks rounds, the donors to the top voted projects will get the most GIV from GIVbacks! Using this system, the community decides which projects will give the most back to donors which in turn encourages donations to projects that align with the community's values.
+### **GIVpower**
+GIVpower will, over time, decentralize GIVbacks. Community members will be able to allocate GIVpower to signal support for the favourite projects on Giveth and donors who give to community favoured-projects will get proportionally more GIVbacks. GIVpower users will earn rewards on the GIV they stake & lock for GIVpower, and the rate of reward will be higher if they choose to stake & lock their tokens for a longer period of time.
 
 ### **GIVmatching**
 Giveth plans to implement donation matching to projects on Giveth using "Causes". Causes will be for-good initiative categories such as environmental regeneration, digital public goods, social causes, etc. Donors will be able to donate to Causes, and these pools of funds will then be distributed to community-favoured projects (as donation matching) using [quadratic funding](https://wtfisqf.com/?grant=&grant=&grant=&grant=&match=1000).
