@@ -4,25 +4,25 @@ title: Cryptocurrency donations
 slug: dapps/crypto
 ---
 
-## What is and why Cryptocurrency?
-Simply, it is a secure form of digital currency that can be transferred anywhere in the world peer-to-peer, similar to email (where the email's server is replaced with a decentralized network).
+## ¿Qué es y por qué las criptomonedas?
+Simplemente, es una forma segura de moneda digital que se puede transferir a cualquier parte del mundo de igual a igual, similar al correo electrónico (donde el servidor de correo electrónico se reemplaza con una red descentralizada).
 
-More technically, Bitcoin is a type of digital currency that uses cryptography and open source software to regulate the generation of units of currency and verify the transfer of funds, operating independently of a central bank. There is a distinction between Bitcoin, a digital currency, and blockchain the technology, which has many additional potential use cases beyond the currency.
+Más técnicamente, Bitcoin es un tipo de moneda digital que utiliza criptografía y software de código abierto para regular la generación de unidades monetarias y verificar la transferencia de fondos, operando independientemente de un banco central. Existe una distinción entre Bitcoin, una moneda digital, y la tecnología blockchain, que tiene muchos casos de uso potenciales adicionales más allá de la moneda.
 
-Using cryptocurrency for sending and receiving donations has many advantages against using 'fiat' or regular currency. With the implementation of the blockchain, crypto transactions are recorded and forever stored on the digital ledger or 'blockchain' making currency donations and distribution transparent.
+El uso de criptomonedas para enviar y recibir donaciones tiene muchas ventajas frente al uso de moneda "Fiat" o normal. Con la implementación de la cadena de bloques, las transacciones criptográficas se registran y almacenan para siempre en el libro de contabilidad digital o 'cadena de bloques', lo que hace que las donaciones y la distribución de divisas sean transparentes.
 
-## What is a blockchain?
-A blockchain is a decentralized online ledger that is distributed across a network recording all the transactions being made on it. This ledger is continuously updated and distributed. Since there are many copies being updated and verified synchronously, it prevents one bad actor from manipulating the data. In other cryptocurrencies this same technology is being taken to a whole other level.
+## ¿Qué es una cadena de bloques?
+Una cadena de bloques es un libro de contabilidad en línea descentralizado que se distribuye a través de una red que registra todas las transacciones que se realizan en él. Este libro mayor se actualiza y distribuye continuamente. Dado que hay muchas copias que se actualizan y verifican sincrónicamente, evita que un mal actor manipule los datos. En otras criptomonedas, esta misma tecnología se está llevando a otro nivel.
 
 
-## What is and why choose Ethereum?
- It's the world's programmable blockchain. Ethereum builds on Bitcoin's innovation, with some big differences. Both let you use digital money without payment providers or banks. But Ethereum is programmable, so you can also use it for lots of different digital assets – even Bitcoin! This also means Ethereum is for more than payments. It's a marketplace of financial services, games and apps that can't steal your data or censor you.
+## ¿Qué es y por qué elegir Ethereum?
+ Es la cadena de bloques programable del mundo. Ethereum se basa en la innovación de Bitcoin, con algunas grandes diferencias. Ambos te permiten usar dinero digital sin proveedores de pago ni bancos. Pero Ethereum es programable, por lo que también puede usarlo para muchos activos digitales diferentes, ¡incluso Bitcoin! Esto también significa que Ethereum es para más que pagos. Es un mercado de servicios financieros, juegos y aplicaciones que no pueden robar tus datos ni censurarte.
 
- On Giveth we use these programmable ethereum blocks to create applications that facilitate donations. In the near future we will be using this same technology to potentially mint our own tokens and precipitate the GIVing economy.
+ En Giveth usamos estos bloques de ethereum programables para crear aplicaciones que facilitan las donaciones. En un futuro cercano, utilizaremos esta misma tecnología para potencialmente acuñar nuestros propios tokens y precipitar la economía GIVing.
 
-## How does it work in the context of the application?
-One of these superpowers is to create dApps or Decentralized Applications, these are applications programmed onto the blockchain. dApps can be programmed to work as smart contracts receiving, holding and distributing currency as per the terms written into the contract. This feature removes the need for banks and/or lawyers, cutting through red tape and allowing project creators more autonomy.
+## ¿Cómo funciona en el contexto de la aplicación?
+Uno de estos superpoderes es crear dApps o Aplicaciones Descentralizadas, estas son aplicaciones programadas en la cadena de bloques. Las dApps se pueden programar para que funcionen como contratos inteligentes que reciben, mantienen y distribuyen moneda según los términos escritos en el contrato. Esta característica elimina la necesidad de bancos y/o abogados, eliminando la burocracia y permitiendo a los creadores de proyectos una mayor autonomía.
 
-When you create or donate to a project, you are interacting with the Giveth dApp. Donations sent or received are recorded on the blockchain and can be viewed by anyone, anytime and anywhere. As donations are faciliated by the Giveth dApp's code, transactions thus can be done straight A -> B without anyone else needing to be involved.
+Cuando creas o donas a un proyecto, estás interactuando con Giveth dApp. Las donaciones enviadas o recibidas se registran en la cadena de bloques y cualquiera puede verlas, en cualquier momento y en cualquier lugar. Como las donaciones son facilitadas por el código de Giveth dApp, las transacciones se pueden hacer directamente A -> B sin que nadie más tenga que estar involucrado.
 
-One of the other superpowers is the ability for developers to create tokens or 'coins' which can create alternative economies based on the functionality programmed onto the coin. Giveth is in the works of implementing its own version of a token which will amplify the potential of donations. ***More on this is in development!***
+Uno de los otros superpoderes es la capacidad de los desarrolladores para crear fichas o "monedas" que pueden crear economías alternativas basadas en la funcionalidad programada en la moneda. Giveth está trabajando para implementar su propia versión de un token que amplificará el potencial de las donaciones. *** ¡Más sobre esto está en desarrollo! ***

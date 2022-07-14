@@ -6,28 +6,28 @@ slug: dapps/torusonramp
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
 
-This guide will take you through the steps of donating your fiat currency using Torus. To do so, you'll use a third party payment provider to send your fiat to Torus, which will 'top-up' your Torus wallet with your chosen cryptocurrency. That cryptocurrency that was converted from fiat will then be donated to the project you've selected. There are fees associated with this conversion from Torus as well as the third party provider that you choose. We'll walk you through the steps, but depending on your native currency, the payment provider you use and the crypto you're converting to, things might look a bit different.
+Esta guía lo guiará a través de los pasos para donar tú moneda Fiat usando Torus.. Para hacerlo, usará un proveedor de pago externo para enviar tú dinero Fiat a Torus, que "recargará" su billetera Torus con la criptomoneda elegida. Esa criptomoneda Fiat que se convirtió se donará al proyecto que hayas seleccionado. Hay tarifas asociadas con esta conversión de Torus, así como del proveedor externo que elija. Te guiaremos paso a paso pero dependiendo de tú moneda nativa, el proveedor de pago que uses y la criptomoneda a la que se está convirtiendo, las cosas pueden verse un poco diferentes.
 
-Click "Donate" to the project, and choose your Torus wallet.
+Haz click en "Donar" al proyecto y escoja su billetera Torus.
 
 <img id="contentimg" alt='Donating to the Project' src={useBaseUrl('img/content/projectselect.png')} />
 
-A transaction pop-up window will then say *'Insufficient Funds'*. OK, let's fix that. At the bottom of that same pop-up window click `TOP UP`.
+Si una ventana emergente te dice *'Fondos insuficientes'*. Prueba recargando la página, presionando el botón `RECARGAR` en la parte inferior de la ventana emergente.
 <img alt='Top up Torus Wallet' src={useBaseUrl('img/content/torustopup.png')} />
 
-From there you'll get a list of third party payment providers; look through the fees and currencies they support, and choose the best match for you.
+Desde allí obtendrá una lista de proveedores de pago de terceros; revise las tarifas y las monedas que admiten, y elija la mejor opción para usted.
 
 <img id="contentimg" alt='Select Payment Provider' src={useBaseUrl('img/content/selectprovider.png')} />
 
-On the following screen enter the amount of fiat you would like to donate. Note that the estimate of fees will reflect here depending on the payment provider you select.
+En la siguiente pantalla ingrese la cantidad de Fiat que le gustaría donar. Tenga en cuenta que la estimación de las tarifas se reflejará aquí según el proveedor de pago que seleccione.
 
 <img id="contentimg" alt='Enter fiat amount to donate' src={useBaseUrl('img/content/torusramp.png')} />
 
-Next you'll be redirected to the website of your selected payment provider. Follow the prompts, which will be different depending on which provider you choose.
+A continuación, será redirigido al sitio web de su proveedor de pago seleccionado, siga las indicaciones que serán diferentes según el proveedor.
 
 An example from the Ramp Network:
 <img id="contentimg" alt='Ramp Network Example' src={useBaseUrl('img/content/paymentmethod.png')} />
 
- Once you've completed that, you'll be taken back to the Torus top-up window. You should see your funds in there. Take a second to confirm the amount to be donating; if it looks good then hit confirm.
+Una vez que hayas completado los pasos anteriores, volverás a la ventana de recarga de Torus. Deberías ver tus fondos allí. Tómate unos segundos para confirmar la cantidad a donar, si se ve bien, presiona confirmar.
 
-You can follow up to watch the transaction being confirmed on the block explorer by clicking `View transaction details`. From this point your donation should be done! Nice work!
+Puedes hacer un seguimiento para ver cómo se confirma la transacción en el explorador de bloques haciendo clic en `Ver detalles de la transacción`. ¡Desde este punto tú donación debería estar hecha! ¡Buen trabajo!

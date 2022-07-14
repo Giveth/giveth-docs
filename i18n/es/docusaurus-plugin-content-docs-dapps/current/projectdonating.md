@@ -4,17 +4,17 @@ title: How do I donate to a Project?
 slug: dapps/projectdonating 
 ---
 
-## Find a project that you like.
-Have a good look at the projects already created, read the descriptions, and do your homework! Once you found a project you would like to donate to, hit the `DONATE` button.
+## Encuentra un proyecto que te guste.
+¡Mira bien los proyectos ya creados, lee las descripciones y haz tu tarea! Una vez que hayas encontrado un proyecto al que te gustaría donar, presiona el botón `DONAR`.
 
-## Select how you want to donate your funds.
-Once you're at the donation page, you need to select if you want to make your contribution in crypto or fiat currency.
+## Seleccione cómo desea donar sus fondos.
+Una vez que esté en la página de donación, debe seleccionar si desea realizar su contribución en criptomonedas o en moneda fiat.
 
-#### Crypto Donations
-We accept ETH and a wide variety of ERC-20 tokens on both Mainnet and Gnosis Chain (formerly xDai Network). Choose the amount of cryptocurrency you would like to donate. Once you've entered the amount you can click on `DONATE`, at which point your wallet will prompt you to sign off on the transaction. If you would like to use a different wallet than the one you use to sign into your account, click the `use another wallet` option underneath the donate button.
+#### Criptodonaciones
+Aceptamos ETH y una amplia variedad de tokens ERC-20 tanto en Mainnet como en Gnosis Chain (anteriormente xDai Network). Elige la cantidad de criptomonedas que te gustaría donar. Una vez que hayas ingresado la cantidad, puedes hacer clic en`DONAR`, momento en el cual tú billetera te pedirá que firmes la transacción. Si deseas usar una billetera diferente a la que usas para iniciar sesión en su cuenta, haz click en la opción `usar otra billetera` debajo del botón de donar.
 
-Once the transaction has been signed off and processed, then you've done it! Nice work! You'll be taken the confirmation page, and you can track the transaction details by following the link on the page.
+Una vez que la transacción haya sido firmada y procesada, ¡lo has hecho! ¡Buen trabajo! Accederás a la página de confirmación. Podrás realizar un seguimiento de los detalles de la transacción siguiendo el enlace de la página.
 
-**[Step by step instructions for donating via Metamask can be found here.](./donatingmetamask.md)**
+**[Las instrucciones paso a paso para donar a través de Metamask se pueden encontrar aquí.](./donatingmetamask.md)**
 
-**[If you'd like to make a donation in fiat currency follow this guide.](./torusonramp.md)**
+**[Si deseas hacer una donación en moneda Fiat sigue esta guía.](./torusonramp.md)**

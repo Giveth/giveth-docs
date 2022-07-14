@@ -1,30 +1,31 @@
 ---
 id: donatingmetamask
-title: Donating with Metamask
+title: Donando con Metamask
 slug: dapps/donatingmetamask
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
 
-We'll walk you through the process of making a crypto donation via Metamask here. If you do not have a Metamask wallet, well, then you should [head on over to the Metamask website, and learn how to get one!](https://metamask.zendesk.com/hc/en-us/articles/360015489531-Getting-Started-With-MetaMask)
+Lo guiaremos a través del proceso de hacer una donación criptográfica a través de Metamask aquí. Si no tiene una billetera Metamask, entonces debería [diríjase al sitio web de Metamask y aprenda cómo obtener una](https://metamask.zendesk.com/hc/en-us/articles/360015489531-PrimerospasosconMetaMask)
 
-### How to Make a Donation
+### Como hacer una donacion
 
- Once you have chosen a project and set an amount to donate, go ahead and click the `Donate` button. This should bring up a pop-up window from Metamask to confirm the transaction details.
+  Una vez que haya elegido un proyecto y establecido una cantidad para donar, continúe y haga clic en el botón `Donar`. Esto debería abrir una ventana emergente de Metamask para confirmar los detalles de la transacción.
 
  <img id="contentimg" alt='Confirm Metamask transaction' src={useBaseUrl('img/content/metamaskconfirmTransaction.png')} />
 
- Verify that the amount on the Metamask pop-up corresponds with the amount you specified on the project page. Take note that the gas fee from the Ethereum network is added on top of the donation amount. Make sure you have enough Ethereum in your wallet to cover the gas fees.
+ Verifique que la cantidad en la ventana emergente de Metamask se corresponda con la cantidad que especificó en la página del proyecto. Tenga en cuenta que la tarifa de gas de la red Ethereum se agrega al monto de la donación. Asegúrese de tener suficiente Ethereum en su billetera para cubrir las tarifas del gas.
 
- If it looks good hit `CONFIRM`, and your donation transaction will start. You should see a pop-up that looks like this:
+  Si se ve bien, presione `CONFIRMAR` y comenzará su transacción de donación. Debería ver una ventana emergente similar a esta:
 
  <img  id="contentimg" alt='Transaction in Progress' src={useBaseUrl('img/content/metamaskTransactionprogress.png')} />
 
- You can check your transaction by following the link 'View on Etherscan', and you should also see the transaction pop up on your Metamask under the 'Activity' Tab. Note that here we used the Ropsten Test Network for demonstration. You should be using 'Ethereum Mainnet' to make your donation.
+ Puede verificar su transacción siguiendo el enlace 'Ver en Etherscan', y también debería ver la transacción emergente en su Metamask en la pestaña 'Actividad'. Tenga en cuenta que aquí usamos la red de prueba de Ropsten para la demostración. Debería usar 'Ethereum Mainnet' para hacer su donación.
 
- Once the transaction has been confirmed on the blockchain, you'll be taken to the page next page confirming your successful donation. Nice work!
+  Una vez que la transacción haya sido confirmada en la cadena de bloques, se le llevará a la página siguiente para confirmar su donación exitosa. ¡Buen trabajo!
 
  <img id="contentimg" alt='Successful Donation' src={useBaseUrl('img/content/metamaskSuccessfulDonation.png')} />
 
-### To Donate with xDai
-If you're tired of paying outrageous gas fees on Mainnet Giveth supports donations on the Gnosis Chain (formerly xDai Network). To get Metamask [setup on the Gnosis Chain go here](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup). Log in with Gnosis Chain via MetaMask on Giveth.io. You can follow the same process for making donations on Gnosis Chain as on Mainnet.
+### Para donar con xDai
+
+Si está cansado de pagar tarifas de gas escandalosas en Mainnet, Giveth apoya las donaciones en Gnosis Chain (anteriormente xDai Network). Para obtener Metamask [configuración en Gnosis Chain, vaya aquí](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup). Inicie sesión con Gnosis Chain a través de MetaMask en Giveth.io. Puede seguir el mismo proceso para hacer donaciones en Gnosis Chain que en Mainnet.

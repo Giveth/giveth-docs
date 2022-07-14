@@ -6,60 +6,61 @@ slug: dapps/torusUserGuide
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
 
-The Torus wallet is a great option for newcomers to crypto. Using web3 technology it allows you to create an Ethereum wallet that's linked to your identity via your chosen social media platform. With the Torus wallet, you can send and receive cryptocurrencies and buy crypto with fiat currency using the Torus "wallet top-up" option.
-
+La billetera Torus es una gran opción para los que están empezando en las crypto. Usando tecnología web3 que te permite crearte una billetera Ethereum que está vinculada a tú identidad por alguna de tus redes sociales. con la billetera Torus, tú puedes enviar, recibir y comprar criptomonedas con moneda fiat usando la opción "Recargar" en la billetera Torus.
 
 ## Sign-In
-Using the Giveth.io Application, it's very easy to get started. On the homepage click `sign-in` and you will be a given a choice of which platform you want to use to confirm your identity (e.g., Gmail, Twitter, Discord, Facebook, etc.). After choosing your platform, approve the "Permission" pop-up, and that's it! Torus automatically generates an Ethereum wallet address for you that you can view by selecting the `My Wallet` option from the drop down menu in the top right of the Giveth.io homepage.
+Usando la aplicación Giveth.io es muy fácil comenzar. En la página de inicio haces click en `Registrarse` y tendrás la opción de registrarte por medio de alguna de tus redes sociales (Ej., Gmail, Twitter, Discord, Facebook, etc.). Despues de seleccionar tu plataforma debes aprovar los permisos que salen en la ventana emergente y listo! Torus automaticamente genera una dirección de billetera Ethereum para ti, que la puedes ver haciendo click en la opción `Mi Billetera`  en la parte superior derecha del menú desplegable de la página de inicio Giveth.io.
 
 <img alt="Finding your Torus Wallet" src={useBaseUrl('img/content/givethio/myWalletTorus.png')} />
 
 
-You can access your Torus wallet direcly from the [Torus website](https://app.tor.us/) by signing in using the same social media account that you used on Giveth.io. From the Torus page, you'll see lots of important information, including your wallet balance, your Ethereum address and other useful settings.
+Tú puedes tener acceso a tu propia billetera Torus [Torus website](https://app.tor.us/) iniciando sesión con la misma cuenta de tu red social que usaste en Giveth.io. Desde la página de Torus, podrás ver mucha información importante, incluido el saldo de tú billetera, tú dirección de Ethereum y otras configuraciones útiles.
 
-*If you aren't sure what an Ethereum wallet or Ethereum address is, this is a good time to take 10 minutes and **learn about some basic fundamentals relating to Ethereum** and cryptocurrency in general. We recommend reading some of the great ethereum.org documentation, particularily on [wallets](https://ethereum.org/en/wallets/) and [What is Ethereum](https://ethereum.org/en/what-is-ethereum/).*
 
-## Managing Your Wallet
+*Si no estás seguro de lo que es una billetera Ethereum o una dirección Ethereum, es un buen momento para que tomes 10 minutos y  **aprender algunos conceptos básicos relacionados con Ethereum** y las criptomonedas en general. Recomendamos leer parte de la excelente documentación de Ethereum.org, particularmente en [Billeteras](https://ethereum.org/en/wallets/) y [Qué es Ethereum](https://ethereum.org/en/what-is-ethereum/).*
 
-From the [Torus page](https://app.tor.us/) you can check your wallet balance across a wide range of different Ethereum networks. You can also see your public address, and copy it to your clipboard in the top right area of the page.
+## Administrar tu Billetera
+
+Desde la [Página de Torus](https://app.tor.us/) puedes verificar el saldo de tú billetera en una amplia gama de diferentes redes Ethereum. También puede ver tú dirección pública y copiarla en el portapapeles ubicado en el área superior derecha de la página.
 
 <img alt="Torus Account Homepage" src={useBaseUrl('img/content/givethio/torusAccountpage.png')} />
 
-Presently, Giveth projects can receive donations either on Gnosis Chain (formerly xDai Network) or Mainnet. By default, Torus will show you your Mainnet wallet balance. If you received donations on Gnosis Chain you can check your balance by going to `Settings` and  selecting `Gnosis Chain` from the `Network` drop down menu. If you navigate back to `Home`, you should see your xDai wallet balance.
+Actualmente, los proyectos Giveth pueden recibir donaciones en Gnosis Chain (anteriormente xDai Network) o Mainnet. Por defecto Torus te mostrará el saldo de tú billetera Mainnet. Si recibió donaciones en Gnosis Chain, puedes verificar tú saldo yendo a 'Configuración' y seleccionando 'Gnosis Chain' en el menú desplegable 'Red'. Si vuelves a "Inicio", deberías ver el saldo de tú monedero xDai.
 
-### Finding your Tokens
-If you received a donation to your project but it doesn't show up in your Torus wallet, you likely have to specify which token Torus should look for. This is done by adding the token address. Check your project's donations page on Giveth.io to see in which token(s) you've received donations.
+### Encontrar tus Tokens
+Si recibiste una donación para tú proyecto pero no aparece en la billetera Torus, es probable que debas especificar qué token deba buscar Torus. Esto se hace agregando la dirección del token. Consulte la página de donaciones de tú proyecto en Giveth.io para ver en qué fichas ha recibido donaciones.
 
 <img alt="Checking your Project Donations" src={useBaseUrl('img/content/givethio/projectDonations.png')} />
 
-You can look up the token on several different crypto analytics sites, [CoinGecko](https://www.coingecko.com/en) or [CoinMarketCap](https://coinmarketcap.com/) are reputable sites. Search for your token by its name or ticker symbol, then copy the "Contract Address" from the token's information page. Here is an example for UNI:
+Puedes mirar el token en varios sitios de análisis criptográfico, [CoinGecko](https://www.coingecko.com/en) or [CoinMarketCap](https://coinmarketcap.com/) son sitios de confianza. Puedes buscar el token de preferencia por su nombre o símbolo de cotización, luego copie la dirección del contrato desde la página de información, aquí un ejemplo para UNI.
 
 
 <img alt="CoinGecko Contract Address" src={useBaseUrl('img/content/givethio/tokenAddresscoingecko.png')} />
 
 
 
-Paste the string of characters into the `Add Token` pop-up window from your Torus account. Clicking `Next` should auto-fill the rest of the information. Your token should now show up, and you can view and manage it from you wallet, just like Ethereum.
+Copie la cadena de caracteres dentro de la ventana emergente `Añadir Token` desde su cuenta de Torus. Al hacer clic en `Siguiente` debería completarse automáticamente el resto de la información. Su token ahora debería aparecer, poder verlo y administrarlo desde su billetera, al igual que Ethereum.
+
 
 <img alt="Adding Tokens in Torus" height="500"  width="auto" class='center' src={useBaseUrl('img/content/givethio/addTokenTorus.png')} />
 
-### More Functions
-If you want to buy crypto using fiat currency, you can do so using the "Top Up" option. We have written a small guide to help you out with the fiat [on-ramping process](./torusonramp.md).
+### Más Funciones
+Si desea comprar criptomonedas con moneda fiat, puede hacerlo mediante la opción "Recargar". Hemos escrito una pequeña guía para ayudarlo con el [proceso de aceleración](./torusonramp.md).
 
-To send crypto you own to another wallet use `Transfer`. You will need Ethereum (ETH) in your wallet to be able to "pay the gas" necessary for your transaction. More on gas [here](https://ethereum.org/en/developers/docs/gas/).
+Para enviar criptomonedas de tú propiedad a otra billetera, usa `Transferir`. Necesitarás Ethereum (ETH) en la billetera para poder "pagar el gas" necesario para su transacción. Más sobre gas[Aquí](https://ethereum.org/en/developers/docs/gas/).
 
 
 
-### Interacting with the GIVeconomy
+### Interactuando con GIVeconomy
 
-To interact with the [GIVeconomy](https://giv.giveth.io/) and other dApps using the Torus wallet, you will have to connect your wallet. To connect, click the `Connect Wallet` icon in the upper right corner of the site, then select Torus and verify. The Torus wallet allows users to sign in with accounts from many different web services, so be sure to sign in with the same account you used to set up the wallet.
+Para interactuar con [GIVeconomy](https://giv.giveth.io/) y otras dApps usando la billetera Torus , deberás conectar tú billetera. Para conectarla, haz click en `Conectar Billetera` este ícono está ubicado en la parte superior derecha del sitio, luego selecciona Torus y verifica. La billetera Torus permite a los usuarios iniciar sesión con cuentas de muchos servicios web diferentes, así que asegúrese de iniciar sesión con la misma cuenta que utilizó para configurar la billetera.
 
 <img alt="Signing in with Torus on the GIVeconomy" width="75%" height="auto" class='center' src={useBaseUrl('img/content/giveconomyTorusConnect.png')} />
 
-If you are using the Brave browser, you will need to turn off Brave’s Shield feature. To do this, click the Brave logo to the right of the search bar, then toggle the Shield to off.
+Si estás utilizando el navegador Brave, deberás desactivar la función Brave's Shield. Para hacer esto, haz clic en el logotipo de Brave a la derecha de la barra de búsqueda, luego desactiva el escudo.
 
 <img alt="Turning shields off with Brave" class='center'  width="50%" height="auto" src={useBaseUrl("img/content/giveconomyShieldsDown.png")} />
 
 
-### Other Wallets
-As mentioned, the Torus wallet is great for beginners. Using familiar social media platforms for managing your identity is a great way to get started. However, if you decide to get serious about crypto, there is a vast array of other wallets out there. Some wallets are easier to integrate with other chains, offer more privacy or allow for more advanced interactions. Some wallets exist as web3 extensions like Torus, others are a physical device, like a hardware wallet that you need to connect to your computer to access and manage your crypto. If you decide to go wallet shopping, you can find a list of the most popular ones [here](https://ethereum.org/en/wallets/find-wallet/).
+### Otras Billeteras
+Como se mencionó, la billetera Torus es ideal para principiantes. El uso de plataformas de redes sociales familiares para administrar su identidad es una excelente manera de comenzar. Sin embargo, si decides tomarte en serio las criptomonedas, existe una gran variedad de otros monederos. Algunas billeteras son más fáciles de integrar con otras cadenas, ofrecen más privacidad o permiten interacciones más avanzadas. Algunas billeteras existen como extensiones web3 como Torus, otras son un dispositivo físico, como una billetera de hardware que necesita conectar a su computadora para acceder y administrar el cryto. En fin, si decides ir a por una billetera, puedes encontrar una lista de las más populares [Aquí](https://ethereum.org/en/wallets/find-wallet/).
