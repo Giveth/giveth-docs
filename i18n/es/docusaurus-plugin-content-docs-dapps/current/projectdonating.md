@@ -1,6 +1,6 @@
 ---
 id: projectdonating
-title: How do I donate to a Project?
+title: ¿Cómo dono a un proyecto?
 slug: dapps/projectdonating 
 ---
 

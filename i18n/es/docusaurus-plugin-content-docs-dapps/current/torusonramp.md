@@ -1,12 +1,12 @@
 ---
 id: torusonramp
-title: Donating with Fiat via the Torus on-ramp
+title: Donar con Fiat atravez de Torus on-ramp
 slug: dapps/torusonramp
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
 
-Esta guía lo guiará a través de los pasos para donar tú moneda Fiat usando Torus.. Para hacerlo, usará un proveedor de pago externo para enviar tú dinero Fiat a Torus, que "recargará" su billetera Torus con la criptomoneda elegida. Esa criptomoneda Fiat que se convirtió se donará al proyecto que hayas seleccionado. Hay tarifas asociadas con esta conversión de Torus, así como del proveedor externo que elija. Te guiaremos paso a paso pero dependiendo de tú moneda nativa, el proveedor de pago que uses y la criptomoneda a la que se está convirtiendo, las cosas pueden verse un poco diferentes.
+Esta guía lo llevara a través de los pasos para donar tú moneda Fiat usando Torus.. Para hacerlo, usará un proveedor de pago externo para enviar tú dinero Fiat a Torus, que "recargará" su billetera Torus con la criptomoneda elegida. Esa criptomoneda Fiat que se convirtió se donará al proyecto que hayas seleccionado. Hay tarifas asociadas con esta conversión de Torus, así como del proveedor externo que elija. Te guiaremos paso a paso pero dependiendo de tú moneda nativa, el proveedor de pago que uses y la criptomoneda a la que se está convirtiendo, las cosas pueden verse un poco diferentes.
 
 Haz click en "Donar" al proyecto y escoja su billetera Torus.
 

@@ -1,6 +1,6 @@
 ---
 id: faq
-title: Frequently Asked Questions
+title: Preguntas frecuentes
 author: Giveth
 slug: dapps/faq
 ---

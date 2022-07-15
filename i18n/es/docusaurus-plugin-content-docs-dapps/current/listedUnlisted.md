@@ -1,6 +1,6 @@
 ---
 id: listedUnlisted
-title: Project Quality Assurance Guide
+title: Guía para asegurar la calidad del proyecto
 slug: dapps/listedUnlisted
 ---
 

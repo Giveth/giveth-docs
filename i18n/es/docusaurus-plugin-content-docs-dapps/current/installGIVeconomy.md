@@ -1,6 +1,6 @@
 ---
 id: installGIVeconomy
-title: Installing the GIVeconomy Front-End
+title: Instalando el Front-end de GIVeconomy
 slug: dapps/installGIVeconomy
 ---
 

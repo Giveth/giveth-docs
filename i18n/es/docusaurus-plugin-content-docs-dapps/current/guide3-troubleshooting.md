@@ -1,6 +1,6 @@
 ---
 id: troubleshooting
-title: Troubleshooting
+title: Solución de problemas
 slug: dapps/troubleshooting
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'

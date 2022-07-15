@@ -1,6 +1,6 @@
 ---
 id: torusUserGuide
-title: Using the Torus Wallet
+title: Usando la billetera Torus
 slug: dapps/torusUserGuide
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
