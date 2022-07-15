@@ -7,7 +7,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from '../../../../src/css/custom.css'
 
 
-GIVdrop está diseñado para impulsar la economía GIV al distribuir tokens GIV a la semilla confiable de Giveth: criptofilántropos, usuarios y constructores de Giveth, miembros de Blockchain4Good DAO y otros socios del ecosistema. Para verificar su elegibilidad para GIVdrop o para reclamar [haga clic aquí](https://giv.giveth.io/claim). Para saber cómo reclamar su GIVdrop, consulte nuestro tutorial a continuación.
+GIVdrop está diseñado para impulsar la economía GIV al distribuir tokens GIV a la semilla confiable de Giveth: criptofilántropos, usuarios y constructores de Giveth, miembros de Blockchain4Good DAO y otros socios del ecosistema. Para verificar su elegibilidad para GIVdrop o para reclamar [haga clic aquí](https://giveth.io/claim). Para saber cómo reclamar su GIVdrop, consulte nuestro tutorial a continuación.
 
 Todas las direcciones tienen 5 años a partir del 24 de diciembre de 2021 para reclamar su GIVdrop. Después de eso, todos los tokens no reclamados se devolverán a Giveth DAO, aumentando aún más la tesorería de DAO.
 
@@ -50,7 +50,7 @@ El grupo de héroes Blockchain4Good DAO incluye una lista de más de 2500 direcc
 :::info
 Hemos hecho todo lo posible para incluir todas las direcciones válidas en este GIVdrop hecho a nuestra discreción. No todas las personas que alguna vez han interactuaron con Giveth son elegibles. Si no recibió GIV, es porque no era elegible o no se puede acceder a la billetera que almacena la dirección que era elegible. No revisaremos transacciones pasadas ni consideraremos otras direcciones para su inclusión. apreciamos su comprensión.
 
-Si no recibió el GIVdrop, consulte nuestro [programa GIVbacks](https://giv.giveth.io/givbacks) para averiguar cómo obtener GIV.
+Si no recibió el GIVdrop, consulte nuestro [programa GIVbacks](https://giveth.io/givbacks) para averiguar cómo obtener GIV.
 :::
 
 **NOTA:** Si recibió el GIVdrop pero ya no tiene acceso a la dirección elegible, podemos redirigir la asignación a otra dirección ETH. Sin embargo, debe demostrar quién es usted y que tiene tokens asignados. Si este es usted, comuníquese con nuestro equipo para obtener ayuda. Para tu información, si nadie en el equipo de Giveth te conoce, probablemente no funcionará.
@@ -59,7 +59,7 @@ Si no recibió el GIVdrop, consulte nuestro [programa GIVbacks](https://giv.give
 
 El GIVdrop se lanzó el 24 de diciembre de 2021. En esta guía, lo explicaremos cómo reclamar su GIV en la página de reclamos de GIVdrop.
 
-Lo primero es dirigirse a [la página de reclamos de GIVdrop](https://giv.giveth.io/claim); debes llegar a esta pantalla:
+Lo primero es dirigirse a [la página de reclamos de GIVdrop](https://giveth.io/claim); debes llegar a esta pantalla:
 
 <img alt='check GIVdrop eligibility' src={useBaseUrl('/img/content/giveconomy/claimConnect1.png')} />
 
@@ -95,7 +95,7 @@ Además de GIVdrop, también recibirá un GIVstream que transmitirá continuamen
 
 Haga clic en `RECOLECTAR` para generar la transacción y reclamar su GIVdrop a su billetera conectada.
 
-Ahora está equipado y listo para saltar a la economía GIV: descubra todas las excelentes formas en que puede contribuir a una [economía próspera de generosidad](https://giv.giveth.io/).
+Ahora está equipado y listo para saltar a la economía GIV: descubra todas las excelentes formas en que puede contribuir a una [economía próspera de generosidad](https://giveth.io/giveconomy).
 
 
 ---
@@ -117,11 +117,12 @@ Por último, y lo más importante, haga clic en `Explora la GIVeconomy` para acc
 Lamentablemente, la dirección proporcionada no recibió un GIVdrop. Verifique la dirección de billetera que proporcionó o que se haya conectado con la dirección de billetera correcta.
 <img alt='you missed the GIVdrop' src={useBaseUrl('/img/content/giveconomy/claimMissed1.png')} />
 
-Si te lo perdiste, no te preocupes; ¡Todavía hay otras formas de obtener GIV! Puedes seguir el enlace en la página [GIVfarm](https://giv.giveth.io/givfarm) para llevarlo a tu intercambio descentralizado amigable local (en Mainnet o Gnosis Chain [anteriormente xDai Network]) para cambiar tu criptomoneda por algo de ese dulce, dulce GIV.
+Si te lo perdiste, no te preocupes; ¡Todavía hay otras formas de obtener GIV! Puedes seguir el enlace en la página [GIVfarm](https://giveth.io/givfarm) para llevarlo a tu intercambio descentralizado amigable local (en Mainnet o Gnosis Chain [anteriormente xDai Network]) para cambiar tu criptomoneda por algo de ese dulce, dulce GIV.
 
 <img alt='buy tokens link from GIVfarm' src={useBaseUrl('/img/content/giveconomy/claimMissed2.png')} />
 
 O si quieres ser un verdadero GIVhero, participa en el programa GIVbacks. Puede calificar para ganar GIV al donar a proyectos verificados en [giveth.io](https://giveth.io/projects/). Obtenga más información sobre el [programa GIVbacks aquí](./givbacks).
+
 ---
 
 ### Si te quedas atascado en el reclamo de GIVdrop:

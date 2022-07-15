@@ -8,7 +8,7 @@ import TabItem from '@theme/TabItem';
 import styles from '../../../../src/css/custom.css';
 
 
-Esta es una guía de prueba para usuarios exhaustiva de DApp GIVeconomy. Las pruebas se pueden realizar en el servidor de prueba, que lo puedes encontrar en -> https://staging.giv.giveth.io/.
+Esta es una guía de prueba para usuarios exhaustiva de DApp GIVeconomy. Las pruebas se pueden realizar en el servidor de prueba, que lo puedes encontrar en -> https://staging.giveth.io/.
 
 
 ## Requisitos

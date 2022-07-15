@@ -78,7 +78,7 @@ GIVeconomy implementa una característica única en su grupo de participación G
 
 
 
-Es posible que se lancen más rondas después de este período que podrían contener nuevos grupos y cambios en la distribución. Todas las recompensas de GIVfarm se verán afectadas por GIVstream. Lea la [documentación de GIVstream](./givstream) para obtener más información.
+Es posible que se lancen más rondas después de este período que podrían contener nuevos grupos y cambios en la distribución. Todas las recompensas de GIVfarm se verán afectadas por GIVstream. Lea la [documentación de GIVstream](/es/giveconomy/givstream) para obtener más información.
 
 
 :::info

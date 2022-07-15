@@ -4,7 +4,7 @@ title: Instalando el Front-end de GIVeconomy
 slug: dapps/installGIVeconomy
 ---
 
-Puedes encontrar el repositorio del front-end contiene el [GIVeconomy](https://giv.giveth.io) en GIThub https://github.com/Giveth/liquidity-mining-dapp.
+Puedes encontrar el repositorio del front-end contiene el [GIVeconomy](https://giveth.io) en GIThub https://github.com/Giveth/liquidity-mining-dapp.
 
 Esto es [Next.js](https://nextjs.org/) un proyecto iniciado con [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ## Pre-Requisitos
