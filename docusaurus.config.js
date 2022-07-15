@@ -98,8 +98,8 @@ module.exports = {
           position: 'left'
         },
         {
-          to: 'newsletter',
-          label: 'Newsletter',
+          href: 'http://news.giveth.io/',
+          label: 'News',
           position: 'left'
         },
         {
@@ -207,16 +207,6 @@ module.exports = {
         showLastUpdateTime: true
       }
     ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'newsletter',
-        routeBasePath: 'newsletter',
-        sidebarPath: require.resolve('./sidebarNewsletter.js'),
-
-        path: 'newsletter'
-      }
-    ]
     // [
     //   '@docusaurus/plugin-content-docs',
     //

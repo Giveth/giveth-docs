@@ -52,11 +52,9 @@ Lauren
 
 Suga
 
-Next Graviton Training: Begins 2nd week of April 2022
-
 👉🏼 DM @Juan Carlos Bell Llinás if you are interested in joining.
 
-The training is offered 2 times a year with the intention to form Gravitons - the team of individuals equipped with knowledge and social tooling to address and mediate emerging conflicts or any uncomfortable situations in the best way possible.
+The training is offered twice or more per year with the intention of forming Gravitons: a team of individuals equipped with knowledge and social tooling to address and mediate emerging conflicts or any uncomfortable situations in the best way possible.
 
 
 ### Main Actions
