@@ -1,6 +1,6 @@
 ---
 id: regenFarmContracts
-title: Regen Farm Smart Contract Guide
+title: Guía de contratos inteligentes de Regen Farm
 slug: dapps/regenFarmContracts
 ---
 
@@ -16,7 +16,7 @@ Cada instancia de **Stream** se implementa con estos parámetros de configuraci�
 * **Total Tokens:** Cantidad total de tokens que se distribuirán durante el período de transmisión
 * **Start Time:** La marca de tiempo en que comienza la transmisión
 * **Duration:** duración total del stream. Al final del stream , se libera el 100% de los tokens y los destinatarios pueden reclamarlos.
-* **Cliff Period:** TLa duración de un período inicial después del inicio del Stream. Durante este período, solo se puede reclamar el porcentaje inicial del Stream y no más.
+* **Cliff Period:** La duración de un período inicial después del inicio del Stream. Durante este período, solo se puede reclamar el porcentaje inicial del Stream y no más.
 * **Initial Percentage:** El porcentaje de recompensas inmediatamente reclamables durante el *Cliff Period*
 
 **TokenDistro** es el contrato inteligente que ha implementado la función de Streaming. Cualquier contrato inteligente elegible o usuario elegible puede llamar al método `allocate` en **TokenDistro** para agregar al saldo del destinatario de su stream.
@@ -65,6 +65,7 @@ Cada instancia de **UnipoolTokenDistro** se implementa con estos parámetros de 
 La implementación de un stream con farms y un airdrop es complicada y sería propenso a errores si se hiciera manualmente. Por lo tanto, [giv-token-contracts](https://github.com/Giveth/giv-token-contracts) tiene scripts para hacerlo más fácil. La mayoría de estos scripts están diseñados para casos de uso de GIVeconomy.
 
 Sin embargo, un script está listo para que los DAO implementen su propio stream(tokenDistro) y programas de farming(Unipools). El script se puede encontrar en la ruta `deployments/regenFarms/1_regenFarm.ts`. El script lee la configuración de implementación del archivo `deployments/regenFarms/config.ts`. El formato de configuración en `config.ts` es el siguiente:
+
 ```
 const config: IRegenConfig = {
     alreadyDeployedTokenDistroAddress: "",
@@ -95,6 +96,7 @@ Para implementar a través de un script, se deben configurar estas variables de 
 
 
 El script se puede ejecutar con este comando.
+
 ```
 HARDHAT_NETWORK=<network e.g. xDAI, mainnet, kovan> ts-node deployments/regenFarms/1_regenFarm.ts
 ```

@@ -1,6 +1,6 @@
 ---
 id: importTorusMM
-title : Import Torus Private Key into Metamask
+title : Importar clave privada de Torus a Metamask
 slug: dapps/importTorusMM
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';

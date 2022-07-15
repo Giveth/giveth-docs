@@ -1,6 +1,6 @@
 ---
 id: crypto
-title: Cryptocurrency donations
+title: Donaciones con Criptomonedas
 slug: dapps/crypto
 ---
 

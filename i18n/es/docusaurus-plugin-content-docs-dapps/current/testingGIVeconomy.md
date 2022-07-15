@@ -1,6 +1,6 @@
 ---
 id: testingGIVeconomy
-title: GIVeconomy Testing Guidelines
+title: Guía de prueba de GIVeconomy
 slug: dapps/testingGIVeconomy
 ---
 import Tabs from '@theme/Tabs';

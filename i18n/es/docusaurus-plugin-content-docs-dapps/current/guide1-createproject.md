@@ -1,6 +1,6 @@
 ---
 id: createproject
-title: Create a project
+title: Creando un Proyecto
 slug: dapps/createproject
 ---
 

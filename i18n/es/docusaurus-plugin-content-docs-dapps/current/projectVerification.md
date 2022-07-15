@@ -1,6 +1,6 @@
 ---
 id: projectVerification
-title: Project Verification Process and Guidelines
+title: Proceso y pautas para la verificación de proyectos
 slug: dapps/projectVerification
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
