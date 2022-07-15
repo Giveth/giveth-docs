@@ -4,26 +4,26 @@ title: Create a project
 slug: dapps/createproject
 ---
 
-## Contemplate the vision for your project
-Think about the project that you want to create: do you have concrete goals? What are you asking for funding for? Can you explain your project and your intentions clearly?
+## Contempla la visión de tu proyecto
+Piensa en el proyecto que quieres crear: ¿tienes metas concretas? ¿Para qué estás pidiendo financiación? ¿Puedes explicar claramente tu proyecto y tus intenciones?
 
-## Creating your project
- Make sure you're signed in, and click the `create project` button. Follow the prompts, and input the requested content:
- - The name of your project.
+## Creando tu proyecto
+ Asegúrate de haber iniciado sesión y haz clic en el botón `crear proyecto`. Siga las indicaciones e ingrese el contenido solicitado:
+  - El nombre de tu proyecto.
 
- - The name of your organization or the administrator of your project (perhaps it is yourself).
+  - El nombre de tu organización o el administrador de tu proyecto (quizás seas tú mismo).
 
- - Describe what your project is.
+  - Describe cuál es tu proyecto.
 
- - Pick relevant categories to add 'keywords' to your project.
+  - Elija categorías relevantes para agregar 'palabras clave' a su proyecto.
 
- - State where in the world your project is taking place.
+  - Indique en qué parte del mundo se está llevando a cabo su proyecto.
 
- - Add an image to display with your project (or choose from one of the Giveth defaults).
+  - Agregue una imagen para mostrar con su proyecto (o elija uno de los valores predeterminados de Giveth).
 
- - Set an ETH address for donations to be directed to.
+  - Establezca una dirección ETH para que se dirijan las donaciones.
 
- On the final page double check all the info you entered; if it looks good then hit `START RAISING FUNDS`, and boom, your project is live! On the confirmation page you can choose to view your project and to share it on social media. Good Luck!
+  En la página final, verifique dos veces toda la información que ingresó; si se ve bien, presione `COMENZAR A RECAUDAR FONDOS`, y boom, ¡su proyecto está listo! En la página de confirmación, puede elegir ver su proyecto y compartirlo en las redes sociales. ¡Buena suerte!
 
-## Editing my project after it's been published
-If you made a mistake or need to change something on your project, it's super simple to go back and update it. If you're on the homepage, go to the top right, and click on your account, then select `My Projects`. Once you're there, you should see a page of your projects; hover over the project you wish to edit, then click the `EDIT` button. You should see your project's contents; you can scroll through and change the content you wish, and once you're done, just hit save!
+## Editar mi proyecto después de que haya sido publicado
+Si cometió un error o necesita cambiar algo en su proyecto, es muy simple regresar y actualizarlo. Si está en la página de inicio, vaya a la parte superior derecha y haga click en su cuenta, luego seleccione `Mis proyectos`. Una vez que esté allí, debería ver una página de sus proyectos; Pasa el cursor sobre el proyecto que deseas editar, luego haz clic en el botón `EDITAR`. Deberías ver el contenido de tu proyecto; puede desplazarse y cambiar el contenido que desee, y una vez que haya terminado, ¡simplemente presione guardar!

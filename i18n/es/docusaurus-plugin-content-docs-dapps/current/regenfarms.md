@@ -1,4 +1,3 @@
-
 ---
 id: regenFarmContracts
 title: Regen Farm Smart Contract Guide

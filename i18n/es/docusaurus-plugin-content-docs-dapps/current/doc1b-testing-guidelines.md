@@ -1,90 +1,90 @@
 ---
 id: testing-guidelines
-title: Giveth.io Testing Guidelines
+title: Guía de pruebas de Giveth.io
 slug: dapps/testing-guidelines
 ---
 
 
-This guide provides a framework for testing the [Giveth.io](https://giveth.io/) DApp.
+Esta guía proporciona un marco para probar la DApp [Giveth.io](https://giveth.io/).
 
-Each use case has a corresponding issue (linked in the titles below) in our GitHub. These issues will be closed after testing each sprint and reopened for the following one. If you wish to take on testing a use case, please assign yourself to the issue for that sprint.
+Cada caso de uso tiene un problema correspondiente (vinculado en los títulos a continuación) en nuestro GitHub. Estos problemas se cerrarán después de probar cada sprint y se reabrirán para el siguiente. Si desea probar un caso de uso, asígnese el problema para ese sprint.
 
-## Requirements
-* User testing should be done on https://next.giveth.io - **Our staging environment is deployed on both Ropsten (Mainnet) and Gnosis Chain** (formerly xDai Network).
-* Please use a modern browser. If you encounter a bug, please try the same thing with another browser. Please make an issue in any case, but tell us if the issue might be browser specific.
-* Use issues in [GitHub](https://github.com/Giveth/giveth-next/issues) for reports and feedback.
+## Requisitos
+* Las pruebas de usuario deben realizarse en https://next.giveth.io - **Nuestro entorno de prueba se implementa tanto en Ropsten (Mainnet) como en Gnosis Chain** (anteriormente xDai Network).
+* Utilice un navegador moderno. Si encuentra un error, intente lo mismo con otro navegador. Haga un problema en cualquier caso, pero díganos si el problema puede ser específico del navegador.
+* Si tiene problemas utilice [GitHub](https://github.com/Giveth/giveth-next/issues) para informes y comentarios.
 
-## Use Cases
+## Casos de uso
 
-The following actions are defined as core functionality. If one of these steps is buggy, that represents a critical error.
+Las siguientes acciones se definen como funcionalidad principal. Si uno de estos pasos tiene errores, eso representa un error crítico.
 
-###  [Project Creator](https://github.com/Giveth/giveth-2/issues/798)
+### [Creador del proyecto](https://github.com/Giveth/giveth-2/issues/798)
 
-This use case is partially automated to ensure functionality before changes are made. However, user testing is still required.
+Este caso de uso está parcialmente automatizado para garantizar la funcionalidad antes de que se realicen cambios. Sin embargo, aún se requieren pruebas de usuario.
 
-#### Create Project
-* Project details
-* Use rich text formats (bold, italics, quotes, headers, etc.), and ensure they render properly
-* Embed videos or images, and ensure they render properly
-* Location selection / global impact
-* Category select
-* Google maps selection
-* Check that projects are all listed in "my projects"
-* Check that projects show up on homepage*
-* Deactivate/reactivate project
+#### Crear proyecto
+* Detalles del proyecto
+* Use formatos de texto enriquecido (negrita, cursiva, comillas, encabezados, etc.) y asegúrese de que se representen correctamente
+* Incruste videos o imágenes y asegúrese de que se reproduzcan correctamente
+* Selección de ubicación / impacto global
+* Selección de categoría
+* Selección de mapas de Google
+* Comprueba que todos los proyectos estén listados en "mis proyectos"
+* Verifique que los proyectos aparezcan en la página de inicio *
+* Desactivar/reactivar proyecto
 
 
 :::info
-*Projects created on the DApp have an automatic "unlisted" Status, meaning they will not show up until their status is changed to "listed". Reach out to someone with the `Verification Team` role on the [Giveth Discord](https://discord.giveth.io) who can show you how to list your project on staging in order to continue testing.
+*Los proyectos creados en la DApp tienen un estado automático "no listado", lo que significa que no aparecerán hasta que su estado cambie a "listado". Comuníquese con alguien con el rol de 'Equipo de verificación' en [Giveth Discord](https://discord.giveth.io) que pueda mostrarle cómo incluir su proyecto en la etapa de preparación para continuar con las pruebas.
 :::
 
-#### Edit Project
-* Change photo
-* Use rich text formats (bold, italics, quotes, headers, etc.), and ensure they render properly
-* Embed videos or images, and ensure they render properly
-* Change text fields
-* Update donation address
-* Check that updates are applied
+#### Editar proyecto
+* Cambiar foto
+* Use formatos de texto enriquecido (negrita, cursiva, comillas, encabezados, etc.) y asegúrese de que se representen correctamente
+* Incruste videos o imágenes y asegúrese de que se reproduzcan correctamente
+* Cambiar campos de texto
+* Actualizar dirección de donación
+* Comprobar que se aplican las actualizaciones
 
-#### Edit Profile
-* Name
-* Email
-* Location
-* Website
+#### Editar perfil
+* Nombre
+* Correo electrónico
+* Ubicación
+* Sitio web
 
-#### Update Project
-* Add an update to your project
-* Use rich text formats (bold, italics, quotes, headers, etc.), and ensure they render properly
-* Embed videos or images, and ensure they render properly
-* Update is saved and displays properly on project page
+#### Proyecto de actualización
+* Agregue una actualización a su proyecto
+* Use formatos de texto enriquecido (negrita, cursiva, comillas, encabezados, etc.) y asegúrese de que se representen correctamente
+* Incruste videos o imágenes y asegúrese de que se reproduzcan correctamente
+* La actualización se guarda y se muestra correctamente en la página del proyecto
 
-### [Donor](https://github.com/Giveth/giveth-2/issues/799)
+### [Donante](https://github.com/Giveth/giveth-2/issues/799)
 
-This use case does not include any automated testing and must be fully user-tested.
+Este caso de uso no incluye ninguna prueba automatizada y debe ser completamente probado por el usuario.
 
-* Donate with different tokens: ETH and ERC-20 tokens on Ropsten (Mainnet) and xDAI, ERC-20 tokens on Gnosis Chain (formerly xDai Network)
-* Donate with alternate wallets (other than sign in)
-* Check that funds leave wallet
-* Check that funds received/tracked by project
-* View donations made (correct $ amount, correct currency type)
+* Done con diferentes tokens: tokens ETH y ERC-20 en Ropsten (Mainnet) y xDAI, tokens ERC-20 en Gnosis Chain (anteriormente xDai Network)
+* Done con billeteras alternativas (aparte de iniciar sesión)
+* Revisar que los fondos salgan de la billetera
+* Verifique que los fondos recibidos/seguidos por proyecto
+* Ver donaciones realizadas (cantidad correcta en $, tipo de moneda correcto)
 
 ### [General](https://github.com/Giveth/giveth-2/issues/800)
 
-This use case will be partially automated but requires user-testing, especially to ensure that all external links function correctly.
+Este caso de uso estará parcialmente automatizado, pero requiera pruebas de usuario, especialmente para garantizar que todos los enlaces externos funcionen correctamente.
 
-* "Liking" projects - successful and "heart count" updates
-* Header navbar buttons (`Home`, `Projects`, `GIVeconomy`, etc. ) are functional
-* "GIV currently in wallet" (on navbar) shows correctly (token address: `0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75`)
-* Project Badges such as `Verified`, `Traceable`, `New` display correctly
-* Footer links
-* Sharing via social
-* All links on homepage
-* Signup for newsletter
-* My wallet drop down menu is functional
-* Account name/address shows properly on navbar when logged in
-* Report a bug
-* Sign in/sign out
-* Sort/filter/search projects
-* Check that projects appear in project page (correct format, correct number)
-* Links inside https://giveth.io/join are functional
-* Content inside https://giveth.io/about displays correctly, including `Mission & Vision`, `History` and `Team` tabs
+* Proyectos "Me gusta": actualizaciones exitosas y "recuento de corazones"
+* Los botones de la barra de navegación del encabezado (`Inicio`, `Proyectos`, `GIVeconomy`, etc.) son funcionales
+* "GIV actualmente en la billetera" (en la barra de navegación) se muestra correctamente (dirección del token: `0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75`)
+* Las insignias del proyecto como `Verificado`, `Trazable`, `Nuevo` se muestran correctamente
+* Enlaces de pie de página
+* Compartir a través de las redes sociales
+* Todos los enlaces en la página de inicio
+* Suscríbete al boletín
+* El menú desplegable de mi billetera es funcional
+* El nombre/dirección de la cuenta se muestra correctamente en la barra de navegación cuando se inicia sesión
+* Reportar un error
+* Iniciar/cerrar sesión
+* Ordenar/filtrar/buscar proyectos
+* Comprobar que los proyectos aparecen en la página del proyecto (formato correcto, número correcto)
+* Los enlaces dentro de https://giveth.io/join son funcionales
+* El contenido dentro de https://giveth.io/about se muestra correctamente, incluidas las pestañas `Misión y visión`, `Historia` y `Equipo`

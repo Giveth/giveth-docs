@@ -4,65 +4,67 @@ title: Project Quality Assurance Guide
 slug: dapps/listedUnlisted
 ---
 
-In order to ensure the quality of projects on our DApp, we have implemented a processus for pre-screening projects before they are featured on the Giveth homepage. All new projects are initially **unlisted** until they are reviewed and approved by a Giveth Unicorn. Unlisted projects can still receive donations and can be accessed via the project's URL. However, only **listed** projects will appear on the Giveth homepage & projects page, and using our sort, filter and search functionalities.
+Para garantizar la calidad de los proyectos en nuestra DApp, hemos implementado un proceso de preselección de proyectos antes de que aparezcan en la página de inicio de Giveth. Inicialmente, todos los proyectos nuevos **no figuran en la lista** hasta que sean revisados y aprobados por un Giveth Unicorn. Los proyectos no listados aún pueden recibir donaciones y se puede acceder a ellos a través de la URL del proyecto. Sin embargo, solo los proyectos **enumerados** aparecerán en la página de inicio y en la página de proyectos de Giveth, y usarán nuestras funcionalidades de clasificación, filtro y búsqueda.
 
-Once reviewed and approved, listed projects will appear everywhere on the DApp! If a project does not meet the listed critera, the project owner will receive an email asking them to update the project. If the project owner updates their project, it will be reviewed again by our team.
+Una vez revisados y aprobados, los proyectos enumerados aparecerán en todas partes en la DApp. Si un proyecto no cumple con los criterios enumerados, el propietario del proyecto recibirá un correo electrónico pidiéndole que actualice el proyecto. Si el propietario del proyecto actualiza su proyecto, nuestro equipo lo revisará nuevamente.
 
-If a project is reviewed and found to violate our **Terms of Use**, it will be **cancelled** immediately, and the project owner will be notified via email.
+Si se revisa un proyecto y se determina que infringe nuestros **Términos de uso**, se **cancelará** de inmediato y se notificará al propietario del proyecto por correo electrónico.
 
-The following guide is intended to support project owners in creating high quality listings and to support Giveth Unicorns in the review process.
+La siguiente guía está destinada a ayudar a los propietarios de proyectos a crear listados de alta calidad y ayudar a Giveth Unicorns en el proceso de revisión.
 
 
-## Listed Projects
-In order for a project to be approved and listed on the DApp, it must have the following:
-- :heavy_check_mark: Clear project descriptions explaining who they are and what they want to do with the funds
-- :heavy_check_mark: A unique or custom banner photo
-- :heavy_check_mark: No violations of our [Covenant](../whatisgiveth/covenant/) and/or **Terms of Use**
-- :heavy_check_mark: (Optional) Embedded photos, videos or legitimate external links
-- :heavy_check_mark: (Optional) For open-source projects, a link to their repository
+## Proyectos listados
+Para que un proyecto sea aprobado y listado en la DApp, debe tener lo siguiente:
+- :heavy_check_mark: Una descripción clara de los proyectos, que explican quiénes son y qué quieren hacer con los fondos
+- :heavy_check_mark: Una foto o un banner personalizado
+- :heavy_check_mark: No violar o no respetar el [Pacto](../whatisgiveth/covenant/) o **Terminos de Uso**
+- :heavy_check_mark: (Opcional) Fotos incrustadas, videos o enlaces externos legítimos
+- :heavy_check_mark: (Opcional) Para proyectos de código abierto, un enlace a su repositorio
 
-### Examples of Projects that pass "Listed" criteria
+### Ejemplos de Proyectos que pasan el criterio "Listado"
 
-1. [Giveth](https://giveth.io/project/the-giveth-community-of-makers): Unique photo, clear description, external links
+1. [Giveth](https://giveth.io/project/the-giveth-community-of-makers): Foto única, descripción clara, enlaces externos
+
 ![](https://i.imgur.com/7BAVmIM.png)
 
-2. [The Commons Simulator](https://giveth.io/project/The-Commons-Simulator:-Level-Up): Unique photo, clear description, embedded video, external links
+2. [The Commons Simulator](https://giveth.io/project/The-Commons-Simulator:-Level-Up): Foto única, descripción clara, enlaces externos, link de videos.
+
 ![](https://i.imgur.com/rx64ueN.png)
 
-## Unlisted Projects
-A project is likely to remain unlisted due to the following:
-- :x: No project description
-- :x: Vague project description
-- :x: No unique or custom banner photo
+## Proyectos No Listados
+Es probable que un proyecto permanezca no listado debido a lo siguiente:
+- :x: No hay una descripción clara del proyecto
+- :x: Descripción vaga del proyecto
+- :x: No hay una foto única o banner personalizado
 
-However, in order to remain active, the unlisted project must still exhibit:
-- :heavy_check_mark: No violations of our [Covenant](../whatisgiveth/covenant/) and/or **Terms of Use**
+Sin embargo, para permanecer activo, el proyecto no listado aún debe exhibir:
+- :heavy_check_mark: No violar o no respetar el [Pacto](../whatisgiveth/covenant/) o **Terminos de Uso**
 
-### Examples of Projects that do not pass "Listed" criteria
+### Ejemplos de Proyectos que no pasan el criterio "Listado"
 
-1. danger dan defi: No description
+1. danger dan defi: No tiene descripción
 ![](https://i.imgur.com/ln7nrO2.png)
 
-2. Giving your hands to help: Strange/vague description: "We want to do favours all over Canada"
+2. Dando la mano para ayudar: Descripción extraña/vaga: "Queremos hacer favores en todo Canadá"
 ![](https://i.imgur.com/TV9lNqw.jpg)
 
 3. Pritesh
-   - Very minimalistic description: "We are helping poor Bangladeshi people after the crash. We are giving out rice and clothes to people around us."
-    - No clarity given in the details of what crash and the exact process for "giving rice and clothes"
+   - Descripción muy minimalista: "Estamos ayudando a los pobres de Bangladesh después del accidente. Estamos dando arroz y ropa a la gente que nos rodea".
+    - No hay claridad en los detalles del choque y el proceso exacto cuando se dará el proceso: "dar arroz y ropa"
 ![](https://i.imgur.com/e22OlGd.png)
 
-4. Cats
-   - Very minimalistic description: "We're collecting funds to give to the local cat shelter. We always need moar funding for cats."
-   - No website, no clear explanation of how they will use the funds to help cats
+4. Gatos
+   - Descripción muy minimalista: "Estamos recaudando fondos para el refugio de gatos de la localidad. Siempre necesitamos más fondos para los gatos"
+   - Sin sitio web, y sin una explicación clara de cómo usarán los fondos para ayudar a los gatos
 ![](https://i.imgur.com/P0fvJXE.png)
 
-## Cancelled Projects
+## Proyectos Cancelados
 
-Projects that are found to exhibit "unacceptable behaviour" and/or violate our [Covenant](../whatisgiveth/covenant) and/or **Terms of Use** will be cancelled immediately, and an email will be send to the project owner.
+Proyectos que muestran un "comportamiento inaceptable" y/o violan nuestros [Acuerdos](../whatisgiveth/covenant) o **Términos de Uso** serán cancelados inmediatamente, y se enviará un correo electrónico al propietario del proyecto.
 
-### Examples of unacceptable behaviour include:
-- :x: The use of violent or sexualized language or imagery, and sexual attention or advances of any kind
-- :x: Trolling, insulting, derogatory, abusive or vulgar comments, and personal, political, or religious attacks
-- :x: Public or private harassment
-- :x: Publishing others’ private information, such as a physical or email address, without their explicit permission (including doxing)
-- :x: Other conduct which could reasonably be considered inappropriate in a professional setting
+### Ejemplos de comportamiento inaceptable incluyen:
+- :x: El uso de imágenes o lenguaje violento y sexualizado, el acoso o insinuaciones sexuales de cualquier tipo
+- :x: Trolling, comentarios insultantes, despectivos, abusivos o vulgares, y ataques personales, políticos o religiosos
+- :x: Acoso público o privado
+- :x: Publicar información privada de otros, como una dirección física o de correo electrónico, sin su permiso explícito (incluido el doxing)
+- :x: Otras conductas que razonablemente podrían considerarse inapropiadas en un entorno profesional

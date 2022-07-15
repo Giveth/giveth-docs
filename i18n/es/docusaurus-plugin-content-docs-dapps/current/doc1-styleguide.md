@@ -1,6 +1,6 @@
 ---
 id: styleguide
-title: Style Guide
+title: Guía de Diseño
 sidebar_label: Style Guide
 ---
 

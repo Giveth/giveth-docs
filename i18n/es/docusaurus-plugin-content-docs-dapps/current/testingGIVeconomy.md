@@ -8,124 +8,124 @@ import TabItem from '@theme/TabItem';
 import styles from '../../../../src/css/custom.css';
 
 
-This is a guide for thorough user testing scenarios for the GIVeconomy DApp. Testing should be done on the staging server which can be found at https://staging.giv.giveth.io/.
+Esta es una guía de prueba para usuarios exhaustiva de DApp GIVeconomy. Las pruebas se pueden realizar en el servidor de prueba, que lo puedes encontrar en -> https://staging.giv.giveth.io/.
 
 
-## Requirements
+## Requisitos
 
-* Please use a modern browser. If you encounter a bug, please try the same thing with another browser. Please make an issue in any case, but tell us if the issue might be browser specific
-* Use issues in [GitHub](https://github.com/Giveth/GIVeconomy/issues) for reports and feedback.
+* Utilice un navegador moderno. Si encuentras un error, prueba con otro. Notifícanos del error, y si dicho problema es de un navegador en específico.
+* Contáctanos aquí -> [GitHub](https://github.com/Giveth/GIVeconomy/issues) para informes y comentarios.
 
-## Use Cases
+## Casos de Uso
 
-The following actions are defined as core functionality. If one of these steps is buggy, that represents a critical error.
+Las siguientes acciones son parte de las funciones principales. Si alguno de estos pasos tiene errores, representa un problema importante.
 
 ### General
 
-- Buttons on "Overview" page are responsive
-- Tabs `GIVgarden`, `GIVfarm`, etc.. are responsive
-- Navbar Header buttons are responsive
-- Can successfully sign in on Navbar with Web Wallet (currently optimized for MetaMask)
-- Footer links are working and link correctly
+- Los botones de la página general son funcionales
+- Las pestañas `GIVgarden`, `GIVfarm`, etc.. son funcionales
+- Los botones ubicados en la barra de navegación superior funcionan
+- Puedes iniciar sesión correctamente en la barra de navegación con tu billetera web (Optimizado para MetaMask)
+- Los enlaces de pie de página funcionan correctamente
 
 
 ### GIVgarden
-The GIVgarden staging deployment uses both Kovan Network and Gnosis Chain (formerly xDai Network). The token used for this deployment is *DRGIV3*.
+El GIVgarden implementa provisionalmente tanto Kovan Network como Gnosis Chain (anteriormente xDai Network). El Token utilizado para esta implementación es el *DRGIV3*.
 
 :::info
-DRGIV3 can be wrapped in the [DRGIV3 Garden](https://gardens-staging.1hive.org/#/xdai/garden/0x16388d99199a74810fc572049b3d4d657e7d5deb) to receive gDRGIV3. This is the same action as staking your DRGIV3 in the GIVgarden Staking in the GIVfarm on Gnosis Chain.
+DRGIV3 puede ser "Wrappeada" en [DRGIV3 Garden](https://gardens-staging.1hive.org/#/xdai/garden/0x16388d99199a74810fc572049b3d4d657e7d5deb) para recibir gDRGIV3. Esta misma acción puedes hacerla con DRGIV3 en el GIVgarden Staking o en el GIVfarm con Gnosis Chain.
 :::  
 
-- Buttons linking to GIVgarden are working
-- `LEARN MORE` links are working
-- Wrap DRGIV3 on the GIVgarden - Check that your Token amount updates on the GIVgarden Staking in the GIVfarm on Gnosis Chain.
-- Unwrap DRGIV3 on the GIVgarden - Check that your Token amount updates on the GIVgarden Staking in the GIVfarm on Gnosis Chain.
+- Los botones de enlace a GIVgarden funcionan correctamente
+- Los vínculos de `Leer Mas` están activos
+- Wrap DRGIV3 en GIVgarden - Verifique que la cantidad de su token se actualice en GIVgarden Staking en GIVfarm de Gnosis Chain
+- Unwrap DRGIV3 en GIVgarden - Verifique que la cantidad de su token se actualice en GIVgarden Staking en GIVfarm de Gnosis Chain
 
 
 ### GIVfarm
-The GIVfarm staging deployment uses both Gnosis Chain and Kovan (Mainnet) Network. The token used for this deployment is *DRGIV3*:
-- `0x83a8eea6427985C523a0c4d9d3E62C051B6580d3` on Gnosis Chain
-- `0x29434a25abd94ae882aa883eea81585aaa5b078d` on Kovan
+El GIVfarm implementa unas pruebas utilizando Gnosis Chain y Kovan (Mainnet) Network. El Token utilizado para esta implementación es el *DRGIV3*:
+- `0x83a8eea6427985C523a0c4d9d3E62C051B6580d3` en Gnosis Chain
+- `0x29434a25abd94ae882aa883eea81585aaa5b078d` en Kovan
 
-Test tokens used for providing liquidity on Gnosis Chain are as follow:
+Los Tokens de prueba utilizados proporcionar liquidez son los siguientes:
 - Gnosis Chain TestHNY: `0x69F79C9eA174d4659B18c7993c7EFbBbB58cF068`
 - Gnosis Chain TestWETH:`0x736a98655049433f79dCcF5e54b887E8890b63D1`  
 
-On Kovan, regular Kovan ETH is used for providing liquidity and paying gas.
+En Kovan, regularmente el Kovan ETH es usado para proporcionar liquidez y "pagar el gas".
 <Tabs className='tabs'>
   <TabItem value='gnosis' label='Gnosis Chain' default>
-<h3>Gnosis Chain (formerly xDai Network) Test Cases</h3>
+<h3>Gnosis Chain (anteriormente xDai Network) Pruebas de Testeo</h3>
 <ul>
-<li>Gnosis Chain/Ethereum Network toggle works</li>
-<li><code>?</code> hover tooltips work</li>
-<li>Provide Liquidity with DRGIV3 & TestHoney on Honeyswap</li>
-<li>Provide Liquidity with DRGIV3 and TestETH on Sushiswap</li>
-<li>Can stake LP tokens in respective GIV/HNY or GIV/ETH farms - LP Token amounts to Stake/Unstake update on UI</li>
-<li>Can stake DRGIV3 in GIVgarden Staking - Token amounts to Stake/Unstake update on UI</li>
-<li>After staking DRGIV3, check wrapped token amount (gDRGIV3) amount updates on the <a href='https://gardens-staging.1hive.org/#/xdai/garden/0x16388d99199a74810fc572049b3d4d657e7d5deb' target='_blank' alt='DRGIV3 Garden'>DRGIV3 Garden</a></li>
-<li>APR is displaying correctly (if it shows 0% that's bad)</li>
-<li>Clicking `?` on APR row opens APR modal, links are functional in modal</li>
-<li>Claimable amount updates over time</li>
-<li>Streaming amount is shown (up to 2 decimal places)</li>
-<li>If the amount is very small  <code>0.0001</code> is shown</li>
-<li>"Your GIVfarm Rewards" (top right of page) displays correctly total pending rewards from all farms combined.</li>
-<li>Harvesting from each farm - Transactions are successful and Claimable, Streaming, and GIV in wallet amounts update correctly</li>
-<li>Can Unstake Tokens from all farms - Token amounts to Stake/Unstake update on UI</li>
-<li>After unstaking DRGIV3 from the GIVgarden farm, check wrapped token amount (gDRGIV3) amount updates on the <a href='https://gardens-staging.1hive.org/#/xdai/garden/0x16388d99199a74810fc572049b3d4d657e7d5deb' target='_blank' alt='DRGIV3 Garden'>DRGIV3 Garden</a></li>
+<li>Gnosis Chain/Ethereum Network funcionan</li>
+<li><code>?</code> La información flotante sobre las herramientas funciona</li>
+<li>Proporciona liquidez con DRGIV3 y TestHoney en Honeyswap</li>
+<li>Proporciona liquidez con DRGIV3 y TestETH en Sushiswap</li>
+<li>Puedes Stakear  y Farmear LP Tokens respectivamente en GIV/HNY y en GIV/ETH - El Token LP y sus valores de stake/unstake se muestran en la interfaz del usuario</li>
+<li>Puedes stakear DRGIV3 en GIVgarden Staking - El token equivale a la actualización Stake/Unstake en la interfaz de usuario</li>
+<li>Después de staking del DRGIV3, puedes Verificar los montos de las actualizaciones del Wrapped Token (gDRGIV3) en <a href='https://gardens-staging.1hive.org/#/xdai/garden/0x16388d99199a74810fc572049b3d4d657e7d5deb' target='_blank' alt='DRGIV3 Garden'>DRGIV3 Garden</a></li>
+<li>APR se muestra correctamente (si se muestra en 0%, eso está mal)</li>
+<li>Si haces click en el ícono `?` en la fila APR abre un APR modal, los enlaces son funcionales en el modal</li>
+<li>Recibes actualizaciones de la cantidad que puedes reclamar todo el tiempo</li>
+<li>Se muestra la cantidad de transmisión (hasta 2 decimales)</li>
+<li>Si la cantidad es muy pequeña<code>0.0001</code> se muestra</li>
+<li>"Tus recompensas GIVfarms" (Arriba a la derecha de la página) muestra correctamente el total de recompensas pendientes de todas las farms combinadas</li>
+<li>Las recompensas de cada farm, las transacciones son exitosas y los montos reclamables, la transmisión y los montos en la billetera GIV se actualizan correctamente</li>
+<li>Puedes hacer unstake de los Tokens que tengas en tus farms - los montos del Stake/Unstake se actualizan en la interfaz del usuario</li>
+<li>Despues de hacer un Unstake del Token DRGIV3 desde la GIVgarden farm, verifica la cantidad del Token Wrapped (gDRGIV3) los montos se actualizan en <a href='https://gardens-staging.1hive.org/#/xdai/garden/0x16388d99199a74810fc572049b3d4d657e7d5deb' target='_blank' alt='DRGIV3 Garden'>DRGIV3 Garden</a></li>
 </ul>
   </TabItem>
   <TabItem value='kovan' label='Kovan Testnet' default>
-<h3>Kovan (mainnet) Network Test Cases</h3>
+<h3>Kovan (mainnet) Network Pruebas de Testeo</h3>
 <ul>
-<li>Gnosis Chain/Ethereum Network toggle works</li>
-<li><code>?</code> hover tooltips work</li>
-<li>Mint Univ3 NFT with DRGIV3 & ETH on Uniswap (Kovan)</li>
-<li>Provide Liquidity with DRGIV3 and WETH on Balancer (Kovan)</li>
-<li>Can stake Univ3 NFT in GIV/ETH Uniswap farm - NFT amount updates below Stake/Unstake buttons</li>
-<li>Can stake LP tokens in GIV/ETH Balancer farm - LP Token amounts to Stake/Unstake update on UI</li>
-<li>Can stake DRGIV3 in Single Asset Staking - Token amounts to Stake/Unstake update on UI</li>
-<li>APR is displaying correctly (if it shows 0% that's bad)</li>
-<li>Clicking <code>?</code> on APR row opens APR modal, links are functional in modal</li>
-<li>Claimable amount updates over time</li>
-<li>Streaming amount is shown (up to 2 decimal places)</li>
-<li>Your GIVfarm Rewards" (top right of page) displays correctly total pending rewards from all farms combined.</li>
-<li>Harvesting from each farm - Transactions are successful and Claimable, Streaming, and GIV in wallet amounts update correctly</li>
-<li>Can Unstake Tokens from all farms - Token amounts to Stake/Unstake update on UI</li>
+<li>Gnosis Chain/Ethereum Network funcionan</li>
+<li><code>?</code> La información flotante sobre las herramientas funciona</li>
+<li>Puedes Mintear Univ3 NFT con DRGIV3 y ETH en Uniswap (Kovan)</li>
+<li>Proporciona liquidez con DRGIV3 y WETH en Balancer (Kovan)</li>
+<li>Puede hacer stak de Univ3 NFT en GIV/ETH Uniswap farm - Actualizaciones de la cantidad de NFT debajo de los botones Stake/Unstake</li>
+<li>Puede Stackear LP Tokens en GIV/ETH Balancer farm - Los montos del Stake/Unstake se actualizan en la interfaz del usuario</li>
+<li>Puede hacer stake DRGIV3 en un staking de un solo activo - Los montos del Token y los valores del Stake/Unstake se actualizan en la interfaz del usuario</li>
+<li>APR se muestra correctamente (si se muestra en 0%, eso está mal)</li>
+<li>Si haces click en el ícono `?` en la fila APR abre un APR modal, los enlaces son funcionales en el modal</li>
+<li>Recibes actualizaciones de la cantidad que puedes reclamar todo el tiempo</li>
+<li>Se muestra la cantidad de transmisión (hasta 2 decimales)</li>
+<li>"Tus recompensas GIVfarms" (Arriba a la derecha de la página) muestra correctamente el total de recompensas pendientes de todas las farms combinadas</li>
+<li>Las recompensas de cada farm, las transacciones son exitosas y los montos reclamables, la transmisión y los montos en la billetera GIV se actualizan correctamente</li>
+<li>Puedes hacer unstake de los Tokens que tengas en tus farms - los montos del Stake/Unstake se actualizan en la interfaz del usuario</li>
 </ul>
   </TabItem>
 </Tabs>
 
 ## GIVbacks
 
-To learn how to create a test GIVback distribution, contact a Developer or mitch (divine_comedian#5493) on Discord to help you.
+Para saber como crear un test de distribución GIVback, comuníquese con un desarrollador o Mitch (divine_comedian#5493) en discord para ayudarte.
 
-You'll have to make a legitimate donation to a verified project on Giveth.io in order to test GIVbacks with your own Ethereum Address.
+Tendrás que hacer una donación legítima a un proyecto verificado en Giveth.io para probar los GIVbacks con tu propia dirección de Ethereum.
 
- Once you have executed a test distribution you can verify a few pieces of the `GIVbacks` page:
+ Una vez hayas ejecutado el test de distribución puedes verificar algunas partes en la página `GIVbacks`.
 
 :::info
-GIVbacks are only available on Gnosis Chain (formerly xDai Network).
+GIVbacks solo está disponible en Gnosis Chain (anteriormente xDai Network).
 :::
 
-- Verify your GIVbacks Reward amount, checking that the calculations align with the donations you made to a verified project during your defined GIVbacks period.
-- Your GIVbacks claimable amount should be a set amount (not increasing like GIVfarm rewards).
-- Your GIVbacks streaming amount should be in the GIVstream history table at the time of GIVbacks distribution.
-- Harvest GIVbacks is successful.
-- `DONATE` and `VERIFY` buttons work.
+- Verifica el monto de recompensa de tus GIVbacks, verifica que los cálculos se alineen con las donaciones que realizaste a un proyecto verificado durante un período definido de GIVbacks.
+- La cantidad reclamable de tus GIVbacks debe ser una cantidad fija (no creciente como las recompensas de GIVfarm)..
+- Tu cantidad GIVbacks transmitidos debe estar en la tabla del historial de GIVstream al momento de la distribución de GIVbacks.
+- Es un proceso exitoso recolectar GIVbacks.
+- Los botones `DONAR` y `VERIFICAR` funcionan conrrectamente.
 
 ## GIVstream
-The GIVstream is available on both Gnosis Chain and Kovan. Make sure you have pending farming rewards on both networks to fully test the GIVstream.
+El GIVstream está disponible tanto en Gnosis Chain como en Kovan. Asegúrate de tener recompensas para reclamar en ambas redes y así probar completamente el GIVstream.
 
--Gnosis Chain/Ethereum Network toggle works
-- Buttons for `PROJECTS`, `PROPOSALS`, `OPPORTUNITIES` and `LEARN MORE` work.
-- Can Harvest GIVstream rewards in the top right modal on both Gnosis Chain and Kovan.
-- `?` image on GIVstream rewards modal shows pop-up when clicked, links and button within modal are functional
-- '?' hover tooltips work
-- `GIViverse Expansion` displays correctly (if it's 0% that's bad.)
-- `Time remaining` shows correctly (GIVstream ends on December 23, 2026)
-- GIVstream flowrate increases are shown in the history table. GIVfarm rewards should appear in the table after claiming from the GIVfarm. GIVbacks rewards should appear in the table at the moment of GIVbacks distribution.
+- Gnosis Chain/Ethereum Network funcionan alternandolos.
+- Los botones `PROYECTOS`, `PROPUESTAS`, `OPORTUNIDADES` y `LEER MAS` funcionan.
+- Puedes recolectar las recompensas de GIVstream en la parte superior derecha del modal, tanto para Gnosis Chain como en Kovan.
+- `?` la imagen en el modal de recompensas GIVstream muestra una ventana emergente cuando se hace click en ella, los links y el botón dentro del modal están funcionando correctamente.
+- '?' la información flotante sobre las herramientas funciona correctamente.
+- `GIViverse Expansion` se muestra correctamente (si es 0%, está mal).
+- `Tiempo restante` se muestra correctamente (GIVstream termina el 23 de diciembre del 2026).
+- Los aumentos del caudal de GIVstream se muestran en la tabla del historial. Las recompensas de GIVfarm deberían aparecer en la tabla después de reclamarlas. Las recompensas de GIVbacks deben aparecer en la tabla al momento de la distribución de GIVbacks.
 
 
 ---
 
-Don’t forget to participate in the Platform Circle’s weekly meetings to stay in the loop. Read up on our [Development Contributor’s guide](./contributors) for all the information you need to become a regular contributor to Giveth Development & Testing.
+No olvides participar en las reuniones semanales de Platform Circle´s para mantenerte informado. Lee nuestra [Guía para colaboradores](./contributors) y obtener toda la información que necesitas para convertirte en un colaborador habitual de Giveth Development & Testing.

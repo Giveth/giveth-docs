@@ -7,24 +7,24 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from '../../../../src/css/custom.css'
 
 
-The GIVdrop is designed to kickstart the GIVeconomy by distributing GIV tokens to the Giveth trusted seed - crypto philanthropists, Giveth users & builders, Blockchain4Good DAO members, and other ecosystem partners. To check your GIVdrop eligibility or to claim [click here](https://giv.giveth.io/claim). To learn how to claim your GIVdrop, refer to our tutorial below.
+GIVdrop está diseñado para impulsar la economía GIV al distribuir tokens GIV a la semilla confiable de Giveth: criptofilántropos, usuarios y constructores de Giveth, miembros de Blockchain4Good DAO y otros socios del ecosistema. Para verificar su elegibilidad para GIVdrop o para reclamar [haga clic aquí](https://giv.giveth.io/claim). Para saber cómo reclamar su GIVdrop, consulte nuestro tutorial a continuación.
 
-All addresses have 5 years from December 24, 2021 to claim their GIVdrop. After that, any unclaimed tokens will be returned to the Giveth DAO, further increasing the DAO treasury.
+Todas las direcciones tienen 5 años a partir del 24 de diciembre de 2021 para reclamar su GIVdrop. Después de eso, todos los tokens no reclamados se devolverán a Giveth DAO, aumentando aún más la tesorería de DAO.
 
-## GIVdrop Eligibility
+## Elegibilidad para GIVdrop
 
-17.05% of the total initial supply (1 billion GIV) has been distributed to our trusted seed. The trusted seed is a group of individuals - previous supporters  10% of these tokens are instantly claimable on Gnosis Chain (formerly xDai Network) as the GIVdrop. The rest initializes and sustains [the GIVstream](/es/giveconomy/givstream) - a flow of GIV that becomes claimable gradually and continuously until December 23, 2026.
+El 17,05% del suministro inicial total (1.000 millones GIV) se ha repartido a nuestra semilla de confianza. La semilla de confianza es un grupo de personas: los seguidores anteriores 10% de estos tokens se pueden reclamar instantáneamente en Gnosis Chain (anteriormente xDai Network) como GIVdrop. El resto inicializa y sostiene [el GIVstream](/es/giveconomy/givstream) - un flujo de GIV que se vuelve exigible de manera gradual y continua hasta el 23 de diciembre de 2026.
 
-Eligible recipients of the GIVdrop and the associated GIVstream include:
+Los destinatarios elegibles de GIVdrop y el GIVstream asociado incluyen:
 
-- Giveth Contributors 5.05%
-- Past donors to Giveth directly 4%
-- Blockchain4Good heroes 4%
-- Past donors to projects on Giveth 2%
-- Past users of beta Giveth TRACE 1%
-- Past donors to Gitcoin Grants in Rounds 1-7 1%
+- Giveth Contribuyentes 5.05%
+- Donantes anteriores a Giveth directamente 4%
+- Blockchain4Good héroes 4%
+- Donantes anteriores de proyectos en Giveth 2%
+- Usuarios anteriores de beta Giveth TRACE 1%
+- Donantes anteriores de Gitcoin Grants en Rondas 1-7 1%
 
-The Blockchain4Good DAO heroes group includes a list of over 2500 unique addresses, with over 60 different groupings. The majority of addresses belong to people who have been identified as crypto donors, with the rest belonging to value-aligned DAO members that are working, directly or indirectly, to further [Giveth's mission](/es/whatisgiveth/). You may have a GIVdrop if you are part of any of these groups (and many others!):
+El grupo de héroes Blockchain4Good DAO incluye una lista de más de 2500 direcciones únicas, con más de 60 agrupaciones diferentes. La mayoría de las direcciones pertenecen a personas que han sido identificadas como criptodonantes, y el resto pertenece a miembros de DAO alineados con el valor que están trabajando, directa o indirectamente, para promover [la misión de Giveth](/es/whatisgiveth/). Puedes tener un GIVdrop si formas parte de alguno de estos grupos (¡y muchos otros!):
 
 - 1Hive
 - ChievMint
@@ -45,93 +45,91 @@ The Blockchain4Good DAO heroes group includes a list of over 2500 unique address
 - WhalerDAO
 
 
-<span class="importantText">The snapshot for past donors and Giveth users was taken in March 2021.</span> The snapshot for contributors (builders) and Blockchain4Good DAO heroes was taken in September 2021. <span class="importantText">For donors to Gitcoin Grants, GIVdrop eligibility was for those who donated in <i><u>at least two rounds</u></i> from rounds 1-8.</span> Our snapshot was taken at those times because the token development was all public, and we didn't want to give all of the GIV to the airdrop hunters that have proliferated throughout the past year.
+<span class="importantText">La Snapshot para donantes anteriores y usuarios de Giveth se tomó en marzo de 2021.</span> la snapshot para colaboradores (constructores) y héroes Blockchain4Good DAO se tomó en septiembre de 2021. <span class="importantText">Para los donantes de Gitcoin Grants, la elegibilidad de GIVdrop era para aquellos que donaron en <i><u>al menos dos rounds</u></i> desde los rounds 1-8</span> tu snapshot se tomó en esos momentos porque el desarrollo de tokens era público y no queríamos dar todo el GIV a los cazadores de airdrops que proliferaron durante el año pasado.
 
 :::info
-We have made every effort to include all valid addresses in this GIVdrop made at our discretion. Not every person who has ever interacted with Giveth is eligible. If you did not receive GIV, that is because you were not eligible or the wallet that stores the address that was eligible can not be accessed. We will not review past transactions or consider other addresses for inclusion. We appreciate your understanding.
+Hemos hecho todo lo posible para incluir todas las direcciones válidas en este GIVdrop hecho a nuestra discreción. No todas las personas que alguna vez han interactuaron con Giveth son elegibles. Si no recibió GIV, es porque no era elegible o no se puede acceder a la billetera que almacena la dirección que era elegible. No revisaremos transacciones pasadas ni consideraremos otras direcciones para su inclusión. apreciamos su comprensión.
 
-If you did not receive the GIVdrop, check out our [GIVbacks program](https://giv.giveth.io/givbacks) to find out how to get GIV!
+Si no recibió el GIVdrop, consulte nuestro [programa GIVbacks](https://giv.giveth.io/givbacks) para averiguar cómo obtener GIV.
 :::
 
-**NOTE:** If you received the GIVdrop but no longer have access to the eligible address, it is possible for us to redirect the allocation to another ETH address. However, you need to prove who you are and that you do have tokens allocated to you. If this is you, reach out to our team for support. FYI - if no one in the Giveth team knows you, it probably won't work out.
+**NOTA:** Si recibió el GIVdrop pero ya no tiene acceso a la dirección elegible, podemos redirigir la asignación a otra dirección ETH. Sin embargo, debe demostrar quién es usted y que tiene tokens asignados. Si este es usted, comuníquese con nuestro equipo para obtener ayuda. Para tu información, si nadie en el equipo de Giveth te conoce, probablemente no funcionará.
 
-## Claiming your GIVdrop
+## Reclamando tu GIVdrop
 
-The GIVdrop was released on December 24, 2021. In this guide we'll walk you through how to claim your GIV on the GIVdrop claim page.
+El GIVdrop se lanzó el 24 de diciembre de 2021. En esta guía, lo explicaremos cómo reclamar su GIV en la página de reclamos de GIVdrop.
 
-First thing is to head over to [the GIVdrop claim page](https://giv.giveth.io/claim); you should arrive at this screen:
+Lo primero es dirigirse a [la página de reclamos de GIVdrop](https://giv.giveth.io/claim); debes llegar a esta pantalla:
 
 <img alt='check GIVdrop eligibility' src={useBaseUrl('/img/content/giveconomy/claimConnect1.png')} />
 
-From here you will need to connect your web3 wallet to the DApp to check your eligibility.
+Desde aquí, deberá conectar su billetera web3 a la DApp para verificar su elegibilidad.
 
-After connecting, one of three situations will happen:
+Después de conectarse, ocurrirá una de estas tres situaciones:
 
-1. <a href="#1-givdrop-to-claim">You have a GIVdrop to claim, NICE!</a>
-2. <a href="#2-the-address-provided-has-already-claimed-its-givdrop">The address provided has already claimed its GIVdrop, GREAT!</a>
-3. <a href="#3-you-missed-the-givdrop-sad-face"> You missed the GIVdrop. :( </a>
+1. <a href="#1-givdrop-to-claim">Tú tienes un GIVdrop que reclamar, ¡Genial!</a>
+2. <a href="#2-the-address-provided-has-already-claimed-its-givdrop">La dirección proporcionada ya ha reclamado su GIVdrop, ¡GENIAL!</a>
+3. <a href="#3-you-missed-the-givdrop-sad-face"> Te perdiste el GIVdrop. :( </a>
 
-Click on any of the above situations to learn how to proceed. To learn more about GIVdrop eligibility, click [here](./givdrop).
+Haga click en cualquiera de las situaciones anteriores para saber cómo proceder. Para obtener más información sobre la elegibilidad de GIVdrop, haga click [Aquí](./givdrop).
 
 ---
-### 1. GIVdrop to Claim
+### 1. GIVdrop para reclamar
 
-If you have a GIVdrop ready to claim that's great news! Click the arrow to dive into the GIVdrop claim process.
+Si tienes un GIVdrop listo para reclamar, ¡es una gran noticia! Haz clic en la flecha para sumergirse en el proceso de reclamo de GIVdrop.
 
 <img alt='you have giv to claim' src={useBaseUrl('/img/content/giveconomy/claimReady1.png')} />
 
-Go through the flow to learn all the amazing ways to participate in the GIVeconomy. You can see your GIVdrop and GIVstream and visualize the impacts your GIV could make in the GIViverse.
+Siga el flujo para aprender todas las formas increíbles de participar en la economía GIV. Puede ver su GIVdrop y GIVstream y visualizar los impactos que su GIV podría tener en el GIViverse.
 
 <img alt='how to use your GIV' src={useBaseUrl('/img/content/giveconomy/claimReady2.png')} />
 
 
-On the final page you can claim your GIVdrop as well as add the GIV token to your MetaMask wallet. When you click `CLAIM` you'll see a summary of all the GIV you're getting.
+En la página final, puede reclamar su GI drop y agregar el token GIVEN a su billetera MetaMask. Cuando haga clic en `RECLAMAR`, verá un resumen de todos los GIV que está recibiendo.
 
 <img alt='claim your giv now screen' src={useBaseUrl('/img/content/giveconomy/claimReady3.png')} />
 
-In addition to the GIVdrop, you'll also receive a GIVstream which will continuously stream you GIV for a period of up 5 years - learn more about the [GIVstream here](./givstream).
+Además de GIVdrop, también recibirá un GIVstream que transmitirá continuamente su GIV durante un período de hasta 5 años. Obtenga más información sobre [GIVstream aquí](./givstream).
 
 <img alt='harvesting your GIVdrop' src={useBaseUrl('/img/content/giveconomy/claimHarvest1.png')} />
 
+Haga clic en `RECOLECTAR` para generar la transacción y reclamar su GIVdrop a su billetera conectada.
 
-Click `HARVEST` to generate the transaction to claim your GIVdrop to your connected wallet.
-
-You're now equipped and ready to jump into the GIVeconomy - Discover all the great ways you can contribute to a [thriving economy of Giving](https://giv.giveth.io/).
+Ahora está equipado y listo para saltar a la economía GIV: descubra todas las excelentes formas en que puede contribuir a una [economía próspera de generosidad](https://giv.giveth.io/).
 
 
 ---
 
-### 2. The address provided has already claimed its GIVdrop
+### 2. La dirección proporcionada ya ha reclamado su GIVdrop
 
-You already claimed the GIVdrop for the address you provided. However, you have no shortage of options now at your disposal. Give us a shout out on Twitter, and join our Discord to see the action happening in our Community.
+Ya reclamaste el GIVdrop para la dirección que proporcionaste. Sin embargo, ahora no le faltan opciones a su disposición. Danos un saludo en Twitter y únete a nuestro Discord para ver la acción que sucede en nuestra comunidad.
 
 <img alt='you already claimed' src={useBaseUrl('/img/content/giveconomy/claimClaimed1.png')} />
 
-We also have dropped you some gLove tokens on Rinkeby that you can exchange for some awesome Giveth Swag! Check out our [Swag Store](https://swag.giveth.io/) to see all our custom designed apparel and mugs!
+¡También te hemos dejado algunos tokens de gLove en Rinkeby que puedes intercambiar por algunos regalos increíbles de Giveth! Echa un vistazo a nuestra [Tienda Swag](https://swag.giveth.io/) para ver todas nuestras prendas y tazas diseñadas a medida.
 
-Lastly, and most importantly, click `Explore the GIVeconomy` to jump into GIVeconomy and explore all of the wonderful GIVing opportunities available.
+Por último, y lo más importante, haga clic en `Explora la GIVeconomy` para acceder a GIVeconomy y explorar todas las maravillosas oportunidades de GIVing disponibles.
 
 ---
 
-### 3. You missed the GIVdrop (sad face)
+### 3. Te perdiste el GIVdrop (carita triste)
 
-Unfortunately the address provided didn't receive a GIVdrop. Check the wallet address you provided or that you've connected with the correct wallet address.
+Lamentablemente, la dirección proporcionada no recibió un GIVdrop. Verifique la dirección de billetera que proporcionó o que se haya conectado con la dirección de billetera correcta.
 <img alt='you missed the GIVdrop' src={useBaseUrl('/img/content/giveconomy/claimMissed1.png')} />
 
-If you missed out, don't fret; there are still other ways to get GIV! You can follow the link on the [GIVfarm](https://giv.giveth.io/givfarm) page to take you to your local friendly Decentralized Exchange (on Mainnet or Gnosis Chain [formerly xDai Network]) to swap your crypto for some of that sweet, sweet GIV.
+Si te lo perdiste, no te preocupes; ¡Todavía hay otras formas de obtener GIV! Puedes seguir el enlace en la página [GIVfarm](https://giv.giveth.io/givfarm) para llevarlo a tu intercambio descentralizado amigable local (en Mainnet o Gnosis Chain [anteriormente xDai Network]) para cambiar tu criptomoneda por algo de ese dulce, dulce GIV.
 
 <img alt='buy tokens link from GIVfarm' src={useBaseUrl('/img/content/giveconomy/claimMissed2.png')} />
 
-Or if you want to be a real GIVhero, participate in the GIVbacks program. You can qualify to earn GIV from donating to verified projects on [giveth.io](https://giveth.io/projects/). Learn more about the [GIVbacks program here](./givbacks).
-
+O si quieres ser un verdadero GIVhero, participa en el programa GIVbacks. Puede calificar para ganar GIV al donar a proyectos verificados en [giveth.io](https://giveth.io/projects/). Obtenga más información sobre el [programa GIVbacks aquí](./givbacks).
 ---
 
-### If you get stuck in the GIVdrop claim:
-You could find yourself stuck in the GIVdrop Connect page for a variety of reasons including:
-- Declining to connect your wallet in MetaMask
-- Not connected to Gnosis Chain (formerly xDai Network)
+### Si te quedas atascado en el reclamo de GIVdrop:
+Podría encontrarse atascado en la página GIVdrop Connect por una variedad de razones, que incluyen:
+- Negarse a conectar su billetera en MetaMask
+- No conectado a Gnosis Chain (anteriormente xDai Network)
 
-To remedy this, open up your MetaMask extension, and verify your connection:
+Para reparar esto, abra su extensión MetaMask y verifique su conexión:
 <img alt='troubleshooting getting stuck' src={useBaseUrl('/img/content/giveconomy/claimStuck1.png')} />
 
-Ensure you're on Gnosis Chain (formerly xDai Network), and connect the wallet you'd like to claim for to the DApp. If the page doesn't update automatically just give it a quick refresh (F5), and you should be good to go!
+Asegúrese de estar en Gnosis Chain (anteriormente xDai Network) y conecte la billetera que desea reclamar a la DApp. Si la página no se actualiza automáticamente, solo dale una actualización rápida (F5), ¡y deberías estar listo para comenzar!

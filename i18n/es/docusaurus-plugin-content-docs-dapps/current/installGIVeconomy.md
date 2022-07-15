@@ -4,32 +4,32 @@ title: Installing the GIVeconomy Front-End
 slug: dapps/installGIVeconomy
 ---
 
-You can find the Github repository containing the [GIVeconomy](https://giv.giveth.io) front-end at https://github.com/Giveth/liquidity-mining-dapp.
+Puedes encontrar el repositorio del front-end contiene el [GIVeconomy](https://giv.giveth.io) en GIThub https://github.com/Giveth/liquidity-mining-dapp.
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-## Prerequisites
+Esto es [Next.js](https://nextjs.org/) un proyecto iniciado con [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Pre-Requisitos
 
 - Yarn
 - npm
-- your own [Infura](https://infura.io/) nodes for Kovan Network and Gnosis Chain (formerly xDai Network)
-- your favourite code editor (We recommend VSCode)
+- Tús propios nodos [Infura](https://infura.io/) para Kovan Network y Gnosis Chain (anteriormente xDai Network)
+- Tú editor de código favorito (Recomendamos VSCode)
 
 
-## Getting Started
+## Para Empezar
 
-First you'll need to get a local copy on your machine. Clone the repository from github on your computer.
+Primero deberás obtener una copia local en tú máquina. Clona el repositorio de github en tu computadora.
 
 ```
-git clone git@github.com:Giveth/liquidity-mining-dapp.git
+Consigue clonarlo aquí -> git@github.com:Giveth/liquidity-mining-dapp.git
 ```
 
-:::info
-### Environment Variables
-copy `.env.example` to `.env.local` and set the values to your Infura nodes as well as your API key
+:::Info
+### Variables de entorno
+Copia `.env.example` en `.env.local` y establezca los valores para sus nodos Infura, así como su clave API
 :::
 
 
-Then to run the development server locally:
+Luego, para ejecutar el servidor localmente:
 
 ```bash
 npm run dev
@@ -37,19 +37,19 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. Open up your code editor and you're ready to start!
+Abre [http://localhost:3000](http://localhost:3000) con tu navegador para ver el resultado. ¡Abre tu editor de código y estarás listo para comenzar!
 
-## Learn More
+## Leer Más
 
-To learn more about Next.js, take a look at the following resources:
+Para obtener más información sobre Next.js, eche un vistazo a los siguientes recursos:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Documentación Next.js](https://nextjs.org/docs) - Obtenga información sobre las funciones y la API de Next.js.
+- [Aprende Next.js](https://nextjs.org/learn) - Tutorial interactivo de Next.js.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Puedes darle un vistazo a [El repositorio Next.js de Github](https://github.com/vercel/next.js/) - ¡Tus comentarios y contribuciones son bienvenidas!
 
-## Deploy on Vercel
+## Implementar en Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+La forma más fácil de implementar su aplicación Next.js es usar la [Plataforma Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) De los creadores de Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Echa un vistazo a nuestro [Documentación de implementación de Next.js](https://nextjs.org/docs/deployment) para más detalles.
