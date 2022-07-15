@@ -53,7 +53,7 @@ Para enviar criptomonedas de tú propiedad a otra billetera, usa `Transferir`. N
 
 ### Interactuando con GIVeconomy
 
-Para interactuar con [GIVeconomy](https://giv.giveth.io/) y otras dApps usando la billetera Torus , deberás conectar tú billetera. Para conectarla, haz click en `Conectar Billetera` este ícono está ubicado en la parte superior derecha del sitio, luego selecciona Torus y verifica. La billetera Torus permite a los usuarios iniciar sesión con cuentas de muchos servicios web diferentes, así que asegúrese de iniciar sesión con la misma cuenta que utilizó para configurar la billetera.
+Para interactuar con [GIVeconomy](https://giveth.io/giveconomy) y otras dApps usando la billetera Torus , deberás conectar tú billetera. Para conectarla, haz click en `Conectar Billetera` este ícono está ubicado en la parte superior derecha del sitio, luego selecciona Torus y verifica. La billetera Torus permite a los usuarios iniciar sesión con cuentas de muchos servicios web diferentes, así que asegúrese de iniciar sesión con la misma cuenta que utilizó para configurar la billetera.
 
 <img alt="Signing in with Torus on the GIVeconomy" width="75%" height="auto" class='center' src={useBaseUrl('img/content/giveconomyTorusConnect.png')} />
 

@@ -7,9 +7,9 @@ import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
 
 
-Giveth ha elegido la plataforma DAO de gobernanza Gardens desarrollada por [1hive](_https://forum.1hive.org/t/welcome-to-1hive/7) para permitir que los titulares de tokens GIV administren las configuraciones del DAO y asignen fondos a proyectos que estén alineados con su [misión, visión y valores](/whatisgiveth/). Nuestro único Giveth Garden ha sido acertadamente llamado "GIVgarden" y se implementa en Gnosis Chain (anteriormente xDai Network). Las principales herramientas utilizadas para la gobernanza en el GIVgarden son la Votación por Convicción y la Votación por Tao.
+Giveth ha elegido la plataforma DAO de gobernanza Gardens desarrollada por [1hive](https://forum.1hive.org/t/welcome-to-1hive/7) para permitir que los titulares de tokens GIV administren las configuraciones del DAO y asignen fondos a proyectos que estén alineados con su [misión, visión y valores](/es/whatisgiveth/). Nuestro único Giveth Garden ha sido acertadamente llamado "GIVgarden" y se implementa en Gnosis Chain (anteriormente xDai Network). Las principales herramientas utilizadas para la gobernanza en el GIVgarden son la Votación por Convicción y la Votación por Tao.
 
-GIVgarden utiliza el [Pacto de la comunidad Giveth](/whatisgiveth/covenant) como un contrato social descentralizado que describe los estándares para el comportamiento dentro y fuera de la cadena.
+GIVgarden utiliza el [Pacto de la comunidad Giveth](/es/whatisgiveth/covenant) como un contrato social descentralizado que describe los estándares para el comportamiento dentro y fuera de la cadena.
 
 Puedes visitar [**GIVgarden** Aquí](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98).  
 
@@ -46,7 +46,7 @@ Cuando delega su poder de voto a un "delegado", lo autoriza a votar en su nombre
 ## Wrapping GIV y ganar recompensas
 Para poder votar propuestas en el GIVgarden tendrás que wrappear tus tokens.. Esto intercambia sus tokens GIV por tokens gGIV compatibles con GIVgarden que se pueden apostar en las propuestas. Obtiene recompensas por todos los GIV wrappeados, independientemente de si usa o no su GIV envuelto (gGIV) para votar propuestas. Puede elegir envolver su GIV y obtener gGIV [en GIVgarden](https://1hive.gitbook.io/gardens/actions-for-community-members/getting-started/wrap-your-tokens), o a través de GIVfarm al participar en el grupo de participación GIV de un solo activo en xDai. Cuando Wrappeas tu GIV en el GIVgarden o retires tu GIV de la GIVfarm de un solo activo, tus tokens gGIV se quemarán, lo que eliminará su poder de voto y se le devolverán sus tokens GIV.
 
-Puedes ver la APR para Wrappear GIV en nuestra [**página de GIVfarm**](https://giv.giveth.io/givfarm). Cuanto más GIV apueste, más recompensas obtendrás y mayor será tú tasa de flujo en GIVstream. ¡Ser un miembro activo de la comunidad es gratificante en más de un sentido!
+Puedes ver la APR para Wrappear GIV en nuestra [**página de GIVfarm**](https://giveth.io/givfarm). Cuanto más GIV apueste, más recompensas obtendrás y mayor será tú tasa de flujo en GIVstream. ¡Ser un miembro activo de la comunidad es gratificante en más de un sentido!
 
 
 
@@ -64,7 +64,7 @@ Para obtener más información sobre cómo funciona el GIVgarden, visite la desc
 
 
 ## Convenio
-Para participar en GIVgarden, primero deberá firmar el [Convenio Giveth](/whatisgiveth/covenant). Este es nuestro contrato social descentralizado que describe los estándares para el comportamiento de la comunidad dentro y fuera de la cadena. En caso de que se cuestione una propuesta, el convenio se utilizará como referencia para lo que define las propuestas aceptables y no aceptables dentro de ese GIVgarden.
+Para participar en GIVgarden, primero deberá firmar el [Convenio Giveth](/es/whatisgiveth/covenant). Este es nuestro contrato social descentralizado que describe los estándares para el comportamiento de la comunidad dentro y fuera de la cadena. En caso de que se cuestione una propuesta, el convenio se utilizará como referencia para lo que define las propuestas aceptables y no aceptables dentro de ese GIVgarden.
 
 
 ## Disputabilidad
@@ -77,7 +77,7 @@ Cuando se impugna una propuesta en GIVgarden, el creador de la propuesta tiene u
 
 ## Ciclo de vida de la propuesta
 
-Si cree que tiene un buen conocimiento de Giveth y [cómo trabajamos](/whatisgiveth/) y tiene algo excelente que proponer a la comunidad, hay algunos procesos que debe respetar para tener la mayor posibilidad de éxito.
+Si cree que tiene un buen conocimiento de Giveth y [cómo trabajamos](/es/whatisgiveth/) y tiene algo excelente que proponer a la comunidad, hay algunos procesos que debe respetar para tener la mayor posibilidad de éxito.
 
 
 

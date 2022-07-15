@@ -36,7 +36,7 @@ La GIVeconomy se ha construido gracias a nuestra dedicada comunidad de Givers. G
 
 El lanzamiento de GIVeconomy con todas las características descritas anteriormente es solo el comienzo: ya estamos elaborando la siguiente fase del futuro de la generosidad. Estamos desarrollando sistemas que cambiarán por completo la forma en que las sociedades crean y recompensan la creación de bienes públicos.
 
-Siga leyendo para obtener más información sobre algunas de las ideas crudas, emocionantes y hermosas que pretendemos llevar a cabo. Si desea ayudar a dar forma a la próxima generación de filántropos, comience a [explorar GIVeconomy](https://giv.giveth.io/) y [únase a nuestro equipo](https://giveth.io/join)!
+Siga leyendo para obtener más información sobre algunas de las ideas crudas, emocionantes y hermosas que pretendemos llevar a cabo. Si desea ayudar a dar forma a la próxima generación de filántropos, comience a [explorar GIVeconomy](https://giveth.io/giveconomy) y [únase a nuestro equipo](https://giveth.io/join)!
 
 ### **GIVcuration**
 Esta será una forma descentralizada de reemplazar [Proyecto de Verificación](/es/dapps/makeTraceableProject) para el programa GIVbacks. Los miembros de la comunidad podrán apostar GIV (usando la votación de convicción) en sus proyectos favoritos en Giveth. ¡Durante las rondas de GIVbacks, los donantes de los proyectos más votados obtendrán la mayor cantidad de GIV de GIVbacks! Con este sistema, la comunidad decide qué proyectos devolverán más a los donantes, lo que a su vez fomenta las donaciones a proyectos que se alinean con los valores de la comunidad.
@@ -53,7 +53,7 @@ Nuestro mayor sueño es apoyar proyectos positivos en Giveth para que se convier
 
 <details>
   <summary><h3><i>*Interactuar usando la billetera Torus</i></h3></summary>
-  <div><p>Para interactuar con [GIVeconomy](https://giv.giveth.io/) y otras dApps usando la billetera Torus, deberá conectar su billetera. Para conectarse, haga clic en el ícono "Conectar billetera" en la esquina superior derecha del sitio, luego seleccione Torus y verifique. La billetera Torus permite a los usuarios iniciar sesión con cuentas de muchos servicios web diferentes, así que asegúrese de iniciar sesión con la misma cuenta que utilizó para configurar la billetera.</p>
+  <div><p>Para interactuar con [GIVeconomy](https://giveth.io/giveconomy) y otras dApps usando la billetera Torus, deberá conectar su billetera. Para conectarse, haga clic en el ícono "Conectar billetera" en la esquina superior derecha del sitio, luego seleccione Torus y verifique. La billetera Torus permite a los usuarios iniciar sesión con cuentas de muchos servicios web diferentes, así que asegúrese de iniciar sesión con la misma cuenta que utilizó para configurar la billetera.</p>
 
   <img alt="Signing in with Torus on the GIVeconomy" width="50%" height="auto" class='center' src={useBaseUrl('img/content/giveconomyTorusConnect.png')} />
 
@@ -66,4 +66,4 @@ Nuestro mayor sueño es apoyar proyectos positivos en Giveth para que se convier
 
 -----
 
-La misión de Giveth es recompensar y empoderar a quienes dan. [The GIVeconomy](https://giv.giveth.io/) es un hito importante en el futuro de la generosidad y está permitiendo que nuestro colectivo de proyectos, donantes, constructores y miembros de la comunidad puedan donar nuevas formas que apoyen los proyectos, la sociedad y ¡el mundo!
+La misión de Giveth es recompensar y empoderar a quienes dan. [The GIVeconomy](https://giveth.io/giveconomy) es un hito importante en el futuro de la generosidad y está permitiendo que nuestro colectivo de proyectos, donantes, constructores y miembros de la comunidad puedan donar nuevas formas que apoyen los proyectos, la sociedad y ¡el mundo!

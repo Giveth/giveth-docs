@@ -5,7 +5,7 @@ slug: giveconomy/givbacks
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-GIVbacks es un concepto revolucionario que recompensa a los donantes de proyectos verificados con tokens GIV. Cuando dona a proyectos verificados durante una ronda de GIVbacks, se vuelve elegible para recibir recompensas GIV después de que finaliza la ronda y el GIV está listo para reclamar. Puede ver información en vivo, incluido el cronograma de rondas y su GIV reclamable, en la [página de GIVbacks](https://giv.giveth.io/givbacks).
+GIVbacks es un concepto revolucionario que recompensa a los donantes de proyectos verificados con tokens GIV. Cuando dona a proyectos verificados durante una ronda de GIVbacks, se vuelve elegible para recibir recompensas GIV después de que finaliza la ronda y el GIV está listo para reclamar. Puede ver información en vivo, incluido el cronograma de rondas y su GIV reclamable, en la [página de GIVbacks](https://giveth.io/givbacks).
 
 ## Rondas de devolución
 Las rondas de GIVback duran dos semanas. Por cada ronda, hay 1 millón de GIV disponibles para ser recompensados.
@@ -31,7 +31,7 @@ Un donante puede donar cualquier token ERC-20 a proyectos en Giveth.io en Gnosis
 ## Obtener devoluciones
 Durante cada ronda, se realiza un seguimiento de todas las donaciones a proyectos verificados en la DApp, y estos datos se utilizan para calcular la cantidad de GIVbacks recibidos por cada donante durante ese período.
 
-Los donantes pueden reclamar su GIV después de que finaliza la ronda y se realiza una revisión de fraude. Los donantes recibirán un correo electrónico cuando las recompensas estén listas para reclamar en la [página de GIVbacks](https://giv.giveth.io/givbacks). Una parte del GIV será líquido inmediatamente y el resto aumentará el caudal de su [GIVstream](https://giv.giveth.io/givstream). Para saber más sobre GIVstream y su funcionamiento, consulta nuestra [documentación](/es/giveconomy/givstream/). A los efectos de esta documentación, nos referiremos a la suma del monto líquido y el monto asignado al GIVstream de GIVbacks como "GIVbacks acumulativos".
+Los donantes pueden reclamar su GIV después de que finaliza la ronda y se realiza una revisión de fraude. Los donantes recibirán un correo electrónico cuando las recompensas estén listas para reclamar en la [página de GIVbacks](https://giveth.io/givbacks). Una parte del GIV será líquido inmediatamente y el resto aumentará el caudal de su [GIVstream](https://giveth.io/givstream). Para saber más sobre GIVstream y su funcionamiento, consulta nuestra [documentación](/es/giveconomy/givstream/). A los efectos de esta documentación, nos referiremos a la suma del monto líquido y el monto asignado al GIVstream de GIVbacks como "GIVbacks acumulativos".
 
 Tenga en cuenta que, incluso con el programa GIVbacks, una donación en Giveth sigue siendo una donación. El valor máximo de los 'GIVbacks' acumulados del donante es igual al 75% del valor de su donación, en el momento de la donación. Si el valor de "1 millón GIV" asignado a la ronda de GIVbacks es superior al 75 % del valor total de todas las donaciones (en el momento de cada donación) durante la duración de la ronda, todos los donantes elegibles obtendrán su respectivo máximo acumulativo. devoluciones.
 
@@ -48,11 +48,11 @@ donde:
 - v = Valor (en USD) de la donación al momento
 - V = Valor total (en USD) de todas las donaciones a proyectos elegibles durante la ronda
 
-Los tokens GIV obtenidos a través del programa GIVbacks se pueden usar en toda la economía GIV: para la gobernanza dentro de [GIVgarden](https://giv.giveth.io/givgarden), para respaldar el token proporcionando liquidez (¡y ganando recompensas!) en el [GIVfarm](https://giv.giveth.io/givfarm), o por donar a proyectos en [Giveth](https://giveth.io/).
+Los tokens GIV obtenidos a través del programa GIVbacks se pueden usar en toda la economía GIV: para la gobernanza dentro de [GIVgarden](https://giveth.io/givgarden), para respaldar el token proporcionando liquidez (¡y ganando recompensas!) en el [GIVfarm](https://giveth.io/givfarm), o por donar a proyectos en [Giveth](https://giveth.io/).
 
 ## Cosecha de devoluciones
 
-Los GIVbacks están disponibles para ser recolectados después de que finaliza la ronda, los datos han sido revisados ​​y GIV se distribuye a las direcciones de donantes elegibles. Los donantes recibirán un correo electrónico cuando las recompensas de GIVbacks estén listas para reclamar; este GIV se puede recolectar [aquí](https://giv.giveth.io/givbacks). Tenga en cuenta que cuando obtiene recompensas GIV de cualquier parte de la economía GIV, nuestro contrato de distribución de tokens le envía todo el GIV líquido asignado a su dirección en esa red. Por ejemplo, cuando recolecta recompensas GIV obtenidas al apostar tokens LP en GIVfarm en Gnosis Chain (anteriormente xDai Network), también recolecta recompensas asignadas a usted de GIVbacks (si corresponde) y la cantidad líquida de su GIVstream. Esto se desglosa en la ventana emergente de recolección que encuentra al reclamar:
+Los GIVbacks están disponibles para ser recolectados después de que finaliza la ronda, los datos han sido revisados ​​y GIV se distribuye a las direcciones de donantes elegibles. Los donantes recibirán un correo electrónico cuando las recompensas de GIVbacks estén listas para reclamar; este GIV se puede recolectar [aquí](https://giveth.io/givbacks). Tenga en cuenta que cuando obtiene recompensas GIV de cualquier parte de la economía GIV, nuestro contrato de distribución de tokens le envía todo el GIV líquido asignado a su dirección en esa red. Por ejemplo, cuando recolecta recompensas GIV obtenidas al apostar tokens LP en GIVfarm en Gnosis Chain (anteriormente xDai Network), también recolecta recompensas asignadas a usted de GIVbacks (si corresponde) y la cantidad líquida de su GIVstream. Esto se desglosa en la ventana emergente de recolección que encuentra al reclamar:
 
 ![](https://i.imgur.com/GVpn68a.png)
 
