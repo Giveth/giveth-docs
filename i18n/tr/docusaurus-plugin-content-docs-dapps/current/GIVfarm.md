@@ -17,9 +17,12 @@ GIVfarm 24 Aralık 2021 tarihinde başlatıldı. Toplam token arzının %3,5'i, 
 | GIV/WETH Sushiswap on Gnosis Chain (formerly xDai Network)     | 2.5 Million GIV     |
 | GIVgardens Staking on Gnosis Chain (formerly xDai Network)    | 7.5 Million GIV     |
 
-> Not:
-> 10 Milyon GIV, başlangıçta Mainnet'teki bir GIV/ETH Uniswap V3 havuzu için ödül olarak tahsis edildi. Ancak, orantısız bir şekilde ödüller kazanmak için sistemdeki bir güvenlik açığını kötüye kullanan ve ardından GIV'yi boşaltan bir kullanıcı tespit ettik. Topluluk, Univ3 ödül programını (anlık görüntü) sonlandırmak için oy kullandı ve 21 Mart 2022'de kapatıldı. Bununla ilgili daha fazla bilgiyi buradan edinebilirsiniz.
-> 
+ 
+:::info
+Not:
+ 10 Milyon GIV, başlangıçta Mainnet'teki bir GIV/ETH Uniswap V3 havuzu için ödül olarak tahsis edildi. Ancak, orantısız bir şekilde ödüller kazanmak için sistemdeki bir güvenlik açığını kötüye kullanan ve ardından GIV'yi boşaltan bir kullanıcı tespit ettik. Topluluk, Univ3 ödül programını (anlık görüntü) sonlandırmak için oy kullandı ve 21 Mart 2022'de kapatıldı. Bununla ilgili daha fazla bilgiyi buradan edinebilirsiniz.
+:::
+
 Lansman gününde ödüllerden talep edilebilecek miktar %10 olacak ve diğer %90 GIVstream'den dışarı akmak için tahsis edilecektir. GIVstream 5 yıl boyunca devam edecek ve zaman geçtikçe ödüllerden hemen talep edilebilecek miktar daha büyük olacaktır. GIVfarm'da ödüller kazandıkça, GIVstream'inizin akış hızını da artırırsınız.
 
 ## Token Adresleri

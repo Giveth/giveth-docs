@@ -3,6 +3,9 @@ id: termsForProposals
 title: Terms & Conditions for Submitting or Challenging a Proposal
 slug: giveconomy/termsForProposals
 ---
+import NotTranslatedMessage from '../../_notTranslatedTR.mdx'
+
+<NotTranslatedMessage />
 
 ### 1. **ACCEPTANCE OF TERMS**
 
