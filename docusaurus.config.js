@@ -93,6 +93,12 @@ module.exports = {
           position: 'left'
         },
         {
+          to: 'whatisgiveth/fundraisingGuide',
+          activeBasePath: 'whatisgiveth',
+          label: 'Fundraising 101',
+          position: 'left'
+        },
+        {
           href: 'https://giveth.recruitee.com/',
           label: 'Jobs',
           position: 'left'
@@ -111,11 +117,6 @@ module.exports = {
           type: 'localeDropdown',
           position: 'right'
         },
-        {
-          href: 'https://github.com/giveth/giveth-docs',
-          label: 'GitHub',
-          position: 'right'
-        }
       ]
     },
     footer: {
