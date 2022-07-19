@@ -41,7 +41,8 @@ module.exports = {
             link: {type: 'doc', id: 'givgarden'},
             items:['termsForProposals']
           }
-          , 'givfarm','regenFarms', 'niceToken'
+          , 'givfarm','regenFarms'
+          // , 'niceToken'
 ]
           }
         ]
