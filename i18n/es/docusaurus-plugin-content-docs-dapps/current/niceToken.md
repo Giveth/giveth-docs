@@ -7,51 +7,46 @@ import NotTranslatedMessage from '../../_notTranslatedES.mdx'
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
 
-<NotTranslatedMessage />
+El token $nice se lanzó en el tercer trimestre de 2022 en un esfuerzo por promover las donaciones directas a la Organización Giveth.
 
-
-The $nice token was launched in Q3 2022 in an effort to promote direct donations to the Giveth Organization.
-
-When users on the Giveth Dapp make a donation to the [Giveth Project](https://giveth.io/project/the-giveth-community-of-makers) in certain eligible tokens they'll receive $nice in return.
+Cuando los usuarios de Giveth Dapp hacen una donación a [Giveth Project](https://giveth.io/project/the-giveth-community-of-makers) en ciertos tokens elegibles, recibirán $nice a cambio.
 
 <a href="https://giveth.io/project/the-giveth-community-of-makers"><img alt="nice token banner"  src={useBaseUrl('img/content/niceBanner.png')} /></a>
 
 
-The following tokens have been listed as eligible for $nice when donated to Giveth:
+Los siguientes tokens se han enumerado como elegibles para recibir $nice cuando se donan a Giveth:
 
 - [DAI](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f) (Mainnet)
 - xDAI (Gnosis Chain)
 - [wxDAI](https://www.blockscout.com/xdai/mainnet/token/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/token-transfers) (Gnosis Chain)
 
-$nice is matched at a 1:1 ratio of the USD value of the donations at the time the donation was made. For example if you donated 50 DAI to Giveth (assuming it holds its $1 peg) you would receive 50 $nice.
+$nice se iguala en una proporción de 1:1 del valor en USD de las donaciones en el momento en que se realizó la donación. Por ejemplo, si donaste 50 DAI a Giveth (asumiendo que mantiene su paridad de $1), recibirías 50 $nice.
 
-Eligible donations are registered on the same bi-weekly rounds that [GIVbacks](https://docs.giveth.io/giveconomy/givbacks/) follow. Distribution of $nice, once calculated, is done at the same time that GIVbacks are sent out.
+Las donaciones elegibles se registran en las mismas rondas quincenales que siguen [GIVbacks](https://docs.giveth.io/giveconomy/givbacks/). La distribución de $nice, una vez calculada, se realiza al mismo tiempo que se envían los GIVbacks.
 
-## Utility
+## Utilidad
 
-The first of many features of $nice will be the ability to redeem it for swag on the [Giveth swag shop](https://swag.giveth.io/). You can get Giveth branded clothing and more delivered right to your door for supporting Giveth.
+La primera de muchas funciones de $nice será la posibilidad de canjearlo por regalos en la [tienda de regalos Giveth](https://swag.giveth.io/). Puedes recibir ropa de la marca Giveth y más directamente en tu puerta por apoyar a Giveth.
 
-Some other exciting utilities down the road might include:
-- Early Access to and Redemption of $nice for [Giveth PFPs](https://forum.giveth.io/t/the-givers-pfp-collection-initial-sketches/656/5).
-- Leaderboards and Social Media promotion of top Giveth donors and $nice holders.
-- GIV rewards program for $nice holders.
+Algunas otras utilidades interesantes en el futuro podrían incluir:
+- Acceso anticipado y canje de $nice por [Giveth PFP](https://forum.giveth.io/t/the-givers-pfp-collection-initial-sketches/656/5).
+- Tablas de clasificación y promoción en redes sociales de los principales donantes de Giveth y titulares de $nice.
+- Programa de recompensas GIV para titulares de $nice.
 
-The sky's the limit for $nice and the Giveth team is actively building and experimenting with features and future utilities of this new token.
+El cielo es el límite para $nice y el equipo de Giveth está construyendo y experimentando activamente con las funciones y futuras utilidades de este nuevo token.
+## Uso de fondos
 
-## Use of Funds
+Giveth utilizará los fondos adquiridos para una estrategia muy directa para garantizar la estabilidad y el crecimiento de Giveth y la GIVeconomy.
 
-Giveth will use the acquired funds for a very direct strategy to ensure the stability and growth of Giveth and the GIVeconomy. 
+El 50% del valor en USD de las donaciones elegibles recibidas se utilizará para recomprar GIV. El otro 50% se utilizará para crear un par en liquidity pool con el GIV recomprado.
 
-50% of the USD value of eligible donations received will be used to buy back GIV. The other 50% will be used to create a liquidy pool pair with the bought back GIV.
+Veamos un ejemplo:
+> Durante un período de 3 meses, Giveth adquiere $100,000 de donaciones elegibles en DAI.
+>
+> Usamos $50,000 del DAI recibido para recomprar GIV del suministro circulante.
+>
+> Posteriormente, tomamos este valor de $50 000 en GIV que acabamos de comprar y lo combinamos con los $50 000 restantes de DAI para proporcionar una posición de $100 000 DAI/GIV LP en Uniswap v2 que es propiedad de Giveth multisig.
 
-Let's look at an example:
-> Over a 3 month period Giveth acquires $100,000 of eligible donations in DAI.
-> 
-> We use $50,000 worth of the DAI received to buy back GIV from the circulating supply.
-> 
-> Subsequently we take this $50,000 worth of GIV we just bought back and combine it with the remaining $50,000 of DAI to supply a $100,000 DAI/GIV LP position on Uniswap v2 that is owned by the Giveth multisig.
+Esto permite efectivamente a Giveth crear sólidas posiciones de liquidez de propiedad del DAO a lo largo del tiempo. Esto, a su vez, ayuda a mitigar la volatilidad que los programas de agricultura de liquidez pueden tener en la economía de los tokens GIV.
 
-This effectively allows Giveth to create strong DAO-owned liquidity positions over time. This in turn helps to mitigate the volatility that liquidity farming programs can have on the GIV token economy.
-
-Giveth may employ new strategies for received funds at any given point in the future.
-
+Giveth puede emplear nuevas estrategias para los fondos recibidos en cualquier momento en el futuro.
