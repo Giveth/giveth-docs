@@ -3,6 +3,8 @@ id: niceToken
 title: $nice Token
 slug: /giveconomy/niceToken
 ---
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 
 The $nice token was launched in Q3 2022 in an effort to promote direct donations to the Giveth Organization.
 
