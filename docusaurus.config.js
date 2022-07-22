@@ -71,7 +71,8 @@ module.exports = {
       title: 'Giveth Documentation',
       logo: {
         alt: 'Giveth Docs Logo',
-        src: 'img/logo.svg'
+        src: 'img/logo.svg',
+        className: 'no-border'
       },
       items: [
         {

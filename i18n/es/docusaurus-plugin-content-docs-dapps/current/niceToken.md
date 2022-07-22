@@ -4,6 +4,8 @@ title: $nice Token
 slug: /giveconomy/niceToken
 ---
 import NotTranslatedMessage from '../../_notTranslatedES.mdx'
+import useBaseUrl from '@docusaurus/useBaseUrl'
+
 
 <NotTranslatedMessage />
 
@@ -11,6 +13,9 @@ import NotTranslatedMessage from '../../_notTranslatedES.mdx'
 The $nice token was launched in Q3 2022 in an effort to promote direct donations to the Giveth Organization.
 
 When users on the Giveth Dapp make a donation to the [Giveth Project](https://giveth.io/project/the-giveth-community-of-makers) in certain eligible tokens they'll receive $nice in return.
+
+<a href="https://giveth.io/project/the-giveth-community-of-makers"><img alt="nice token banner"  src={useBaseUrl('img/content/niceBanner.png')} /></a>
+
 
 The following tokens have been listed as eligible for $nice when donated to Giveth:
 

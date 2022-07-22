@@ -8,7 +8,7 @@ import styles from '../../../../src/css/custom.css'
 
 [Mart 2021](https://medium.com/giveth/the-future-of-giving-is-here-d480388a3338)'de hayata gözlerini açan Giveth.io, insanların Ethereum aracılığıyla projelere bağış yapması için basit ve akıcı bir yol sunuyor.
 
-<img id="contentimg" width="650" height="auto" alt="giveth.io homepage" src={useBaseUrl('img/content/givethio/givethIOhome.png')} />
+<img id="contentimg" width="800" height="auto" alt="giveth.io homepage" src={useBaseUrl('img/content/givethio/givethIOhome.png')} />
 
 [Giveth.io](https://giveth.io/), bağışçılar ve projeler için sorunsuz başvuru ve kabul sürecine sahiptir. Proje oluşturmak dakikalar içinde, bağış yapmak saniyeler içinde gerçekleşebilir. Sosyal veya çevresel değişim yaratan farklı projeler bulmak kolaydır.
 

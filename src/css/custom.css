@@ -40,9 +40,9 @@ background-size: cover;
 border-bottom: 2px solid #E1458D;
 }
 
-#contentimg
+img:not(.no-border)
 {
-  border: 5px solid #C2449F;
+  border: 3px solid #C2449F;
   border-radius: 15px;
   margin: 20px;
 }
