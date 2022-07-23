@@ -1,57 +1,48 @@
 ---
 id: niceToken
-title: $nice Token
+title: $nice Token Nedir?
 slug: /giveconomy/niceToken
 ---
-import NotTranslatedMessage from '../../_notTranslatedTR.mdx'
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
 
-<NotTranslatedMessage />
-
-
-The $nice token was launched in Q3 2022 in an effort to promote direct donations to the Giveth Organization.
-
-When users on the Giveth Dapp make a donation to the [Giveth Project](https://giveth.io/project/the-giveth-community-of-makers) in certain eligible tokens they'll receive $nice in return.
-
+ $nice Token, Giveth Organizasyonuna doğrudan bağışları teşvik etmek amacıyla 2022'nin 3. çeyreğinde piyasaya sürüldü. <br/>
+Giveth Dapp kullanıcıları belirli tokenlerle [Giveth Projesi'ne](https://giveth.io/project/the-giveth-community-of-makers) bağış yaptıklarında bunun karşılığında $nice token kazanacaklar. <br/> <br/>
 <a href="https://giveth.io/project/the-giveth-community-of-makers"><img alt="nice token banner"  src={useBaseUrl('img/content/niceBanner.png')} /></a>
 
+Aşağıdaki tokenleri, Giveth'e bağışlandığınızda $nice token almaya hak kazanmış olacaksınız:
 
-The following tokens have been listed as eligible for $nice when donated to Giveth:
+- [DAI](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f) (Ana ağ)  <br/> <br/>
+- xDAI (Gnosis Zinciri) <br/> <br/>
+- [wxDAI](https://www.blockscout.com/xdai/mainnet/token/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/token-transfers) (Gnosis Zinciri) <br/> <br/>
 
-- [DAI](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f) (Mainnet)
-- xDAI (Gnosis Chain)
-- [wxDAI](https://www.blockscout.com/xdai/mainnet/token/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/token-transfers) (Gnosis Chain)
+ $nice token ile yukarıdaki tokenlerle yaptığınız bağışın yapıldığı andaki USD değeri 1'e 1 oranında eşleştirilecek.
+Örneğin, Giveth'e 50 DAI bağışladıysanız (1$ peginin bozulmadığını varsayarak) 50$ $nice token almaya hak kazanacaksınız. <br/> <br/>
+Hak kazanan bağışlar, [GIVback'lerin](https://docs.giveth.io/giveconomy/givbacks/) takip ettiği aynı iki haftalık turlara kaydedilecek. $NICE token dağıtımı, miktar hesaplandıktan sonra, GIVback'lerin gönderilmesiyle aynı anda yapılacak. <br/> <br/>
 
-$nice is matched at a 1:1 ratio of the USD value of the donations at the time the donation was made. For example if you donated 50 DAI to Giveth (assuming it holds its $1 peg) you would receive 50 $nice.
+## $nice Token Faydaları <br/> 
 
-Eligible donations are registered on the same bi-weekly rounds that [GIVbacks](https://docs.giveth.io/giveconomy/givbacks/) follow. Distribution of $nice, once calculated, is done at the same time that GIVbacks are sent out.
+$nice tokenin birçok özelliğinden ilki, onu [Giveth swag dükkanında](https://swag.giveth.io/)(bir nevi birmilyoncu) bir şeyler almak için kullanılması olacaktır. Giveth'e destek olmak için Giveth markalı kıyafetleri ve daha fazlasını kapınıza kadar getirtebilirsiniz. <br/>
 
-## Utility
+Yoldaki diğer bazı heyecan verici yararlar şunlar:
 
-The first of many features of $nice will be the ability to redeem it for swag on the [Giveth swag shop](https://swag.giveth.io/). You can get Giveth branded clothing and more delivered right to your door for supporting Giveth.
+- [YGiveth PFP'lerine](https://forum.giveth.io/t/the-givers-pfp-collection-initial-sketches/656/5) Erken Erişim ve $nice ödemesi. <br/> 
+- En yüksek miktarda bağışta bulunan Giveth bağışçılarının ve $nice token sahiplerinin lider tabloları ve sosyal medya promosyonları. <br/> 
+- $nice sahipleri için GIV ödül programı. <br/> 
 
-Some other exciting utilities down the road might include:
-- Early Access to and Redemption of $nice for [Giveth PFPs](https://forum.giveth.io/t/the-givers-pfp-collection-initial-sketches/656/5).
-- Leaderboards and Social Media promotion of top Giveth donors and $nice holders.
-- GIV rewards program for $nice holders.
+Gökyüzünun sınırlarındaki $nice ve Giveth ekibi aktif olarak bu yeni tokenin özelliklerini ve gelecekteki yararlarını geliştiriyor ve deniyor. <br/> <br/>
 
-The sky's the limit for $nice and the Giveth team is actively building and experimenting with features and future utilities of this new token.
+## Fonların Kullanımı <br/>
 
-## Use of Funds
+Giveth, elde edilen fonları, Giveth ve GIVeconomy'nin istikrarını ve büyümesini sağlamaya yarayacak bir strateji için kullanacak. <br/>
+Alınan bağışların dolar değerinin %50'si GIV'i geri almak için kullanılacaktır. Geri kalan %50, geri alınan GIV ile likit bir havuz çifti oluşturmak için kullanılacaktır.
 
-Giveth will use the acquired funds for a very direct strategy to ensure the stability and growth of Giveth and the GIVeconomy. 
-
-50% of the USD value of eligible donations received will be used to buy back GIV. The other 50% will be used to create a liquidy pool pair with the bought back GIV.
-
-Let's look at an example:
-> Over a 3 month period Giveth acquires $100,000 of eligible donations in DAI.
+Bir örneğe bakalım: <br/> 
+> 3 aylık bir süre boyunca Giveth, DAI'de 100.000 ABD Doları tutarında bağış aldı.
 > 
-> We use $50,000 worth of the DAI received to buy back GIV from the circulating supply.
+> GIV'in dolaşımdaki arzından geri satın almak için 50.000 ABD Doları değerinde DAI kullanacağız.
 > 
-> Subsequently we take this $50,000 worth of GIV we just bought back and combine it with the remaining $50,000 of DAI to supply a $100,000 DAI/GIV LP position on Uniswap v2 that is owned by the Giveth multisig.
+> Daha sonra, yeni satın aldığımız bu 50.000$ değerindeki GIV'i alıp kalan 50.000$ değerinde DAI ile birleştirip Giveth multisig'in sahip olduğu Uniswap v2'de 100.000$'lık bir DAI-GIV LP pozisyonu sağlayacağız. <br/>
 
-This effectively allows Giveth to create strong DAO-owned liquidity positions over time. This in turn helps to mitigate the volatility that liquidity farming programs can have on the GIV token economy.
-
-Giveth may employ new strategies for received funds at any given point in the future.
-
+Bu, Giveth ekibinin zaman içinde DAO'ya ait güçlü likidite pozisyonları oluşturmasını etkin bir şekilde rol oynayacak. Bu da, likidite havuzu programlarının GIV token ekonomisinde sahip olabileceği oynaklığı azaltmaya yardımcı olacak. <br/> <br/>
+Giveth, gelecekte herhangi bir noktada alınan fonlar için yeni stratejiler uygulayabilir.
