@@ -19,8 +19,7 @@ Aşağıdaki tokenleri, Giveth'e bağışlandığınızda $nice token almaya hak
 - xDAI (Gnosis Zinciri) 
 - [wxDAI](https://www.blockscout.com/xdai/mainnet/token/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/token-transfers) (Gnosis Zinciri) 
 
- $nice token ile yukarıdaki tokenlerle yaptığınız bağışın yapıldığı andaki USD değeri 1'e 1 oranında eşleştirilecek.
- Örneğin, Giveth'e 50 DAI bağışladıysanız (1$ peginin bozulmadığını varsayarak) 50$ $nice token almaya hak kazanacaksınız. 
+\$nice token ile yukarıdaki tokenlerle yaptığınız bağışın yapıldığı andaki USD değeri 1'e 1 oranında eşleştirilecek. Örneğin, Giveth'e 50 DAI bağışladıysanız (1$ peginin bozulmadığını varsayarak) 50$ $nice token almaya hak kazanacaksınız. 
  
 Hak kazanan bağışlar, [GIVback'lerin](https://docs.giveth.io/giveconomy/givbacks/) takip ettiği aynı iki haftalık turlara kaydedilecek. $NICE token dağıtımı, miktar hesaplandıktan sonra, GIVback'lerin gönderilmesiyle aynı anda yapılacak. 
 
