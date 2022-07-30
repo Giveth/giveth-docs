@@ -5,78 +5,83 @@ slug: giveconomy/givbacks
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-GIVbacks is a revolutionary concept that rewards donors to verified projects with GIV tokens. When you give to verified projects during a GIVbacks round, you become eligible to receive GIV rewards after the round ends and the GIV is ready to claim. You can see live information --- including round schedule & your claimable GIV --- on the [GIVbacks page](https://giv.giveth.io/givbacks).
+GIVbacks é um conceito revolucionário que recompensa doadores para projetos verificados com tokens GIV. Ao doar para projetos verificados durante uma rodada de GIVbacks, você se torna elegível para receber recompensas GIV após o término da rodada e o GIV estará pronto para ser coletado. Você pode acompanhar as  informações ao vivo --- incluindo cronograma de rodadas e o seu GIV disponível para ser coletado. --- na [página GIVbacks](https://giv.giveth.io/givbacks).
 
-## GIVbacks Rounds
-GIVbacks rounds last two weeks. For each round, there is 1 million GIV available to be rewarded.
+## Rodadas de GIVbacks
+
+As rodadas de GIVbacks duram duas semanas. Para cada rodada, há 1 milhão de GIV disponíveis para serem recompensados.
 
 ![](https://i.imgur.com/cBBSzJa.png)
 
-Givers who donate to verified projects within an active round are eligible to receive GIVbacks. Note that addresses of verified projects will not receive GIV for donations made to their own project or other verified projects.
+Doadores que doam para projetos verificados em uma rodada ativa são elegíveis para receber GIVbacks. Observe que os endereços de projetos verificados não receberão GIV por doações feitas para seu próprio projeto ou outros projetos verificados.
 
 ![](https://i.imgur.com/aklPnKC.png)
 
+## Verificação do Projeto
 
-## Project Verification
-'Verified' is a seal of approval for legitimate projects on Giveth. Many Verified projects came pre-vetted from [The Giving Block](https://twitter.com/TheGivingBlock) API. The Giving Block is an organization that supports and onboards registered 501c3s from the United States into crypto, and with our integration, you can donate to their projects from the Giveth UI.
+'Verificado' é um selo de aprovação para projetos legítimos na Giveth. Muitos projetos verificados foram pré-aprovados na API [The Giving Block](https://twitter.com/TheGivingBlock). The Giving Block é uma organização que suporta e integra 501c3s registrados dos Estados Unidos em crypto e, com nossa integração, você pode doar para seus projetos a partir da interface do usuário da Giveth.
 
-For non-Giving Block projects, the verification process requires projects to provide additional information about their project and the intended impact of the organization. Our amazing Project Verification Team then reviews these applications, investigates the information provided and informs the project owners about the verdict. 
+Para projetos non-Giving Block, o processo de verificação exige que os projetos forneçam informações adicionais sobre seu projeto e o impacto pretendido na organização. Nossa incrível Equipe de Verificadores de Projetos analisa esses aplicativos, investiga as informações fornecidas e informa aos proprietários do projeto sobre o veredicto.
 
-To learn more about the project verification process check out our **documentation**.
+Para saber mais sobre o processo de verificação do projeto, confira nossa **documentação**.
 
-## Tokens Eligible for GIVbacks
+## Tokens Elegíveis para GIVbacks
 
-A donor can donate any ERC-20 token to projects on Giveth.io on Gnosis Chain (formerly xDai Network) or Ethereum Mainnet. However, only donations to Verified Projects in certain tokens are eligible for GIVbacks. This restriction ensures that we are able to get accurate price data for donations (a requirement for fair distribution of GIVbacks), and prevents bad actors from gaming the GIVbacks program. To see the full list of eligible tokens, visit [this forum post](https://forum.giveth.io/t/givbacks-token-list/253).
+Um doador pode doar qualquer token ERC-20 para projetos na Giveth.io, na Gnosis Chain (antiga xDai Network) ou Ethereum Mainnet. No entanto, apenas doações para projetos verificados em determinados tokens são elegíveis para GIVbacks. Essa restrição garante que possamos obter dados precisos de preços para doações (um requisito para distribuição justa de GIVbacks) e impede que maus atores joguem no programa GIVbacks. Para ver a lista completa de tokens qualificados, visite [essa postagem do fórum](https://forum.giveth.io/t/givbacks-token-list/253).
 
-## Getting GIVbacks
-During each round, all donations to verified projects on the DApp are tracked, and this data is used to calculate the amount of GIVbacks received by each Giver for that period.
+## Obtendo GIVbacks
 
-Givers are able to claim their GIV after the round ends and a fraud review has been conducted. Donors will receive an email when the rewards are ready to be claimed on the [GIVbacks page](https://giv.giveth.io/givbacks). A portion of the GIV will be liquid immediately, and the rest will increase the flowrate of their [GIVstream](https://giv.giveth.io/givstream). To learn more about the GIVstream and how it works, check out our [documentation](https://docs.giveth.io/giveconomy/givstream/). For the purposes of this documentation, we will refer to the sum of the liquid amount and the amount allocated to the GIVstream from GIVbacks as `cumulative GIVbacks`.
+Durante cada rodada, todas as doações para projetos verificados no DApp são rastreadas, e esses dados são usados ​​para calcular a quantidade de GIVbacks recebidos por cada Doador naquele período.
 
-Note that, even with the GIVbacks program, a donation on Giveth is still a donation. The maximum value of the donor's `cumulative GIVbacks` is equal to 75% of the value of their donation, at the time of donation. If the value of the `1 million GIV` allocated to the GIVbacks round is more than 75% of the total value of all donations (at the time of each donation) during the round duration, then all eligible donors will get their respective maximum cumulative GIVbacks.
+Os doadores podem reivindicar seu GIV após o término da rodada e uma revisão de fraude ter sido realizada. Os doadores receberão um e-mail quando as recompensas estiverem prontas para serem reivindicadas na [página GIVbacks](https://giv.giveth.io/givbacks). Uma parte do GIV será líquidada imediatamente e o restante aumentará a vazão da sua [GIVstream](https://giv.giveth.io/givstream). Para saber mais sobre a GIVstream e como ela funciona, confira nossa [documentação](https://docs.giveth.io/giveconomy/givstream/). Para os fins desta documentação, nos referiremos à soma do valor líquido e o valor alocado a GIVstream dos GIVbacks como `GIVbacks cumulativos`.
 
-If the total value of donations (at the time each donation) exceeds 75% of the `1 million GIV` allocated to the round, the `cumulative GIVbacks` for each donor is proportionately less and calculated as follows:
+Observe que, mesmo com o programa GIVbacks, uma doação na Giveth ainda é uma doação. O valor máximo dos `GIVbacks cumulativos` do doador é igual a 75% do valor da sua doação, no momento da doação. Se o valor de `1 milhão de GIVs` alocados para a rodada GIVbacks for superior a 75% do valor total de todas as doações (no momento de cada doação) durante a duração da rodada, todos os doadores elegíveis receberão seus respectivos valores cumulativos máximos de GIVbacks.
+
+Se o valor total das doações (no momento de cada doação) exceder 75% de `1 milhão de GIVs` alocados para a rodada, os `GIVbacks acumulados` para cada doador são proporcionalmente menores e calculados da seguinte forma:
 
 $$
 n = N \frac{v}{V}
 $$
- 
-where:
 
-- n = Total cumulative amount of GIV tokens earned by the donor for a particular donation
-- N = Total number of GIV tokens allocated for distribution in the round (1 million GIV)
-- v = Value (in USD) of the donation at the time of donation
-- V = Total value (in USD) of all donations to eligible projects during the round
+Onde:
 
-GIV tokens earned through the GIVbacks program can be used throughout the GIVeconomy: for governance within the [GIVgarden](https://giv.giveth.io/givgarden), to support the token by providing liquidity (and earning rewards!) in the [GIVfarm](https://giv.giveth.io/givfarm), or for donating to projects on [Giveth](https://giveth.io/).
+- n = Quantidade total acumulada de tokens GIV ganhos pelo doador para uma doação específica.
+- N = Número total de tokens GIV alocados para distribuição na rodada (1 milhão de GIVs).
+- v = Valor (em USD) da doação no momento da doação.
+- V = Valor total (em USD) de todas as doações para projetos elegíveis durante a rodada.
 
-## Harvesting GIVbacks
+Os tokens GIV obtidos por meio do programa GIVbacks podem ser usados ​​em toda a GIVeconomy: para governança dentro do [GIVgarden](https://giv.giveth.io/givgarden), para dar suporte ao token fornecendo liquidez (e ganhando recompensas!) na [GIVfarm](https://giv.giveth.io/givfarm), ou para fazer doações para projetos na [Giveth](https://giveth.io/).
 
-GIVbacks are available to be harvested after the round ends, data has been reviewed and GIV is distributed to eligible donor addresses. Donors will receive an email when GIVbacks rewards are ready to claim - this GIV can be harvested [here](https://giv.giveth.io/givbacks). Please note that when you harvest GIV rewards from any part of the GIVeconomy, our token distro contract sends you all liquid GIV allocated to your address on that network. For example, when you harvest GIV rewards earned from staking LP tokens in the GIVfarm on Gnosis Chain (formerly xDai Network), you also harvest rewards allocated to you from GIVbacks (if any) and the liquid amount from your GIVstream. This is broken down in the harvest popup that you encounter upon claim:
+## Colhendo GIVbacks
+
+Os GIVbacks estão disponíveis para serem coletados após o término da rodada, os dados foram revisados ​​e o GIV é distribuído para endereços de doadores elegíveis. Os doadores receberão um e-mail quando as recompensas em GIVbacks estiverem prontas para serem reivindicadas - esse GIV pode ser colhido [aqui](https://giv.giveth.io/givbacks). Observe que, quando você coleta recompensas GIV de qualquer parte da GIVeconomy, nosso contrato de distribuição de token envia todos os GIV líquidos alocados para seu endereço nessa rede. Por exemplo, quando você colhe recompensas GIV ganhadas ao apostar fichas LP no GIVfarm na Gnosis Chain (antiga xDai Network), você também colhe recompensas alocadas a você em GIVbacks (se houver) e o valor líquido da sua GIVstream. Isso é detalhado no pop-up de colheita que você encontra ao reivindicar:
 
 ![](https://i.imgur.com/GVpn68a.png)
 
 
 ---
-## Disqualifying Factors for the GIVbacks Program
+## Fatores Desqualificantes para o Programa GIVbacks
 
-Once a GIVbacks round ends, there is a period of time granted to our team to review flagged projects and donations for the following disqualifying factors before GIV is distributed to donors. A project could have their Verified status revoked if any of these factors are found. Donors to projects who are found with any of the following activity may also be denied GIVbacks for that round.
+Quando uma rodada de GIVbacks termina, há um período de tempo concedido à nossa equipe para revisar projetos e doações sinalizadas para os seguintes fatores desqualificadores antes que o GIV seja distribuído aos doadores. Um projeto pode ter seu status Verificado revogado se algum desses fatores forem encontrados. Os doadores de projetos que forem encontrados com qualquer uma das atividades a seguir também podem ter seus GIVbacks negados para essa rodada.
 
-1. **Giving/offering goods or services to donors in exchange for their donation.** A project owner cannot offer goods such as a sponsorship for a conference, Girl Scout cookie purchases or tickets for a dinner, even if the proceeds go to charity. Project owners cannot provide services like acting as a crypto exchange for their donors. They can explain how to use an exchange, but they cannot convert the money for their donors.
-2. **Circulating donations raised by other means.** Only “first touch” donations count for GIVbacks. If a project receives funding from a donor and is found to be circulating these donations within the Giveth platform to receive GIVbacks, they will be disqualified. For example, a project should not be sending fiat donations received elsewhere back to their donors and asking them to donate on Giveth with crypto.
-3. **The funds are not being used for what is expressed in the project page or submitted verification application.** Verified projects are responsible for keeping their projects up-to-date with information on how the funds are being used. If the project states explicitly that they are, for example, using the funds to develop education programs but are found to be using the funds to employ developers, they may be disqualified from the GIVbacks program.
-4. **Unscrupulous or fraudulent activity.** This can be the use of violence, breaking laws, or other behaviour that does not uphold the [values of the Giveth community](https://docs.giveth.io/whatisgiveth/). Projects found to be violating our [Terms and Conditions](https://giveth.io/tos) will not only lose their verification status, but also will be canceled.
+1. **Dar/oferecer bens ou serviços a doadores em troca de sua doação.**
+Um proprietário de projeto não pode oferecer bens como um patrocínio para uma conferência, compras de biscoitos ou ingressos para um show, mesmo que os lucros sejam destinados à caridade. Os proprietários do projeto não podem fornecer serviços como atuar numa troca de cryptomoedas com seus doadores. Eles podem explicar como fazer uma troca, mas não podem converter o dinheiro para seus doadores.
+2. **Circulando doações arrecadadas por outros meios.**
+Apenas doações de “primeiro toque” contam para GIVbacks. Se um projeto receber financiamento de um doador e estiver circulando essas doações na plataforma Giveth para receber GIVbacks, ele será desqualificado. Por exemplo, um projeto não deve enviar doações fiduciárias recebidas em outro lugar para seus doadores e pedir que doem na Giveth com criptomoedas.
+3. **Os fundos não estão sendo usados para o que está relatado na página do projeto ou na solicitação de verificação enviada.**
+Projetos verificados são responsáveis por manter seus projetos atualizados com informações sobre como os fundos estão sendo usados. Se o projeto declarar explicitamente que está, por exemplo, usando os fundos para desenvolver programas de educação, mas é descoberto que os fundos estão sendo usados para empregar desenvolvedores, eles podem ser desqualificados do programa GIVbacks.
+4. **Atividade sem escrúpulos ou fraudulenta.**
+Isso pode ser o uso de violência, violação de leis ou outro comportamento que não respeite os [valores da comunidade Giveth](https://docs.giveth.io/whatisgiveth/). Os projetos que violarem nossos [Termos e Condições](https://giveth.io/tos) não apenas perderão o status de verificado, como também serão cancelados.
 
-The Giveth Project Verification team is responsible for monitoring GIVbacks activity and the Project Verification system, and will ultimately use their discretion to determine whether a project’s actions are unscrupulous and/or disqualifying.
+A equipe de Verificadores de Projetos da Giveth é responsável por monitorar as atividades de GIVbacks e o sistema de Verificação de Projeto e, em última análise, usará seu critério para determinar se as ações de um projeto são inescrupulosas e/ou desqualificantes.
 
-## Sanctions for flagged donations
+## Sanções para Doações Sinalizadas
 
-Verified projects and donations that are flagged for any of the disqualifying factors above will be analyzed and discerned according to the sanctions outlined here:
+Projetos verificados e doações sinalizadas por qualquer um dos fatores desqualificadores acima serão analisados ​​e discriminados de acordo com as sanções descritas aqui:
 
-- A donor whose GIVbacks were revoked because they were found to be recirculating funds or donated to a project that was disqualified for that round will receive an email with a link to the forum post discussing eligible donations for that round. Donations cannot be refunded and GIVbacks cannot be “unrevoked” if the project was disqualified from the round. 
+- Um doador cujos GIVbacks foram revogados porque foram encontrados fundos de recirculação ou doados para um projeto que foi desqualificado para aquela rodada receberá um e-mail com um link para a postagem do fórum discutindo doações elegíveis para aquela rodada. As doações não podem ser reembolsadas e os GIVbacks não podem ser “revogados” se o projeto for desqualificado da rodada.
 
-Donations are donations and they go directly to the project. The GIVbacks program was created to additionally empower our donors with GIV & therefore governance rights, but you should not make a donation purely out of the expectation of receiving GIV. We appreciate your understanding.
+Doações são doações e vão diretamente para o projeto. O programa GIVbacks foi criado para capacitar adicionalmente nossos doadores com GIV e, portanto, direitos de governança, mas você não deve fazer uma doação puramente com a expectativa de receber GIV. Agradecemos a sua compreensão.
 
 ---
-
-**The GIVbacks program is our way of giving back to those who give. It’s our exit to the community - empowering real donors with governance power over the future of Giveth and hence, the Future of Giving. To get GIVbacks, [start donating to verified projects today](https://giveth.io/projects)!**
+**O programa GIVbacks é a nossa forma de retribuir nossos doares. É a nossa saída para a comunidade - capacitando doadores reais com poder de governança sobre o futuro da Giveth e, portanto, o futuro da doação. Para receber GIVbacks, [comece a doar para projetos verificados hoje](https://giveth.io/projects)!**
