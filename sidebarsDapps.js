@@ -40,8 +40,14 @@ module.exports = {
             label: 'GIVgarden',
             link: {type: 'doc', id: 'givgarden'},
             items:['termsForProposals']
+          },
+          {
+            type: 'category',
+            label: 'GIVfarm',
+            link: {type: 'doc', id: 'givfarm'},
+            items:['regenFarms', 'angelVault']
           }
-          , 'givfarm','regenFarms', 'niceToken'
+          , 'niceToken'
 ]
           }
         ]
