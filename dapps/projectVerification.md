@@ -24,8 +24,8 @@ The verification process will require some additional information about a projec
 
 Projects must submit their application forms at least one week before the start of a round in order to qualify for that round. Once approved, its status is updated on Giveth, and it is given a `Verified` badge on the Homepage and on the Projects Page. 
 
-**Verified badges will automatically expire after 3 months of project inactivity - Be sure to share your progress with the world by adding regular updates!**
-**Current project owners have until October 14th, 2022 to update projects**
+**Verified badges will automatically expire after 3 months of project inactivity.
+Be sure to share your progress with the world by adding regular updates!** *Current project owners have until October 14th, 2022 to update projects*
 
 <img alt="GIVbacks Rounds Schedule" src={useBaseUrl('img/content/givBacksRounds.png')} />
 
