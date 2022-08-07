@@ -7,59 +7,57 @@ import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
 import ReactPlayer from 'react-player'
 
+Bem-vindo ao GIViverso em expansão! A GIVstream alinha os membros da comunidade com o sucesso de longo prazo da Giveth e da GIVeconomy. Com a GIVstream, aqueles que agregam valor ao GIVEconomy, recebem GIVs continuamente por até 5 anos a partir da data de lançamento da GIVeconomy. A GIVeconomy começa humildemente, mas com o passar do tempo, o GIViverso se expande: Mais GIVs se tornam líquidos e são transmitidos para nossa comunidade de GIVernautas.
 
-Welcome to the expanding GIViverse! The GIVstream aligns community members with the long term success of Giveth and the GIVeconomy. With the GIVstream, anyone who adds value to the GIVeconomy receives GIV continuously for up to 5 years from the GIVeconomy launch date. The GIVeconomy begins humbly, but as time passes, the GIViverse expands: More GIV becomes liquid is streamed to our community of GIVernauts.
-
-All GIVstreams flow until December 23, 2026, at which point the GIVeconomy will be in full swing! [Watch your GIVstream flow](https://giv.giveth.io/givstream).
+Todas as GIVstreams fluem até 23 de dezembro de 2026, quando a GIVeconomy estará em pleno andamento! 
+[Veja seu Fluxo Givestream](https://giv.giveth.io/givstream).
 
 <ReactPlayer playing light='/video/givstream_thumbnail.png'  loop={true} controls url='/video/GIF_GIVETHiverse.mp4' />
 
+## Como Funciona
 
-## How it Works
-At launch, 10% of the total token supply of 1 billion GIV will be liquid and distributed across the [GIVeconomy](https://docs.giveth.io/giveconomy/). The rest supplies the GIVstream which flows for 5 years, releasing more liquid GIV every second. After the 5 year period, 100% of GIV tokens will be liquid.
+No lançamento, 10% do fornecimento total de tokens de 1 bilhão de GIV serão líquidos e distribuídos em toda [GIVeconomy](https://docs.giveth.io/giveconomy/). O restante abastece a GIVstream que flui por 5 anos, liberando mais GIV líquidos a cada segundo. Após o período de 5 anos, 100% dos tokens GIV serão líquidos.
 
-The following table explains what percentage of GIV is liquid and distributed throughout the GIViverse, and which part is still yet to flow from the GIVstream.
+A tabela a seguir explica qual porcentagem de GIV é líquida e distribuída em todo o GIViverso e qual parte ainda está para fluir da GIVstream.
 
-
-|Date	|Liquid GIV	|GIV flowing from the GIVstream|
+|Data	|GIV Líquido	|GIV fluindo na Givstream|
 |-------|-----------|-----------------|
-|Dec 24, 2021	|	10% | 	90% |
-|Oct 24, 2022  |   25%	|   75% |
+|Dez 24, 2021	|	10% | 	90% |
+|Out 24, 2022  |   25%	|   75% |
 |Mar 15, 2024	|	50% |   50% |
-|Aug 04, 2025   |   75%	|   25% |
-|Dec 23, 2026	|  100%	|    0% |
+|Ago 04, 2025   |   75%	|   25% |
+|Dez 23, 2026	|  100%	|    0% |
 
-
-## Your GIVstream Flowrate
-
+## Seu Flowrate na GIVstream
 <img width='85%' alt='flowrate counter' src={useBaseUrl('/img/content/giveconomy/flowrate.png')} />
 
-Your GIVstream flowrate is the rate (GIV/week) at which your GIV becomes liquid. All recipients of the [GIVdrop](https://docs.giveth.io/giveconomy/givdrop) will also receive a GIVstream on Gnosis Chain (formerly xDai Network). If you did not receive a GIVdrop, you can still get a GIVstream by participating in the GIVeconomy.
+Seu Flowrate (taxa de fluxo) na GIVStream é a taxa (GIV/semana) na qual seu GIV se torna líquido. Todos os destinatários do [GIVdrop](https://docs.giveth.io/giveconomy/givdrop) também receberão uma GIVstream na Gnosis Chain (antiga xDai Network). Se você não recebeu um GIVdrop, você ainda pode obter uma GIVstream participando da GIVeconomy.
 
-You can get (or increase) your GIVstream flowrate on Gnosis Chain (formerly xDai Network) by donating (on Gnosis Chain or Mainnet) and getting [GIVbacks](https://giv.giveth.io/givbacks), by wrapping GIV to use in the [GIVgarden](https://giv.giveth.io/givgarden), or by staking in the [GIVfarm](https://giv.giveth.io/givfarm) on Gnosis Chain.
+Você pode obter (ou aumentar) o flowrate da sua GIVstream na Gnosis Chain (antiga xDai Network) doando (na Gnosis Chain ou Mainnet) e obtendo [GIVbacks](https://giv.giveth.io/givbacks), podendo usá-los na [GIVgarden](https://giv.giveth.io/givgarden) ou apostando em [GIVfarm](https://giv.giveth.io/givfarm) na Gnosis Chain.
 
-You can get (or increase) your GIVstream flowrate on Ethereum mainnet by providing mainnet liquidity and staking GIV or LP tokens in the [GIVfarm](https://giv.giveth.io/givfarm) on Mainnet.
+Você também pode obter (ou aumentar) o flowrate da sua GIVstream na mainnet da Ethereum fornecendo liquidez para mesma e apostando tokens GIV ou LP na [GIVfarm](https://giv.giveth.io/givfarm) pela Mainnet.
 
-### Earning Rewards
-When you earn GIV through participation in the GIVeconomy, part will be liquid and part will add to your GIVstream flowrate. As time passes and the GIVstream flows, a greater percentage of the total GIV you earn is liquid.
+### Ganhando Recompensas
 
-When you earn and/or claim rewards from GIVbacks (Gnosis Chain), the GIVgarden (Gnosis Chain) or the GIVfarm (Gnosis Chain or Ethereum Mainnet), you increase your GIVstream flowrate. Note that when you claim, any GIV liquid from the GIVstream on that chain also get sent to your wallet.
+Quando você ganha GIV participando da GIVeconomy, uma parte será líquida e a outra parte será adicionada ao flowrate da sua GIVstream. À medida que o tempo passa e a GIVstream começa a fluir, uma porcentagem maior do GIV total que você ganha é líquida.
+
+Quando você ganha e/ou reivindica recompensas de GIVbacks (Gnosis Chain), GIVgarden (Gnosis Chain) ou GIVfarm (Gnosis Chain ou Ethereum Mainnet), você aumenta o flowrate da sua GIVStream. Observe que, quando você reivindica, qualquer GIV líquido da GIVstream nessa Chain também é enviado para sua carteira.
 
 <img width='70%' class="center" alt='GIVgarden Rewards' src={useBaseUrl('/img/content/giveconomy/GIVgardenRewards.png')} />
 
-### History Table
+## Tabela de Histórico
 
-The GIVstream history table is a summary of all the instances in which your GIVstream flowrate increased. When GIVbacks are distributed, the increase in your flowrate is automatically added to the history table. For rewards earned in GIVfarm, you must "harvest" in order to see your GIVstream flowrate increase, and to see the corresponding entry in the history table.
+A tabela de histórico da GIVstream é um resumo de todas as instâncias em que o flowrate da GIVstream aumentou. Quando os GIVbacks são distribuídos, um aumento em seu flowrate é adicionado automaticamente à tabela de histórico.
 
-Note: When earning rewards in the GIVfarm, it does not matter if you harvest rewards and increase your flowrate sooner, or later. You total liquid rewards and streaming rewards will be the same in either case.
+ Nota: Ao ganhar recompensas no GIVfarm, não importa se você coleta recompensas e aumenta seu flowrate mais cedo ou mais tarde, as recompensas líquidas totais e as recompensas de streaming serão as mesmas em ambos os casos.
 
 ![](https://i.imgur.com/W9WN7gy.png)
 
 ----
 
-The GIVstream nurtures the GIVeconomy at inception by having only 10% of the total supply of GIV liquid and transferrable to start. As the GIVeconomy grows & stabilizes, more GIV becomes liquid and available for everyone. We want to empower those who support the Giveth ecosystem with steadily increasing governance rights, this includes participants who:
-- [Donate to Verified Projects](https://giveth.io/projects)
-- Vote in the [GIVgarden](https://giv.giveth.io/givgarden), and
-- Provide liquidity in the [GIVfarm](https://giv.giveth.io/givfarm)
+A GIVstream nutre a GIVeconomy no início por ter apenas 10% do fornecimento total de GIV líquido e transferível para começar. À medida que a economia GIV cresce e se estabiliza, mais GIVs se tornam líquidos e disponíveis para todos. Queremos capacitar aqueles que apoiam o ecossistema Giveth com direitos de governança cada vez maiores, incluindo participantes que:
+- [Doaram para Projetos Verificados](https://giveth.io/projects)
+- [Votaram no GIVgarden](https://giv.giveth.io/givgarden) e
+- Proveram líquidez na [GIVfarm](https://giv.giveth.io/givfarm)
 
-Participants benefit from their GIVstream flowing as the GIVeconomy flourishes over time, therefore we ensure that Giveth is not just governed by people who buy tokens on the open market but by those who contribute in a more meaningful way.
+Os participantes se beneficiam do fluxo da GIVstream à medida que a GIVeconomy floresce ao longo do tempo, portanto, garantimos que a Giveth não seja governada apenas por pessoas que compram tokens no mercado aberto, mas por aqueles que contribuem de maneira mais significativa.

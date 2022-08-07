@@ -7,117 +7,109 @@ import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
 
 
-Giveth has chosen the Gardens DAO governance platform developed by [1hive](_https://forum.1hive.org/t/welcome-to-1hive/7) to allow GIV token holders to manage the DAO configurations and allocate funds to projects that are aligned with its [mission, vision and values](/whatisgiveth/). Our unique Giveth Garden has been aptly named “the GIVgarden” and is deployed on Gnosis Chain (formerly xDai Network). The main tools used for governance in the GIVgarden are Conviction Voting and Tao Voting.  
+A Giveth escolheu a plataforma de governança Gardens DAO desenvolvida pela [1hive](_https://forum.1hive.org/t/welcome-to-1hive/7) para permitir que os detentores de tokens GIV possam guiar o futuro da DAO e alocar fundos para projetos que estão alinhados com sua [missão, visão e valores](/whatisgiveth/). Nosso exclusivo Giveth Garden (Jardim Giveth) foi apropriadamente chamado de “GIVgarden” e é implantado na Gnosis Chain (antiga xDai Network). As principais ferramentas utilizadas para governança no GIVgarden são os Convicting Voting e Tao Voting.
 
-The GIVgarden uses the [Giveth Community Covenant](/whatisgiveth/covenant) as a decentralized social contract that outlines standards for on-chain and off-chain behaviour.   
+O GIVgarden usa a [Giveth Community Covenant](/whatisgiveth/covenant) como um contrato social descentralizado que define padrões para comportamentos on e off-chain.
 
-You can visit the [**GIVgarden** here](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98).  
-
+Você pode visitar o [**GIVgarden** aqui](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98).
 
 ## Conviction Voting
-[**Conviction Voting**](https://forum.giveth.io/t/conviction-voting/154) allows requests for funding from the DAO and to suggest improvements, features or unique actions to Giveth and its platforms. Gardens highlights the fundamental concept of Conviction Voting in their documentation:
+[**Conviction Voting**](https://forum.giveth.io/t/conviction-voting/154) (ou Votação de Convicção) permite solicitações de financiamento da DAO para sugerir melhorias, recursos ou ações exclusivas para a Giveth e suas plataformas. Gardens destaca o conceito fundamental dos votos de convicções em sua documentação:
 
+Conviction Voting é o coração de um Garden._ Ele permite que as pessoas sinalizem suas preferências continuamente, em vez de forçá-las a “tomar uma decisão”. Do ponto de vista de um membro da comunidade, isso é tão fácil quanto apenas aparecer e apoiar as coisas com as quais você se importa.
 
-> _Conviction voting is the heart of a Garden._ It allows folks to signal their preferences continuously rather than forcing them to “make a decision.” From the perspective of a community member, this is as easy as just showing up and supporting the things you care about.
-
-
-The unique feature of Conviction Voting is that, instead of voting yes or no on proposals, you stake GIV behind proposals that align with your values. The more GIV you stake and the longer you stake your GIV the more “Conviction” (voting power) you accrue for that proposal.  If the collective Conviction from all proposal participants reaches a certain threshold then the proposal passes.
-
+A característica única do Conviction Voting é que, em vez de votar sim ou não em propostas, você aposta GIV em propostas que se alinham com seus valores. Quanto mais GIV você apostar e quanto mais tempo for essa aposta, mais “Convicção” (poder de voto) você acumula para essa proposta. Se a convicção coletiva de todos os participantes da proposta atingir um determinado limite, a proposta será aprovada.
 
 ## Tao Voting
 
-[**Tao Voting**](https://forum.giveth.io/t/tao-voting-explained/155) is a YES/NO decision making tool, with the option of delegation, that is used in the GIVgarden to make important, non-financial decisions for the DAO. Tao Voting is used for proposals on updating DAO parameters, fixing bugs, adding new features to the DAO and/or for emergency situations such as an attack to the DAO treasury.
+[**Tao Voting**](https://forum.giveth.io/t/tao-voting-explained/155)  é uma ferramenta de tomada de decisão SIM/NÃO, com opção de delegação, que é usada no GIVgarden para tomar decisões importantes e não financeiras para a DAO. O Tao Voting é usado para propostas de atualizações de parâmetros da DAO, como correções de bugs, adições de novos recursos e/ou para situações de emergência, como um ataque ao tesouro da DAO.
 
-Tao Voting was named inspired by [the Tao or “the way”](https://en.wikipedia.org/wiki/Tao) which can “be roughly thought of as the flow of the Universe, or as some essence or pattern behind the natural world that keeps the Universe (the Giveth DAO) balanced and ordered”. Tao Voting includes features like [Delegation and Quiet Ending](https://1hive.gitbook.io/gardens/on-chain-governance/garden-framework/decision-voting#delegation) to ensure that votes that pass can reasonably reflect the true opinion of DAO members and are not passed with a lot of contention.
+O Tao Voting foi nomeado inspirado em [The Tao ou “The Way”](https://en.wikipedia.org/wiki/Tao) que pode “ser pensado aproximadamente como o fluxo do Universo, ou como alguma essência ou padrão por trás do mundo natural que mantém o Universo (a Giveth DAO) equilibrado e ordenado”. O Tao Voting inclui recursos como [Delegation and Quiet Ending](https://1hive.gitbook.io/gardens/on-chain-governance/garden-framework/decision-voting#delegation) para garantir que os votos aprovados possam refletir razoavelmente a opinião verdadeira dos membros da DAO e não serem aprovados com muita contenção.
 
-When you delegate your voting power to a “delegate”, you are empowering them to vote on your behalf on decision votes in the GIVgarden with Tao Voting. Delegates have a period of time - the Delegated Voting period - to submit their votes. The Vote Duration is longer than the Delegate Voting power, and within that difference of time you have the opportunity to review and, if desired, change the way your delegate has voted for you. You can delagate your voting power to a delegate in the GIVgarden.
-
-
-
+Quando você delega seu poder de voto a um “delegado”, você está habilitando-o a votar em seu nome nas votações de decisão no GIVgarden com o Tao Voting. Os delegados têm um prazo - o período de votação delegada - para apresentar seus votos. A Duração do Voto é maior do que o poder de Voto do Delegado e, dentro dessa diferença de tempo, você tem a oportunidade de revisar e, se desejar, alterar a maneira como seu delegado votou por você. Você pode delegar seu poder de voto a um delegado no GIVgarden.
 
 <img alt="delegation UI" src={useBaseUrl('img/content/giveconomy/delegation1.png')} />
 
-
-
-
 <img alt='delegation UI' src={useBaseUrl('img/content/giveconomy/delegation2.png')} />
 
+## Embrulhando GIVs e Ganhando Recompensas
 
-## Wrapping GIV & Earning Rewards
-In order to vote on proposals in the GIVgarden you’ll have to wrap your tokens. This exchanges your GIV tokens for GIVgarden-compatible gGIV tokens that can be staked on proposals. You earn rewards for all wrapped GIV, regardless of whether or not you use your wrapped GIV (gGIV) to vote on proposals. You can choose to wrap your GIV and get gGIV [in the GIVgarden](https://1hive.gitbook.io/gardens/actions-for-community-members/getting-started/wrap-your-tokens), or via the GIVfarm by participating in the single-asset GIV staking pool on xDai. When you unwrap your GIV in the GIVgarden or unstake your GIV from the single-asset GIVfarm your gGIV tokens will be burned, removing your voting power, and your GIV tokens will be returned to you.
+Para votar nas propostas no GIVgarden, você terá que embrulhar seus tokens. Isso seria trocar seus tokens GIV por tokens gGIV compatíveis com o GIVgarden que podem ser apostados em propostas. Você ganha recompensas por todos os GIVS embrulhados (gGIV), independentemente de usá-los ou não para votar em propostas. Você pode optar por embrulhar seu GIV e obter gGIV [no GIVgarden](https://1hive.gitbook.io/gardens/actions-for-community-members/getting-started/wrap-your-tokens) ou através da GIVfarm participando do staking pool GIV de ativo único na xDai (Gnosis Chain). Quando você desembrulhar seu GIV no GIVgarden ou retirá-lo da GIVfarm de ativos únicos, seus tokens gGIV serão queimados, removendo seu poder de voto, devolvendo seus tokens GIV a você.
 
-You can see the APR for wrapped GIV on our [**GIVfarm page**](https://giv.giveth.io/givfarm). The more GIV you stake, the more rewards you get, and the higher your flowrate will be in the GIVstream. Being an active community member is rewarding in more ways than one!
+Você pode ver a APR para GIVS embrulhados na nossa [**página sobre a GIVfarm**](https://giv.giveth.io/givfarm). Quanto mais GIV você apostar, mais recompensas receberá e maior será seu flowrate na GIVstream. Ser um membro ativo da comunidade é recompensador de várias maneiras!
 
+## Propostas
 
+No GIVgarden existem três tipos de propostas que podem ser feitas: **Financiamento, Sugestão** e **Decisão.**
 
-## Proposals
-
-In the GIVgarden, there are three types of proposals that can be made: **Funding, Suggestion,** and **Decision.**
-
-
-
-* A **Funding** proposal is a request for funds from the GIVgarden common pool. The more funds being requested, the more Conviction that is required to pass the proposal. Conviction Voting is used to determine the outcome of funding proposals.
-* A **Suggestion** proposal is a broad category for any platform feature, or community action you would like to make happen that does not request funds from the treasury. Conviction Voting is used to determine the outcome of Suggestion proposals.
-* A **Decision** proposal is used when updating GIVgardenparameters or fundamentally changing the GIVgarden in some way is necessary. These proposals require some degree of community consensus around discrete, binary choice decisions and therefore are expected to be used much less frequently. Tao Voting is used to determine the outcome of Decision proposals.  
-
-To learn more about how the GIVgarden works, visit the Gardens overview in the [1hive documentation](https://1hive.gitbook.io/gardens/).  
+* Uma proposta de **Financiamento** é uma solicitação de fundos da common pool do GIVgarden. Quanto mais fundos forem solicitados, mais convicção será necessária para aprovar a proposta. O voto de convicção é usado para determinar o resultado das propostas de financiamento.
+* Uma proposta de **Sugestão** é uma categoria ampla para qualquer recurso da plataforma ou ação da comunidade que você gostaria de realizar e que não solicite fundos do tesouro. A Votação de Convicção é usada para determinar o resultado das propostas de Sugestão.
+*  Uma proposta de **Decisão** é usada ao atualizar os parâmetros do GIVgarden ou alterar fundamentalmente o GIVgarden de alguma forma. Essas propostas exigem algum grau de consenso da comunidade em torno de decisões de escolha binária discretas e, portanto, espera-se que sejam usadas com muito menos frequência. O Tao Voting é usado para determinar o resultado das propostas de decisão.
 
 
-## Covenant
-In order to participate in the GIVgarden you’ll first need to sign the [Giveth Covenant](/whatisgiveth/covenant). This is our decentralized social contract which outlines standards for on-chain and off-chain community behaviour. In the event that a proposal is challenged, the covenant shall be used as a baseline for what defines acceptable and not acceptable proposals within that GIVgarden.
+Para saber mais sobre como o GIVgarden funciona, visite a visão geral dos Gardens na [documentação da 1hive](https://1hive.gitbook.io/gardens/).
+
+## Convênio
+
+Para participar do GIVgarden, o primeiro passo é assinar o [Giveth Covenant](/whatisgiveth/covenant). Este é o nosso contrato social descentralizado que descreve padrões para o comportamento da comunidade on e off-chain. Caso a proposta seja contestada, o convênio deve ser usado como base para o que define propostas aceitáveis ​​e não aceitáveis ​​dentro daquele GIVgarden.
+
+## Disputabilidade
+
+Para criar ou contestar uma proposta, você precisa depositar GIV no GIVgarden. Quando você abre uma proposta, um valor de GIV será usado como [Depósito de Proposta](https://1hive.gitbook.io/gardens/actions-for-community-members/proposals/creating-a-new-proposal#what-is-the-proposal-deposit) (também conhecido como "Depósito de Ação") e será mantido como garantia caso sua proposta seja contestada (ou seja, acusada de não estar de acordo com o Convênio). Da mesma forma, se você deseja contestar uma proposta, um valor de GIV do depósito inicial será usado como [Depósito de Desafio](https://1hive.gitbook.io/gardens/actions-for-community-members/proposals/challenge-a-proposal#what-is-the-challenge-deposit), ou seja, como uma garantia para fazer uma contestação.
+
+Quando uma proposta é contestada no GIVgarden, o criador da proposta tem um prazo definido, conhecido como [Período de Liquidação](https://1hive.gitbook.io/gardens/actions-for-community-members/disputes/settle-a-proposal#what-is-the-settlement-period), na qual é usado para contestar a contestação pagando taxas de contestação e levantando a questão para [Celeste](https://1hive.gitbook.io/celeste/) ou para resolver a contestação pagando a [Oferta de Acordo](https://1hive.gitbook.io/gardens/actions-for-community-members/disputes/settle-a-proposal#what-is-the-settlement-offer) e retirando sua proposta. Caso não tomem providências antes do término do Período de Liquidação, a proposta é automaticamente considerada “liquidada”, sendo retirada, e o proponente recebe de volta o Depósito da Proposta menos a Oferta de Liquidação.
+
+[**Celeste**](https://1hive.gitbook.io/celeste/), também criado pela 1Hive, é um tribunal descentralizado para DAOs que atua como o backstop final no GIVgarden. Celeste permite que propostas contestadas e disputadas sejam sinalizadas e levadas à consideração de um grupo aleatório de jurados, garantindo que propostas contenciosas não possam ser aprovadas sem o devido processo.
+
+## Ciclo de Vida da Proposta
+
+Se você sente que tem uma boa compreensão sobre a Giveth e [como trabalhamos](/whatisgiveth/) e deseja propor algo maravilhoso à comunidade, existem alguns processos que você deve respeitar para ter a melhor chance possível de sucesso.
+
+1. **Pense em algo incrível.** Tenha uma ideia que você acha que seria valiosa para a Comunidade ou  para Plataforma Giveth. Se sua ideia requer financiamento, considere quanto e como você pode justificar seus custos.
+
+2. **Crie uma postagem no fórum.** Publique sua ideia no [**Giveth Forum**](https://forum.giveth.io/) na categoria apropriada e descreva sua proposta em detalhes. Isso permite que a comunidade analise e avalie os impactos de sua proposta. As propostas criadas no GIVgarden devem incluir um link para uma postagem do fórum Giveth explicando seus detalhes.
+
+3. **Use o processo de aconselhamento.** Após sua postagem no fórum, a comunidade lhe dará feedback e expressará quaisquer preocupações. [O Processo de Aconselhamento](/whatisgiveth/adviceProcess) permitirá que você modifique sua proposta ou trate de quaisquer preocupações, garantindo que seja a melhor versão possível e que alcance o máximo de consenso.
+
+4. **Assine o Giveth Covenant**. Assinar que você concorda com o [Giveth Covenant](/whatisgiveth/covenant) no GIVgardens permitirá que você comece a usar as ferramentas de governança fornecidas pelo mesmo.
+
+5. **Depositar GIV no GIVgarden**. Toda proposta requer um Depósito de Proposta, ou seja, um valor específico de GIV que você deposita como garantia. Isso desencoraja propostas de spam e também pode ser perdido no caso de perder ou ceder a uma proposta contestada.
+
+6. **Envie sua proposta.** Elabore e envie sua proposta, juntamente com o Depósito de Propostas, fornecendo as informações necessárias no GIVgarden.
+
+7. **Lembre a comunidade de votar!** Agora a comunidade irá deliberar sobre sua proposta final, escolhendo se quer ou não apostar seus GIVS nela. Recebendo apoio suficiente, a proposta será aprovada.
+
+8. **Celebração e Entrega!** Se sua proposta for aprovada no GIVgarden, dê um tapinha nas costas - isso não é tarefa fácil! Depois que a proposta for finalizada e executada, certifique-se de cumprir todas as ações prometidas que você delineou.
 
 
-## Disputability
+## Parâmetros GIVgarden (Avançado)
 
-In order to create or challenge a proposal, you must deposit GIV into the GIVgarden. When you make a proposal, an amount of GIV from here will be used as the [Proposal Deposit](https://1hive.gitbook.io/gardens/actions-for-community-members/proposals/creating-a-new-proposal#what-is-the-proposal-deposit) (aka “Action Deposit”) and will be held as collateral if your proposal is challenged (i.e., accused of not being in agreement with the Covenant). Similarly, if you wish to challenge a proposal, an amount of GIV from the initial deposit will be used as the [Challenge Deposit](https://1hive.gitbook.io/gardens/actions-for-community-members/proposals/challenge-a-proposal#what-is-the-challenge-deposit), i.e., collateral in order to make a challenge.   
-
-When a proposal is challenged in the GIVgarden, the proposal creator has a set amount of time, the [Settlement Period](https://1hive.gitbook.io/gardens/actions-for-community-members/disputes/settle-a-proposal#what-is-the-settlement-period) to dispute the challenge by paying dispute fees and raising the issue to [Celeste](https://1hive.gitbook.io/celeste/), or to resolve the challenge by paying the [Settlement Offer](https://1hive.gitbook.io/gardens/actions-for-community-members/disputes/settle-a-proposal#what-is-the-settlement-offer) and taking down their proposal. If they do not take action before the end of the Settlement Period, the proposal is automatically considered “settled”, is taken down, and the proposer gets back the Proposal Deposit minus the Settlement Offer.
-
-[**Celeste**](https://1hive.gitbook.io/celeste/), also built by 1Hive, is a decentralized court for DAOs which acts as the final backstop in the GIVgarden. Celeste allows for challenged and disputed proposals to be flagged and brought to the consideration of  a randomized group of jurors, ensuring that contentious proposals are not able to be passed without due process.  
-
-## Proposal Lifecycle
-
-If you feel like you have a good grasp on Giveth and [how we work](/whatisgiveth/) and have something great to propose to the community, there are some processes you should respect in order to have the best possible chance of success.
+Os parâmetros atuais em nosso GIVgarden são os seguintes:
 
 
-
-1. **Think of something awesome.** Come up with an idea that you think would be valuable for the Giveth’s Community or Platform. If your idea requires funding, consider how much and how you can justify its costs.
-2. **Create a forum post.** Post your idea in the [**Giveth Forum**](https://forum.giveth.io/) in the appropriate category and outline your proposal in detail. This allows the community to review and assess the impacts of your proposal. Proposals created in the GIVgarden must include a link to a Giveth forum post explaining its details.
-3. **Use Advice Process.** Following your forum post the community will give you feedback and express any concerns. [The Advice Process](/whatisgiveth/adviceProcess) will allow you to modify your proposal or address any concerns ensuring it is the best version possible and achieves maximum consensus.
-4. **Sign the Giveth Covenant. Signing that you agree to the [Giveth Covenant](/whatisgiveth/covenant) in the GIVgardens will permit you to begin using the governance tools it provides.
-5. **Deposit GIV to the GIVgarden**. Every proposal requires a Proposal Deposit, i.e., a specified amount of GIV that you post as collateral. This discourages spamming proposals and can also be forfeited in the case of losing or conceding to a challenged proposal.
-6. **Submit your Proposal. **Draft and submit your proposal, along with the Proposal Deposit, providing the required information in the GIVgarden.
-7. **Remind the Community to Vote!** Now the community will deliberate on your final proposal, choosing whether or not to stake their GIV behind it. If it receives enough support, the proposal will pass.
-8. **Celebration and Delivery! **If your proposal passes on the GIVgarden, give yourself a pat on the back - that is no easy feat! Once the proposal has been finalized and executed make sure to deliver on any promised actions you have outlined.
-
-## GIVgarden Parameters (Advanced)  
-
-The current parameters in our GIVgarden are as follow:
-
-### Conviction Voting (Funding Requests and Suggestions)
-
+### Convicting Voting (Solicitações e Sugestões de Financiamento)
 
 <table>
   <tr>
-   <td><strong>Parameter</strong>
+   <td><strong>Parâmetro</strong>
    </td>
-   <td><strong>Value</strong>
+   <td><strong>Valor</strong>
    </td>
-   <td><strong>Metric</strong>
+   <td><strong>Métrica</strong>
    </td>
   </tr>
   <tr>
-   <td>Conviction Growth
+   <td>Crescimento de Convicção
    </td>
    <td><p class="rightAlign">
 30</p>
 
    </td>
-   <td>days
+   <td>dias
    </td>
   </tr>
   <tr>
-   <td>Spending Limit
+   <td>Limite de Gastos
    </td>
    <td><p class="rightAlign">
 2.50</p>
@@ -127,7 +119,7 @@ The current parameters in our GIVgarden are as follow:
    </td>
   </tr>
   <tr>
-   <td>Min Conviction
+   <td>Convicção Mínima
    </td>
    <td><p class="rightAlign">
 5</p>
@@ -137,7 +129,7 @@ The current parameters in our GIVgarden are as follow:
    </td>
   </tr>
   <tr>
-   <td>Minimum Active Stake
+   <td>Stake Mínimo Ativo
    </td>
    <td><p class="rightAlign">
 2</p>
@@ -148,31 +140,30 @@ The current parameters in our GIVgarden are as follow:
   </tr>
 </table>
 
-
-### Tao Voting (Decision Votes)
-
+### Tao Voting (Votos de Decisão)
 
 <table>
   <tr>
-   <td><strong>Parameter</strong>
+   <td><strong>Parâmetro</strong>
    </td>
-   <td><strong>Value</strong>
+   <td><strong>Valor</strong>
    </td>
-   <td><strong>Metric</strong>
+   <td><strong>Métrica</strong>
    </td>
   </tr>
   <tr>
-   <td>Support Required
+   <td>Suporte Necessário
+
    </td>
    <td><p class="rightAlign">
 90</p>
 
-   </td>
+ </td>
    <td>%
    </td>
   </tr>
   <tr>
-   <td>Min Approval
+   <td>Aprovação Mínima
    </td>
    <td><p class="rightAlign">
 10</p>
@@ -182,72 +173,70 @@ The current parameters in our GIVgarden are as follow:
    </td>
   </tr>
   <tr>
-   <td>Vote Duration
+   <td>Duração de Voto
    </td>
    <td><p class="rightAlign">
 1.5</p>
 
    </td>
-   <td>days
+   <td>dias
    </td>
   </tr>
   <tr>
-   <td>Execution delay
+   <td>Atraso de Execução
    </td>
    <td><p class="rightAlign">
 0.5</p>
 
    </td>
-   <td>days
+   <td>dias
    </td>
   </tr>
   <tr>
-   <td>Quiet Ending Period
+   <td>Período Quiet Ending
    </td>
    <td><p class="rightAlign">
 0.5</p>
 
    </td>
-   <td>days
+   <td>dias
    </td>
   </tr>
   <tr>
-   <td>Quiet Ending extension
+   <td> Extensão do Quiet Ending
    </td>
    <td><p class="rightAlign">
 2</p>
 
    </td>
-   <td>days
+   <td>dias
    </td>
   </tr>
   <tr>
-   <td>Delegated Voting Period
+   <td>Período de Votação Delegada
    </td>
    <td><p class="rightAlign">
 1</p>
 
    </td>
-   <td>days
+   <td>dia
    </td>
   </tr>
 </table>
 
-
-### Proposal Settings
-
+## Configurações da Proposta
 
 <table>
   <tr>
-   <td><strong>Parameter</strong>
+   <td><strong>Parâmetro</strong>
    </td>
-   <td><strong>Value</strong>
+   <td><strong>Valor</strong>
    </td>
-   <td><strong>Metric</strong>
+   <td><strong>Métrica</strong>
    </td>
   </tr>
   <tr>
-   <td>Action Deposit
+   <td>Depósito de Ação
    </td>
    <td><p class="rightAlign">
 5000</p>
@@ -257,7 +246,7 @@ The current parameters in our GIVgarden are as follow:
    </td>
   </tr>
   <tr>
-   <td>Challenge Deposit
+   <td>Depósito de Desafio
    </td>
    <td><p class="rightAlign">
 10000</p>
@@ -267,13 +256,14 @@ The current parameters in our GIVgarden are as follow:
    </td>
   </tr>
   <tr>
-   <td>Settlement Period
+   <td>Período de Liquidação
    </td>
    <td><p class="rightAlign">
 7</p>
 
    </td>
-   <td>days
+   <td>dias
    </td>
   </tr>
 </table>
+
