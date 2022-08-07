@@ -15,7 +15,7 @@ module.exports = {
     defaultLocale: 'en',
     locales: ['en', 'es'
     // , 'de'
-    // , 'pt'
+    , 'pt'
     , 'tr'],
     localeConfigs: {
       en: {
@@ -34,11 +34,11 @@ module.exports = {
         direction: 'ltr',
         htmlLang: 'tr-TR'
       },
-     // pt: {
-     //   label: 'Portugués',
-     //   direction: 'ltr',
-     //   htmlLang: 'pt-BR'
-     // },
+     pt: {
+       label: 'Portugués',
+       direction: 'ltr',
+       htmlLang: 'pt-BR'
+     },
      // de: {
      //   label: 'Deutsch',
      //   direction: 'ltr',

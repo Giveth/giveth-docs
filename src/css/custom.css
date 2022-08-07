@@ -104,3 +104,45 @@ img.center {
   border-width: 26px 0px 26px 45px !important;
   border-color: transparent transparent transparent black !important;
 }
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  border-bottom: 2px dotted grey; /* This creates dots under the hoverable text */
+  }
+  /* The text for your tooltip */
+  .tooltip .tooltiptext {
+  visibility: hidden;
+  width: 95px;
+  background-color: #f5f5f5;
+  color: #000000;
+  text-align: center;
+  padding: 4px 0;
+  border-radius: 5px;
+  /* The position of the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 130%;
+  left: 60%;
+  margin-left: -55px;
+  /* Create a fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.4s;
+  }
+  /* Create a tooltip arrow */
+  .tooltip .tooltiptext::after {
+  content: “”;
+  position: absolute;
+  top: 95%;
+  left: 55%;
+  margin-left: -4px;
+  border-width: 4px;
+  border-style: solid;
+  border-color: #7a7a7a transparent transparent transparent;
+  }
+  /* Show the tooltip text when you move the cursor over the element */
+  .tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 0.9;
+  }
