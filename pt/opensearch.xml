@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Giveth Docs</ShortName>
+  <Description>Search Giveth Docs</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://docs.giveth.io/pt/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://docs.giveth.io/pt/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.giveth.io/pt/opensearch.xml" />
+  <moz:SearchForm>https://docs.giveth.io/pt/</moz:SearchForm>
+</OpenSearchDescription>
