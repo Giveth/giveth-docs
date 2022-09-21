@@ -17,7 +17,7 @@ Momentum generated in soft launch should carry over when you are ready for your 
 
 ## 2. Your Brand is your Identity 
 
-‘Brand’ is important and is anything that identifies your organisation/project, makes it stand-out and memorable. It is more than just a logo, it can be the colours you use, the style of your communications, patterns, photos and videos. There are lots of resources on-line to help you develop a brand and consistency can help your potential supporters get to know your project/organisation better, build trust and confirm that the campaign belongs to your project. This is especially important as you spread the word of your campaign across different communication channels and social media.
+‘Brand’ is important and is anything that identifies your organisation/project, makes it stand-out and memorable. It is more than just a logo, it can be the colours you use, the style of your communications, patterns, photos and videos. There are lots of resources online to help you develop a brand and consistency can help your potential supporters get to know your project/organisation better, build trust and confirm that the campaign belongs to your project. This is especially important as you spread the word about your campaign across different communication channels and social media.
 
 
 ## 3. Link Donations with Impact
@@ -124,7 +124,7 @@ Don’t forget to include these hashtags:  #futureofgiving #giveth when posting 
 
 ## Project Fundraising Checklist
 
-- [ ] Talk to friends and existing supporter of your project’s fundraising goals and Giveth platform and ask them to spread the word
+- [ ] Talk to friends and existing supporters of your project’s fundraising goals and Giveth platform and ask them to spread the word
 - [ ] Have a twitter account, if not, create one
 - [ ] Tweet about your Giveth profile when it’s created and when it’s verified (if applicable) 
 - [ ] Post on other social media accounts where your donors can be reached about your Giveth profile

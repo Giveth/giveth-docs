@@ -27,7 +27,7 @@ We record and/or livestream our online video conferences for record keeping, to 
 * We use OBS to livestream and record our video calls. You can download it [here](https://obsproject.com/).
 * During installation select "Optimize for streaming, recording is secondary".
 * Select YouTube as the streaming service and input the Giveth Transparency YouTube Stream Key. If you need access to the Stream Key, please ask one of our team members.
-* In general, the recommending settings in the setup wizard are already optimized for your device, but feel free to adjust them.
+* In general, the recommended settings in the setup wizard are already optimized for your device, but feel free to adjust them.
 * Setup your video and audio sources; we recommend using Window Capture for streaming calls.
 * When you are ready to stream the meeting, select the appropriate window to capture and select "Start Streaming". Your video will be automatically livestreamed on YouTube.
 * For a more thorough setup guide, check out [this video](https://www.youtube.com/watch?v=qiRu-NRgso0) from our friends at the Token Engineering Commons (TEC).

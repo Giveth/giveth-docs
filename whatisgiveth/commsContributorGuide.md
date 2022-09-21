@@ -7,7 +7,7 @@ import styles from '../src/css/custom.css'
 
 
 
-This is a guide to get your started with the Comms Working Group. It walks you through the steps to take to get onboarded and contributing, while also giving you some information on the structure of Giveth, what tools we use, and how to orient yourself in general. 
+This is a guide to get you started with the Comms Working Group. It walks you through the steps to take to get onboarded and contributing, while also giving you some information on the structure of Giveth, what tools we use, and how to orient yourself in general. 
 
 
 ## **What is Giveth?**
