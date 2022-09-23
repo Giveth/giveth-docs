@@ -29,10 +29,13 @@ Think about the project that you want to create: do you have concrete goals? Wha
  - Add an image to display with your project (or choose from one of the Giveth defaults).
  <img alt='featuredimage' src={useBaseUrl('img/cryptofundraising6.png')} />
 
- - Set an ETH address for donations to be directed to.
- <img alt='walletaddress' src={useBaseUrl('img/cryptofundraising7.png')} />
+ - Your recipient address is where donations to your project will be collected. You can choose to set a single recipient address that can receive donations on both Mainnet and Gnosis Chain, or set a different recipient address for each chain:
 
- On the final page double check all the info you entered; if it looks good then hit `START RAISING FUNDS`, and boom, your project is live! On the confirmation page you can choose to view your project and to share it on social media. Good Luck!
+    - Set one address to receive donations in both Mainnet and Gnosis Chain.![](https://i.imgur.com/71VaYwD.png)
+
+    - Or set two different addresses for each network, you can also just choose one network to work with.![](https://i.imgur.com/gy04E89.png)
+
+On the final page double check all the info you entered; if it looks good then hit `CREATE PROJECT`, and boom, your project is live! On the confirmation page you can choose to view your project and to share it on social media. Good Luck!
 
 ## Editing my project after it's been published
 If you made a mistake or need to change something on your project, it's super simple to go back and update it. If you're on the homepage, go to the top right, and click on your account, then select `My Projects`. Once you're there, you should see a page of your projects; hover over the project you wish to edit, then click the `EDIT` button. You should see your project's contents; you can scroll through and change the content you wish, and once you're done, just hit save!
