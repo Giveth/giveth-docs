@@ -31,9 +31,13 @@ Think about the project that you want to create: do you have concrete goals? Wha
 
  - Your recipient address is where donations to your project will be collected. You can choose to set a single recipient address that can receive donations on both Mainnet and Gnosis Chain, or set a different recipient address for each chain:
 
-    - Set one address to receive donations in both Mainnet and Gnosis Chain.![](https://i.imgur.com/71VaYwD.png)
+    - Set one address to receive donations on both Mainnet and Gnosis Chain.
+    
+    <img alt='setting recipient wallet' src={useBaseUrl('img/receiveFunds1.png')} />
 
-    - Or set two different addresses for each network, you can also just choose one network to work with.![](https://i.imgur.com/gy04E89.png)
+    - Or set two different addresses for each network, you can also just choose one network to work with.
+    <img alt='setting recipient wallet' src={useBaseUrl('img/receiveFunds2.png')} />
+
 
 On the final page double check all the info you entered; if it looks good then hit `CREATE PROJECT`, and boom, your project is live! On the confirmation page you can choose to view your project and to share it on social media. Good Luck!
 
