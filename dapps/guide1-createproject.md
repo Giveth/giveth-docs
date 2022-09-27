@@ -31,15 +31,17 @@ Think about the project that you want to create: do you have concrete goals? Wha
 
  - Your recipient address is where donations to your project will be collected. You can choose to set a single recipient address that can receive donations on both Mainnet and Gnosis Chain, or set a different recipient address for each chain:
 
-    - Set one address to receive donations on both Mainnet and Gnosis Chain.
+    - Set one address to receive donations in both Mainnet and Gnosis Chain.
     
     <img alt='setting recipient wallet' src={useBaseUrl('img/receiveFunds1.png')} />
 
-    - Or set two different addresses for each network, you can also just choose one network to work with.
+    - Or set two different addresses: One address for each network.
     <img alt='setting recipient wallet' src={useBaseUrl('img/receiveFunds2.png')} />
+    
+    - Note: You can also choose to raise funds only on one chain.
 
 
-On the final page double check all the info you entered; if it looks good then hit `CREATE PROJECT`, and boom, your project is live! On the confirmation page you can choose to view your project and to share it on social media. Good Luck!
+On the final page double check all the info you entered. If it looks good, hit `CREATE PROJECT`, and boom, your project is live! On the confirmation page you can choose to view your project and to share it on social media.
 
 ## Editing my project after it's been published
 If you made a mistake or need to change something on your project, it's super simple to go back and update it. If you're on the homepage, go to the top right, and click on your account, then select `My Projects`. Once you're there, you should see a page of your projects; hover over the project you wish to edit, then click the `EDIT` button. You should see your project's contents; you can scroll through and change the content you wish, and once you're done, just hit save!
