@@ -47,7 +47,7 @@ module.exports = {
             link: {type: 'doc', id: 'givfarm'},
             items:['regenFarms', 'angelVault']
           }
-          , 'niceToken'
+          ,'givpower', 'niceToken'
 ]
           }
         ]

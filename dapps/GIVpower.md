@@ -11,7 +11,7 @@ import styles from '../src/css/custom.css'
 
 GIVpower was created to build a win-win relationship between projects & donors. GIV holders get GIVpower and earn a yield when they stake and - if they choose - lock GIV in the GIVfarm. They will eventually be able to use their GIVpower to “boost” projects on Giveth and help improve their ranking. Top ranked projects will get benefits on the platform. Initially their donors will get more GIVbacks, and eventually, they will get matching funds and other benefits.
 
-The 1st phase of GIVpower, formerly known as GIVcuration, launched on (LAUNCH DATE) and adds a new layer of mechanics for staking GIV on the GIVfarm. 
+The 1st phase of GIVpower, formerly known as GIVcuration, launched on October 4th, 2022 and adds a new layer of mechanics for staking GIV on the GIVfarm. 
 
 <img alt='givpower staking card' width='30%' heigh='auto' src={useBaseUrl('img/givpowerCard.png')} />
 
@@ -22,13 +22,10 @@ i.e. If you stake 100 GIV you will get 100 GIVpower.
 
 Users will also be able to "Lock" their staked GIV on the GIVfarm to multiply their rewards APR and their GIVpower.
 
-
-
 ### Contracts
 
-GIVpower - ADD CONTRACT  
-Staking - ADD CONTRACT  
-ANY OTHER CONTRACTS TO ADD?
+GIVpower(POW) Token - 0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2 
+GIVpower Staking - 0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2 
 
 ## Staking & Locking
 
@@ -102,6 +99,9 @@ Let's look at an example to understand how this works:
 #### Streamed Rewards
 As always, all GIVeconomy rewards are distributed according to the GIVstream. Check out the [**GIViverse Expansion**](https://giveth.io/givstream) to understand how much your claimable rewards will be.
 :::
+
+
+<img alt='GIVpower overview' src={useBaseUrl('img/GIVpowerOverview.png')} />
 
 ## Rewards Allocation
 7 Million GIV was allocated to the first 6 months of GIVpower Rewards. Near the end of the first 6 months Giveth will assess the program's performance and allocate more rewards accordingly..
