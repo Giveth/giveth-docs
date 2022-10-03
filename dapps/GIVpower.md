@@ -24,8 +24,8 @@ Users will also be able to "Lock" their staked GIV on the GIVfarm to multiply th
 
 ### Contracts
 
-GIVpower(POW) Token - 0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2 
-GIVpower Staking - 0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2 
+- GIVpower(POW) Token - 0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2 
+- GIVpower Staking - 0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2 
 
 ## Staking & Locking
 
