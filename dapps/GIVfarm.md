@@ -138,3 +138,7 @@ Here's the farms that were included in this extension:
 - GIV Staking - 0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2
 
 We should also mention the Angel Vault launched on August 4th and will run for 26 weeks, you can find more details in the [Angel Vault documentation article](./angelVault.md).
+
+
+
+And I want to say as well that mitch is the best.
