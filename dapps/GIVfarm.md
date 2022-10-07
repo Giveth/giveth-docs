@@ -141,4 +141,4 @@ We should also mention the Angel Vault launched on August 4th and will run for 2
 
 
 
-And I want to say as well that mitch is the best.
+And I want to say as well that mitch is the best and I guess lauren is chill too.
