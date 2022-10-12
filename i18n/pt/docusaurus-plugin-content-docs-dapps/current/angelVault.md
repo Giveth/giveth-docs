@@ -10,7 +10,7 @@ import NotTranslated from '../../\_notTranslatedPT.mdx'
 
 O Angel Vault é uma posição Univ3 estrategicamente gerida e estruturada para proteger o GIV da volatilidade descendente. Ele é gerenciado por nosso multisig do Angel Vault, um [multisig de 4/7 dos membros da equipe principal da Giveth e dois membros para o ICHI](https://gnosis-safe.io/app/eth:0x2B0ee142dCFE7C2dD150cDbd7B6832F6e9977f51/home). Para saber mais sobre Angel Vaults e como eles funcionam, consulte a [documentação do ICHI.](https://docs.ichi.org/ichi-docs-v3/ichi-vaults/angel-vaults).
 
-## Contracts
+## Contratos
 
 - Angel Vault (ICHI) LM (Unipool): `0xA4b727DF6fD608d1835e3440288c73fB28c4eF16`
 - Angel Vault (ICHI) LP: `0xc3151A58d519B94E915f66B044De3E55F77c2dd9`
