@@ -5,7 +5,9 @@ slug: /
 ---
 
 
-Giveth is a community focused on **Building the Future of Giving** using blockchain technology. Our intention is to support and reward the funding of public goods by creating open, transparent and free access to the revolutionary funding opportunities available within the Ethereum ecosystem. Check out our [Calendar](https://calendar.google.com/calendar/u/1?cid=Z2l2ZXRoZG90aW9AZ21haWwuY29t) and [Join Page](https://giveth.io/join) to get more involved.
+Giveth is building a culture of giving that rewards and empowers those who give. Beginning with a crypto donation platform on Ethereum, Giveth has created the "GIVbacks program" where donors to for-good projects are rewarded with GIV. The long-term vision is to continue this trajectory and use web3 technology to transform the funding and stewardship of public goods by helping for-good projects become DAOs with their own regenerative micro-economies."
+
+Check out our [Calendar](https://calendar.google.com/calendar/u/1?cid=Z2l2ZXRoZG90aW9AZ21haWwuY29t) and [Join Page](https://giveth.io/join) to get more involved.
 
 ## **Our Mission**
 **To build a culture of giving that rewards and empowers those who give - to projects, to society, and to the world.**
