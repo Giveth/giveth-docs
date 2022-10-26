@@ -33,22 +33,24 @@ During each round, all donations to verified projects on the DApp are tracked, a
 
 Givers are able to claim their GIV after the round ends and a fraud review has been conducted. Donors will receive an email when the rewards are ready to be claimed on the [GIVbacks page](https://giveth.io/givbacks). A portion of the GIV will be liquid immediately, and the rest will increase the flowrate of their [GIVstream](https://giveth.io/givstream). To learn more about the GIVstream and how it works, check out our [documentation](https://docs.giveth.io/giveconomy/givstream/). For the purposes of this documentation, we will refer to the sum of the liquid amount and the amount allocated to the GIVstream from GIVbacks as `cumulative GIVbacks`.
 
-Note that, even with the GIVbacks program, a donation on Giveth is still a donation. The maximum value of the donor's `cumulative GIVbacks` is equal to 75% of the value of their donation, at the time of donation. If the value of the `1 million GIV` allocated to the GIVbacks round is more than 75% of the total value of all donations (at the time of each donation) during the round duration, then all eligible donors will get their respective maximum cumulative GIVbacks.
+### Ranking & Calculation
 
-If the total value of donations (at the time each donation) exceeds 75% of the `1 million GIV` allocated to the round, the `cumulative GIVbacks` for each donor is proportionately less and calculated as follows:
+Note that, even with the GIVbacks program, a donation on Giveth is still a donation. The maximum value of the donor's `cumulative GIVbacks` could be anywhere from 50% up to 80% of the USD value of their donation, at the time of donation. The exact amount of GIVbacks they recieve will depend on the [project's GIVpower ranking](./GIVpower.md#project-ranking). Each verified project that has been boosted with [GIVpower](./GIVpower.md) will have a rank on the platform. The project that has been boosted with the most GIVpower for the previous bi-weekly round will offer the highest GIVbacks matching percentage (80%), while the lowest ranked project and unranked/unboosted projects for the previous round will receive the lowest GIVbacks matching percentage (50%). Each project from the bottom to the top ranked will have an incrementally higher GIVbacks matching percentage, you can learn more in the [GIVpower documentation](./GIVpower.md#project-ranking). 
+
+ If, at the end of a round, the estimated amount of GIVbacks to distribute exceeds the limit of 1 million GIV per round then donors will receive proportionally less matching relative to the rank of the project (or lack thereof) they donated to, for each donation. This is calculated as follows:
 
 $$
-n = N \frac{v}{V}
+n = N \frac{g}{G}
 $$
  
 where:
 
 - n = Total cumulative amount of GIV tokens earned by the donor for a particular donation
 - N = Total number of GIV tokens allocated for distribution in the round (1 million GIV)
-- v = Value (in USD) of the donation at the time of donation
-- V = Total value (in USD) of all donations to eligible projects during the round
+- g = The estimated full amount of GIVbacks the donor could receive. 
+- G = Total estimated amount of GIVbacks for all donors during the given round.
 
-GIV tokens earned through the GIVbacks program can be used throughout the GIVeconomy: for governance within the [GIVgarden](https://giveth.io/givgarden), to support the token by providing liquidity (and earning rewards!) in the [GIVfarm](https://giveth.io/givfarm), or for donating to projects on [Giveth](https://giveth.io/).
+GIV tokens earned through the GIVbacks program can be used throughout the GIVeconomy: for governance within the [GIVgarden](https://giveth.io/givgarden), to support the token by providing liquidity (and earning rewards!) in the [GIVfarm](https://giveth.io/givfarm), locking GIV & boosting projects with [GIVpower](https://giveth.io/givpower) or for donating to projects on [Giveth](https://giveth.io/).
 
 ## Harvesting GIVbacks
 
