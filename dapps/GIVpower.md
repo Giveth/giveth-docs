@@ -5,6 +5,7 @@ slug: giveconomy/givpower
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'
+import ReactPlayer from 'react-player'
 
 
 # GIVpower 
@@ -37,7 +38,7 @@ GIVpower is only available on Gnosis Chain and **GIV staking on Mainnet has ende
 
 GIV can be locked according to bi-weekly segments following the same schedule as GIVbacks, the minimum amount of time is 1 round (2 weeks), up to 26 rounds (1 year). 
 
-The longer you lock your GIV the greater the multiplier will be for that specific amount of GIV locked. A bigger multiplier means you will get more GIV from the GIVfarm rewards (you get a higher APR) and you will also get more GIVpower.The amount of gGIV you receive will not increase.
+The longer you lock your GIV the greater the multiplier will be for that specific amount of GIV locked. A bigger multiplier means you will get more GIV from the GIVfarm rewards (you get a higher APR) and you will also get more GIVpower.The amount of gGIV ([GIVgarden voting](./GIVgarden.md)) you receive will not increase.
 
 <img alt='givpower multiplier' width="80%" heigh='auto' src={useBaseUrl('img/givpowerMultiplier.png')} />
 
@@ -47,8 +48,6 @@ You can lock up multiple batches of GIV tokens for different lengths of time, ea
 
 
 After the locking period for your GIV ends your GIV becomes unlocked, meaning it can be unstaked from the GIVfarm. Unstaking your GIV means you will lose any associated GIVpower and gGIV. You can get it back however by staking your GIV again.
-
-
 
 ### GIVfarm APR
 
@@ -106,17 +105,103 @@ As always, all GIVeconomy rewards are distributed according to the GIVstream. Ch
 ## Rewards Allocation
 7 Million GIV was allocated to the first 6 months of GIVpower Rewards. Near the end of the first 6 months Giveth will assess the program's performance and allocate more rewards accordingly..
 
-## Boosting (Phase 2)
+## Using your GIVpower
 
-As mentioned, users will now get GIVpower for staking their GIV in the GIVfarm. Coming closely on the heels of phase 1 will be the release of phase 2 which will allow users to boost projects with GIVpower.
+You can "Boost" verified projects by staking your GIVpower behind them. Boosted projects will be ranked on the platform based on how much GIVpower has been staked on them and based on their ranking they will generate more GIVbacks to their donors. 
 
-Users will be able to stake their GIVpower on projects to boost them. Boosted projects will be ranked on the platform based on how much GIVpower has been staked on them and based on their ranking they will generate more GIVbacks to their donors. 
+Top-ranked projects will also eventually benefit from matching funds from the [GIVmatching Program](https://forum.giveth.io/t/givmatching-idea-generation-on-how-to-distribute-funds/346/21)(TBD). 
 
-Top-ranked projects will also benefit from matching funds from the [GIVmatching Program](https://forum.giveth.io/t/givmatching-idea-generation-on-how-to-distribute-funds/346/21). 
+### How to Boost
 
-Both Boosting and GIVmatching are yet to be released and we will update this documentation as more details become available.
+Boosting a project with your GIVpower is very easy. To get started find the project you want to boost and visit the project's page, once you're there then click `Boost`.
 
-:::info
-#### Delegation
-Giveth in the future will also be implementing the ability for users to delegate their GIVpower, letting trusted Givers curate projects on their behalf, stay tuned for more details!
+<img alt='boosting on the project page' width="80%" height="auto" src={useBaseUrl('img/content/boostProjectPage.png')} />
+
+:::caution
+You can only Boost verified projects, up to a maximum of 20 unique projects. If a project for any reason becomes unverified (e.g. Fails to provide updates, breaks Terms of Service) any of your GIVpower staked on that the project will be removed and propotionally added to your other boosted projects. If you only boosted 1 project and it becomes unverified then your GIVpower becomes inactive, you will need to re-allocate to another project.
 :::
+Select the percentage of your GIVpower you would like to boost with. If it's your first time boosting you will automatically boost with 100% of your GIVpower. Subsequent GIVpower boosts after your first will dynamically reduce your GIVpower on your other boosted projects. More details below in 'Managing your GIVpower'.
+
+<img alt='select boosting percentage' width="80%" height="auto" src={useBaseUrl('img/content/boostingProject.png')} />
+
+Click `Confirm' and you should see confirmation that your GIVpower boost was successful! Please be aware it can take up to 5 minutes for your GIVpower boost to show up on the project page.
+
+<img alt='boostConfirmation' width="80%" height="auto" src={useBaseUrl('img/content/boostConfirmation.png')} />
+
+### Managing your GIVpower
+
+You can manage your GIVpower allocations by navigating to 'My Account' then clicking on the 'Boosted Projects' tab.
+
+<img alt='my boosted projects page' src={useBaseUrl('img/content/boostedProjectsPage.png')} />
+
+From this page you can edit your GIVpower allocations to each project you have boosted. To begin click `MODIFY`.
+
+You can edit your percentage of GIVpower allocationed to each project, when you modify one allocation all your other allocations will adjust relatively based on how great their previous allocation was. If you don't want your allocation to change for a specific project while modifying your GIVpower on other projects you can click the :lock: icon.
+
+Confirm your allocation changes by clicking on `APPLY CHANGES` then `SAVE CHANGES`. 
+
+Check out this video to see what modifying your GIVpower looks like in action:
+
+<ReactPlayer playing loop={true} controls url='/video/editingAllocationsConverted.mp4' />
+
+#### GIVpower Loss
+Your total GIVpower may change over time depending on if you locked up any GIV in the [GIVpower farm](https://giveth.io/givfarm). When your round lockup duration expires then the multiplier bonus to your GIVpower is removed, this will cause a decrease to your total GIVpower and thus a proportional decrease to your GIVpower allocations. The percentages will not change, but the actual GIVpower amount will. These changes, if any, will only happen at the end of each bi-weekly GIVbacks round.
+
+You can increase your GIVpower by locking up your GIV again or [staking more GIV into the farm](https://giveth.io/givfarm).
+
+## Project Ranking
+
+All projects that have been boosted with GIVpower will receive a GIVpower ranking. The project with the most GIVpower will be ranked #1 on the platform. Ranking is calculated at the end of each GIVbacks round and is taken from the average amount of GIVpower staked on a project across the previous two weeks.
+
+A project's rank in turn will affect the percentage of GIVbacks donors will receive from donating to that project. The top ranked project can yield up to 80% GIVbacks matching while the bottom ranked project will yield 50%. To determine the GIVbacks factor for every project between the top and bottom ranks we take the spread, or the difference between the maximum and minimum GIVbacks factor, and divide that by the number of ranked projects we have at the end of every round, from this we can find the unique GIVbacks factor for every ranked project. Every project from the bottom up to the top rank will receive incrementally more GIVbacks matching.
+
+ You can read more about [GIVbacks here](./givbacks.md).
+
+<details>
+<summary><b><i>See an Example GIVbacks Distribution</i></b></summary>
+
+The year is 2049, it is GIVbacks round 1337...
+
+
+ We have **25 total projects** on the platform that have been boosted with GIVpower. The **maximum GIVbacks factor is 80%, the minimum is 50**%**, The difference between the two is 30%. This would mean the project with the least amount of GIVpower, project ranked #25, would have a GIVbacks Factor of 50% and **every subsequently higher ranked project would receive 1.25% more matching**.
+ 
+The total GIV to distribute for the round is 1,000,000 and the price of GIV is $0.53. 
+
+ Based on this information and some given values for GIVpower staked and the donations made to a given project our example distribution would look like this:
+ 
+ | Project | GIVpower | Rank | Givbacks Factor | USD Value of Donation | Estimated GIVbacks |
+| --- | --- | --- | --- | --- | --- |
+| A | 3736.351 | 1 | 80% | 906 | 1367.5471698113208 |
+| B | 3113.62 | 2 | 78.75% | 997 | 1481.3915094339623 |
+| C | 2594.68 | 3 | 77.50% | 951 | 1390.6132075471698 |
+| D | 2162.240 | 4 | 76.25% | 1401 | 2015.5896226415098 |
+| E | 1801.8671 | 5 | 75.00% | 1450 | 2051.8867924528304 |
+| F | 1501.5559 | 6 | 73.75% | 2241 | 3118.372641509435 |
+| G | 1251.296 | 7 | 72.50% | 0 | 0 |
+| H | 1042.747 | 8 | 71.25% | 1213 | 1630.6839622641517 |
+| I | 868.9560 | 9 | 70.00% | 2363 | 3120.943396226417 |
+| J | 724.130 | 10 | 68.75% | 1009 | 1308.8443396226423 |
+| K | 603.44 | 11 | 67.50% | 1795 | 2286.084905660379 |
+| L | 502.86 | 12 | 66.25% | 2069 | 2586.250000000002 |
+| M | 419.05 | 13 | 65.00% | 1990 | 2440.5660377358513 |
+| N | 349.21 | 14 | 63.75% | 529 | 636.2971698113214 |
+| O | 291.011 | 15 | 62.50% | 747 | 880.8962264150953 |
+| P | 242.509 | 16 | 61.25% | 0 | 0 |
+| Q | 202.091 | 17 | 60.00% | 599 | 678.1132075471706 |
+| R | 168.409 | 18 | 58.75% | 2289 | 2537.3349056603806 |
+| S | 140.341 | 19 | 57.50% | 1880 | 2039.6226415094368 |
+| T | 116.951 | 20 | 56.25% | 1827 | 1939.0330188679275 |
+| U | 97.4592 | 21 | 55% | 0 | 0 |
+| V | 81.216 | 22 | 53.75% | 1646 | 1669.2924528301917 |
+| W | 67.679 | 23 | 52.50% | 560 | 554.7169811320765 |
+| X | 56.4 | 24 | 51.25% | 1976 | 1910.754716981136 |
+| Y | 47 | 25 | 50% | 658 | 620.7547169811335 |
+
+</details>
+
+Project ranking will continue to have an important role on Giveth.io and will be incorporated into future roadmap features, such as [GIVmatching](./givethmatchingpool.md)! 
+
+## Delegation
+Giveth in the future will also be implementing the ability for users to delegate their GIVpower, letting trusted Givers curate projects on their behalf. You can apply now to become a [GIVpower delegate](https://forum.giveth.io/t/open-call-for-givpower-delegates/779)!
+
+
