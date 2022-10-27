@@ -42,7 +42,7 @@ Note that, even with the GIVbacks program, a donation on Giveth is still a donat
 $$
 n = N \frac{g}{G}
 $$
- 
+
 where:
 
 - n = Total cumulative amount of GIV tokens earned by the donor for a particular donation

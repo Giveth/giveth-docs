@@ -134,7 +134,7 @@ You can manage your GIVpower allocations by navigating to 'My Account' then clic
 
 <img alt='my boosted projects page' src={useBaseUrl('img/content/boostedProjectsPage.png')} />
 
-From this page you can edit your GIVpower allocations to each project you have boosted. To begin click `MODIFY`.
+From this page you can edit your GIVpower allocations to each project you have boosted. To begin click `EDIT BOOSTING`.
 
 You can edit your percentage of GIVpower allocationed to each project, when you modify one allocation all your other allocations will adjust relatively based on how great their previous allocation was. If you don't want your allocation to change for a specific project while modifying your GIVpower on other projects you can click the :lock: icon.
 
