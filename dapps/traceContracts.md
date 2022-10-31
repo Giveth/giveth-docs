@@ -3,6 +3,10 @@ id: traceContracts
 title: Contracts, Bridges and Multisigs Technical Information
 slug: dapps/traceContracts
 ---
+import TraceDeprecated from './_traceDeprecated.mdx'
+
+<TraceDeprecated />
+
 
 ## Contracts:
 * GivethBridge on Mainnet

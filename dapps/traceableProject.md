@@ -5,6 +5,10 @@ slug: dapps/makeTraceableProject
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'
+import TraceDeprecated from './_traceDeprecated.mdx'
+
+<TraceDeprecated />
+
 
 This guide will show you how to make your project traceable. We will go over the steps for first getting your project verified then upgrading it into a Campaign on [Giveth TRACE](https://trace.giveth.io).
 
