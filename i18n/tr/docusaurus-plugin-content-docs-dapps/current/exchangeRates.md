@@ -4,7 +4,9 @@ title: Exchange Rates
 slug: dapps/exchangeRates
 ---
 import NotTranslatedMessage from '../../_notTranslatedTR.mdx'
+import TraceDeprecated from './_traceDeprecatedTR.mdx'
 
+<TraceDeprecated />
 <NotTranslatedMessage />
 
 

@@ -3,6 +3,9 @@ id: exchangeRates
 title: Los tipos de cambio
 slug: dapps/exchangeRates
 ---
+import TraceDeprecated from './_traceDeprecatedES.mdx'
+
+<TraceDeprecated />
 
 Cuando dejas un trace dentro de [Giveth TRACE](https://beta.giveth.io), puedes ingresar una cantidad en éter o en fiat. Luego, nuestro sistema calcula automáticamente la tasa de conversión en función de la fecha del trace.
 

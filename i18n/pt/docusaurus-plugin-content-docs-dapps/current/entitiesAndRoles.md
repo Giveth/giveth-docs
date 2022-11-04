@@ -5,7 +5,9 @@ slug: dapps/entitiesAndRoles
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
+import TraceDeprecated from './_traceDeprecatedPT.mdx'
 
+<TraceDeprecated />
 
 
 *O conteúdo e as ideias foram modificados a partir desse excelente artigo “[Uma visão geral do aplicativo de doações”](https://medium.com/giveth/what-is-the-future-of-giving-d50446b0a0e4), de autoria de Kris Decoodt em 2017. Muitas coisas foram revisadas e modificadas desde 2017. Aqui detalhamos o como está o DApp em 2022*.

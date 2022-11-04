@@ -5,6 +5,9 @@ slug: dapps/leavingTraces
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
+import TraceDeprecated from './_traceDeprecatedPT.mdx'
+
+<TraceDeprecated />
 
 *Bem-Vindo! Se você é super novo no Giveth, entre no canal [#🔨contribua](https://discord.gg/qf7XZ48gCU) no Discord. Você pode se apresentar e tirar dúvidas lá! Este é um documento vivo e mudará à medida que os bugs forem corrigidos e os recursos adicionados ao DApp*
 

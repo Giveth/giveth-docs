@@ -5,6 +5,9 @@ slug: dapps/entitiesAndRoles
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
+import TraceDeprecated from './_traceDeprecatedES.mdx'
+
+<TraceDeprecated />
 
 *El contenido y las ideas se modificaron a partir de este excelente artículo [“Una descripción general de la solicitud de donación de Giveth”](https://medium.com/giveth/what-is-the-future-of-giving-d50446b0a0e4) escrito por Kris Decoodt en 2017. Se han revisado y modificado muchas cosas desde 2017. Aquí desglosamos la DApp tal como está en 2022.*
 

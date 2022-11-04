@@ -6,7 +6,9 @@ slug: dapps/bridgeSecurity
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
 import NotTranslatedMessage from '../../_notTranslatedTR.mdx'
+import TraceDeprecated from './_traceDeprecatedTR.mdx'
 
+<TraceDeprecated />
 <NotTranslatedMessage />
 
 ####  A technical overview of the features, roles and theory behind the security of the Giveth Bridge.

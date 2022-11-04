@@ -5,6 +5,9 @@ slug: dapps/makeTraceableProject
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
+import TraceDeprecated from './_traceDeprecatedES.mdx'
+
+<TraceDeprecated />
 
 Esta guía le mostrará cómo hacer que su proyecto sea rastreable. Repasaremos los pasos para primero verificar su proyecto y luego actualizarlo a una campaña en [Giveth TRACE](https://trace.giveth.io).
 

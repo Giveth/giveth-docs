@@ -6,7 +6,9 @@ slug: dapps/entitiesAndRoles
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
 import NotTranslatedMessage from '../../_notTranslatedTR.mdx'
+import TraceDeprecated from './_traceDeprecatedTR.mdx'
 
+<TraceDeprecated />
 <NotTranslatedMessage />
 
 

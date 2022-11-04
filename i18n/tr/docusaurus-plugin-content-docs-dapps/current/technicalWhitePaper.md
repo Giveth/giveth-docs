@@ -4,7 +4,9 @@ title: Technical White Paper
 slug: technicalWhitePaper
 ---
 import NotTranslatedMessage from '../../_notTranslatedTR.mdx'
+import TraceDeprecated from './_traceDeprecatedTR.mdx'
 
+<TraceDeprecated />
 <NotTranslatedMessage />
 
 

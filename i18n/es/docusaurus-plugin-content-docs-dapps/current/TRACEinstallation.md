@@ -4,6 +4,9 @@ title: Instalación de Giveth TRACE para el desarrollo local
 slug: dapps/TRACEinstallation
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
+import TraceDeprecated from './_traceDeprecatedES.mdx'
+
+<TraceDeprecated />
 
 Esta es una guía completa que guiará a los nuevos colaboradores sobre cómo ejecutar Giveth TRACE localmente. Nos ocuparemos de 2 repositorios que se encuentran en Giveth Github: el [**`giveth-dapp`**](https://github.com/Giveth/giveth-dapp) para el front-end y [** `feathers-giveth`**](https://github.com/Giveth/feathers-giveth) para la interfaz de contratos inteligentes y la base de datos de back-end.
 

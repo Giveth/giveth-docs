@@ -4,7 +4,9 @@ title: Contracts, Bridges and Multisigs Technical Information
 slug: dapps/traceContracts
 ---
 import NotTranslatedMessage from '../../_notTranslatedTR.mdx'
+import TraceDeprecated from './_traceDeprecatedTR.mdx'
 
+<TraceDeprecated />
 <NotTranslatedMessage />
 
 

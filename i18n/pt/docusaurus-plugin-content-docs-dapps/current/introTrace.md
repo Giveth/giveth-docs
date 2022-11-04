@@ -5,7 +5,9 @@ slug: dapps/introTrace
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
+import TraceDeprecated from './_traceDeprecatedPT.mdx'
 
+<TraceDeprecated />
 
 A Giveth está reestruturando as doações de caridade, criando plataformas totalmente gratuitas e de código aberto, construídas na Blockchain Ethereum. O Giveth TRACE elimina a burocracia e permite que os Criadores - responsáveis por desenvolver iniciativas - criem um alto nível de transparência e responsabilidade para os Doadores. A hierarquia básica de doação de Comunidades, Campanhas e Rastreios permite que os usuários especifiquem o escopo de sua doação. Existem várias funções de revisores e pontos de verificação de segurança que permitem que Doadores e Criadores usem nosso DApp com confiança. Você pode ler mais sobre os componentes básicos e a **lógica por trás do nosso DApp (Aplicativo de Doação) nesse** [post](https://medium.com/giveth/what-is-the-future-of-giving-d50446b0a0e4).
 

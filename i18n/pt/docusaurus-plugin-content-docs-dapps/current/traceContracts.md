@@ -3,6 +3,9 @@ id: traceContracts
 title: Informações Técnicas de Contratos, Bridges e Multisigs
 slug: dapps/traceContracts
 ---
+import TraceDeprecated from './_traceDeprecatedPT.mdx'
+
+<TraceDeprecated />
 
 ## Contratos:
 - Giveth na Mainet
