@@ -16,9 +16,9 @@ Cuando los usuarios de Giveth Dapp hacen una donación a [Giveth Project](https:
 
 Los siguientes tokens se han enumerado como elegibles para recibir $nice cuando se donan a Giveth:
 
-- [DAI](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f) (Mainnet)
-- xDAI (Gnosis Chain)
-- [wxDAI](https://www.blockscout.com/xdai/mainnet/token/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/token-transfers) (Gnosis Chain)
+import NiceTokenList from '../../../../_niceTokenList.mdx'
+
+<NiceTokenList />
 
 $nice se iguala en una proporción de 1:1 del valor en USD de las donaciones en el momento en que se realizó la donación. Por ejemplo, si donaste 50 DAI a Giveth (asumiendo que mantiene su paridad de $1), recibirías 50 $nice.
 
