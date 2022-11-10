@@ -12,6 +12,6 @@ module.exports = {
         label:'Guides',
         items:['fundraisingGuide','commsContributorGuide','meetingsGuide','adviceProcess', 'introDiscord','brandBook']
       },
-      'finances', 'toolsDecentralizedCommunities','history'
+      , 'toolsDecentralizedCommunities','history'
    ],
 }
