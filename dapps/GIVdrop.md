@@ -9,7 +9,7 @@ import styles from '../src/css/custom.css'
 
 The GIVdrop is designed to kickstart the GIVeconomy by distributing GIV tokens to the Giveth trusted seed - crypto philanthropists, Giveth users & builders, Blockchain4Good DAO members, and other ecosystem partners. To check your GIVdrop eligibility or to claim [click here](https://giveth.io/claim). To learn how to claim your GIVdrop, refer to our tutorial below.
 
-All addresses have 5 years from December 24, 2021 to claim their GIVdrop. After that, any unclaimed tokens will be returned to the Giveth DAO, further increasing the DAO treasury.
+All addresses have [until Decemember 24, 2022](https://forum.giveth.io/t/ending-the-givdrop/880) to claim their GIVdrop. After that, any unclaimed tokens will be returned to the Giveth DAO.
 
 ## GIVdrop Eligibility
 
