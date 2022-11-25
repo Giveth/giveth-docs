@@ -4,9 +4,35 @@
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
+@font-face {
+  font-family: RedHatDisplay;
+  src: url('../../static/fonts/RedHatDisplay-Medium.ttf');
+  font-weight: normal;
+}
 
+@font-face {
+  font-family: RedHatDisplay;
+  src: url('../../static/fonts/RedHatDisplay-ExtraBold.ttf');
+  font-weight: 700;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: RedHatDisplay;
+  src: url('../../static/fonts/RedHatDisplay-Italic.ttf');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: RedHatDisplay;
+  src: url('../../static/fonts/RedHatDisplay-Regular.ttf');
+  font-weight: light;
+}
 /* You can override the default Infima variables here. */
 :root {
+  --ifm-font-family-base: RedHatDisplay;
+  --ifm-heading-font-family: RedHatDisplay;
+  --ifm-font-weight-normal: bolder;
   --ifm-color-primary: #C2449F;
   --ifm-color-secondary: #303B72;
   --ifm-color-primary-dark: #202850;
@@ -15,7 +41,7 @@
   --ifm-color-primary-light: #404f99;
   --ifm-color-primary-lighter: #4e61be;
   --ifm-color-primary-lightest: hsl(230, 78%, 65%);
-  --ifm-code-font-size: 95%;
+  --ifm-code-font-size: 110%;
 }
 
 iframe {
