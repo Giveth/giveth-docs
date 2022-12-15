@@ -96,7 +96,7 @@ Bunun nasıl çalıştığını anlamak için bir örneğe bakalım:
 
 :::success
 #### Yayınlanan Ödüller
-Her zaman olduğu gibi, tüm GIVeconomy ödülleri GIVstream’a göre dağıtılır. Talep edilebilir ödüllerinizin ne kadar olacağını öğrenmek için [**GIViverse İlerlemesine **](https://giveth.io/givstream) göz atın.
+Her zaman olduğu gibi, tüm GIVeconomy ödülleri GIVstream’a göre dağıtılır. Talep edilebilir ödüllerinizin ne kadar olacağını öğrenmek için [**GIViverse İlerlemesine**](https://giveth.io/givstream) göz atın.
 :::
 
 
