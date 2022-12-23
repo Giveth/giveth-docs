@@ -81,7 +81,7 @@ $$
 
 Bunun nasıl çalıştığını anlamak için bir örneğe bakalım: 
 
-> Carlos, stake ettiği GIV'in 100'ünü 10 tur (20 hafta) için kilitlemeye karar verir. 2 ondalık basamağa yuvarlanmış çarpanı **3,32**'dir.
+> Carlos stake ettiği GIV'in 100'ünü 10 tur (20 hafta) için kilitlemeye karar verir. 2 ondalık basamağa yuvarlanmış çarpanı **3,32**'dir.
 > $$
 > \sqrt(1 + 10) = 3.3166247903554 
 > $$
