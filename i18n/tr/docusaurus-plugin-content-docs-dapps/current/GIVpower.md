@@ -23,8 +23,8 @@ Ayrıca, kullanıcılar ödül APR oranlarını ve GIVpower’larını arttırab
 
 ### Kontratlar
 
-- GIVpower(POW) Token - 0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2 
-- GIVpower Staking - 0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2 
+- GIVpower(POW) Token - [0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2](https://gnosisscan.io/address/0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2)
+- GIVpower Staking - [0x24F2d06446AF8D6E89fEbC205e7936a602a87b60](https://gnosisscan.io/address/0x24F2d06446AF8D6E89fEbC205e7936a602a87b60)
 
 ## Stake & Kilitleme
 

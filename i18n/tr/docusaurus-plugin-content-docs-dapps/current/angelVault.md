@@ -4,9 +4,10 @@ title: Melek Kasası
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
-
 Melek Kasası, GIV'i aşağı yönlü fiyat oynaklıklarından korumak amacıyla yapılandırılmış, stratejik olarak yönetilen bir Univ3 pozisyonudur. [4/7 çoklu izmacı Giveth çekirdek ekip üyeleri ve ICHI'den iki üye](https://gnosis-safe.io/app/eth:0x2B0ee142dCFE7C2dD150cDbd7B6832F6e9977f51/home) olan Melek Kasası çoklu imzacılarımız tarafından yönetilmektedir. Melek Kasa'lar ve nasıl çalıştıkları hakkında daha fazla bilgi edinmek için lütfen [ICHI dökümanlarına](https://docs.ichi.org/ichi-docs-v3/ichi-vaults/angel-vaults) göz atın.
+
 ## Kontratlar
+
 - Angel Vault (ICHI) LM (Unipool): `0xA4b727DF6fD608d1835e3440288c73fB28c4eF16`
 - Angel Vault (ICHI) LP: `0xc3151A58d519B94E915f66B044De3E55F77c2dd9`
 
