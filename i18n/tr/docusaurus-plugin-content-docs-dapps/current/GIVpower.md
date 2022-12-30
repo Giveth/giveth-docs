@@ -5,120 +5,117 @@ slug: giveconomy/givpower
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
-import NotTranslated from '../../_notTranslatedTR.mdx'
 
-<NotTranslated />
 
 # GIVpower 
 
-GIVpower was created to build a win-win relationship between projects & donors. GIV holders get GIVpower and earn a yield when they stake and - if they choose - lock GIV in the GIVfarm. They will eventually be able to use their GIVpower to “boost” projects on Giveth and help improve their ranking. Top ranked projects will get benefits on the platform. Initially their donors will get more GIVbacks, and eventually, they will get matching funds and other benefits.
+GIVpower, projeler ve bağışçılar arasında kazan-kazan bir ilişkisi oluşturmak için oluşturuldu. GIV sahipleri, GIV tokenlerini GIVfarm'da stake ettiklerinde ve kilitlediklerinde(isteğe bağlı) GIVpower ve kazanç elde ederler. Nihayetinde bu GIVpower'larını Giveth'teki projeleri "desteklemek"🚀 için kullanabilecekler ve projelerin sıralamalarını yükseltmeye yardımcı olacaklar. En üst sıralarda yer alan projeler platformda avantajlar elde edecek. Başlangıçta proje bağışçıları daha fazla GIVback alacak ve sonunda proje eşleşen fonları ve diğer faydaları elde edecek..
 
-The 1st phase of GIVpower, formerly known as GIVcuration, launched on October 4th, 2022 and adds a new layer of mechanics for staking GIV on the GIVfarm. 
+4 Ekim 2022'de başlatılan GIVpower'ın 1. aşaması, GIVfarm'da GIV stake etmeye yeni bir mekanizma ekliyor. 
 
 <img alt='givpower staking card' width='30%' heigh='auto' src={useBaseUrl('img/givpowerCard.png')} />
 
 
-In addition to the APR of GIV rewards and receiving [gGIV for Giveth governance](https://docs.giveth.io/giveconomy/givgarden), users will now also get **GIVpower**, a non-transferrable ERC-20 token. Staked GIV is matched 1:1 with GIVpower. 
-i.e. If you stake 100 GIV you will get 100 GIVpower. 
+GIV ödüllerinin APR'sine ve [Giveth yönetişimi için gGIV] (https://docs.giveth.io/giveconomy/givgarden) almaya ek olarak, kullanıcılar ayrıca devredilemez bir ERC-20 tokeni olan **GIVpower'a** sahip olmaktadır. Stake edilen GIV tokenler, GIVpower ile 1:1 oranında eşleştirilir.
+Yani 100 GIV stake ederseniz 100 GIVpower alırsınız.
 
+Ayrıca, kullanıcılar ödül APR oranlarını ve GIVpower’larını arttırabilmek için GIVfarm’larda stake edilmiş GIV’lerini “Kilitleyebilecekler”.
 
-Users will also be able to "Lock" their staked GIV on the GIVfarm to multiply their rewards APR and their GIVpower.
-
-### Contracts
+### Kontratlar
 
 - GIVpower(POW) Token - 0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2 
 - GIVpower Staking - 0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2 
 
-## Staking & Locking
+## Stake & Kilitleme
 
-Users can now increase their rewards from staking GIV by locking them up for a period of time. Locking GIV means that it cannot be unstaked for a given amount of time, you can see the date a particular batch of GIV unlocks in the “Locked GIV Details” pop-up.
+Artık kullanıcılar stake edilmiş GIV’lerini bir süreliğine kilitleyerek ödüllerini artırabilirler. GIV'i kilitlemek, belirli bir süre için stake işleminin geri alınamayacağı anlamına gelir, Belirli miktardaki GIV tokenin kilidinin açıldığı tarihi "Kilitli GIV Ayrıntıları" açılır penceresinde görebilirsiniz.
 
 :::info
-GIVpower is only available on Gnosis Chain and **GIV staking on Mainnet has ended**. You'll need to harvest, unstake and [bridge your GIV](https://omni.gnosischain.com/bridge) from Mainnet to Gnosis Chain to continue staking GIV and earning rewards.  
+GIVpower yalnızca Gnosis Zincirinde mevcuttur. Eğer Ethereum Anaağı üzerinde GIV'niz varsa ve ödüller kazanmak ve GIVpower ile katılmak istiyorsanız, GIV'nizi Ethereum Anaağı’ndan Gnosis Zincirine [köprüleyebilirsiniz.](https://omni.gnosischain.com/bridge)
 :::
 
-GIV can be locked according to bi-weekly segments following the same schedule as GIVbacks, the minimum amount of time is 1 round (2 weeks), up to 26 rounds (1 year). 
+GIV, GIVback'lerle aynı programı izleyerek iki haftalık bölümlere göre kilitlenebilir, minimum süre 1 tur (2 hafta) ve maksimum süre 26 turdur (1 yıl). 
 
-The longer you lock your GIV the greater the multiplier will be for that specific amount of GIV locked. A bigger multiplier means you will get more GIV from the GIVfarm rewards (you get a higher APR) and you will also get more GIVpower.The amount of gGIV you receive will not increase.
+GIV'nizi ne kadar uzun süre kilitlerseniz, kilitlenen o belirli GIV miktarı için getiri çarpanı o kadar yüksek olur. Daha büyük bir getiri çarpanı, GIVfarm ödüllerinden daha fazla GIV alacağınız (daha yüksek bir APR alırsınız) ve ayrıca daha fazla GIVpower elde edeceğiniz anlamına gelir. Aldığınız gGIV miktarı artmayacaktır.
 
 <img alt='givpower multiplier' width="80%" heigh='auto' src={useBaseUrl('img/givpowerMultiplier.png')} />
 
-You can lock up multiple batches of GIV tokens for different lengths of time, each batch might have a different APR, depending on how long you locked up your tokens. 
+Birden çok GIV token grubunu farklı süreler için kilitleyebilirsiniz, tokenlerinizi ne kadar süreyle kilitli tuttuğunuza bağlı olarak her grubun farklı bir APR'si olabilir. 
 
 <img alt='givpower locked giv details' width="80%" heigh='auto' src={useBaseUrl('img/givpowerLockedDetails.png')} />
 
 
-After the locking period for your GIV ends your GIV becomes unlocked, meaning it can be unstaked from the GIVfarm. Unstaking your GIV means you will lose any associated GIVpower and gGIV. You can get it back however by staking your GIV again.
+GIV'inizin kilitleme süresi sona erdikten sonra, GIV'inizin kilidi açılır, yani yapılan stake GIVfarm'dan  kaldırılabilir. Stakelerin kaldırılması, ilişkili tüm GIVpower ve gGIV'i kaybedeceğiniz anlamına gelir. Ancak GIV'inizi tekrar stake ederek geri alabilirsiniz.
 
 
 
 ### GIVfarm APR
 
-When you lock up your GIV you will see an estimated APR for that amount of GIV being locked up. The actual APR will change based on the actual total amount of GIV staked in the farm across all users, and might be different for each batch of tokens locked. You will be able to see your actual APR for each batch by navigating to the "Locked GIV Details'' pop-up on the GIVpower staking card.
+GIV'nizi kilitlediğinizde, kilitlenen o GIV miktarı için tahmini bir APR göreceksiniz. Gerçek APR, tüm kullanıcılar arasında farm'da stake edilen gerçek toplam GIV miktarına göre değişecektir ve kilitlenen her token grubu için farklı olabilir. GIVpower staking kartındaki "Kilitli GIV Ayrıntıları" açılır penceresine giderek her grup için gerçek APR'nizi görebileceksiniz.
 
 <img alt="locked givpower aprs" width="80%" heigh='auto' src={useBaseUrl('img/givpowerLockedapr.png')} />
 
-On the GIVpower staking card the APR shown is the weighted average of all batches of your locked GIV. If you have no GIV locked in GIVpower you will be shown a range of the lowest and highest possible APRs at that moment.
+GIVpower istifleme kartında gösterilen APR, kilitli GIV'inizin tüm gruplarının ağırlıklı ortalamasıdır. GIVpower'da kilitli bir GIV'niz yoksa, size o anda mümkün olan en düşük ve en yüksek APR'lerin bir aralığı gösterilecektir.
 
 <img alt='givpower staking card apr' width='30%' heigh='auto' src={useBaseUrl('img/givpowerCardapr.png')} />
 
 
-#### Unlocking
+#### Kilit Açma
 
-Unlocking only happens at the beginning of a new round, so if you lock your GIV in the middle of a round, the unlock date will be calculated from when the next round begins.
+Kilit açma yalnızca yeni bir turun başında gerçekleşir, bu nedenle GIV'nizi bir turun ortasında kilitlerseniz, kilit açma tarihi bir sonraki turun başladığı andan itibaren hesaplanacaktır.
 
 
-For example:
+Örneğin:
 
-> Mohammad locks up his staked GIV for 5 rounds (10 weeks), today is day 5 of round 25. His GIV would remain locked for all of round 25 (9 more days) until round 26 begins, PLUS 5 more rounds, meaning his GIV would finally unlock at the end of round 31.
+> Bugün 25. turun 5. günü ve Mohammad stake ettiği GIV'lerini 5 tur (10 hafta) için kilitledi. GIV'leri 26. tur başlayana kadar 25. turun tamamı (9 gün daha) boyunca kilitli kalacak, ARTI 5 tur daha, yani GIV'lerin nihayet 31. turun sonunda kilidi açılacaktır.
 
-When the duration of your locking period for each batch ends then that batch of GIV becomes unlocked, thus reducing your APR of that batch to the minimum APR for GIV staking. To increase your APR again you will need to lock up your GIV.
+Her miktar için kilitleme sürenizin süresi sona erdiğinde, o GIV miktarının kilidi açılır ve böylece o miktarın APR'si GIV stake’i için minimum APR'ye düşer. APR'nizi tekrar artırmak için GIV'nizi kilitlemeniz gerekir.
 
-### The Multiplier
-The basic formula for calculating the multiplier of GIV APR rewards and GIVpower is:
+### Çarpan
+GIV APR ödülleri ve GIVpower çarpanını hesaplamak için temel formül şöyledir:
 
 $$
 \sqrt(1 + N)
 $$
-*N = number of rounds locked*
+*N = kilitli tur sayısı*
 
-Let's look at an example to understand how this works: 
+Bunun nasıl çalıştığını anlamak için bir örneğe bakalım: 
 
-> Carlos decides to lock up 100 of his staked GIV for 10 rounds (20 weeks). His multiplier, rounded to 2 decimal places, is **3.32**.
+> Carlos stake ettiği GIV'in 100'ünü 10 tur (20 hafta) için kilitlemeye karar verir. 2 ondalık basamağa yuvarlanmış çarpanı **3,32**'dir.
 > $$
 > \sqrt(1 + 10) = 3.3166247903554 
 > $$
-> If at the time of locking the minimum GIV staking APR is 35% then his APR at the time of locking will be ~116%. The actual amount will be variable depending, as mentioned, on the total amount of GIV staked into the farm, but that same multiplier of 3.32 would be applied to the current staking APR for the GIV rewards that Carlos earns.
+> Kilitleme sırasında minimum GIV stake APR'si %35 ise, kilitleme anındaki APR'si ~%116 olacaktır. Gerçek miktar, bahsedildiği gibi, farm’a stake edilen toplam GIV miktarına bağlı olarak değişken olacaktır, ancak aynı çarpan olan 3,32, Carlos'un kazandığı GIV ödülleri için mevcut paylaştırma APR'sine uygulanacaktır.
 > 
->Carlos also would get a multiplier on his GIVpower. Assuming he had 500 GIV staked and chooses to lockup 100 of that 500 he would then have 732 GIVpower.
+>Carlos ayrıca GIVpower’da bir çarpan elde edecekti. Stake ettiği 500 GIV olduğunu ve bu 500'den 100'ünü kilitlemeyi seçtiğini varsayarsak, o zaman 732 GIVpower’a sahip olur.
 >$$
 >(100 * 3.32) + 400 = 732
 >$$
 
-> After the 10 rounds that Carlos locked his GIV, his GIVpower will no longer have a multiplier, becoming reduced to only 500, matching 1:1 his staked GIV and his APR will go down to the minimum staking APR.
+> Carlos'un GIV'lerini kilitlediği 10 turdan sonra, GIVpower artık bir çarpana sahip olmayacak ve sadece 500'e düşecek, 1:1 ile eşleşecek ve APR'si minimum stake edilen APR'ye inecek.
 
 :::success
-#### Streamed Rewards
-As always, all GIVeconomy rewards are distributed according to the GIVstream. Check out the [**GIViverse Expansion**](https://giveth.io/givstream) to understand how much your claimable rewards will be.
+#### Yayınlanan Ödüller
+Her zaman olduğu gibi, tüm GIVeconomy ödülleri GIVstream’a göre dağıtılır. Talep edilebilir ödüllerinizin ne kadar olacağını öğrenmek için [**GIViverse İlerlemesine**](https://giveth.io/givstream) göz atın.
 :::
 
 
 <img alt='GIVpower overview' src={useBaseUrl('img/GIVpowerOverview.png')} />
 
-## Rewards Allocation
-7 Million GIV was allocated to the first 6 months of GIVpower Rewards. Near the end of the first 6 months Giveth will assess the program's performance and allocate more rewards accordingly..
+## Ödül Dağıtımı
+GIVpower Ödüllerinin ilk 6 ayına 7 Milyon GIV tahsis edildi. İlk 6 ayın sonuna doğru Giveth, programın performansını değerlendirecek ve buna göre daha fazla ödül dağıtacak.
 
-## Boosting (Phase 2)
+## Güçlendirme (Aşama 2)
 
-As mentioned, users will now get GIVpower for staking their GIV in the GIVfarm. Coming closely on the heels of phase 1 will be the release of phase 2 which will allow users to boost projects with GIVpower.
+Bahsedildiği gibi, kullanıcılar artık GIV'lerini GIVfarm'da stake ettikleri için GIVpower alacaklar. Aşama 1'in hemen ardından, kullanıcıların projeleri GIVpower ile güçlendirmesine olanak tanıyacak olan Aşama 2'nin piyasaya sürülmesi yakında gerçekleşecek.
 
-Users will be able to stake their GIVpower on projects to boost them. Boosted projects will be ranked on the platform based on how much GIVpower has been staked on them and based on their ranking they will generate more GIVbacks to their donors. 
+Kullanıcılar, projeleri desteklemek için GIVpower’larını kullanabilecekler. Desteklenmiş projeler, üzerlerinde ne kadar GIVpower stake edildiğine göre platformda sıralanacak ve sıralamalarına göre bağışçılarına daha fazla GIVback üretecekler. 
 
-Top-ranked projects will also benefit from matching funds from the [GIVmatching Program](https://forum.giveth.io/t/givmatching-idea-generation-on-how-to-distribute-funds/346/21). 
+En üst sıralarda yer alan projeler, [GIVmatching Programı](https://forum.giveth.io/t/givmatching-idea-generation-on-how-to-distribute-funds/346/21) tarafından sağlanan eşleştirme fonlarından da yararlanacaktır. 
 
-Both Boosting and GIVmatching are yet to be released and we will update this documentation as more details become available.
+Hem Boosting hem de GIVmatching henüz yayınlanmadı ve daha fazla ayrıntı mevcut oldukça bu belgeleri güncelleyeceğiz.
 
 :::info
-#### Delegation
-Giveth in the future will also be implementing the ability for users to delegate their GIVpower, letting trusted Givers curate projects on their behalf, stay tuned for more details!
+#### Delegasyon
+Giveth gelecekte, kullanıcıların GIVpower devretme yeteneğini sağlayacak ve güvenilir bağışçıların projeleri onlar adına düzenlemesine izin verecek, daha fazla ayrıntı için bizi takipte kalın!
 :::
