@@ -4,9 +4,6 @@ title: The Angel Vault
 ---
 
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import NotTranslated from '../../\_notTranslatedPT.mdx'
-
-<NotTranslated />
 
 O Angel Vault é uma posição Univ3 estrategicamente gerida e estruturada para proteger o GIV da volatilidade descendente. Ele é gerenciado por nosso multisig do Angel Vault, um [multisig de 4/7 dos membros da equipe principal da Giveth e dois membros para o ICHI](https://gnosis-safe.io/app/eth:0x2B0ee142dCFE7C2dD150cDbd7B6832F6e9977f51/home). Para saber mais sobre Angel Vaults e como eles funcionam, consulte a [documentação do ICHI.](https://docs.ichi.org/ichi-docs-v3/ichi-vaults/angel-vaults).
 

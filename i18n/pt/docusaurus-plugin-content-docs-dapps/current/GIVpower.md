@@ -3,7 +3,6 @@ id: givpower
 title: GIVpower
 slug: giveconomy/givpower
 ---
-
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
 import ReactPlayer from 'react-player'
@@ -23,8 +22,8 @@ Os usuários também poderão "Bloquear" seu GIV apostado no GIVfarm para multip
 
 ### Contratos
 
-- GIVpower(POW) Token - 0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2
-- GIVpower Staking - 0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2
+- GIVpower(POW) Token - [0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2](https://gnosisscan.io/address/0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2)
+- GIVpower Staking - [0x24F2d06446AF8D6E89fEbC205e7936a602a87b60](https://gnosisscan.io/address/0x24F2d06446AF8D6E89fEbC205e7936a602a87b60)
 
 ## Staking & Locking
 
