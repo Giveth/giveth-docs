@@ -22,7 +22,9 @@ Givers who donate to verified projects within an active round are eligible to re
 
 For non-Giving Block projects, the verification process requires projects to provide additional information about their project and the intended impact of the organization. Our amazing Project Verification Team then reviews these applications, investigates the information provided and informs the project owners about the verdict.
 
-To learn more about the project verification process check out our [documentation](ADD LINK).
+
+To learn more about the project verification process check out our [documentation](./projectVerification.md).
+
 
 ## Tokens Eligible for GIVbacks
 

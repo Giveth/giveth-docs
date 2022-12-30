@@ -2,59 +2,65 @@
 id: angelVault
 title: The Angel Vault
 ---
+
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import NotTranslated from '../../_notTranslatedPT.mdx'
 
-<NotTranslated />
+O Angel Vault é uma posição Univ3 estrategicamente gerida e estruturada para proteger o GIV da volatilidade descendente. Ele é gerenciado por nosso multisig do Angel Vault, um [multisig de 4/7 dos membros da equipe principal da Giveth e dois membros para o ICHI](https://gnosis-safe.io/app/eth:0x2B0ee142dCFE7C2dD150cDbd7B6832F6e9977f51/home). Para saber mais sobre Angel Vaults e como eles funcionam, consulte a [documentação do ICHI.](https://docs.ichi.org/ichi-docs-v3/ichi-vaults/angel-vaults).
 
-The Angel Vault is a strategically managed Univ3 position structured to protect GIV from downward volatility. It is managed by our Angel Vault multisig, a [4/7 multisig of Giveth core team members and two members for ICHI](https://gnosis-safe.io/app/eth:0x2B0ee142dCFE7C2dD150cDbd7B6832F6e9977f51/home). To learn more about Angel Vaults and how they work, please refer to [ICHI’s documentation](https://docs.ichi.org/ichi-docs-v3/ichi-vaults/angel-vaults).
-## Contracts
+## Contratos
+
 - Angel Vault (ICHI) LM (Unipool): `0xA4b727DF6fD608d1835e3440288c73fB28c4eF16`
 - Angel Vault (ICHI) LP: `0xc3151A58d519B94E915f66B044De3E55F77c2dd9`
 
 ## oneGIV
-oneGIV is a Giveth Branded Dollar (by ICHI) that can be minted using DAI at a 1:1 ratio. This can be done via [ICHI’s website](https://app.ichi.org/vault?poolId=20009&back=vault). To learn more about ICHI’s branded dollar, [please refer to their documentation](https://docs.ichi.org/ichi-docs-v3/branded-dollars/overview).
 
-oneGIV is minted using 100% DAI, and is also over-collateralized by GIV. The contract holds GIV as additional collateral in case there is some issue with the DAI. All mints & burns of oneGIV happen via a contract managed by our Angel Vault multisig.
+oneGIV é uma taxa de dólar de marca Giveth1:1 (por ICHI). Isso pode ser feito através do site da [ICHI](https://app.ichi.org/vault?poolId=20009&back=vault). Para saber mais sobre o dólar da marca ICHI, [consulte a documentação](https://docs.ichi.org/ichi-docs-v3/branded-dollars/overview).
 
-Over time, the Giveth DAO may vote to change the minting ratio from 100% DAI to a combination of DAI and GIV (e.g. 80% DAI, 20% GIV). However, to keep the peg to the dollar, burning oneGIV to redeem DAI will always result in 100% DAI.
+oneGIV é cunhado usando 100% DAI e também é supercolateralizado pelo GIV. O contrato mantém o GIV como garantia adicional caso haja algum problema com a DAI. Todos os mints & burns do oneGIV acontecem através de um contrato gerenciado pelo nosso multisig Angel Vault.
 
-## Providing & Removing Liquidity
-Liquidity providers can add liquidity to the Angel Vault using oneGIV via [ICHI’s website](https://app.ichi.org/vault?poolId=20009&back=vault), and then stake their LP tokens in the [GIVfarm](https://giveth.io/givfarm). Because this oneGIV is added to a oneGIV / GIV Univ3 position, when you remove liquidity you will get oneGIV & GIV proportional to the holdings in the Angel Vault.
+Com o tempo, o Giveth DAO pode votar para alterar a taxa de cunhagem de 100% DAI para uma combinação de DAI e GIV (por exemplo, 80% DAI, 20% GIV). No entanto, para manter a paridade com o dólar, queimar um GIV para resgatar o DAI sempre resultará em 100% do DAI.
 
-## Earning Rewards
-Rewards are given to liquidity providers in proportion to the liquidity provided. When you stake your LP tokens, you earn rewards in two parts:
-1. The 1% Uniswap fee which automatically increase your Angel Vault position ([IRR](https://docs.ichi.org/ichi-docs-v3/resources/faqs#what-does-the-irr-metric-on-the-angel-vault-page-represent)).
-2. GIV incentives from within the GIVfarm, which as always, are distributed according to the GIVstream. Check out the [**GIViverse Expansion**](https://giveth.io/givstream) to understand how much your claimable rewards will be.
+## Fornecendo e removendo liquidez
 
-The APR shown in the GIVfarm oneGIV/GIV staking pool is the sum of these two reward rates.
+Provedores de liquidez podem adicionar liquidez ao Angel Vault usando oneGIV através do [ICHI’s website](https://app.ichi.org/vault?poolId=20009&back=vault), Ie, em seguida, apostar seus tokens LP no [GIVfarm](https://giveth.io/givfarm). Como este oneGIV é adicionado a uma posição oneGIV / GIV Univ3, quando você remove a liquidez, você recebe umGIV e GIV proporcional às participações no Angel Vault.
+
+## Ganhando Recompensas
+
+Recompensas são dadas aos provedores de liquidez na proporção da liquidez fornecida. Ao apostar seus tokens LP, você ganha recompensas em duas partes:
+
+1. A taxa de 1% Uniswap aumenta automaticamente sua posição no Angel Vault ([IRR](https://docs.ichi.org/ichi-docs-v3/resources/faqs#what-does-the-irr-metric-on-the-angel-vault-page-represent)).
+2. Incentivos GIV de dentro do GIVfarm, que como sempre, são distribuídos de acordo com o GIVstream. Confira a [**Expansão GIViverse**](https://giveth.io/givstream) para entender quanto serão suas recompensas resgatáveis.
+
+A APR mostrada no staking pool GIVfarm oneGIV/GIV é a soma dessas duas taxas de recompensa.
 
 <img alt="angel vault staking farm staking card" src={useBaseUrl('/img/content/giveconomy/angelVaultCard.png')} />
 
-## Distribution of GIV rewards to Angel Vault LP Stakers
-A total of 6 Million GIV has been allocated to run a rewards program for Angel Vault LP stakers for 26 weeks from the start date August 4, 2022. The amount of rewards being sent out throughout each two week period is as follows:
+## Distribuição de recompensas GIV para os LP Stakers do Angel Vault
 
-| Week    | GIV Rewarded (within the 2 week period) | % of rewards |
-| ------- | --------------------------------------- | ------------ |
-| Week 1  | 485,143                                 | 8.09%        |
-| Week 3  | 569,143                                 | 9.49%        |
-| Week 5  | 140,000                                 | 2.33%        |
-| Week 7  | 653,143                                 | 10.89%       |
-| Week 9  | 140,000                                 | 2.33%        |
-| Week 11 | 737,143                                 | 12.29%       |
-| Week 13 | 140,000                                 | 2.33%        |
-| Week 15 | 821,143                                 | 13.69%       |
-| Week 17 | 140,000                                 | 2.33%        |
-| Week 19 | 905,143                                 | 15.09%       |
-| Week 21 | 140,000                                 | 2.33%        |
-| Week 23 | 989,143                                 | 16.49%       |
-| Week 25 | 140,000                                 | 2.32%        |
+Um total de 6 milhões de GIV foi alocado para executar um programa de recompensas para os apostadores do Angel Vault LP por 26 semanas a partir da data de início em 4 de agosto de 2022. A quantidade de recompensas enviadas ao longo de cada período de duas semanas é a seguinte:
 
-### Incentives Plan — The Jagged Staircase
-When the Angel Vault is initialized, the entirety of its liquidity will be in oneGIV. This is beneficial as the Angel Vault works best when there is a high percentage of oneGIV in the vault, but this percentage does not stay stable over time.
-The ratio of GIV goes up when there is sell pressure in the market on the GIV token.
-The ratio of oneGIV goes up when new Angel Vault LP positions are created.
-The ratio of GIV/oneGIV stays the same when Angel Vault LP positions are removed.
-We therefore want to encourage liquidity providers to periodically withdraw liquidity —  removing some % of GIV from the pool — and then re-add liquidity in oneGIV, increasing the total concentration of stables in the Angel Vault. This will help to support the strength of the Angel Vault buy-wall.
+| Semana    | GIV recompensado (dentro do período de 2 semanas) | % de recompensas |
+| --------- | ------------------------------------------------- | ---------------- |
+| Semana 1  | 485,143                                           | 8.09%            |
+| Semana 3  | 569,143                                           | 9.49%            |
+| Semana 5  | 140,000                                           | 2.33%            |
+| Semana 7  | 653,143                                           | 10.89%           |
+| Semana 9  | 140,000                                           | 2.33%            |
+| Semana 11 | 737,143                                           | 12.29%           |
+| Semana 13 | 140,000                                           | 2.33%            |
+| Semana 15 | 821,143                                           | 13.69%           |
+| Semana 17 | 140,000                                           | 2.33%            |
+| Semana 19 | 905,143                                           | 15.09%           |
+| Semana 21 | 140,000                                           | 2.33%            |
+| Semana 23 | 989,143                                           | 16.49%           |
+| Semana 25 | 140,000                                           | 2.32%            |
 
-<img alt="rewards distribution schedule for jagged staircase" src={useBaseUrl('/img/content/giveconomy/jaggedStaircase.png')} />
+### Plano de incentivos — A escada irregular
+
+Quando o Angel Vault for inicializado, toda a sua liquidez estará em umGIV. Isso é benéfico, pois o Angel Vault funciona melhor quando há uma alta porcentagem de um GIV no cofre, mas essa porcentagem não permanece estável ao longo do tempo.
+A proporção de GIV aumenta quando há pressão de venda no mercado sobre o token GIV.
+A proporção de umGIV aumenta quando novas posições de LP do Angel Vault são criadas.
+A proporção de GIV/oneGIV permanece a mesma quando as posições do Angel Vault LP são removidas.
+Portanto, queremos incentivar os provedores de liquidez a retirar liquidez periodicamente —  removendo parte do GIV do pool — e, em seguida, adicionar novamente liquidez em umGIV, aumentando a concentração total de estábulos no Angel Vault. Isso ajudará a apoiar a força da parede de compra do Angel Vault.
+
+<img alt="cronograma de distribuição de recompensas para escada irregular" src={useBaseUrl('/img/content/giveconomy/jaggedStaircase.png')} />

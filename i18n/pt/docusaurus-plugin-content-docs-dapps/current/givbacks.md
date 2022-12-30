@@ -5,7 +5,7 @@ slug: giveconomy/givbacks
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-GIVbacks é um conceito revolucionário que recompensa doadores para projetos verificados com tokens GIV. Ao doar para projetos verificados durante uma rodada de GIVbacks, você se torna elegível para receber recompensas GIV após o término da rodada e o GIV estará pronto para ser coletado. Você pode acompanhar as  informações ao vivo --- incluindo cronograma de rodadas e o seu GIV disponível para ser coletado. --- na [página GIVbacks](https://giv.giveth.io/givbacks).
+GIVbacks é um conceito revolucionário que recompensa doadores para projetos verificados com tokens GIV. Ao doar para projetos verificados durante uma rodada de GIVbacks, você se torna elegível para receber recompensas GIV após o término da rodada e o GIV estará pronto para ser coletado. Você pode acompanhar as  informações ao vivo --- incluindo cronograma de rodadas e o seu GIV disponível para ser coletado. --- na [página GIVbacks](https://giveth.io/givbacks).
 
 ## Rodadas de GIVbacks
 
@@ -23,7 +23,7 @@ Doadores que doam para projetos verificados em uma rodada ativa são elegíveis 
 
 Para projetos non-Giving Block, o processo de verificação exige que os projetos forneçam informações adicionais sobre seu projeto e o impacto pretendido na organização. Nossa incrível Equipe de Verificadores de Projetos analisa esses aplicativos, investiga as informações fornecidas e informa aos proprietários do projeto sobre o veredicto.
 
-Para saber mais sobre o processo de verificação do projeto, confira nossa **documentação**.
+Para saber mais sobre o processo de verificação do projeto, confira nossa [documentação](./projectVerification.md).
 
 ## Tokens Elegíveis para GIVbacks
 
@@ -33,28 +33,29 @@ Um doador pode doar qualquer token ERC-20 para projetos na Giveth.io, na Gnosis 
 
 Durante cada rodada, todas as doações para projetos verificados no DApp são rastreadas, e esses dados são usados ​​para calcular a quantidade de GIVbacks recebidos por cada Doador naquele período.
 
-Os doadores podem reivindicar seu GIV após o término da rodada e uma revisão de fraude ter sido realizada. Os doadores receberão um e-mail quando as recompensas estiverem prontas para serem reivindicadas na [página GIVbacks](https://giv.giveth.io/givbacks). Uma parte do GIV será líquidada imediatamente e o restante aumentará a vazão da sua [GIVstream](https://giv.giveth.io/givstream). Para saber mais sobre a GIVstream e como ela funciona, confira nossa [documentação](https://docs.giveth.io/giveconomy/givstream/). Para os fins desta documentação, nos referiremos à soma do valor líquido e o valor alocado a GIVstream dos GIVbacks como `GIVbacks cumulativos`.
+Os doadores podem reivindicar seu GIV após o término da rodada e uma revisão de fraude ter sido realizada. Os doadores receberão um e-mail quando as recompensas estiverem prontas para serem reivindicadas na [página GIVbacks](https://giveth.io/givbacks). Uma parte do GIV será líquidada imediatamente e o restante aumentará a vazão da sua [GIVstream](https://giveth.io/givstream). Para saber mais sobre a GIVstream e como ela funciona, confira nossa [documentação](./givstream.md). Para os fins desta documentação, nos referiremos à soma do valor líquido e o valor alocado a GIVstream dos GIVbacks como `GIVbacks cumulativos`.
 
-Observe que, mesmo com o programa GIVbacks, uma doação na Giveth ainda é uma doação. O valor máximo dos `GIVbacks cumulativos` do doador é igual a 75% do valor da sua doação, no momento da doação. Se o valor de `1 milhão de GIVs` alocados para a rodada GIVbacks for superior a 75% do valor total de todas as doações (no momento de cada doação) durante a duração da rodada, todos os doadores elegíveis receberão seus respectivos valores cumulativos máximos de GIVbacks.
+### Classificação e cálculo
 
-Se o valor total das doações (no momento de cada doação) exceder 75% de `1 milhão de GIVs` alocados para a rodada, os `GIVbacks acumulados` para cada doador são proporcionalmente menores e calculados da seguinte forma:
+Observe que, mesmo com o programa GIVbacks, uma doação no Giveth ainda é uma doação. O valor máximo dos "GIVbacks cumulativos" do doador pode ser de 50% a 80% do valor em dólares de sua doação, no momento da doação. A quantidade exata de GIVbacks que eles recebem dependerá do [ranking GIVpower do projeto](./GIVpower.md#project-ranking).Cada projeto verificado que foi impulsionado com [GIVpower](./GIVpower.md) terá uma classificação na plataforma. O projeto que foi impulsionado com mais GIVpower para a rodada quinzenal anterior oferecerá a maior porcentagem de correspondência de GIVbacks (80%), enquanto o projeto com classificação mais baixa e os projetos sem classificação/não impulsionados para a rodada anterior receberão a menor porcentagem de correspondência de GIVbacks (50%). Cada projeto de baixo para cima terá uma porcentagem de correspondência de GIVbacks incrementalmente maior, você pode saber mais na [documentação do GIVpower](./GIVpower.md#project-ranking).
+
+Se, no final de uma rodada, o valor estimado de GIVbacks para distribuir exceder o limite de 1 milhão de GIV por rodada, os doadores receberão proporcionalmente menos correspondência em relação à classificação do projeto (ou falta dela) para o qual doaram, para cada doação. Isso é calculado da seguinte forma:
 
 $$
-n = N \frac{v}{V}
+n = N \frac{g}{G}
 $$
 
 Onde:
 
 - n = Quantidade total acumulada de tokens GIV ganhos pelo doador para uma doação específica.
 - N = Número total de tokens GIV alocados para distribuição na rodada (1 milhão de GIVs).
-- v = Valor (em USD) da doação no momento da doação.
-- V = Valor total (em USD) de todas as doações para projetos elegíveis durante a rodada.
+- g = O valor total estimado de GIVbacks que o doador poderia receber.
+- G = Valor total estimado de GIVbacks para todos os doadores durante a rodada.
 
-Os tokens GIV obtidos por meio do programa GIVbacks podem ser usados ​​em toda a GIVeconomy: para governança dentro do [GIVgarden](https://giv.giveth.io/givgarden), para dar suporte ao token fornecendo liquidez (e ganhando recompensas!) na [GIVfarm](https://giv.giveth.io/givfarm), ou para fazer doações para projetos na [Giveth](https://giveth.io/).
-
+Os tokens GIV obtidos por meio do programa GIVbacks podem ser usados em toda a GIVeconomy: para governança dentro do [GIVgarden](https://giveth.io/givgarden), para dar suporte ao token fornecendo liquidez (e ganhando recompensas!) no [GIVfarm ](https://giveth.io/givfarm), bloqueando GIV e impulsionando projetos com [GIVpower](https://giveth.io/givpower) ou para doar para projetos em [Giveth](https://giveth.io/).
 ## Colhendo GIVbacks
 
-Os GIVbacks estão disponíveis para serem coletados após o término da rodada, os dados foram revisados ​​e o GIV é distribuído para endereços de doadores elegíveis. Os doadores receberão um e-mail quando as recompensas em GIVbacks estiverem prontas para serem reivindicadas - esse GIV pode ser colhido [aqui](https://giv.giveth.io/givbacks). Observe que, quando você coleta recompensas GIV de qualquer parte da GIVeconomy, nosso contrato de distribuição de token envia todos os GIV líquidos alocados para seu endereço nessa rede. Por exemplo, quando você colhe recompensas GIV ganhadas ao apostar fichas LP no GIVfarm na Gnosis Chain (antiga xDai Network), você também colhe recompensas alocadas a você em GIVbacks (se houver) e o valor líquido da sua GIVstream. Isso é detalhado no pop-up de colheita que você encontra ao reivindicar:
+Os GIVbacks estão disponíveis para serem coletados após o término da rodada, os dados foram revisados ​​e o GIV é distribuído para endereços de doadores elegíveis. Os doadores receberão um e-mail quando as recompensas em GIVbacks estiverem prontas para serem reivindicadas - esse GIV pode ser colhido [aqui](https://giveth.io/givbacks). Observe que, quando você coleta recompensas GIV de qualquer parte da GIVeconomy, nosso contrato de distribuição de token envia todos os GIV líquidos alocados para seu endereço nessa rede. Por exemplo, quando você colhe recompensas GIV ganhadas ao apostar fichas LP no GIVfarm na Gnosis Chain (antiga xDai Network), você também colhe recompensas alocadas a você em GIVbacks (se houver) e o valor líquido da sua GIVstream. Isso é detalhado no pop-up de colheita que você encontra ao reivindicar:
 
 ![](https://i.imgur.com/GVpn68a.png)
 
@@ -71,7 +72,7 @@ Apenas doações de “primeiro toque” contam para GIVbacks. Se um projeto rec
 3. **Os fundos não estão sendo usados para o que está relatado na página do projeto ou na solicitação de verificação enviada.**
 Projetos verificados são responsáveis por manter seus projetos atualizados com informações sobre como os fundos estão sendo usados. Se o projeto declarar explicitamente que está, por exemplo, usando os fundos para desenvolver programas de educação, mas é descoberto que os fundos estão sendo usados para empregar desenvolvedores, eles podem ser desqualificados do programa GIVbacks.
 4. **Atividade sem escrúpulos ou fraudulenta.**
-Isso pode ser o uso de violência, violação de leis ou outro comportamento que não respeite os [valores da comunidade Giveth](https://docs.giveth.io/whatisgiveth/). Os projetos que violarem nossos [Termos e Condições](https://giveth.io/tos) não apenas perderão o status de verificado, como também serão cancelados.
+Isso pode ser o uso de violência, violação de leis ou outro comportamento que não respeite os [valores da comunidade Giveth](/whatisgiveth/). Os projetos que violarem nossos [Termos e Condições](https://giveth.io/tos) não apenas perderão o status de verificado, como também serão cancelados.
 
 A equipe de Verificadores de Projetos da Giveth é responsável por monitorar as atividades de GIVbacks e o sistema de Verificação de Projeto e, em última análise, usará seu critério para determinar se as ações de um projeto são inescrupulosas e/ou desqualificantes.
 
