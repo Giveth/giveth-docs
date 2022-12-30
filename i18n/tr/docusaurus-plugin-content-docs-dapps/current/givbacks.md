@@ -22,7 +22,7 @@ Aktif bir turda doğrulanmış projelere bağışta bulunan bağışçılar, GIV
 
 Giving Block olmayan projeler için doğrulama süreci, projelerin projeleri ve kuruluşun amaçlanan etkisi hakkında ek bilgi sağlamasını gerektirir. Proje Doğrulama Ekibimiz daha sonra bu başvuruları inceler, verilen bilgileri inceler ve proje sahiplerini karar hakkında bilgilendirir.
 
-Proje doğrulama süreci hakkında daha fazla bilgi edinmek için [belgelerimize](ADD LINK) göz atın.
+Proje doğrulama süreci hakkında daha fazla bilgi edinmek için [belgelerimize](./projectVerification.md) göz atın.
 
 ## GIVback'e Hak Kazanan Tokenlar
 
@@ -71,7 +71,7 @@ GIVbacks turu sona erdiğinde, GIV bağışçılara dağıtılmadan önce ekibim
 1. **Bağışçılara bağışları karşılığında mal veya hizmet vermek/sunmak.** Bir proje sahibi, geliri hayır kurumuna gitse bile, bir konferans sponsorluğu, Kız İzci birliği kurabiye alımı veya bir akşam yemeği için bilet gibi mallar sunamaz. Proje sahipleri, bağışçıları için kripto borsası gibi hizmet veremezler. Bir borsanın nasıl kullanılacağını açıklayabilirler, ancak bağışçıları için parayı çeviremezler.
 2. **Başka yollarla toplanan bağışları sirküle etmek.** GIVback'ler için yalnızca "ilk kez" yapılan bağışlar geçerlidir. Bir proje bir bağışçıdan fon alırsa ve bu bağışları GIVback almak için Giveth platformunda dolaştırdığı tespit edilirse, diskalifiye edilecektir. Örneğin, bir proje başka bir yerden alınan itibari para bağışlarını bağışçılarına geri göndermemeli ve onlardan kripto ile Giveth'te bağış yapmalarını istememelidir.
 3. **Fonlar, proje sayfasında veya gönderilen doğrulama başvurusunda belirtilenler için kullanılmamaktadır.** Doğrulanmış projeler, fonların nasıl kullanıldığına ilişkin bilgilerle projelerini güncel tutmaktan sorumludur. Proje, örneğin fonları eğitim programları geliştirmek için kullandıklarını açıkça belirtirse, ancak fonları geliştiricileri istihdam etmek için kullandıkları tespit edilirse, GIVbacks programından diskalifiye edilebilirler.
-4. **Ahlaksız veya hileli faaliyet.** Bu şiddet kullanımı, yasaları çiğneme veya [Giveth topluluğunun değerlerini](ps://docs.giveth.io/tr/whatisgiveth/) desteklemeyen diğer davranışlar olabilir. [Hükümler ve Koşullarımızı](https://giveth.io/tos) ihlal ettiği tespit edilen projeler, yalnızca doğrulama durumlarını kaybetmekle kalmayacak, aynı zamanda iptal edilecektir.
+4. **Ahlaksız veya hileli faaliyet.** Bu şiddet kullanımı, yasaları çiğneme veya [Giveth topluluğunun değerlerini](../../docusaurus-plugin-content-docs-whatisgiveth/current/whatisgiveth.md) desteklemeyen diğer davranışlar olabilir. [Hükümler ve Koşullarımızı](https://giveth.io/tos) ihlal ettiği tespit edilen projeler, yalnızca doğrulama durumlarını kaybetmekle kalmayacak, aynı zamanda iptal edilecektir.
 
 Giveth Proje Doğrulama ekibi, GIVbacks etkinliğini ve Proje Doğrulama sistemini izlemekten sorumludur ve bir projenin eylemlerinin vicdansız ve/veya diskalifiye edici olup olmadığını belirlemek için nihai olarak kendi takdirlerini kullanır.
 
