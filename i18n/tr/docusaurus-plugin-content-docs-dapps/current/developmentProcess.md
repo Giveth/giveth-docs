@@ -4,8 +4,11 @@ title: Development Process
 slug: dapps/developmentProcess
 ---
 import NotTranslatedMessage from '../../_notTranslatedTR.mdx'
+import TraceDeprecated from './_traceDeprecatedTR.mdx'
 
+<TraceDeprecated />
 <NotTranslatedMessage />
+
 
 *This section details the Giveth TRACE development process, deployments, and how merging and testing is handled.*
 

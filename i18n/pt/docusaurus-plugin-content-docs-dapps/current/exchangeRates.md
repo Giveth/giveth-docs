@@ -3,6 +3,9 @@ id: exchangeRates
 title: Taxas de Câmbio
 slug: dapps/exchangeRates
 ---
+import TraceDeprecated from './_traceDeprecatedPT.mdx'
+
+<TraceDeprecated />
 
 Quando você deixa uma Trace dentro do [Giveth TRACE](https://beta.giveth.io/), você pode inserir um valor em ether ou em moeda fiduciária. Nosso sistema calcula automaticamente a taxa de conversão com base na data da Trace.
 

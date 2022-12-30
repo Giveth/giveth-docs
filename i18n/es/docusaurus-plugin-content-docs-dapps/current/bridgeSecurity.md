@@ -5,6 +5,9 @@ slug: dapps/bridgeSecurity
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
+import TraceDeprecated from './_traceDeprecatedES.mdx'
+
+<TraceDeprecated />
 
 #### Una descripción técnica de las características, roles y teoría detrás de la seguridad del Puente Giveth.
 *Este documento asume que el lector tiene conocimientos básicos de contratos inteligentes, contratos multisig y cadenas de testnet de Ethereum.*

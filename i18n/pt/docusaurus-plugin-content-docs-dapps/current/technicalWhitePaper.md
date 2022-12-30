@@ -3,6 +3,9 @@ id: technicalWhitePaper
 title: Documento Técnico
 slug: technicalWhitePaper
 ---
+import TraceDeprecated from './_traceDeprecatedPT.mdx'
+
+<TraceDeprecated />
 
 O objetivo da nossa tecnologia é dar aos usuários de criptomoedas a capacidade de doar sem esforço para Campanhas focadas em tornar o mundo um lugar melhor. Eles podem usar a plataforma Giveth para encontrar essas Campanhas e doar diretamente, ou podem doar suas criptomoedas para uma causa e fazer com que um Delegado escolha uma Campanha ou Rastreamento apropriado para eles. Como alternativa aos sistemas tradicionais de doação, nosso contrato **_Liquid_** **_Pledge_** permite que os Doadores recuperem sua promessa se discordarem de como suas doações foram alocadas. Isso só pode ocorrer antes de ser bloqueado em uma campanha para uma finalidade específica.
 

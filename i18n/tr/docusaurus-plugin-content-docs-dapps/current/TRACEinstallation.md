@@ -5,7 +5,9 @@ slug: dapps/TRACEinstallation
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import NotTranslatedMessage from '../../_notTranslatedTR.mdx'
+import TraceDeprecated from './_traceDeprecatedTR.mdx'
 
+<TraceDeprecated />
 <NotTranslatedMessage />
 
 

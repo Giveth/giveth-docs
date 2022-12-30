@@ -3,6 +3,9 @@ id: developmentProcess
 title: Proceso de Desarrollo
 slug: dapps/developmentProcess
 ---
+import TraceDeprecated from './_traceDeprecatedES.mdx'
+
+<TraceDeprecated />
 
 *Esta sección detalla el proceso de desarrollo de Giveth TRACE, las implementaciones y cómo se manejan las fusiones y las pruebas.*
 

@@ -56,7 +56,14 @@ This voting method allows you to select multiple options, signalling your most p
 
 **Quorum, will be set to 1Million GIV**.
 
-# nrGIV Token Holder
+### Tokenlog 
+Tokenlog is a voting tool for token-weighted backlog planning. Giveth uses it for decentralized roadmap planning and **allows GIV holders to have a say in what Giveth prioritizes building**. Features, improvements and core roadmap items for Giveth and it's products are captured in github issues and can be voted on using the [Tokenlog interface](https://tokenlog.generalmagic.io/Giveth/Roadmap). New ideas and proposals are reviewed by our product managers, if they make sense and align with Giveth's values they will be added to the Tokenlog for voting. 
+
+Currently your Tokenlog voting power is calculated from your address' GIV and [wrapped GIV (gGIV)](../giveconomy/GIVgarden#wrapping-giv--earning-rewards) balances on Gnosis Chain. Your voting power is calculated from the sum of both aforementioned token balances where one token is equal to one vote.
+
+You can access the [**Giveth Tokenlog** here](https://tokenlog.generalmagic.io/Giveth/Roadmap). If you have an idea for a feature or improvement for Giveth you can jump into our [discord](https://discord.giveth.io) or drop your idea on the [forum](https://forum.giveth.io/).
+
+## nrGIV Token Holder
 
 This is a form of executive council held for trusted Giveth contributors. rDAO members hold nrGIV and use an [Aragon DAO deployment](https://aragon.1hive.org/#/nrgiv/) to create and vote on proposals using simple Yes/No voting mechanics. Only nrGIV holders can vote or make proposals. Proposals will remain open for voting for 5 days and must adhere to the Quorum and Support Required percentages or else it will fail. In order to get nrGIV you must be a regular contributor to Giveth for at least 3 months. nrGIV is distributed quarterly to eligible current contributors. If you're an eligible contributor then you must request a current nrGIV holder to propose minting nrGIV tokens for you on your behalf, only during the quarterly minting periods. Forum posts will be made for each quarterly distro and will be announced on our Governance and Community Calls.
 

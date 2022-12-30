@@ -5,7 +5,9 @@ slug: dapps/bridgeSecurity
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
+import TraceDeprecated from './_traceDeprecatedPT.mdx'
 
+<TraceDeprecated />
 
 #### Uma visão técnica geral dos recursos, funções e teoria por trás da segurança da Giveth Bridge.
 

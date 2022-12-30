@@ -27,7 +27,7 @@ module.exports = {
           'troubleshooting','faq'],
        },{
         type: 'category',
-        label: 'Giveth TRACE',
+        label: 'Giveth TRACE (Deprecated)',
         link: {type: 'doc', id:'introTrace'},
         items: [ 'entitiesAndRoles','makeTraceableProject','leavingTraces', 'technicalWhitePaper', 'exchangeRates', 'traceContracts' ]
          },
@@ -62,7 +62,7 @@ module.exports = {
        items: ['givethioinstallation', 'testing-guidelines']
      }, {
        type: 'category',
-       label: "Giveth TRACE",
+       label: "Giveth TRACE (Deprecated)",
        items: ['TRACEinstallation','bridgeSecurity', 'developmentProcess']
      },
     {

@@ -3,6 +3,9 @@ id: traceContracts
 title: Información tecnica  de Contratos, Puentes y Multisig
 slug: dapps/traceContracts
 ---
+import TraceDeprecated from './_traceDeprecatedES.mdx'
+
+<TraceDeprecated />
 
 ## Contratos:
 * GivethBridge en Mainnet

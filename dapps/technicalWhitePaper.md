@@ -3,6 +3,9 @@ id: technicalWhitePaper
 title: Technical White Paper
 slug: technicalWhitePaper
 ---
+import TraceDeprecated from './_traceDeprecated.mdx'
+
+<TraceDeprecated />
 
 
 The purpose of our technology is to give cryptocurrency users the ability to donate effortlessly to Campaigns focused on making the world a better place. They can use the Giveth platform to find those Campaigns and donate directly, or they can pledge their crypto to a cause and have a Delegate choose an appropriate Campaign or Trace for them. As an alternative to traditional donation systems, our ***Liquid Pledging*** contract allows Givers to take back their pledge if they disagree with how their donations were allocated. This can only occur before it has been locked into a Campaign for a specific purpose.

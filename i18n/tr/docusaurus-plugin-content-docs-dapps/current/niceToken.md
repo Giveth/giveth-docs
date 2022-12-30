@@ -15,9 +15,9 @@ Giveth Dapp kullanıcıları belirli tokenlerle [Giveth Projesi'ne](https://give
 
 Aşağıdaki tokenleri, Giveth'e bağışlandığınızda $nice token almaya hak kazanmış olacaksınız:
 
-- [DAI](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f) (Ana ağ)  
-- xDAI (Gnosis Zinciri) 
-- [wxDAI](https://www.blockscout.com/xdai/mainnet/token/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/token-transfers) (Gnosis Zinciri) 
+import NiceTokenList from '../../../../_niceTokenList.mdx'
+
+<NiceTokenList />
 
 \$nice token ile yukarıdaki tokenlerle yaptığınız bağışın yapıldığı andaki USD değeri 1'e 1 oranında eşleştirilecek. Örneğin, Giveth'e 50 DAI bağışladıysanız (1$ peginin bozulmadığını varsayarak) 50$ $nice token almaya hak kazanacaksınız. 
  

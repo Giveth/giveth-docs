@@ -3,6 +3,9 @@ id: technicalWhitePaper
 title: White Paper técnico
 slug: technicalWhitePaper
 ---
+import TraceDeprecated from './_traceDeprecatedES.mdx'
+
+<TraceDeprecated />
 
 
 El propósito de nuestra tecnología es brindar a los usuarios de criptomonedas la capacidad de donar sin esfuerzo a campañas enfocadas en hacer del mundo un lugar mejor. Pueden usar la plataforma Giveth para encontrar esas Campañas y donar directamente, o pueden comprometer su criptografía a una causa y hacer que un Delegado elija una Campaña o Seguimiento apropiado para ellos. Como alternativa a los sistemas de donación tradicionales, nuestro contrato de ***Promesa líquida*** permite a los Donantes retirar su promesa si no están de acuerdo con la forma en que se asignaron sus donaciones. Esto solo puede ocurrir antes de que se haya bloqueado en una Campaña para un propósito específico.
