@@ -5,7 +5,7 @@ slug: dapps/projectVerification
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
-Giveth is making use of project verification to review a project’s legitimacy and to reward donors to those projects via the [GIVbacks program](https://docs.giveth.io/giveconomy/givbacks). Project owners can apply by directly from their project page after signing in by clicking **VERIFY YOUR PROJECT**.
+Giveth is making use of project verification to review a project’s legitimacy and to reward donors to those projects via the [GIVbacks program](https://docs.giveth.io/giveconomy/givbacks). Project owners can apply directly from their project page after signing in by clicking **VERIFY YOUR PROJECT**.
 
 <img alt="Verify My Project" src={useBaseUrl('img/content/Verifymyproject.png')} />
 
