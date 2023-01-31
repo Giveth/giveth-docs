@@ -54,7 +54,7 @@ This voting method allows you to select multiple options, signalling your most p
 
 **There are no required support percentages for Ranked Choice voting.** Snapshot will calculate which option received the most support and we will choose the top result as the winner. 
 
-**Quorum, will be set to 1Million GIV**.
+**Quorum, will be set to 1 Million GIV**.
 
 ### Tokenlog 
 Tokenlog is a voting tool for token-weighted backlog planning. Giveth uses it for decentralized roadmap planning and **allows GIV holders to have a say in what Giveth prioritizes building**. Features, improvements and core roadmap items for Giveth and it's products are captured in github issues and can be voted on using the [Tokenlog interface](https://tokenlog.generalmagic.io/Giveth/Roadmap). New ideas and proposals are reviewed by our product managers, if they make sense and align with Giveth's values they will be added to the Tokenlog for voting. 
@@ -65,7 +65,15 @@ You can access the [**Giveth Tokenlog** here](https://tokenlog.generalmagic.io/G
 
 ## nrGIV Token Holder
 
-This is a form of executive council held for trusted Giveth contributors. rDAO members hold nrGIV and use an [Aragon DAO deployment](https://aragon.1hive.org/#/nrgiv/) to create and vote on proposals using simple Yes/No voting mechanics. Only nrGIV holders can vote or make proposals. Proposals will remain open for voting for 5 days and must adhere to the Quorum and Support Required percentages or else it will fail. In order to get nrGIV you must be a regular contributor to Giveth for at least 3 months. nrGIV is distributed quarterly to eligible current contributors. If you're an eligible contributor then you must request a current nrGIV holder to propose minting nrGIV tokens for you on your behalf, only during the quarterly minting periods. Forum posts will be made for each quarterly distro and will be announced on our Governance and Community Calls.
+This is a form of executive council held for trusted Giveth contributors. nrGIV DAO members hold nrGIV and use an [Aragon DAO deployment](https://aragon.1hive.org/#/nrgiv/) to create and vote on proposals using simple Yes/No voting mechanics. Only nrGIV holders can vote or make proposals. Proposals will remain open for voting for 5 days and must adhere to the Quorum and Support Required percentages or else it will fail.
+
+ In order to get nrGIV you must be a regular contributor to Giveth for at least 3 months and have an approved role proposal. If you're an eligible contributor and it's your first time, then you must request a current nrGIV holder to propose minting nrGIV tokens for you on your behalf, only during the quarterly minting periods. Forum posts will be made for each quarterly distribution and will be announced on our weekly Governance and Community calls.
+
+### Role Proposals 
+
+Role proposals are our way of keeping everyone in touch with what are the roles each contributor is filling. This takes the form of a document and a short description in a topic posted on [our forum](https://forum.giveth.io), which is then left open for comment and approval via [advice process](./adviceProcess.md). Only contributors who have finished their trial period can move to create a role proposal. Once passed advice process, it is put up as a vote for on the nrGIV DAO for on-chain voting; if the vote passes, you're in as an official Giveth regular contributor!
+
+If you have a work agreement and work casually for Giveth, usually there is no explicit need to go through the entire role proposal process. However if you record 30 or over hours monthly for 3 consecutive months then it is required for you to create a role proposal in order to continue to be paid by the Giveth DAO.
 
 
 :::info
