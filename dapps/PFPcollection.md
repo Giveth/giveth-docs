@@ -13,6 +13,16 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <img alt="Givers base image" src={useBaseUrl('img/content/GiversHidden.png')} />
 
+
+:::info
+### About the Giveth DAO
+For the past five years, Giveth has focused on supporting public goods through a community-driven ecosystem of collective support and value creation. This has resulted in streamlined donation tools and mechanisms powered by blockchain technology, which have onboarded over 1,700 projects and has facilitated hundreds of thousands of donations.
+
+We’re launching the Givers PFP collection as a fundraiser to allow us to continue improving our donation platform and build tools that empower non-profits and impact projects.
+:::
+
+
+
 ## Supply & Minting
 
 There will be a total of 1,250 NFTs in the collection, and no more than 100 of them will be used for promotional purposes by the DAO. Minting can be done on Ethereum Mainnet for 100 DAI each. To ensure an even distribution, no single address can hold more than 5 Givers PFPs.
