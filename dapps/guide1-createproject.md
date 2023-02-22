@@ -8,6 +8,8 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 ## Contemplate the vision for your project
 Think about the project that you want to create: do you have concrete goals? What are you asking for funding for? Can you explain your project and your intentions clearly?
 
+Discover the ins and outs of the project creation process with our detailed demonstration in the [Project Owners 101 video course](https://youtube.com/playlist?list=PL4Artm1rmCWFi-qEkOtjl9nL4tojSIIKm&si=EnSIkaIECMiOmarE).
+
 ## Creating your project
  Make sure you're signed in, and click the `create project` button.
  <img alt='projectpageforcryptodonation' src={useBaseUrl('img/cryptofundraising1.png')} />
