@@ -24,6 +24,8 @@ We accept ETH and a wide variety of ERC-20 tokens on both Mainnet and Gnosis Cha
 
 When the transaction has been signed off and processed, you're done! Nice work! You'll be taken to the confirmation page, and you can track the transaction details by following the link on the page.
 
+Take a look at our [Donor 101 video course](https://youtube.com/playlist?list=PL4Artm1rmCWH4Q5XnrQWf8fm0xob3hbdZ&si=EnSIkaIECMiOmarE) to get a better idea of how to use the platform for donations.
+
 **[Step by step instructions for donating via Metamask can be found here.](./donatingmetamask.md)**
 
 **[If you'd like to make a donation in fiat currency follow this guide.](./torusonramp.md)**
