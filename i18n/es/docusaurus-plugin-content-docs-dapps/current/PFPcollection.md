@@ -4,7 +4,9 @@ title: The Givers PFP Collection
 slug: dapps/giverspfp
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
+import NotTranslated from '../../_notTranslatedES.mdx'
 
+<NotTranslated />
 
 “The Givers” NFT’s are not just NFT’s but integrated Giveth PFPs! Giveth's first PFP collection was a [community proposed initiative](https://forum.giveth.io/t/the-givers-the-giveth-ecosystem-pfp-collection/478) begun in March 2022. The intention of the PFP collection is to raise funds for the Giveth DAO and continue our mission of building the Future of Giving. The Givers was launched for public minting on March 24, 2023 at 11am CST. 
 
