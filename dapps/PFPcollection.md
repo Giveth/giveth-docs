@@ -16,7 +16,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 :::info
 ### About the Giveth DAO
-For the past five years, Giveth has focused on supporting public goods through a community-driven ecosystem of collective support and value creation. This has resulted in streamlined donation tools and mechanisms powered by blockchain technology, which have onboarded over 1,700 projects and has facilitated hundreds of thousands of donations.
+For the past seven years, Giveth has focused on supporting public goods through a community-driven ecosystem of collective support and value creation. This has resulted in streamlined donation tools and mechanisms powered by blockchain technology, which have onboarded over 1,700 projects and has facilitated hundreds of thousands of donations.
 
 We’re launching the Givers PFP collection as a fundraiser to allow us to continue improving our donation platform and build tools that empower non-profits and impact projects.
 :::
