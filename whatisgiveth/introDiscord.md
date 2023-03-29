@@ -14,7 +14,10 @@ Direct link to join Discord community - https://discord.giveth.io/
 ## How to join the Giveth Discord server
 
 Log in to Discord or make a new user. - https://discord.com/ or download the app ([iOS](https://apps.apple.com/us/app/discord-talk-chat-hang-out/id985746746), [Android](https://play.google.com/store/apps/details?id=com.discord&hl=en_CA&gl=US))
+
 [How to Use Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord) : Video ([Beginner to Advanced](https://www.youtube.com/watch?v=tNUq5Aqv60s))
+
+[Getting Started with Discord](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started)
 
 Join the Giveth community server https://discord.giveth.io/
 Inside each server, you can have a unique nickname so feel free to change yours to whatever you would like to be known as.
