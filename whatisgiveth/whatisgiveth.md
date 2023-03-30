@@ -64,6 +64,8 @@ The Giveth Donation Applications (DApps) create bridges between for-good project
 
 **Giveth TRACE** is our original DApp that has been continually evolving since 2017. It offers a robust system to allow project owners to define their funding objectives via [tiered donation entities](../dapps/entitiesAndRoles). Givers benefit from this extra layer through the ability to specify and trace the movement of their donations on the DApp. Giveth pioneered the first bridge between Ethereum networks and this is where it was built. We leverage a Mainnet and Rinkeby bridge to make managing, tracing and withdrawing funds easy and gas-less.
 
+**_Giveth TRACE has officially been deprecated. After 5 years of faithful service, Giveth and its platform, services and products have fully migrated to [Giveth.io](https://giveth.io). With the deprecation of the Rinkeby network and low user activity, the Giveth DAO decided to sunset its original dApp in Q3 of 2022. The code has and will forever be open-source, and you can find it in [Giveth's Github repositories](https://github.com/Giveth)._**
+
 ## **Why should I donate to a project on Giveth?**
 
 The Giveth DApps use blockchain technology to track and record cryptocurrency donations, allowing them to be recorded and forever accessible. We build systems to provide potential donors with high-quality, verified projects and design economies that give back to those who give. Giveth has had a long and critical role in the development of Ethereum, and is one of the most trusted names in the blockchain community.

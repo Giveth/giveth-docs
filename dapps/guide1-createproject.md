@@ -8,7 +8,11 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 ## Contemplate the vision for your project
 Think about the project that you want to create: do you have concrete goals? What are you asking for funding for? Can you explain your project and your intentions clearly?
 
-Discover the ins and outs of the project creation process with our detailed demonstration in the [Project Owners 101 video course](https://youtube.com/playlist?list=PL4Artm1rmCWFi-qEkOtjl9nL4tojSIIKm&si=EnSIkaIECMiOmarE).
+Discover the ins and outs of the project creation process with our detailed demonstration in the [Project Owners 101 video course:](https://youtube.com/playlist?list=PL4Artm1rmCWFi-qEkOtjl9nL4tojSIIKm&si=EnSIkaIECMiOmarE)
+
+[<img alt='SettingProjectYoutube' src={useBaseUrl('img/Settingupproject.jpeg')} width="400"/>](https://youtube.com/watch?v=sOtvDCAqV88&si=EnSIkaIECMiOmarE)
+
+If you ever have any questions you can find us in our [support channel on Discord](https://discord.com/channels/679428761438912522/835168432520429578).
 
 ## Creating your project
  Make sure you're signed in, and click the `create project` button.
