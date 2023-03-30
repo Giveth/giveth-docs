@@ -47,7 +47,7 @@ This calculation varies based on the status of the referred donor: a new user to
 
 ### For new users
 
-You will earn 50% of the GIVbacks for a given donation in the current and subsequent GIVbacks rounds. For example, if you refer a new user to donate in GIVbacks round 30, you will be entitled to 50% of all GIVbacks generated from all donations made in GIVbacks round 30 and 31 from that user.
+You will earn 50% of the GIVbacks for a given donor in the current and subsequent GIVbacks rounds. For example, if you refer a new user to donate in GIVbacks round 30, you will be entitled to 50% of all GIVbacks generated from all donations made in GIVbacks round 30 and 31 from that user.
 
 ### For existing users you refer
 
