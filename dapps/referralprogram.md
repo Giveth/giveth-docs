@@ -40,6 +40,7 @@ That's it! You'll now be eligible for rewards in our next [GIVbacks round](https
 
 ## How rewards work
 
+![image](https://user-images.githubusercontent.com/75490971/229162633-9b67d524-f29f-43d5-99b7-45f1e3b3787c.png)
 
 For the initial phase of this program, you can earn up to 50% of the GIVbacks amount for anyone you refer!
 
