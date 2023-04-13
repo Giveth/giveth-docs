@@ -58,6 +58,12 @@ where:
 
 GIV tokens earned through the GIVbacks program can be used throughout the GIVeconomy: for governance within the [GIVgarden](https://giveth.io/givgarden), locking GIV & boosting projects with [GIVpower](https://giveth.io/givpower) or for donating to projects on [Giveth](https://giveth.io/).
 
+:::note
+**Referral Program**
+
+Since the launch of the Giveth Referral Program, when making a donation on Giveth using a referral link, part of the GIVbacks generated from that donation will be shared with the person who referred you. As a result, the GIVbacks amount you receive will be lower than if you had made the donation directly without a referral link. Please check our [referral program documentation](./referralprogram.md) for more information about how GIVbacks are calculated for referrals.
+:::
+
 ## Harvesting GIVbacks
 
 GIVbacks are available to be harvested after the round ends, data has been reviewed and GIV is distributed to eligible donor addresses. Donors will receive an email when GIVbacks rewards are ready to claim - this GIV can be harvested [here](https://giveth.io/givbacks). Please note that when you harvest GIV rewards from any part of the GIVeconomy, our token distro contract sends you all liquid GIV allocated to your address on that network. For example, when you harvest GIV rewards earned from staking LP tokens in the GIVfarm on Gnosis Chain (formerly xDai Network), you also harvest rewards allocated to you from GIVbacks (if any) and the liquid amount from your GIVstream. This is broken down in the harvest popup that you encounter upon claim:
