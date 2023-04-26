@@ -43,8 +43,11 @@ Givers PFP owners are able to have their NFTs integrated on their Giveth.io prof
 <a href="/img/content/PFPbenefits.png" target="_blank" rel="noopener noreferrer">
 <img alt="pfp holder benefits on the dapp" src={useBaseUrl('img/content/PFPbenefits.png')} />
 </a>
-When you set your Giver as your profile picture on Giveth.io it will be show up as a badge next to your name on any projects that you have created as well as when you make donations or boost projects with GIVpower. Users can also get an up close look at your Giver by navigating to your user profile. 
-
+<p>
+When you set your Giver as your profile picture on Giveth.io it will be show up as a badge next to your name on any projects that you have created as well as when you make donations or boost projects with GIVpower. Users can also get an up close look at your Giver by navigating to your user profile.  
+</p>
+  
+  
 
 Giveth is also partnering with Punk Domains to provide Givers NFT holders a **50% discount on the Giveth domain names.** Anyone is able claim their unique “yourname.giveth” domain name, which will also be linked to your account. You can check out [Giveth domain names here](https://giveth.punk.domains/#/).
 
