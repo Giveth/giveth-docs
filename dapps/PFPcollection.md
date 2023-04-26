@@ -16,7 +16,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 :::info
 ### About the Giveth DAO
-For the past seven years, Giveth has focused on supporting public goods through a community-driven ecosystem of collective support and value creation. This has resulted in streamlined donation tools and mechanisms powered by blockchain technology, which have onboarded over 1,700 projects and has facilitated hundreds of thousands of donations.
+Since 2016, Giveth has focused on supporting public goods through a community-driven ecosystem of collective support and value creation. This has resulted in streamlined donation tools and mechanisms powered by blockchain technology, which have onboarded over 1,700 projects and has facilitated hundreds of thousands of donations.
 
 We’re launching the Givers PFP collection as a fundraiser to allow us to continue improving our donation platform and build tools that empower non-profits and impact projects.
 :::
@@ -29,33 +29,26 @@ There will be a total of 1,250 NFTs in the collection, and no more than 100 of t
 
 ## Art parameters
 
-Every art NFT is created out of several individual layers of artwork. In some cases some of the layered artwork may be unseen as they get covered by others above it, as for instance the art tattoos. You will however be able to see all of your unique art's traits and rarity on OpenSea or in the token's metadata.
+Every art NFT is created out of several individual layers of artwork. In some cases some of the layered artwork may be unseen as they get covered by others above it, as for instance the art tattoos. You will however be able to see all of your unique art's traits and rarity on Rarible or in the token's metadata.
 
-
-## Allow List
-
-Anyone can get on the allowlist by donating 100 USDC/DAI/xDAI/wxDAI to [The Giveth Community of Makers](https://giveth.io/project/the-giveth-community-of-makers) *(P.S. You’ll also get $nice and GIVbacks for donating!)*. Giveth core contributors and select partners have been added as well to the whitelist. Allow list addresses are able to mint earlier than the rest and will receive a 30% discount off the price of minting during the early minting phase.
-
-Allowlist eligibility began July 22nd, 2022. So if you have already made an eligible donation to Giveth, congrats! You’re already on the allowlist!
-
-The minting phase for allowlist accounts begins 10am CST March 22, 2023 and ends 11am CST March 24, 2023. After the allow list phase, the minting phase will be open to the public.
-
-## Hidden Phase
-
-At launch, all Giver PFPs will show a common art as the one shown above when minted, the final art is still hidden and needs to be revealed. Shortly after launch there is a “Reveal” event where the Giveth team unveils the final art for each unique PFP. You will be able to see your art on the [Opensea Givers Collection page](https://opensea.io/collection/giveth-givers-pfp-collection).
- 
-The characters and scenes represent the project and community values. You may also be able to recognize some of Giveth’s iconic elements in them.
 
 ## Secondary Market
 
-You can trade your Giver but keep in mind that for any trades on the secondary market, a 10% royalty fee will be imposed. All Givers (unless stated otherwise) are licensed under Creative Commons CC0 or "No Rights Reserved". The easiest way to trade is using the Opensea Collection Page.
+You can trade your Giver but keep in mind that for any trades on the secondary market, a 10% royalty fee will be imposed. All Givers (unless stated otherwise) are licensed under Creative Commons CC0 or "No Rights Reserved". The easiest way to trade is using the [Rarible Collection Page](https://rarible.com/the-givers-pfp/items).
 
 
 ## Benefits
 
-Givers PFP owners will be able to have their NFTs integrated on their Giveth.io profile when logged in! We’ll also have additional cosmetic effects integrated into your user profile on the dApp. More details forthcoming on this.
+Givers PFP owners are able to have their NFTs integrated on their Giveth.io profile when logged in! Show your flair and support for Giveth almost anywhere on the DApp. Below is a preview of how Givers show up on the Giveth.io platform.
+<a href="/img/content/PFPbenefits.png" target="_blank" rel="noopener noreferrer">
+<img alt="pfp holder benefits on the dapp" src={useBaseUrl('img/content/PFPbenefits.png')} />
+</a>
+When you set your Giver as your profile picture on Giveth.io it will be show up as a badge next to your name on any projects that you have created as well as when you make donations or boost projects with GIVpower. Users can also get an up close look at your Giver by navigating to your user profile. 
 
-Giveth is also partnering with Punk Domains to provide Givers NFT holders a discount on the Giveth domain names that will be launched along with the collection. Anyone will be able to purchase “yourname.giveth”, which will also be linked to your account. You can check out [Giveth domain names here](https://giveth.punk.domains/#/).
+
+Giveth is also partnering with Punk Domains to provide Givers NFT holders a **50% discount on the Giveth domain names.** Anyone is able claim their unique “yourname.giveth” domain name, which will also be linked to your account. You can check out [Giveth domain names here](https://giveth.punk.domains/#/).
+
+We're still working on providing more benefits to Givers PFP holders, so stay tuned for more updates!
 
 
 ## Contract Address
@@ -65,4 +58,4 @@ GiversPFP Contract (Mainnet): [0x78fde77737d5b9ab32fc718c9535c7f1b8ce84db](https
 ----
 
 Mint a Givers PFP here: https://giveth.io/nft  
-View the Givers collection on Opensea here: [Giveth Givers PFP](https://opensea.io/collection/giveth-givers-pfp-collection)
+View the Givers collection on Rarible here: [Giveth Givers PFP](https://rarible.com/the-givers-pfp/items)
