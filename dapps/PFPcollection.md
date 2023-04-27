@@ -53,6 +53,9 @@ Giveth is also partnering with Punk Domains to provide Givers NFT holders a **50
 
 We're still working on providing more benefits to Givers PFP holders, so stay tuned for more updates!
 
+## Setting your Givers PFP
+
+Setting your Givers PFP as your profile picture on giveth.io is very simple. First login with your web wallet that hold your Givers PFP NFT. Then head over to `My Account` from the dropdown menu in the top right and click on the link next to your profile picture that says `Set your Givers PFP`. From there you'll be taken to a menu where you can select your Givers PFP from your wallet and set it as your profile picture. Click `Save` and you're done! 
 
 ## Contract Address
 
