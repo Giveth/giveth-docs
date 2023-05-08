@@ -19,7 +19,7 @@ module.exports = {
         label: 'Giveth.io',
         collapsed: true,
         link: {type: 'doc', id: 'givethIO'},
-        items: ['gettingStarted','crypto','createproject','listedUnlisted','projectVerification','projectdonating' ,{
+        items: ['gettingStarted','createproject','listedUnlisted','projectVerification', 'projectUpdates', 'projectdonating' ,{
            type: 'category',
            label: 'Wallets',
            items: ['torusUserGuide', 'torusonramp','importTorusMM', 'donatingmetamask'],
