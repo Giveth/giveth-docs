@@ -72,6 +72,11 @@ module.exports = {
     }
   ]
    },
+   {
+    type: 'category',
+    label: "Security",
+    items: [ 'disclosure']
+  },
    //     {
    //     type : 'category',
    //     label : 'User Guides',
