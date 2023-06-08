@@ -22,9 +22,19 @@ This document serves as a guide to understanding the Project Verification proces
 
 ## Qualifying Measures for Project Verification
 
-The verification process will require some additional information about a project and the intended impact of the organization.
+Are you interested in getting your project verified on Giveth? The verification process will require some additional information about a project and the intended impact of the organization.
 
-Projects must submit their application forms at least one week before the start of a round in order to qualify for that round. Once approved, its status is updated on Giveth, and it is given a `Verified` badge on the Homepage and on the Projects Page. 
+**These are the top criteria we look for when verifying any project:**
+
+* Action and Impact: We want to see that your project has a track record of making a difference in the world. An idea cannot be verified, but what we CAN verify is action and impact!
+
+* Reputation: We need to know that your project has a following and support from the community. This includes having a strong social media presence, non-profit status, or someone who can vouch for your project. You should be able to show us that your project has some skin in the game.
+
+* Public Good: We're all about creating positive change in the world. If your project is focused on personal gain, it is not eligible for the GIVbacks program. We want to see that your project is oriented towards creating social benefit and improving some corner of the world somehow.
+
+So, if you're ready to make a difference and meet these criteria, let's get started!
+
+Projects must submit their application forms at least one week before the start of a round in order to qualify for that round. Once approved, its status is updated on Giveth, and it is given a `Verified badge` on the Homepage and on the Projects Page.
 
 **Verified badges will automatically expire after 3 months of project inactivity.
 Be sure to share your progress with the world by adding regular updates!** 
