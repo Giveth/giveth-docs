@@ -13,4 +13,4 @@ The Giveth Brand Book, designed by Marko Prljic.
 
 
 
-[**PDF version available to download here**](../downloads/Giveth.io_Branding_23-May-2021-195534.pdf "Click to Download")
+[**PDF version available to download here**](https://rawcdn.githack.com/Giveth/giveth-design-assets/9fc25bfcd4a04cae53ceaecb8f96e5db738ff8a5/01-style-guide/Giveth%20Style%20Guide%202.0.pdf "Click to Download")
