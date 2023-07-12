@@ -5,12 +5,12 @@ slug: giveconomy/referral
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
-
+#### *Este artículo no ha sido traducido actualmente y solo se encuentra disponible en su versión original. Si quieres ayudarnos a traducir este documento siéntete libre de enviar tu traducción vía nuestro repositorio de código abierto, o ven a [nuestro Discord](https://discord.giveth.io) y coméntanos. *
 
 # Giveth Referral Program
 
 
-The [Giveth referral program](https://giveth.io/referral) is a way for users to earn rewards by inviting their friends and network to donate to impact projects. Since the launch of the [GIVeconomy](https://docs.giveth.io/giveconomy/) in 2020, donors can earn GIV tokens when they donate to verified projects thanks to our [GIVbacks program](https://docs.giveth.io/giveconomy/givbacks). With our referral program, users can earn even more rewards!
+The [Giveth referral program](https://giveth.io/referral) is a way for users to earn rewards by inviting their friends and network to donate to impact projects. Since the launch of the [GIVeconomy](/i18n/es/docusaurus-plugin-content-docs-dapps/current/giveconomy.md) in 2020, donors can earn GIV tokens when they donate to verified projects thanks to our [GIVbacks program](/i18n/es/docusaurus-plugin-content-docs-dapps/current/givbacks.md). With our referral program, users can earn even more rewards!
 
 By encouraging their friends and network to donate on Giveth through their unique referral link, referrers' can earn up to 50% of their friend's GIVbacks as well (an equivalent of up to 40% of the value of the donation amount).
 
@@ -36,7 +36,7 @@ Copy your unique link from the corresponding modal and start sharing it to encou
 
 That's it! If someone gets to Giveth by clicking on your link, you’ll earn GIVbacks rewards for any donation they make to verified projects for a specific period of time (see [Earnings](#earnings) below). 
 
-Any GIV rewards you earn will be claimable from the [GIVbacks page](https://giveth.io/givbacks) within 2-3 weeks. Check our [GIVbacks documentation](https://docs.giveth.io/giveconomy/givbacks) for more information about how GIVbacks works.
+Any GIV rewards you earn will be claimable from the [GIVbacks page](https://giveth.io/givbacks) within 2-3 weeks. Check our [GIVbacks documentation](/i18n/es/docusaurus-plugin-content-docs-dapps/current/givbacks.md) for more information about how GIVbacks works.
 
 ## Earnings
 
@@ -46,7 +46,7 @@ When someone donates through your unique referral link, you can receive up to 50
 
 ### If you refer someone new to Giveth
 
-If your referee has never used Giveth before, you will earn 50% of the GIVbacks corresponding to each donation they make to a verified project in the current and subsequent GIVbacks rounds. In other words, you earn GIVbacks for any donations they make to verified projects for a minimum of two weeks from the time they click your referral link. For example, if you refer a new user to donate in GIVbacks round 30, you will be entitled to 50% of all GIVbacks generated from all donations made in GIVbacks round 30 and 31 from that user. Learn more about [GIVbacks rounds here](https://docs.giveth.io/giveconomy/givbacks).
+If your referee has never used Giveth before, you will earn 50% of the GIVbacks corresponding to each donation they make to a verified project in the current and subsequent GIVbacks rounds. In other words, you earn GIVbacks for any donations they make to verified projects for a minimum of two weeks from the time they click your referral link. For example, if you refer a new user to donate in GIVbacks round 30, you will be entitled to 50% of all GIVbacks generated from all donations made in GIVbacks round 30 and 31 from that user. Learn [more about GIVbacks rounds here](/i18n/es/docusaurus-plugin-content-docs-dapps/current/givbacks.md).
 
 ### If you refer an existing Giveth user to donate
 
