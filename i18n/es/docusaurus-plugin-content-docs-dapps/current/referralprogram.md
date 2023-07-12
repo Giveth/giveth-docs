@@ -4,9 +4,8 @@ title: Giveth Referral Program
 slug: giveconomy/referral
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import NotTranslated from '../_notTranslatedES.mdx'
 
-<NotTranslated />
+#### *Este artículo no ha sido traducido actualmente y solo se encuentra disponible en su versión original. Si quieres ayudarnos a traducir este documento siéntete libre de enviar tu traducción vía nuestro repositorio de código abierto, o ven a [nuestro Discord](https://discord.giveth.io) y coméntanos. *
 
 # Giveth Referral Program
 
