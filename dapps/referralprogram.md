@@ -46,7 +46,7 @@ When someone donates through your unique referral link, you can receive up to 50
 
 ### If you refer someone new to Giveth
 
-If your referee has never used Giveth before, you will earn 50% of the GIVbacks corresponding to each donation they make to a verified project in the current and subsequent GIVbacks rounds. In other words, you earn GIVbacks for any donations they make to verified projects for a minimum of two weeks from the time they click your referral link. For example, if you refer a new user to donate in GIVbacks round 30, you will be entitled to 50% of all GIVbacks generated from all donations made in GIVbacks round 30 and 31 from that user. Learn [more about GIVbacks rounds here](https://docs.giveth.io/giveconomy/givbacks).
+If your referee has never used Giveth before, you will earn 50% of the GIVbacks corresponding to each donation they make to a verified project in the current and subsequent GIVbacks rounds. In other words, you earn GIVbacks for any donations they make to verified projects for a minimum of two weeks from the time they click your referral link. For example, if you refer a new user to donate in GIVbacks round 30, you will be entitled to 50% of all GIVbacks generated from all donations made in GIVbacks round 30 and 31 from that user. Learn more about [GIVbacks rounds here](https://docs.giveth.io/giveconomy/givbacks).
 
 ### If you refer an existing Giveth user to donate
 
