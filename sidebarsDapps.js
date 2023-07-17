@@ -25,12 +25,7 @@ module.exports = {
            items: ['torusUserGuide', 'torusonramp','importTorusMM', 'donatingmetamask'],
          },
           'troubleshooting','faq'],
-       },{
-        type: 'category',
-        label: 'Giveth TRACE (Deprecated)',
-        link: {type: 'doc', id:'introTrace'},
-        items: [ 'entitiesAndRoles','makeTraceableProject','leavingTraces', 'technicalWhitePaper', 'exchangeRates', 'traceContracts' ]
-         },
+       },
         { type: 'category',
           label: 'GIVeconomy',
           link: {type: 'doc', id: 'giveconomy'},
@@ -47,9 +42,10 @@ module.exports = {
             link: {type: 'doc', id: 'givfarm'},
             items:['regenFarms', 'angelVault']
           }
-          ,'givpower', 'niceToken', 'giverspfp', 'referral', 'quadraticfunding'
+          ,'givpower', 'niceToken', 'giverspfp', 'referral'
 ]
-          }
+          },
+          'quadraticfunding'
         ]
 
     },
@@ -76,7 +72,12 @@ module.exports = {
     type: 'category',
     label: "Security",
     items: [ 'disclosure']
-  },
+  },{
+    type: 'category',
+    label: 'Giveth TRACE (Deprecated)',
+    link: {type: 'doc', id:'introTrace'},
+    items: [ 'entitiesAndRoles','makeTraceableProject','leavingTraces', 'technicalWhitePaper', 'exchangeRates', 'traceContracts' ]
+     },
    //     {
    //     type : 'category',
    //     label : 'User Guides',
