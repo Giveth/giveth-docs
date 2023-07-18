@@ -109,7 +109,7 @@ During an active round, the estimated matching will be shown on several pages:
 After a QF round ends, the fraud analysis is completed, and the real matching funds are distributed, you will see the actual matching funds corresponding to that project and that round on the "Donations" tab in place of estimated matching. 
 :::
 
-<img alt='estimatedmatchingdonate' width='60%' heigh='auto' src={useBaseUrl('img/estimatedmatchingdonate.png')} />
+<img alt='estimatedmatchingdonate' width='70%' heigh='auto' src={useBaseUrl('img/estimatedmatchingdonate.png')} />
 
 - When you are making a donation to a project, an estimated matching amount corresponding to your donation will be shown. This is calculated using the same logic as the “contribution matching table” [(above)](#matchingtable).
 
