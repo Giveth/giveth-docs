@@ -62,7 +62,7 @@ Our Alpha runs from July 18th to August 1st.
 
 ### Matching pool
 
-A matching pool of $10,000 USD equivalent is available to be distributed via the alpha round on Gnosis Chain. This pool will be used to match donations made to participating projects during the funding period according to QF. The matching funds will be distributed some weeks after the round ends, after post-round sybil analysis is conducted.
+A matching pool of $10,000 USD equivalent is available to be distributed via the alpha round on Gnosis Chain. This pool will be used to match donations made to participating projects during the funding period according to QF. The matching funds will be distributed some weeks after the round ends, when post-round sybil analysis is completed.
 
 
 ### Project eligibility
@@ -79,10 +79,10 @@ Estimated matching amounts are calculated by using the [quadratic funding formul
 
 <img id="qfinfographic" alt='infographic' width='50%' heigh='auto' src={useBaseUrl('img/qfinfographic.png')} />
 
-*Source: https://blog.woodstockfund.com/2021/05/20/quadratic-funding-a-better-way-to-fund-public-goods/*
+##### *Source: https://blog.woodstockfund.com/2021/05/20/quadratic-funding-a-better-way-to-fund-public-goods/*
 
 
-The estimated matching calculations do not consider the donors’ [Passport scores](#gitcoin-passport), or post-round fraud analysis. They are rough estimations calculated by assuming that the entire matching pool would be distributed according to the donations made in the round to date. This means that the estimated matching amounts are more accurate towards the end of the round, when there is more donation data being used in the calculations. 
+The estimated matching calculations do not consider the donors' [Passport scores](#gitcoin-passport), or post-round fraud analysis. They are rough estimations calculated by assuming that the entire matching pool would be distributed according to the donations made in the round to date. This means that the estimated matching amounts are more accurate towards the end of the round, when there is more donation data being used in the calculations. 
 
 The maximum amount that any one project will be able to receive is equal to 20% of the total matching funds for the round.
 
@@ -101,23 +101,22 @@ During an active round, the estimated matching will be shown on several pages:
 - The project page also has a "contribution matching table" that shows an estimated matching amount from a new donation of a given amount. These values are calculated by assuming that a new donation of *x* (in the column on the left) is made to this project in the round. The estimated matching amount (on the right) is calculated by determining the total matching amount that would be allocated to that project if donation *x* were included, and then determining what amount of the total matching to that project would be associated with the new donation.
 
 
-<img alt='estimatedmatchingtab' width='60%' heigh='auto' src={useBaseUrl('img/estimatedmatchingtab.png')} />
+<img alt='estimatedmatchingtab' width='80%' heigh='auto' src={useBaseUrl('img/estimatedmatchingtab.png')} />
 
 - While on the “Donations” tab on the project page, you can filter all donations to see which are associated with a particular QF round. If the particular QF round is “active”, you’ll be able to see an estimated matching amount associated with that project for the round. This is calculated using the same logic as the “project card” [(above)](#projectcard).
 
+:::info
+After a QF round ends, the fraud analysis is completed, and the real matching funds are distributed, you will see the actual matching funds corresponding to that project and that round on the "Donations" tab in place of estimated matching. 
+:::
 
 <img alt='estimatedmatchingdonate' width='60%' heigh='auto' src={useBaseUrl('img/estimatedmatchingdonate.png')} />
 
 - When you are making a donation to a project, an estimated matching amount corresponding to your donation will be shown. This is calculated using the same logic as the “contribution matching table” [(above)](#matchingtable).
 
-:::info
-After a QF round ends, the fraud analysis is completed, and the real matching funds are distributed, you will see the actual matching funds corresponding to that project and that round here in place of estimated matching. 
-:::
-
 
 ## Payout
 
-Once the round is finished and the sybil analysis is complete, the final matching funds will be distributed from our `donation.eth` multisig account and distributed to the project's registered addresses. The actual matching amount sent to each project post-round will be shown on the project’s `Donations tab`, under the corresponding round filter.
+Once the round is finished and the sybil analysis is complete, the final matching funds will be distributed from our [`donation.eth`](https://app.safe.global/home?safe=gno:0x6e8873085530406995170Da467010565968C7C62) multisig account and distributed to the project's registered addresses. The actual matching amount sent to each project post-round will be shown on the project’s "Donations" tab, under the corresponding round filter.
 
 
 <img alt='roundfinal' src={useBaseUrl('img/roundfinal.png')} />
