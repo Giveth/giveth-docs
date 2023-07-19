@@ -21,7 +21,7 @@ For more information, details, and even a helpful simulator, visit [“WTF is QF
 
 Giveth has integrated quadratic funding into [our existing donation platform](https://giveth.io/) to help drive more donations to amazing public goods projects!
 
-QF on Giveth functions is by rounds. Only donations made during an active QF round are eligible to be matched, any donations made before or after the round dates will not be matched. Rounds can vary in length but generally will last between 2-3 weeks. Other restrictions may apply such as [project eligibility](#project-eligibility), fraud detection and the donor’s Gitcoin passport score, more on that below in this article.
+QF on Giveth operates in rounds. Only donations made during an active QF round are eligible to be matched, any donations made before or after the round dates will not be matched. Rounds can vary in length but generally will last between 2-3 weeks. Other restrictions may apply such as [project eligibility](#project-eligibility), fraud detection and the donor’s Gitcoin passport score, more on that below in this article.
 
 Our quadratic funding rounds allow for donations on any of our [supported chains](https://docs.giveth.io/dapps/projectdonating/#swictching-networks) (Mainnet, Gnosis, Optimism, Polygon and Celo, as of July 2023). Projects participating in active rounds are sorted on the [QF project page](https://giveth.io/qf) by default according to [GIVpower](https://docs.giveth.io/giveconomy/givpower) and donations to these [verified projects](https://docs.giveth.io/dapps/projectVerification) are also eligible for [GIVbacks](https://docs.giveth.io/giveconomy/givbacks).
 
