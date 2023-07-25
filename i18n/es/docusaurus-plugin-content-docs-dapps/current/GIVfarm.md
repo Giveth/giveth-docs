@@ -5,6 +5,12 @@ slug: giveconomy/givfarm
 ---
 
 
+:::caution 
+[El 29 de octubre de 2022, se produjo una explotación de vulnerabilidad de la GIVfarm en ETH Mainnet](https://twitter.com/Givethio/status/1591431388271677440), y todos los fondos de los contratos de farming de Mainnet fueron drenados y robados. La comunidad de Giveth votó posteriormente en no reactivar ninguno de las farms afectadas. Actualmente, **la mayoría de los programas de liquidez de GIV han finalizado desde entonces**, excepto [GIVpower Staking](./GIVpower.md#apr-en-la-givfarm), y no hay planes para lanzar nuevos programas GIVfarm en el futuro. Sin embargo, todavía hay oportunidades para **ganar recompensas de liquidez a través del programa [RegenFarm](./regenfarms.md)**.
+
+Este artículo de documentación se mantendrá como referencia histórica.
+:::
+
 GIVfarm se lanzó el **24 de diciembre de 2021**. El 3,5% del suministro total de tokens, 35 millones de GIV, se asignó a la primera ronda de GIVfarm de 6 meses, 65 millones de tokens se mantienen en un multisig para provisión de liquidez futura. Las farms están disponibles en **Ethereum Mainnet (ETH)** o **Gnosis Chain** (anteriormente xDai Network). Cualquier farm en la que apueste tokens generará recompensas de GIV y se agregará a su [tasa de flujo de GIVstream](/es/giveconomy/givstream) solo para esa cadena correspondiente. La distribución de recompensas GIV para los 6 grupos disponibles es la siguiente:
 
 | Pool                          | Tokens asignados |
