@@ -15,11 +15,11 @@ Giveth related expenses can be claimed by creating a Trace in a Giveth Circle's 
 
 The individual Circles (see [Giveth Circles](https://docs.giveth.io/whatisgiveth/givethCircles)) are responsible for expenses of their members, including but not limited to:
 
-- Office expenses (rent, utility bills, equipment, groceries for Giveth Team Meetups)
-- Transportation to and from official Giveth Team Meetups
-- Suitable accommodation for the duration of official Giveth Team Meetups
-- Tickets to Represent Giveth at Conferences
-- Food and non-alcoholic drinks consumed while at official Giveth Team Meetups
+- Office expenses (e.g., rent, utilities, equipment, groceries and staples for Giveth team meetups)
+- Transportation to and from official Giveth team meetups
+- Suitable accommodation for the duration of official Giveth team meetups
+- Tickets to represent Giveth at conferences
+- Food and non-alcoholic drinks consumed while at official Giveth team meetups
 
 By default, only expenses with valid receipt are covered. Expenses must be submitted via trace.giveth.io. The refund will be made at earliest convenience for the requested token to recipient wallet provided.
 
