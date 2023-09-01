@@ -29,7 +29,7 @@ module.exports = {
         { type: 'category',
           label: 'GIVeconomy',
           link: {type: 'doc', id: 'giveconomy'},
-          items: [ 'givdrop', 'givbacks', 'givethMatchingPool', 'givstream',
+          items: [ 'givdrop', 'givbacks', 'givstream',
           {
             type: 'category',
             label: 'GIVgarden',
@@ -42,30 +42,22 @@ module.exports = {
             link: {type: 'doc', id: 'givfarm'},
             items:['regenFarms', 'angelVault']
           }
-          ,'givpower', 'niceToken', 'giverspfp', 'referral'
+          ,'givpower', 'niceToken', 
 ]
           },
-          'quadraticfunding'
+          'quadraticfunding','giverspfp', 'referral'
         ]
 
     },
     {
      type: 'category',
      label: "Developer Guides",
-     items: [ 'contributors', {
-       type: 'category',
-       label: 'Giveth.io',
-       items: ['givethioinstallation', 'testing-guidelines']
-     }, {
+     items: [ 'contributors','givethioinstallation' , {
        type: 'category',
        label: "Giveth TRACE (Deprecated)",
        items: ['TRACEinstallation','bridgeSecurity', 'developmentProcess']
      },
-    {
-      type: 'category',
-      label: 'GIVeconomy',
-      items: ['installGIVeconomy', 'testingGIVeconomy', 'regenFarmContracts']
-    }
+     'regenFarmContracts'
   ]
    },
    {
@@ -78,39 +70,7 @@ module.exports = {
     link: {type: 'doc', id:'introTrace'},
     items: [ 'entitiesAndRoles','makeTraceableProject','leavingTraces', 'technicalWhitePaper', 'exchangeRates', 'traceContracts' ]
      },
-   //     {
-   //     type : 'category',
-   //     label : 'User Guides',
-   //     items : ['gettingStarted', 'crypto',  'createproject','listedUnlisted' ,'makeTraceableProject','projectdonating',
-   //     {
-   //       type: 'category',
-   //       label: 'Wallets',
-   //       items: ['torusUserGuide', 'torusonramp', 'donatingmetamask'],
-   //     },
-   //      'troubleshooting','faq'],
-   //   },
-   //   {
-   //     type : 'category',
-   //     label: 'Developer Documentation',
-   //     items : ['givethioinstallation','contributors', 'testing-guidelines', 'dev-guidelines',
-   //     ],
-   //   },
-   // {
-   //  type: 'category',
-   //  label: 'Giveth TRACE',
-   //  items: [ 'introTrace','TRACEinstallation', 'entitiesAndRoles',
-   //    {
-   //      type: 'category',
-   //      label: 'DApp Documentation',
-   //      items: ['bridgeSecurity', 'leavingTraces', 'developmentProcess'],
-   //    },
-   //      {
-   //        type: 'category',
-   //        label: 'Reference',
-   //        items: ['technicalWhitePaper', 'exchangeRates', 'traceContracts']
-   //       },
-   //     ],
-   //   },
+  
    ],
 
  },

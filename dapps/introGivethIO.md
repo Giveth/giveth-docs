@@ -18,9 +18,9 @@ Our Donation Application uses a direct peer-to-peer donation framework; funds do
 
 Giveth.io is currently deployed on both Ethereum mainnet and Gnosis Chain (formerly xDai Network).
 
-## Verification and Traceable Projects
+## Verification
 
-Great projects make Giveth thrive! We have a Project Verification process to ensure that we have top quality, credible projects on the DApp. One of the benefits of verification is that approved projects can become a Campaign on [Giveth TRACE](https://trace.giveth.io), and gain access to customizable donation management, features and donation traceability. [Learn more](/dapps/makeTraceableProject).
+Great projects make Giveth thrive! We have a Project Verification process to ensure that we have top quality, credible projects on the DApp. When your project becomes verified your donors become eligible for GIVbacks. Learn more about [GIVbacks here](./givbacks.md)
 
 ---
 #### Follow any of these links to learn more about Giveth.io:

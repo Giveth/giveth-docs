@@ -18,11 +18,14 @@ At launch, our community can participate in the GIVeconomy in the following ways
 - Liquidity providers and stakers can earn rewards in the [**GIVfarm**](./givfarm).
 - All GIV holders can create and/or vote on proposals in the [**GIVgarden**](./givgarden).
 - Anyone who claims GIV from their participation in the GIVeconomy gets a continuous flow of GIV from the [**GIVstream**](./givstream) until December 23, 2026.
+- You can stake your GIV to get [**GIVpower**](./givpower) and boost projects you love, increase their rank and increasing the amount of GIVbacks given to their donors.
 
-### Token Info
+### Token Adresses
 
-- Token Address on Mainnet: 0x900db999074d9277c5da2a43f252d74366230da0
-- Token Address on Gnosis Chain (formerly xDai Network): 0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75
+- Mainnet: [`0x900db999074d9277c5da2a43f252d74366230da0`](https://etherscan.io/token/0x900db999074d9277c5da2a43f252d74366230da0)
+- Gnosis Chain: [`0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75`](https://gnosisscan.io/token/0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75)
+- Optimism: [`0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98`](https://optimistic.etherscan.io/token/0x528cdc92eab044e1e39fe43b9514bfdab4412b98)
+- Polygon: [`0xc4df120d75604307dcB604fde2AD3b8a8B7c6FAA`](https://polygonscan.com/token/0xc4df120d75604307dcb604fde2ad3b8a8b7c6faa)
 
 ### Distribution
 
@@ -38,12 +41,6 @@ The launch of GIVeconomy with all the features described above is only the begin
 
 Keep reading to learn more about some of the raw, exciting and beautiful ideas that we intend to bring to fruition. If you want to have a hand in shaping the next generation of philanthropy, start to [explore GIVeconomy](https://giveth.io/) and [join our team](https://giveth.io/join)!
 
-### **GIVpower**
-GIVpower will, over time, decentralize GIVbacks. Community members will be able to allocate GIVpower to signal support for the favourite projects on Giveth and donors who give to community favoured-projects will get proportionally more GIVbacks. GIVpower users will earn rewards on the GIV they stake & lock for GIVpower, and the rate of reward will be higher if they choose to stake & lock their tokens for a longer period of time.
-
-### **GIVmatching**
-Giveth plans to implement donation matching to projects on Giveth using "Causes". Causes will be for-good initiative categories such as environmental regeneration, digital public goods, social causes, etc. Donors will be able to donate to Causes, and these pools of funds will then be distributed to community-favoured projects (as donation matching) using [quadratic funding](https://wtfisqf.com/?grant=&grant=&grant=&grant=&match=1000).
-
 ### **GIVfi**
 The intention with GIVfi is to create a sustainable way of maintaining funds in the GIVgarden common pool. While donations on the DApp are waiting to be disbursed, they will be generating interest that can be used to send GIV to the GIVgarden for funding initiatives using Conviction Voting.
 
@@ -55,7 +52,7 @@ Our biggest dream is to support for-good projects on Giveth to become their own 
 
 <details>
   <summary><h3><i>*Interacting using the Torus Wallet</i></h3></summary>
-  <div><p>To interact with the [GIVeconomy](https://giveth.io/) and other dApps using the Torus wallet, you will have to connect your wallet. To connect, click the “Connect Wallet” icon in the upper right corner of the site, then select Torus and verify. The Torus wallet allows users to sign in with accounts from many different web services, so be sure to sign in with the same account you used to set up the wallet.</p>
+  <div><p>To interact with the <a href='https://giveth.io/giveconomy' target='_blank' rel='noreferrer noopener'>GIVeconomy</a> and other dApps using the Torus wallet, you will have to connect your wallet. To connect, click the “Connect Wallet” icon in the upper right corner of the site, then select Torus and verify. The Torus wallet allows users to sign in with accounts from many different web services, so be sure to sign in with the same account you used to set up the wallet.</p>
 
   <img alt="Signing in with Torus on the GIVeconomy" width="50%" height="auto" class='center' src={useBaseUrl('img/content/giveconomyTorusConnect.png')} />
 

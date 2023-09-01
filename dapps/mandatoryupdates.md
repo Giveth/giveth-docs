@@ -7,12 +7,6 @@ slug: dapps/projectUpdates
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
 
-
-
-
-# Adding Updates to Your Project
-
-
 Are you the proud owner of a verified project on Giveth? If so, it's important to keep your donors in the loop and maintain your active status by posting updates every 3 months. 
 
 If your project isn’t verified, posting updates is optional. However, it is always helpful. Providing updates that show the impact of donations helps to build trust with potential donors and previous donors are more likely to continue donating. You can show impact in numerous ways such as posting measurable results and statistics and sharing case studies, stories, and videos. 

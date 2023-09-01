@@ -1,7 +1,7 @@
 ---
 id: quadraticfunding
 title: Quadratic Funding
-slug: quadraticfunding
+slug: dapps/quadraticfunding
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 

@@ -50,12 +50,12 @@ postgres=# create user <userName> with encrypted password '<passwordHere>';
 postgres=# grant all privileges on database <databaseName> to <userName>;
 ```
 ### Clone and Install the Frontend
-  Head on over to https://github.com/Giveth/giveth-next, and clone the repo.  
+  Head on over to https://github.com/Giveth/giveth-dapps-v2, and clone the repo.  
 
   *via SSH on the CLI:*
   ```bash
-  git clone git@github.com:Giveth/giveth-next.git
-  cd giveth-next
+  git clone git@github.com:Giveth/giveth-dapps-v2.git
+  cd giveth-dapps-v2
   yarn install
   ```
 
@@ -84,35 +84,13 @@ npm run typeorm:cli -- migration:run
 ### Deploy the Front-end
  To take advantage of linting presets, please use **VSCODE**:
  * Select *File -> Open Workspace*.
- * Navigate into the giveth-next directory.
- * Open the workspace file `giveth2-full-stack.code-workspace`.
- * Install recommended extensions (Prettier and StandardJS plugins).
+ * Navigate into the giveth-dapps-v2 directory.
+ * Install recommended extensions & packages (Prettier and StandardJS plugins).
  * Then fire up the front-end locally.
 
  ```bash
  yarn run dev
  ```
 
-### Start Editing!
+You should be ready to go for real-time coding! 
 
-Open up the giveth-next repo on your code editor.
-
-Giveth.io is now running locally at `http://localhost:8000`!
-
-<img id="contentimg" alt='Giveth Running Locally' src={useBaseUrl('img/content/givethlocalresized.png')} />
-
-You can also expiremnt with querying your data via GraphQL. You'll find it at this link here: `http://localhost:8000/___graphql`
-Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).
-
-  Save your changes, and the browser will update in real time!
-
-**Current Build Statuses**
-
-[master](https://giveth.io)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f914ac7e-ce27-4909-bd3e-14d749731a52/deploy-status)](https://app.netlify.com/sites/giveth2/deploys)
-
-[staging](https://next.giveth.io)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2f325b5b-e159-443e-bac7-c5e15f3578c0/deploy-status)](https://app.netlify.com/sites/giveth-website-staging/deploys)
-<br />
