@@ -18,7 +18,7 @@ import TraceDeprecated from './_traceDeprecatedTR.mdx'
 
 
 #### Mainnet multisigs:
-* [Giveth Mainnet: 0x8f951903c9360345b4e1b536c7f5ae8f88a64e79](https://etherscan.io/address/0x8f951903c9360345b4e1b536c7f5ae8f88a64e79) (6 of 13 multisig)
+* [Giveth Mainnet: 0x4D9339dd97db55e3B9bCBE65dE39fF9c04d1C2cd](https://etherscan.io/address/0x4D9339dd97db55e3B9bCBE65dE39fF9c04d1C2cd) (6 of 13 multisig)
 * [Giveth Overflow: 0x16fda2fcc887dd7ac65c46be144473067cff8654](https://etherscan.io/address/0x16fda2fcc887dd7ac65c46be144473067cff8654) (4 of 7 multisig)
 * [EscapeHatch Caller: 0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb](https://etherscan.io/address/0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb) (1 of x multisig)
 

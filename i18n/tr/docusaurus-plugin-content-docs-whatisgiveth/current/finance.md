@@ -12,7 +12,7 @@ Every donation and pledge made through Giveth is traceable and projects can be h
 
 Giveth is both a non-profit organization and an open-source platform for transparent philanthropy in support of your favorite causes. You can support us in building the future of giving by donating to us through the Giveth DApps too! The easiest way is to give directly at [donate.giveth.io](https://giveth.io/donate/giveth). For more specific funding of specific circle activities, log into trace.giveth.io via MetaMask, place and trace your donations, and join other Givers on the [Giveth Funding Leaderboard](https://www.trace.giveth.io/community/giveth-dac).
 
-If you prefer to donate directly to our address or via MyCrypto or MetaMask, you can send ETH or ERC20 tokens to the following address: revolution.eth (which resolves to: 0x8f951903c9360345b4e1b536c7f5ae8f88a64e79).
+If you prefer to donate directly to our address or via MyCrypto or MetaMask, you can send ETH or ERC20 tokens to the following address: revolution.eth (which resolves to: 0x4D9339dd97db55e3B9bCBE65dE39fF9c04d1C2cd).
 
 **Operational Expenses**
 Giveth related expenses can be claimed by creating a Trace in a Giveth Circle's Campaign at trace.giveth.io. If you have not had an expense with Giveth before, you need to [contact the team](https://discord.gg/cCsYnNDkq2) first.
