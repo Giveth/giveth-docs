@@ -2,6 +2,10 @@
 id: daoStructure
 title: DAO Structure
 ---
+import NotTranslatedMessage from '../../_notTranslatedES.mdx'
+
+<NotTranslatedMessage />
+
 Giveth actively experiments with different organizational structures and governance models. We currently divide our contributors and work done by subDAOs & Chapters. To learn more about specific governance processes, [read here](./governanceProcess)
 
 # subDAOs
