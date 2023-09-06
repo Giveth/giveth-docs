@@ -26,14 +26,15 @@ Users will also be able to "Lock":lock: their staked GIV on the GIVfarm to multi
 ### Contracts
 
 - GIVpower(POW) Token - [0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2](https://gnosisscan.io/address/0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2)
-- GIVpower Staking - [0x24F2d06446AF8D6E89fEbC205e7936a602a87b60](https://gnosisscan.io/address/0x24F2d06446AF8D6E89fEbC205e7936a602a87b60)
+- GIVpower Staking (Gnosis) - [0x24F2d06446AF8D6E89fEbC205e7936a602a87b60](https://gnosisscan.io/address/0x24F2d06446AF8D6E89fEbC205e7936a602a87b60)
+- GIVpower Staking (Optimism) - [0x301C739CF6bfb6B47A74878BdEB13f92F13Ae5E7](https://optimistic.etherscan.io/address/0x301c739cf6bfb6b47a74878bdeb13f92f13ae5e7)
 
 ## Staking & Locking
 
 Users can increase their rewards from staking GIV by locking them up for a period of time. Locking GIV means that it cannot be unstaked for a given amount of time, you can see the date a particular batch of GIV unlocks in the “Locked GIV Details” pop-up.
 
 :::info
-GIVpower is only available on Gnosis Chain If you have GIV on Mainnet and wish to earn rewards and participate with GIVpower, you can [bridge your GIV](https://omni.gnosischain.com/bridge) from Mainnet to Gnosis Chain.
+GIVpower is only available on Gnosis Chain and Optimism. If you have GIV on Mainnet and wish to earn rewards and participate with GIVpower, you can [bridge your GIV](https://omni.gnosischain.com/bridge) from Mainnet to Gnosis Chain or Optimism.
 :::
 
 GIV can be locked according to bi-weekly segments following the same schedule as GIVbacks, the minimum amount of time is 1 round (2 weeks), and the maximum is 26 rounds (1 year).
@@ -127,7 +128,7 @@ Select the percentage of your GIVpower you would like to boost with. If it's you
 
 <img alt='select boosting percentage' width="80%" height="auto" src={useBaseUrl('img/content/boostingProject.png')} />
 
-Click `Confirm' and you should see confirmation that your GIVpower boost was successful! 
+Click `Confirm` and you should see confirmation that your GIVpower boost was successful! 
 <img alt='boostConfirmation' width="80%" height="auto" src={useBaseUrl('img/content/boostConfirmation.png')} />
 
 ### Managing your GIVpower
