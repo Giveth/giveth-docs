@@ -28,10 +28,12 @@ To learn more about the project verification process check out our [documentatio
 
 ## Tokens Eligible for GIVbacks
 
-A donor can donate any ERC-20 token to projects on Giveth.io on Gnosis Chain (formerly xDai Network) or Ethereum Mainnet. However, only donations to verified projects in certain tokens are eligible for GIVbacks. This restriction ensures that we are able to get accurate price data for donations (a requirement for fair distribution of GIVbacks), and prevents bad actors from gaming the GIVbacks program. To see the full list of eligible tokens, visit [this forum post](https://forum.giveth.io/t/givbacks-token-list/253).
+A donor can donate any ERC-20 token to projects on Giveth.io on Gnosis Chain, Polygon, Celo, Optimism or Ethereum Mainnet. However, only donations to verified projects in certain tokens are eligible for GIVbacks. This restriction ensures that we are able to get accurate price data for donations (a requirement for fair distribution of GIVbacks), and prevents bad actors from gaming the GIVbacks program. To see the full list of eligible tokens, visit [this forum post](https://forum.giveth.io/t/givbacks-token-list/253).
 
 ## Getting GIVbacks
 During each round, all donations to verified projects on the DApp are tracked, and this data is used to calculate the amount of GIVbacks received by each Giver for that period.
+
+GIVbacks are distributed in two different blockchains, Gnosis and Optimism. All donations made in eligible tokens on Mainnet, Gnosis, Polygon or Celo will be rewarded with GIV on Gnosis chain; and the ones made in eligible tokens on Optimism will be rewarded with GIV on Optimism. 
 
 Givers are able to claim their GIV after the round ends and a fraud review has been conducted. Donors will receive an email when the rewards are ready to be claimed on the [GIVbacks page](https://giveth.io/givbacks). A portion of the GIV will be liquid immediately, and the rest will increase the flowrate of their [GIVstream](https://giveth.io/givstream). To learn more about the GIVstream and how it works, check out our [documentation](https://docs.giveth.io/giveconomy/givstream/). For the purposes of this documentation, we will refer to the sum of the liquid amount and the amount allocated to the GIVstream from GIVbacks as `cumulative GIVbacks`.
 
