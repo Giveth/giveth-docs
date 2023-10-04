@@ -48,7 +48,7 @@ Giveth supports for-good projects and public goods in a myriad of capacities, on
 
 **[GIVpower](https://giveth.io/givpower)** - A staking mechanism where donors can lock their GIV tokens for GIVpower and use them to boost and curate fundraising projects on the [Giveth.io](http://giveth.io) platform. Projects with more GIVpower are ranked higher and in turn, their donors are rewarded with more GIVbacks. (LAUNCHED ✅ )
 
-**[Quadratic Funding](../dapps/quadraticfunding)** - A matching program where top-ranked public goods and for-good projects on the [Giveth.io](http://giveth.io) fundraising platform will have the opportunity to have their donations matched via a collectively funded matching pool using [Quadratic Funding](https://www.wtfisqf.com/). (LAUNCHED ✅ )
+**[Quadratic Funding](../quadraticfunding)** - A matching program where top-ranked public goods and for-good projects on the [Giveth.io](http://giveth.io) fundraising platform will have the opportunity to have their donations matched via a collectively funded matching pool using [Quadratic Funding](https://www.wtfisqf.com/). (LAUNCHED ✅ )
 
 
 **[GIVfi](https://docs.giveth.io/giveconomy/#givfi)** - A smart contract system for generating yield on idle donations. Utilizing unclaimed donations, Giveth earns a yield through low-risk yield bearing strategies. Projects are able to claim 100% of their donation, while the yield earned goes to funding the DAO and buying back GIV. (TBA)
