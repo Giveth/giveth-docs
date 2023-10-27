@@ -44,7 +44,7 @@ Follow the prompts, and input the requested content:
  - Alternatively, click the tab `Search for photos`, and enter a keyword.
  <img alt='featuredimage2' src={useBaseUrl('img/cryptofundraising8.png')} />
 
- - Your recipient address is where donations to your project will be collected. You can choose to set a single recipient address that can receive donations on Mainnet, Gnosis Chain, Polygon, Celo and Optimism, or set a different recipient address for each chain:
+ - Your recipient address is where donations to your project will be collected. You can choose to set a single recipient address that can receive donations on Ethereum Mainnet, Gnosis Chain, Polygon, Celo, Optimism and Ethereum Classic or set a different recipient address for each chain:
 
     * Set one address to receive donations on all supported networks.
     

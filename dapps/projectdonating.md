@@ -17,7 +17,7 @@ Once you find a project you would like to donate to, hit the `DONATE` button.
 
 
 #### Crypto Donations
-Projects accept ETH and a wide variety of ERC-20 tokens on Mainnet, Gnosis Chain, Polygon, Celo, and Optimism, allowing for donations with different tokens within these networks.
+Projects accept ETH and a wide variety of ERC-20 tokens on Ethereum Mainnet, Gnosis Chain, Polygon, Celo, Optimism and Ethereum Classic allowing for donations with different tokens within these networks.
 
 <details>
 <summary><b><i>See a full list of the accepted tokens</i></b></summary>
