@@ -18,7 +18,7 @@ Once you have chosen a project and set an amount to donate, go ahead and click t
 
  <img id="contentimg" alt='Confirm Metamask transaction' src={useBaseUrl('img/content/metamaskconfirmTransaction.png')} />
 
-Verify that the amount on the Metamask pop-up corresponds with the amount you specified on the project page. Take note that the gas fee from the Ethereum network or Gnosis Chain will be added on top of the donation amount. Make sure you have enough Ethereum or xDAI in your wallet to cover the gas fees, otherwise the transaction cannot be completed.
+Verify that the amount on the Metamask pop-up corresponds with the amount you specified on the project page. Take note that the gas fee from the network you are donating in will be added on top of the donation amount. Make sure you have enough tokens in your wallet to cover the gas fees, otherwise the transaction cannot be completed.
 
  If it looks good, hit `CONFIRM`, and your donation transaction will begin. You should see a pop-up that looks like this:
 
@@ -30,5 +30,4 @@ Once the transaction has been confirmed on the blockchain, you'll be taken to th
 
  <img id="contentimg" alt='Successful Donation' src={useBaseUrl('img/content/metamaskSuccessfulDonation.png')} />
 
-### To Donate with xDai
-If you're tired of paying outrageous gas fees on Mainnet Giveth supports donations on the Gnosis Chain (formerly xDai Network). To get Metamask [setup on the Gnosis Chain go here](https://docs.gnosischain.com/tools/wallets/metamask/). Log in with Gnosis Chain via MetaMask on Giveth.io. You can follow the same process for making donations on Gnosis Chain as on Mainnet.
+

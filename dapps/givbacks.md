@@ -28,7 +28,7 @@ To learn more about the project verification process check out our [documentatio
 
 ## Tokens Eligible for GIVbacks
 
-A donor can donate any ERC-20 token to projects on Giveth.io on Gnosis Chain, Polygon, Celo, Optimism or Ethereum Mainnet. However, only donations to verified projects in certain tokens are eligible for GIVbacks. This restriction ensures that we are able to get accurate price data for donations (a requirement for fair distribution of GIVbacks), and prevents bad actors from gaming the GIVbacks program. To see the full list of eligible tokens, visit [this forum post](https://forum.giveth.io/t/givbacks-token-list/253).
+A donor can donate any ERC-20 token to projects on Giveth.io on Gnosis Chain, Polygon, Celo, Optimism, Ethereum Mainnet or Classic. However, only donations to verified projects in certain tokens are eligible for GIVbacks. This restriction ensures that we are able to get accurate price data for donations (a requirement for fair distribution of GIVbacks), and prevents bad actors from gaming the GIVbacks program. To see the full list of eligible tokens, visit [this forum post](https://forum.giveth.io/t/givbacks-token-list/253).
 
 ## Getting GIVbacks
 During each round, all donations to verified projects on the DApp are tracked, and this data is used to calculate the amount of GIVbacks received by each Giver for that period.
