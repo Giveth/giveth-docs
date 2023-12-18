@@ -76,7 +76,7 @@ If you have a for-good project looking for funding, get on [Giveth.io](https://g
 **Want to get more involved?**
 ------------------------------
 
-*   Join us on [Discord](https://discord.gg/JftjK8Un3z) or [Telegram](http://t.me/givethio)
+*   Join us on [Discord](https://discord.giveth.io) or [Telegram](http://t.me/givethio)
 *   Discover our [Docs](https://docs.giveth.io/)
 *   Fork our code on [GitHub](https://github.com/Giveth/)
 *   Follow us on [Medium](http://medium.com/giveth/), [Facebook](https://www.facebook.com/givethio), [Twitter](http://twitter.com/givethio), [Reddit](https://www.reddit.com/r/giveth/) and [YouTube](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ)

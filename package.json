@@ -12,10 +12,10 @@
     "clear": "docusaurus clear"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-beta.14",
-    "@docusaurus/plugin-content-docs": "^2.0.0-beta.14",
-    "@docusaurus/preset-classic": "^2.0.0-beta.14",
-    "@docusaurus/theme-search-algolia": "^2.0.0-beta.14",
+    "@docusaurus/core": "^2.0.0-beta.20",
+    "@docusaurus/plugin-content-docs": "^2.0.0-beta.20",
+    "@docusaurus/preset-classic": "^2.0.0-beta.20",
+    "@docusaurus/theme-search-algolia": "^2.0.0-beta.20",
     "@mdx-js/react": "^1.6.22",
     "clsx": "^1.1.1",
     "hast-util-is-element": "^1.1.0",
@@ -38,6 +38,6 @@
     ]
   },
   "engines": {
-    "node": ">=14"
+    "node": ">=16.14"
   }
 }

@@ -1,0 +1,46 @@
+{
+  "link.title.Get Started": {
+    "message": "Buradan Başlayın",
+    "description": "The title of the footer links column with title=Get Started in the footer"
+  },
+  "link.title.Community": {
+    "message": "Topluluk",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "Dahası",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Giveth.io": {
+    "message": "Giveth.io",
+    "description": "The label of footer link with label=Giveth.io linking to dapps/givethIO"
+  },
+  "link.item.label.Giveth TRACE": {
+    "message": "Giveth TRACE",
+    "description": "The label of footer link with label=Giveth TRACE linking to dapps/introTrace"
+  },
+  "link.item.label.GIVeconomy": {
+    "message": "GIVeconomy",
+    "description": "The label of footer link with label=GIVeconomy linking to giveconomy/"
+  },
+  "link.item.label.Join": {
+    "message": "Katıl",
+    "description": "The label of footer link with label=Join linking to https://giveth.io/join"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/givethio"
+  },
+  "link.item.label.Jobs": {
+    "message": "İş İlanları",
+    "description": "The label of footer link with label=Jobs linking to https://giveth.recruitee.com/"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/giveth/giveth-docs"
+  },
+  "copyright": {
+    "message": "2022 hiçbir hakkı saklı değildir - Giveth.io tarafından ❤️ hazırlanmıştır.",
+    "description": "The footer copyright"
+  }
+}

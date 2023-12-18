@@ -1,16 +1,11 @@
 module.exports = {
   whatisgiveth: [
-     'whatisgiveth','covenant','codeofconduct', 'givethCircles',
-      {
-        type: 'category',
-        label: 'Circles',
-        items: ['introCommunity', 'introPlatform', 'introGIVernance']
-      },'governanceProcess',
+     'whatisgiveth','zero-fees', 'covenant','codeofconduct','daoStructure','governanceProcess','communityCommsGuide', 'conflictResolution','externalContributors', 
       {
         type: 'category',
         label:'Guides',
-        items:['meetingsGuide','adviceProcess', 'introDiscord','brandBook']
+        items:['fundraisingGuide','commsContributorGuide','meetingsGuide','adviceProcess', 'introDiscord','brandBook']
       },
-      'finances', 'toolsDecentralizedCommunities','history'
+      , 'toolsDecentralizedCommunities','history'
    ],
 }
