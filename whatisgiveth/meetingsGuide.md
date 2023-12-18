@@ -26,10 +26,10 @@ We record and/or livestream our online video conferences for record keeping, to 
 
 * We use OBS to livestream and record our video calls. You can download it [here](https://obsproject.com/).
 * During installation select "Optimize for streaming, recording is secondary".
-* Select YouTube as the Streaming Service and input the Giveth Transparency YouTube Stream Key. If you need access to the Stream Key, please ask one of our team members.
-* In general, the recommending settings in the setup wizard are already optimized for your device, but feel free to adjust them.
-* Setup your video and audio sources - we recommend using Window Capture for streaming calls.
-* When you are ready to stream the meeting, select the appropriate Window to capture and select "Start Streaming". Your video will be automatically livestreamed on YouTube.
+* Select YouTube as the streaming service and input the Giveth Transparency YouTube Stream Key. If you need access to the Stream Key, please ask one of our team members.
+* In general, the recommended settings in the setup wizard are already optimized for your device, but feel free to adjust them.
+* Setup your video and audio sources; we recommend using Window Capture for streaming calls.
+* When you are ready to stream the meeting, select the appropriate window to capture and select "Start Streaming". Your video will be automatically livestreamed on YouTube.
 * For a more thorough setup guide, check out [this video](https://www.youtube.com/watch?v=qiRu-NRgso0) from our friends at the Token Engineering Commons (TEC).
 
 # Governance of Meetings
@@ -51,9 +51,9 @@ The Facilitator holds the space so that people can process their tension on thei
 
 
 ### The Note Taker
-Note taking is important because it allows us to capture meeting highlights in a clear, organized way and store them in Notion, our shared transparent tool. The Facilitator can be the Note Taker as well for smaller meetings but in general it is best if they are 2 different people.
+Note taking is important because it allows us to capture meeting highlights in a clear, organized way and store them in Notion, our shared transparent tool. The Facilitator can also be the Note Taker for smaller meetings, but in general it is best if they are 2 different people.
 
-The most important task is to record the agenda items. Everything else recorded is bonus :-D. The Note Taker has the responsibility the go to person when there is a conflict interpreting the results of the meeting.
+The most important task is to record the agenda items. Everything else recorded is bonus :-D. The Note Taker has the responsibility the go to the person when there is a conflict interpreting the results of the meeting.
 
 After the meeting, the Note Taker will share a link to the meeting notes in the #meetingnotes Discord channel.
 
@@ -147,4 +147,4 @@ Each person has an opportunity to share a closing reflection on this meeting. No
 #### 7. Transparency Publishing
 The Note Taker posts the meeting notes in the #meetingnotes channel on the Giveth Discord.
 
-The Livestream Recorder publishes the audio/video recording of the meeting in the Giveth Transparency YouTube channel.
+The Livestream Recorder publishes the audio/video recording of the meeting in the Giveth Transparency YouTube channel. 

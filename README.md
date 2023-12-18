@@ -22,6 +22,12 @@ yarn start
 
 This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
 
+## Translations
+
+When you are up and running and want to work on translations please see the documentation regarding i18n from docusaurus.io, use the appropriate folders for the language you are contributing too and note that it is very important to run the application specifically in your language as every translation generates its own Single page app.
+
+`yarn start --locale es` (this is an example for running the spanish version locally)
+
 ## Build
 
 ```console

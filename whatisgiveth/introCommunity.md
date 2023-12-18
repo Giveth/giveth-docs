@@ -27,7 +27,7 @@ Our mission is to be the living and breathing core of Giveth, an ecosystem of co
 
 ## How to Engage
 
-* Community Calls are held every Sunday in the appropriate voice channel in the [Discord server](https://discord.gg/DAFkKdkykr) and can be found scheduled on the [Giveth calendar](https://calendar.giveth.io/). Feel free to join us!
+* Community Calls are held every Thurday in the appropriate voice channel in the [Discord server](https://discord.gg/DAFkKdkykr) and can be found scheduled on the [Giveth calendar](https://calendar.google.com/calendar/u/0/embed?src=givethdotio@gmail.com&ctz=America/Costa_Rica). Feel free to join us!
 * If you want to get a feel of what we discuss during the Community Call, most of the recordings can be found on our [Giveth Transparency YouTube channel](https://www.youtube.com/channel/UCdqmP4axeI1hNmX20aZsOwg).
 * You can read more on all of our initiatives on our [Medium blog](https://medium.com/giveth/) as well as engage with releveant topics and proposals on the [Giveth Forum](https://forum.giveth.io/).
-* If you have any question or are interested to contribute, feel free to reach out in the Discord server or [Telegram chat](https://t.me/Givethio).
+* If you have any questions or are interested in contributing, feel free to reach out in the Discord server or [Telegram chat](https://t.me/Givethio). 

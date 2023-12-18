@@ -28,13 +28,11 @@ To empower our contributors with the knowledge and resources to build and mainta
 
 ## Our Products
 
-We maintain two Donation Applications that facilitate contributions to for-good projects on the Ethereum blockchain:
-
 * [**Giveth.io**](http://giveth.io/) - Boasting a streamlined UI and an easy user experience, it offers direct peer-to-peer giving. Giveth.io grants anyone the ability to create projects and receive funding in minutes.
 
-* [**Giveth TRACE**](http://trace.giveth.io) - Our original DApp, has a larger scope - offering enhanced complexity and traceability for projects. It also allows users to specify and track their donations.
+* [**GIVeconomy**](https://giveth.io/giveconomy) - An economy that supports projects that create value for society and encourages on-the-ground change-makers to enter web3. An economy that empowers and rewards donors for giving. And, fundamentally, an economy that is owned and governed by those who give.
 
-The **GIVeconomy** is also being built by this circle and will involve the creation and deployment of on-chain systems to ensure the yet-to-launch Giveth Token Economy remains secure, efficient and accessible.
+* [**Giveth TRACE**](https://docs.giveth.io/dapps/introTrace/) - Our original DApp, has a larger scope - offering enhanced complexity and traceability for projects. It also allows users to specify and track their donations. ***Giveth TRACE has officially been deprecated in Q3 of 2022.***
 
 ## How to Engage
 

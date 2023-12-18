@@ -56,7 +56,7 @@ So head over to [giveth.io](http://giveth.io), try it out for yourself, and let 
 
 ## Want to get more involved?
 
-*   Join us on [Discord](https://discord.gg/JftjK8Un3z) or [Telegram](http://t.me/givethio)
+*   Join us on [Discord](https://discord.giveth.io) or [Telegram](http://t.me/givethio)
 *   Discover our [Site](http://giveth.io/) and [Wiki](https://wiki.giveth.io/)
 *   Fork our code on [GitHub](https://github.com/Giveth/)
 *   Follow us on [Medium](http://medium.com/giveth/), [Facebook](https://www.facebook.com/givethio), [Twitter](http://twitter.com/givethio) and [Reddit](https://www.reddit.com/r/giveth/)

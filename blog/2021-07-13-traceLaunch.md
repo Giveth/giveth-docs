@@ -3,7 +3,7 @@ slug: traceLaunch
 title: "Giveth TRACE is Live 🚀"
 author: Lauren
 author_image_url: /img/laurenAuthor.png
-image: /img/blog/traceLaunchCover.png
+image: /img/blog/traceLiveBanner.png
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'
@@ -33,7 +33,7 @@ Project Verification
 <img class="leftfloat" width="250" height="auto" alt="Verified Project Badge" src={useBaseUrl('/img/blog/traceLaunchPhoto1.png')}  />
 
 
-Givers using TRACE know that their donations are going to top-quality legitimate projects thanks to our project verification system. In order to add a project as a Campaign on Giveth TRACE, a Maker must first add their project to [giveth.io](http://giveth.io) and apply to become verified. Currently this process is informal, but soon it will be integrated into the project flow. For now, if you want to verify your project, fill [out this typeform](https://hlfkiwoiwhi.typeform.com/to/pXxk0HO5) and reach out in the #project-onboarding channel on our [Discord](https://discord.gg/nVSbGSHaaD).
+Givers using TRACE know that their donations are going to top-quality legitimate projects thanks to our project verification system. In order to add a project as a Campaign on Giveth TRACE, a Maker must first add their project to [giveth.io](http://giveth.io) and apply to become verified. Currently this process is informal, but soon it will be integrated into the project flow. For now, if you want to verify your project, fill [out this typeform](https://hlfkiwoiwhi.typeform.com/to/pXxk0HO5) and reach out in the #project-onboarding channel on our [Discord](https://discord.giveth.io).
 
 Accountability
 ==============
@@ -83,7 +83,7 @@ So what are you waiting for?  Head over to [Giveth TRACE](http://trace.giveth.io
 
 **Want to get more involved?**
 
-*   Join us on [Discord](https://discord.gg/JftjK8Un3z) or [Telegram](http://t.me/givethio)
+*   Join us on [Discord](https://discord.giveth.io) or [Telegram](http://t.me/givethio)
 *   Discover our [Docs](https://docs.giveth.io/)
 *   Fork our code on [GitHub](https://github.com/Giveth/)
 *   Follow us on [Medium](http://medium.com/giveth/), [Facebook](https://www.facebook.com/givethio), [Twitter](http://twitter.com/givethio), [Reddit](https://www.reddit.com/r/giveth/) and [YouTube](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ)
