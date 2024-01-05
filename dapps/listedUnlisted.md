@@ -37,7 +37,7 @@ A project is likely to remain unlisted due to the following:
 - :x: No unique or custom banner photo
 
 However, in order to remain active, the unlisted project must still exhibit:
-- :heavy_check_mark: No violations of our [Covenant](../whatisgiveth/covenant/) and/or **Terms of Use**
+- :heavy_check_mark: No violations of our [Terms of Use](https://giveth.io/tos)
 
 ### Examples of Projects that do not pass "Listed" criteria
 
@@ -59,7 +59,7 @@ However, in order to remain active, the unlisted project must still exhibit:
 
 ## Cancelled Projects
 
-Projects that are found to exhibit "unacceptable behaviour" and/or violate our [Covenant](../whatisgiveth/covenant) and/or **Terms of Use** will be cancelled immediately, and an email will be send to the project owner.
+Projects that are found to exhibit "unacceptable behaviour" and/or violate our [Terms of Use](https://giveth.io/tos) will be cancelled immediately, and an email will be send to the project owner.
 
 ### Examples of unacceptable behaviour include:
 - :x: The use of violent or sexualized language or imagery, and sexual attention or advances of any kind
