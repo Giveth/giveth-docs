@@ -18,7 +18,7 @@ The following guide is intended to support project owners in creating high quali
 In order for a project to be approved and listed on the DApp, it must have the following:
 - :heavy_check_mark: Clear project descriptions explaining who they are and what they want to do with the funds
 - :heavy_check_mark: A unique or custom banner photo
-- :heavy_check_mark: No violations of our [Covenant](../whatisgiveth/covenant/) and/or **Terms of Use**
+- :heavy_check_mark: No violations of our [Terms of Use](https://giveth.io/tos)
 - :heavy_check_mark: (Optional) Embedded photos, videos or legitimate external links
 - :heavy_check_mark: (Optional) For open-source projects, a link to their repository
 
