@@ -1,9 +1,10 @@
 ---
 id: angelVault
-title: The Angel Vault
+title: The Angel Vault (Deprecated)
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
+### _Then Angel Vault has been deprecated. This documentation will remain purely for historical reference._
 The Angel Vault is a strategically managed Univ3 position structured to protect GIV from downward volatility. It is managed by our Angel Vault multisig, a [4/7 multisig of Giveth core team members and two members for ICHI](https://gnosis-safe.io/app/eth:0x2B0ee142dCFE7C2dD150cDbd7B6832F6e9977f51/home). To learn more about Angel Vaults and how they work, please refer to [ICHI’s documentation](https://docs.ichi.org/ichi-docs-v3/ichi-vaults/angel-vaults).
 ## Contracts
 - Angel Vault (ICHI) LM (Unipool): `0xA4b727DF6fD608d1835e3440288c73fB28c4eF16`

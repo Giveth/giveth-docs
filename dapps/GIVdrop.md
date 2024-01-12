@@ -1,11 +1,12 @@
 ---
 id: givdrop
-title: GIVdrop
+title: GIVdrop (Finished)
 slug: giveconomy/givdrop
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from '../src/css/custom.css'
 
+### _The GIVdrop has finished. Any airdropped tokens are no longer eligible to be claimed since January, 2023. This documentation will remain purely for historical reference._
 
 The GIVdrop is designed to kickstart the GIVeconomy by distributing GIV tokens to the Giveth trusted seed - crypto philanthropists, Giveth users & builders, Blockchain4Good DAO members, and other ecosystem partners. To check your GIVdrop eligibility or to claim [click here](https://giveth.io/claim). To learn how to claim your GIVdrop, refer to our tutorial below.
 

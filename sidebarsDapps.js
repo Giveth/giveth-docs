@@ -11,12 +11,8 @@ module.exports = {
       },
       items:[
     {
-      type: 'category',
-      label: 'User Guides',
-      collapsed: true,
-      items: [{
         type: 'category',
-        label: 'Giveth.io',
+        label: 'Donation Platform',
         collapsed: true,
         link: {type: 'doc', id: 'givethIO'},
         items: ['gettingStarted','createproject','listedUnlisted','projectVerification', 'projectUpdates', 'projectdonating', 'multisigs' ,{
@@ -29,7 +25,7 @@ module.exports = {
         { type: 'category',
           label: 'GIVeconomy',
           link: {type: 'doc', id: 'giveconomy'},
-          items: [ 'givdrop', 'givbacks', 'givstream',
+          items: [  'givbacks', 'givstream', 'givpower',
           {
             type: 'category',
             label: 'GIVgarden',
@@ -42,13 +38,13 @@ module.exports = {
             link: {type: 'doc', id: 'givfarm'},
             items:['regenFarms', 'angelVault']
           }
-          ,'givpower', 'niceToken', 
+          , 'givdrop'
 ]
           },
-          'quadraticfunding','giverspfp', 'referral'
-        ]
+          'quadraticfunding','giverspfp', 'referral', 'niceToken'
+        
 
-    },
+    ,
     {
      type: 'category',
      label: "Developer Guides",
