@@ -2,25 +2,31 @@ module.exports = {
   dapps: [
     {
       type: 'category',
-      label: 'DApps Documentation',
+      label: 'Giveth.io Guides',
       link: {
         type: 'generated-index',
-        title: 'Dapps Documentation',
-        description: 'Learn more about how the Giveth Dapp works. We have a variety of articles tailored for Users and Developers for Giveth.io, Giveth TRACE and the GIVeconomy.',
+        title: 'Giveth.io Guides',
+        description: 'Learn more about how the Giveth Dapp works. We have a variety of articles tailored for Donors, Project Owners and how to use the GIV token.',
         slug: 'dapps/'
       },
       items:[
+        'givethIO',
+        'gettingStarted',
     {
         type: 'category',
-        label: 'Donation Platform',
+        label: 'For Donors',
         collapsed: true,
-        link: {type: 'doc', id: 'givethIO'},
-        items: ['gettingStarted','createproject','listedUnlisted','projectVerification', 'projectUpdates', 'projectdonating', 'multisigs' ,{
-           type: 'category',
-           label: 'Wallets',
-           items: ['torusUserGuide', 'torusonramp','importTorusMM', 'donatingmetamask'],
-         },
-          'troubleshooting','faq'],
+        link: {type: 'doc', id: 'projectdonating'},
+        items: ['projectdonating', 'donatingmetamask' ,'multisigs', 'importTorusMM',
+          ],
+       },
+       {
+        type: 'category',
+        label: 'For Project Owners',
+        collapsed: true,
+        link: {type: 'doc', id: 'createproject'},
+        items: ['createproject','listedUnlisted','projectVerification', 'projectUpdates', 
+          ],
        },
         { type: 'category',
           label: 'GIVeconomy',
@@ -45,6 +51,8 @@ module.exports = {
         
 
     ,
+    'disclosure',
+    'troubleshooting',
     {
      type: 'category',
      label: "Developer Guides",
@@ -57,10 +65,6 @@ module.exports = {
   ]
    },
    {
-    type: 'category',
-    label: "Security",
-    items: [ 'disclosure']
-  },{
     type: 'category',
     label: 'Giveth TRACE (Deprecated)',
     link: {type: 'doc', id:'introTrace'},

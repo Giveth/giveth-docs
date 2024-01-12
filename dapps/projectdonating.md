@@ -1,6 +1,6 @@
 ---
 id: projectdonating
-title: How do I donate to a Project?
+title: Making a Donation
 slug: dapps/projectdonating 
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';

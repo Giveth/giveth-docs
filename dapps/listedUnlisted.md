@@ -41,21 +41,15 @@ However, in order to remain active, the unlisted project must still exhibit:
 
 ### Examples of Projects that do not pass "Listed" criteria
 
-1. danger dan defi: No description
-![](https://i.imgur.com/ln7nrO2.png)
 
-2. Giving your hands to help: Strange/vague description: "We want to do favours all over Canada"
-![](https://i.imgur.com/TV9lNqw.jpg)
 
-3. Pritesh
+1. Giving your hands to help: Strange/vague description: "We want to do favours all over Canada"
+<img alt='giving your hands to help: a project with a vague description' src={useBaseUrl('img/projectExamples/givingyourhands.png')} />
+
+2. Pritesh
    - Very minimalistic description: "We are helping poor Bangladeshi people after the crash. We are giving out rice and clothes to people around us."
     - No clarity given in the details of what crash and the exact process for "giving rice and clothes"
-![](https://i.imgur.com/e22OlGd.png)
-
-4. Cats
-   - Very minimalistic description: "We're collecting funds to give to the local cat shelter. We always need moar funding for cats."
-   - No website, no clear explanation of how they will use the funds to help cats
-![](https://i.imgur.com/P0fvJXE.png)
+<img alt='giving your hands to help: a project with a vague description' src={useBaseUrl('img/projectExamples/pritesh.png')} />
 
 ## Cancelled Projects
 

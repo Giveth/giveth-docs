@@ -59,7 +59,6 @@ Follow the prompts, and input the requested content:
 :::warning
 Please DO NOT enter an exchange deposit address; only use a key you control in a wallet like Metamask, or your funds may be lost. 
 
-Not all wallets are compatible with the Optimism chain; please ensure your wallet supports Optimism [here](https://www.optimism.io/apps/wallets) before conducting transactions.
 :::
 
 On the final page double check all the info you entered. If it looks good, hit `PUBLISH`, and boom, your project is live! 
@@ -70,3 +69,7 @@ On the confirmation page you can choose to view your project and to share it on 
 
 ## Editing my project after it's been published
 If you made a mistake or need to change something on your project, it's super simple to go back and update it. If you're on the homepage, go to the top right, and click on your account, then select `My Projects`. Once you're there, you should see a page of your projects; hover over the project you wish to edit, then click the `EDIT` button. You should see your project's contents; you can scroll through and change the content you wish, and once you're done, just hit save!
+
+
+## More Information
+Check out our onboarding guide, complete with videos, watch how to create your project, get it [verfied](./projectVerification.md) and how to get donations! 

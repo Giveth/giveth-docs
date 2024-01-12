@@ -5,10 +5,9 @@ slug: dapps/gettingStarted
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
-
 Giveth.io is a platform where you can easily support projects both with cryptocurrency and fiat that you ❤️. Or create your own project and accept funding from a worldwide audience.
 
-New to crypto? Visit our [FAQ section](./guide5-FAQ.md) where you can find more information or check out our [Donor 101 video course on youtube](https://youtube.com/playlist?list=PL4Artm1rmCWH4Q5XnrQWf8fm0xob3hbdZ&si=EnSIkaIECMiOmarE) to learn how to use the platform better. 
+New to crypto? Visit our [FAQ](https://giveth.io/faq) where you can find more information or check out our [Onboarding guide](https://giveth.io/onboarding) to learn how to use Giveth like a pro! 
 
 ## Sign in
 

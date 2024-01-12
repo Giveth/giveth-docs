@@ -82,11 +82,12 @@ module.exports = {
           position: 'left'
         },
         {
-          to: 'dapps/',
-          activeBasePath: 'dapps/',
-          label: 'DApps',
+          to: 'dapps/projectdonating',
+          activeBasePath: 'dapps/projectdonating',
+          label: 'Donors',
           position: 'left'
         },
+        {to: 'dapps/createproject', activeBasePath: 'dapps/createproject', label: 'Project Owners', position: 'left'},
         {
           to: 'giveconomy/',
           activeBasePath: 'giveconomy',
@@ -104,7 +105,7 @@ module.exports = {
           position: 'left'
         },
         {
-          to: 'blog',
+          href: 'https://blog.giveth.io/',
           label: 'Blog',
           position: 'left'
         },
@@ -121,12 +122,8 @@ module.exports = {
           title: 'Get Started',
           items: [
             {
-              label: 'Giveth.io',
-              to: 'dapps/givethIO'
-            },
-            {
-              label: 'Giveth TRACE',
-              to: 'dapps/introTrace'
+              label: 'Donating & Creating Projects',
+              to: 'dapps/gettingStarted'
             },
             {
               label: 'GIVeconomy',
@@ -142,9 +139,14 @@ module.exports = {
               href: 'https://giveth.io/join'
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/givethio'
+              label: 'X',
+              href: 'https://twitter.com/giveth'
+            },
+            {
+              label: 'Instagram',
+              href: 'https://www.instagram.com/giveth.io/'
             }
+            
           ]
         },
         {
@@ -156,7 +158,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/giveth/giveth-docs'
+              href: 'https://github.com/giveth/'
             }
           ]
         }

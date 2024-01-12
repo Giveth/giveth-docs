@@ -40,7 +40,7 @@
     "description": "The label of footer link with label=GitHub linking to https://github.com/giveth/giveth-docs"
   },
   "copyright": {
-    "message": "2022 hiçbir hakkı saklı değildir - Giveth.io tarafından ❤️ hazırlanmıştır.",
+    "message": "2024 hiçbir hakkı saklı değildir - Giveth.io tarafından ❤️ hazırlanmıştır.",
     "description": "The footer copyright"
   }
 }
