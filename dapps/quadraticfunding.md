@@ -63,9 +63,9 @@ These actions can compromise your eligibility for a matching funds:
 - **Unscrupulous or fraudulent activity.** This can be the use of violence, breaking laws, or other behaviour that does not uphold the values of the Giveth community.
 - **Attempting to falsify a contribution**
 
-<aside>
+:::info
 🚨 **These actions can lead to a reduction or nullification of your matching funds.**
-</aside>
+:::
 
 The above list is not exhaustive and should be taken as just **some** of the possible unscrupulous activities that could lead to a reduction or nullification of matching. Please use your best judgement, and if you are uncertain if something will be considered “allowed” or not, reach out in our [discord support channel.](https://discord.giveth.io/)
 
