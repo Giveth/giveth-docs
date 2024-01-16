@@ -21,11 +21,11 @@ For more information, details, and even a helpful simulator, visit [“WTF is QF
 
 Giveth has integrated quadratic funding into [our existing donation platform](https://giveth.io/) to help drive more donations to amazing public goods projects!
 
-QF on Giveth operates in rounds. Only donations made during an active QF round are eligible to be matched, any donations made before or after the round dates will not be matched. Rounds can vary in length but generally will last between 2-3 weeks. Other restrictions may apply such as [project eligibility](#project-eligibility), fraud detection and the donor’s Gitcoin passport score, more on that below in this article.
+QF on Giveth operates in rounds. Only donations made during an active QF round are eligible to be matched, any donations made before or after the round dates will not be matched. Rounds can vary in length but generally will last between 1-3 weeks. Other restrictions may apply such as [project eligibility](#project-eligibility), fraud detection and the donor’s Gitcoin passport score, more on that below in this article.
 
-Our quadratic funding rounds allow for donations on any of our [supported chains](https://docs.giveth.io/dapps/projectdonating/#swictching-networks) (Mainnet, Gnosis, Optimism, Polygon and Celo, as of July 2023). Projects participating in active rounds are sorted on the [QF project page](https://giveth.io/qf) by default according to [GIVpower](https://docs.giveth.io/giveconomy/givpower) and donations to these [verified projects](https://docs.giveth.io/dapps/projectVerification) are also eligible for [GIVbacks](https://docs.giveth.io/giveconomy/givbacks).
+Our quadratic funding rounds may allow for donations on any of our [supported chains](https://docs.giveth.io/dapps/projectdonating/#swictching-networks), or may be restricted to a specific chain or network. Projects participating in active rounds are sorted on the [QF project page](https://giveth.io/qf) by default according to [GIVpower](https://docs.giveth.io/giveconomy/givpower), and if the projects are not verified, according to amount donated or number of likes. Donations to [verified projects](https://docs.giveth.io/dapps/projectVerification) during QF rounds are also eligible for [GIVbacks](https://docs.giveth.io/giveconomy/givbacks). However, note that projects do not need to be verified in order to participate in every QF round.
 
-Donations on Giveth are direct, peer-to-peer with [zero fees](https://docs.giveth.io/whatisgiveth/zero-fees) and intermediaries.
+Please refer to the Giveth [notion](https://giveth.notion.site/Giveth-Quadratic-Funding-3478aa27eb094a699f9ddd6a8b611027) for specific information pertaining to specific rounds.
 
 ## Fraud protection
 
@@ -48,30 +48,26 @@ For post-round sybil analysis, we will be supported by our partners [Trustalabs]
 
 Quadratic Force is the name given to the launch partners that make Giveth quadratic funding rounds possible by donating to the matching pool.
 
-Anyone can become a member of the Quadratic Force by donating $1000 USD or more to our [matching pool verified project](https://giveth.io/project/Giveth-Matching-Pool-0). Members of the Quadratic Force benefit from brand exposure, project nominations, GIVbacks and more! To learn more about the Quadratic Force, reach out to our fundraising team by sending a message in our [Discord support channel](https://discord.gg/gsZDyx3Mdc).
+Anyone can become a member of the [Quadratic Force](https://giveth.io/QuadraticForce) by donating a set amount to [matching pool verified project](https://giveth.io/project/Giveth-Matching-Pool-0). Members of the Quadratic Force benefit from brand exposure, project nominations, GIVbacks and more! To learn more about the Quadratic Force, reach out to our fundraising team by sending a message in our [Discord support channel](https://discord.gg/gsZDyx3Mdc).
 
 To remain sustainable Giveth will use 10% of the pool funds for the operation and management of the round, and 5% will be given to our partner [Trustalabs](https://www.trustalabs.ai/) for sybil detection.
 
-## Giveth Alpha QF Round
+## Disqualifying factors for Giveth QF
 
-The goal of the Giveth Alpha QF round is to test this new product live with existing verified projects who are familiar with our platform so that we can iron out any kinks with our trusted community! Following the alpha round, we will address any issues that emerge and work towards launching bigger and better QF rounds in the near future.
+These actions can compromise your eligibility for a matching funds:
 
-### Round dates
+- **Offering quid-pro-quo for a contribution:** It is not allowed to give/offer goods or services to donors in exchange for their donation(s). This include raffles, implying that donors will get airdrops, or many other offers that attempt to “game the system”.
+- **Creating a new identity to contribute:** This includes creating multiple wallets for one user, or pretending to be multiple unique donors.
+- **Recirculating funds:** Only “first-touch” donations are eligible to be included in matching rounds.
+- **The funds are not being used for what is expressed in the project page:** QF-eligible projects are responsible for keeping their projects up-to-date with information on how the funds are being used without misrepresentations.
+- **Unscrupulous or fraudulent activity.** This can be the use of violence, breaking laws, or other behaviour that does not uphold the values of the Giveth community.
+- **Attempting to falsify a contribution**
 
-Our Alpha runs from July 18th to August 1st.
+<aside>
+🚨 **These actions can lead to a reduction or nullification of your matching funds.**
+</aside>
 
-### Matching pool
-
-A matching pool of $10,000 USD equivalent is available to be distributed via the alpha round on Gnosis Chain. This pool will be used to match donations made to participating projects during the funding period according to QF. The matching funds will be distributed some weeks after the round ends, when post-round sybil analysis is completed.
-
-
-### Project eligibility
-
-We contacted 55 verified projects who had raised over $900 USD equivalent on Giveth by July 1st, 2023 to apply to enter. In order for those projects to become eligible for the round, projects needed to [provide an update](https://docs.giveth.io/dapps/projectUpdates/) by Friday July 14. A maximum of 50 verified projects will be accepted into the alpha round.
-
-In addition to these initial projects, each member of the [quadratic force](#quadratic-force) (large donors to the matching pool) were able to select 1-3 verified projects to be included in the round, depending on the size of their contribution to the matching pool.
-
-We will limit the total number of projects allowed in this alpha round to 50.
+The above list is not exhaustive and should be taken as just **some** of the possible unscrupulous activities that could lead to a reduction or nullification of matching. Please use your best judgement, and if you are uncertain if something will be considered “allowed” or not, reach out in our [discord support channel.](https://discord.giveth.io/)
 
 ## Estimated matching
 
@@ -84,7 +80,7 @@ Estimated matching amounts are calculated by using the [quadratic funding formul
 
 The estimated matching calculations do not consider the donors' [Passport scores](#gitcoin-passport), or post-round fraud analysis. They are rough estimations calculated by assuming that the entire matching pool would be distributed according to the donations made in the round to date. This means that the estimated matching amounts are more accurate towards the end of the round, when there is more donation data being used in the calculations. 
 
-The maximum amount that any one project will be able to receive is equal to 20% of the total matching funds for the round.
+The maximum amount that any one project will be able to receive depends on the set matching cap for the corresponding round, and is a set % of the total matching funds.
 
 
 During an active round, the estimated matching will be shown on several pages:
