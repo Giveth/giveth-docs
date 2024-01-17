@@ -13,7 +13,7 @@ It is possible to use Giveth with your Safe Multisig Wallet. However there are a
 
 ### Add and Open the Giveth App on the Safe website
 1. Go to the page on the [Safe website](https://app.safe.global/welcome) of your Multisig Wallet that you wish to login with.
-2. Click on the `Apps` tab, then click `My Custom Apps` from the window menu.
+2. Click on the `Apps` tab, and find the Giveth app in the list of official Safe Apps and skip to the next section of this guide. If it doesn't show up in the list, no problem then click `My Custom Apps` from the window menu and follow steps #3 & #4.
 <img alt='safe Ui custom app' src={useBaseUrl('img/multisigGuide/step1.png')} />
 3. Enter the Giveth URL `https://giveth.io`, click `Add` then click on the Giveth App card that will appear in the list of Custom Apps. (Native Giveth Safe app coming soon!)
 <img alt='enter giveth url in custom app page' src={useBaseUrl('img/multisigGuide/step2.png')} />
