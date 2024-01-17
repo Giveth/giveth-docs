@@ -74,4 +74,4 @@ If you get to step 4 in [Creating Your MultiSig Session](#creating-your-multisig
 This is usually due to some lag in the network and the communication between the Safe website and the Giveth app. Wait a few minutes, refresh the page and it should be resolved. However you will not be able to proceed making projects etc. until the pending message is fully signed.
 
 ### Rejected Donation Transactions
-If a transaction to a create donation is rejected by the Multisig signers it can show as `pending` for a very long time on the project page in the Giveth app.
+If a transaction to create a donation is rejected by the Multisig signers it can show as `pending` for a very long time on the project page in the Giveth app.
