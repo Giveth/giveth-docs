@@ -75,3 +75,6 @@ This is usually due to some lag in the network and the communication between the
 
 ### Rejected Donation Transactions
 If a transaction to create a donation is rejected by the Multisig signers it can show as `pending` for a very long time on the project page in the Giveth app.
+
+### Quadratic Funding Eligiblity
+Currently our Sybil defense provider, Gitcoin Passport, does not support Multisigs. This means you will not be able to have your donation matched during a QF round if having a Passport score is a requirement for the given round (it usually is). We recommend making your QF donations via a regular wallet that is able to connect to Gitcoin Passport. Your donations to verified projects will still of course be eligible for GIVbacks. 
