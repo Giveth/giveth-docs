@@ -47,7 +47,7 @@ module.exports = {
           , 'givdrop'
 ]
           },
-          'quadraticfunding','giverspfp', 'referral', 'niceToken'
+          'quadraticfunding','giverspfp','niceToken'
         
 
     ,
