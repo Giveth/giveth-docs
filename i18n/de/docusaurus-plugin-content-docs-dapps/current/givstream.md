@@ -36,7 +36,7 @@ The following table explains what percentage of GIV is liquid and distributed th
 
 Your GIVstream flowrate is the rate (GIV/week) at which your GIV becomes liquid. All recipients of the [GIVdrop](https://docs.giveth.io/giveconomy/givdrop) will also receive a GIVstream on Gnosis Chain (formerly xDai Network). If you did not receive a GIVdrop, you can still get a GIVstream by participating in the GIVeconomy.
 
-You can get (or increase) your GIVstream flowrate on Gnosis Chain (formerly xDai Network) by donating (on Gnosis Chain or Mainnet) and getting [GIVbacks](https://giv.giveth.io/givbacks), by wrapping GIV to use in the [GIVgarden](https://giv.giveth.io/givgarden), or by staking in the [GIVfarm](https://giv.giveth.io/givfarm) on Gnosis Chain.
+You can get (or increase) your GIVstream flowrate on Gnosis Chain (formerly xDai Network) by donating (on Gnosis Chain or Mainnet) and getting [GIVbacks](https://giv.giveth.io/givbacks), or by staking in the [GIVfarm](https://giv.giveth.io/givfarm) on Gnosis Chain.
 
 You can get (or increase) your GIVstream flowrate on Ethereum mainnet by providing mainnet liquidity and staking GIV or LP tokens in the [GIVfarm](https://giv.giveth.io/givfarm) on Mainnet.
 

@@ -36,16 +36,13 @@ The following table explains what percentage of GIV is liquid and distributed th
 
 Your GIVstream flowrate is the rate (GIV/week) at which your GIV becomes liquid. All recipients of the [GIVdrop](https://docs.giveth.io/giveconomy/givdrop) will also receive a GIVstream on Gnosis Chain (formerly xDai Network). If you did not receive a GIVdrop, you can still get a GIVstream by participating in the GIVeconomy.
 
-You can get (or increase) your GIVstream flowrate on Gnosis Chain (formerly xDai Network) by donating (on Gnosis Chain or Mainnet) and getting [GIVbacks](https://giveth.io/givbacks), by wrapping GIV to use in the [GIVgarden](https://giveth.io/givgarden), or by staking in the [GIVfarm](https://giveth.io/givfarm) on Gnosis Chain.
-
-You can get (or increase) your GIVstream flowrate on Ethereum mainnet by providing mainnet liquidity and staking GIV or LP tokens in the [GIVfarm](https://giveth.io/givfarm) on Mainnet.
+You can get (or increase) your GIVstream flowrate by donating on Giveth and getting [GIVbacks](https://giveth.io/givbacks), by receiving Praise rewards, or by staking in the [GIVfarm](https://giveth.io/givfarm) on Gnosis Chain.
 
 ### Earning Rewards
 When you earn GIV through participation in the GIVeconomy, part will be liquid and part will add to your GIVstream flowrate. As time passes and the GIVstream flows, a greater percentage of the total GIV you earn is liquid.
 
-When you earn and/or claim rewards from GIVbacks (Gnosis Chain), the GIVgarden (Gnosis Chain) or the GIVfarm (Gnosis Chain or Ethereum Mainnet), you increase your GIVstream flowrate. Note that when you claim, any GIV liquid from the GIVstream on that chain also get sent to your wallet.
+When you earn and/or claim rewards from GIVbacks (Gnosis Chain), or the GIVfarm (Gnosis Chain or Ethereum Mainnet), you increase your GIVstream flowrate. Note that when you claim, any GIV liquid from the GIVstream on that chain also get sent to your wallet.
 
-<img width='70%' class="center" alt='GIVgarden Rewards' src={useBaseUrl('/img/content/giveconomy/GIVgardenRewards.png')} />
 
 ### History Table
 
@@ -59,7 +56,6 @@ Note: When earning rewards in the GIVfarm, it does not matter if you harvest rew
 
 The GIVstream nurtures the GIVeconomy at inception by having only 10% of the total supply of GIV liquid and transferrable to start. As the GIVeconomy grows & stabilizes, more GIV becomes liquid and available for everyone. We want to empower those who support the Giveth ecosystem with steadily increasing governance rights, this includes participants who:
 - [Donate to Verified Projects](https://giveth.io/projects)
-- Vote in the [GIVgarden](https://giveth.io/givgarden), and
-- Provide liquidity in the [GIVfarm](https://giveth.io/givfarm)
+- Stake GIV into [GIVpower](https://giveth.io/givpower)
 
 Participants benefit from their GIVstream flowing as the GIVeconomy flourishes over time, therefore we ensure that Giveth is not just governed by people who buy tokens on the open market but by those who contribute in a more meaningful way.

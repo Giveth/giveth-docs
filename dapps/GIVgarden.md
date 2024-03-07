@@ -1,10 +1,16 @@
 ---
 id: givgarden
-title: GIVgarden
+title: GIVgarden (Deprecated)
 slug: giveconomy/givgarden
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'
+
+ _**The GIVgarden was deprecated as of March 7th 2024. Find the most current info for [Giveth Governance in our related documentation](/whatisgiveth/governanceProcess).**_
+
+_**This documentation will remain available for historical reference.**_
+
+---
 
 
 Giveth has chosen the Gardens DAO governance platform developed by [1hive](_https://forum.1hive.org/t/welcome-to-1hive/7) to allow GIV token holders to manage the DAO configurations and allocate funds to projects that are aligned with its [mission, vision and values](/whatisgiveth/). Our unique Giveth Garden has been aptly named “the GIVgarden” and is deployed on Gnosis Chain (formerly xDai Network). The main tools used for governance in the GIVgarden are Conviction Voting and Tao Voting.  

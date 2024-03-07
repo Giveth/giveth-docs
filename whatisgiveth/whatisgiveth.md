@@ -44,8 +44,6 @@ Giveth supports for-good projects and public goods in a myriad of capacities, on
 
 **[GIVbacks](https://giveth.io/givbacks)** - A donors rewards program that is the first step in the ambitious GIVeconomy leading projects to become regen economies. The GIVbacks program allows donors who contribute to verified projects to receive GIV in return. This feature flips the script on the concept of the tax deductible donation, creating a decentralized and borderless way of incentivizing donations. (LAUNCHED ✅ )
 
-**[GIVgarden](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98)** - A voting platform built by 1Hive where GIV token holders are able to propose and vote on how to use the Giveth community treasury, including funding external builders, sponsorships and public goods. (LAUNCHED ✅ )
-
 **[GIVpower](https://giveth.io/givpower)** - A staking mechanism where donors can lock their GIV tokens for GIVpower and use them to boost and curate fundraising projects on the [Giveth.io](http://giveth.io) platform. Projects with more GIVpower are ranked higher and in turn, their donors are rewarded with more GIVbacks. (LAUNCHED ✅ )
 
 **[Quadratic Funding](../quadraticfunding)** - A matching program where top-ranked public goods and for-good projects on the [Giveth.io](http://giveth.io) fundraising platform will have the opportunity to have their donations matched via a collectively funded matching pool using [Quadratic Funding](https://www.wtfisqf.com/). (LAUNCHED ✅ )

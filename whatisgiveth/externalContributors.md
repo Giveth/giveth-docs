@@ -36,9 +36,9 @@ Your proposal must be active in the forum for 5 days for the “[advice process]
 
 ### 3. Final decision
 
-After the 5-day advice process, the proposal can be updated using the collected feedback & moved to the voting phase. When the proposal doesn’t require a budget, it should be posted and voted on [Giveth Snapshot](http://snapshot.org/#/giv.eth/). If funding is necessary it should be posted and voted on in the [GIVgarden](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98). 
+After the 5-day advice process, the proposal can be updated using the collected feedback & moved to the voting phase. When the proposal doesn’t require a budget, it should be posted and voted on [Giveth Snapshot](http://snapshot.org/#/giv.eth/).
 
-Don’t forget to post a link to the Snapshot or GIVgarden vote on the original Forum post. To learn more about these voting apps & their requirements, check out our [documentation](./governanceProcess.md). 
+Don’t forget to post a link to the Snapshot vote on the original Forum post. To learn more about these voting apps & their requirements, check out our [documentation](./governanceProcess.md). 
 
 
 :::tip

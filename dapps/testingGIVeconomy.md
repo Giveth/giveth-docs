@@ -28,20 +28,6 @@ The following actions are defined as core functionality. If one of these steps i
 - Can successfully sign in on Navbar with Web Wallet (currently optimized for MetaMask)
 - Footer links are working and link correctly
 
-
-### GIVgarden
-The GIVgarden staging deployment uses both Kovan Network and Gnosis Chain (formerly xDai Network). The token used for this deployment is *DRGIV3*.
-
-:::info
-DRGIV3 can be wrapped in the [DRGIV3 Garden](https://gardens-staging.1hive.org/#/xdai/garden/0x16388d99199a74810fc572049b3d4d657e7d5deb) to receive gDRGIV3. This is the same action as staking your DRGIV3 in the GIVgarden Staking in the GIVfarm on Gnosis Chain.
-:::  
-
-- Buttons linking to GIVgarden are working
-- `LEARN MORE` links are working
-- Wrap DRGIV3 on the GIVgarden - Check that your Token amount updates on the GIVgarden Staking in the GIVfarm on Gnosis Chain.
-- Unwrap DRGIV3 on the GIVgarden - Check that your Token amount updates on the GIVgarden Staking in the GIVfarm on Gnosis Chain.
-
-
 ### GIVfarm
 The GIVfarm staging deployment uses both Gnosis Chain and Kovan (Mainnet) Network. The token used for this deployment is *DRGIV3*:
 - `0x83a8eea6427985C523a0c4d9d3E62C051B6580d3` on Gnosis Chain
@@ -61,8 +47,6 @@ On Kovan, regular Kovan ETH is used for providing liquidity and paying gas.
 <li>Provide Liquidity with DRGIV3 & TestHoney on Honeyswap</li>
 <li>Provide Liquidity with DRGIV3 and TestETH on Sushiswap</li>
 <li>Can stake LP tokens in respective GIV/HNY or GIV/ETH farms - LP Token amounts to Stake/Unstake update on UI</li>
-<li>Can stake DRGIV3 in GIVgarden Staking - Token amounts to Stake/Unstake update on UI</li>
-<li>After staking DRGIV3, check wrapped token amount (gDRGIV3) amount updates on the <a href='https://gardens-staging.1hive.org/#/xdai/garden/0x16388d99199a74810fc572049b3d4d657e7d5deb' target='_blank' alt='DRGIV3 Garden'>DRGIV3 Garden</a></li>
 <li>APR is displaying correctly (if it shows 0% that's bad)</li>
 <li>Clicking `?` on APR row opens APR modal, links are functional in modal</li>
 <li>Claimable amount updates over time</li>
