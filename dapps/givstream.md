@@ -41,7 +41,7 @@ You can get (or increase) your GIVstream flowrate by donating on Giveth and gett
 ### Earning Rewards
 When you earn GIV through participation in the GIVeconomy, part will be liquid and part will add to your GIVstream flowrate. As time passes and the GIVstream flows, a greater percentage of the total GIV you earn is liquid.
 
-When you earn and/or claim rewards from GIVbacks (Gnosis Chain), or the GIVfarm (Gnosis Chain or Ethereum Mainnet), you increase your GIVstream flowrate. Note that when you claim, any GIV liquid from the GIVstream on that chain also get sent to your wallet.
+When you earn and/or claim rewards from GIVbacks (Gnosis Chain), or the GIVfarm (Gnosis Chain, Ethereum Mainnet or OP Mainnet), you increase your GIVstream flowrate. Note that when you claim, any GIV liquid from the GIVstream on that chain also get sent to your wallet.
 
 
 ### History Table
