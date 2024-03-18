@@ -17,8 +17,6 @@ Everyone is empowered to make proposals but must consider that they will also be
 
 Our most active channel for discussion is the [Giveth Forum](https://forum.giveth.io/). Advice Process can be implemented publicly or privately; however, to remain aligned with our value of transparency, we heavily encourage community discussion to remain in public channels whenever appropriate to do so.
 
-In our current DAO configuration, anyone can make a proposal on our [Aragon DAO Template](https://aragon.1hive.org/#/giveth/). rGiv Governance Token Holders can then vote on these proposals. This process is usually reserved for more critical decisions affecting the organization.
-
 ---
 
 With this system, tensions might arise over whether a decision was made properly or not. Therefore, in order to **decentralize power** there needs to be a process to which one can refer. This process ensures that, even if there are disagreements with a proposal, it  was made with the best intentions for the organization and has taken into account feedback and advice from all relevant parties.
@@ -59,7 +57,7 @@ With this system, tensions might arise over whether a decision was made properly
     There is no specific time frame to gather advice. It will depend on the scope of the decision.
 
 
-    ***Channels:*** If it is a minor decision, you can consult individuals or the group via Discord. For larger decisions, our [Giveth DAO Aragon Template](https://aragon.1hive.org/#/giveth/) is the place to create formal proposals.
+    ***Channels:*** If it is a minor decision, you can consult individuals or the group via Discord. For larger decisions, our [Snapshot](https://snapshot.org/#/giv.eth) is the place to create formal proposals.
 
     *It is your responsibility to reach out to related parties, depending on the importance of the proposal.*
 

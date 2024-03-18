@@ -16,7 +16,6 @@ At launch, our community can participate in the GIVeconomy in the following ways
 - From December 24, 2021 onward, eligible recipients can claim their [**GIVdrop**](./givdrop) on Gnosis Chain (formerly xDai Network).
 - Donors to [verified projects](https://giveth.io/projects) on Giveth get rewards from [**GIVbacks**](./givbacks).
 - Liquidity providers and stakers can earn rewards in the [**GIVfarm**](./givfarm).
-- All GIV holders can create and/or vote on proposals in the [**GIVgarden**](./givgarden).
 - Anyone who claims GIV from their participation in the GIVeconomy gets a continuous flow of GIV from the [**GIVstream**](./givstream) until December 23, 2026.
 - You can stake your GIV to get [**GIVpower**](./givpower) and boost projects you love, increase their rank and increasing the amount of GIVbacks given to their donors.
 
@@ -40,9 +39,6 @@ The GIVeconomy has been built thanks to our dedicated community of Givers. Givet
 The launch of GIVeconomy with all the features described above is only the beginning - we are already crafting the next phase of the Future of Giving. We're developing systems that will completely change the way societies create and reward the creation of public goods.
 
 Keep reading to learn more about some of the raw, exciting and beautiful ideas that we intend to bring to fruition. If you want to have a hand in shaping the next generation of philanthropy, start to [explore GIVeconomy](https://giveth.io/) and [join our team](https://giveth.io/join)!
-
-### **GIVfi**
-The intention with GIVfi is to create a sustainable way of maintaining funds in the GIVgarden common pool. While donations on the DApp are waiting to be disbursed, they will be generating interest that can be used to send GIV to the GIVgarden for funding initiatives using Conviction Voting.
 
 <img alt="GIVfi diagram" src={useBaseUrl('img/content/giveconomy/GIVfi.jpg')} />
 

@@ -11,12 +11,11 @@ SubDAOs are based around different products and programs and can have a wide ran
 
 Giveth currently has 5 subDAOs in operation, they are:
 
-- [Communitas](https://forum.giveth.io/t/communitas-working-group-proposal/1107)
 - [Dapp](https://forum.giveth.io/t/dapp-working-group-proposal/1146)
 - [GIVeconomy](https://forum.giveth.io/t/giveconomy-working-group-proposal/1121)
-- [Rewards](https://forum.giveth.io/t/rewards-working-group-proposal/1116)
 - [DAO Ops](https://forum.giveth.io/t/dao-ops-working-group-proposal/1115)
 - [Quadratic Funding](https://forum.giveth.io/t/quadratic-funding-qf-working-group-proposal/1120)
+- Fundraising - TBA
 
 You can learn more about each by clicking any of the links above leading to their Working Group Proposal on the Giveth Forum.
 
@@ -37,8 +36,4 @@ These are the current Chapters in Giveth:
 - devOps
 
 To learn more about Chapters, join the [Giveth Discord](https://discord.giveth.io) and introduce yourself! 
-
-# Other DAO Stuff
-
-Giveth also uses other tools like Gnosis Safes and Aragon DAOs that are managed by either certain working groups or specific trusted contributors, as well as the [GIVgarden](../giveconomy/givgarden) for funding community initiatives.
 

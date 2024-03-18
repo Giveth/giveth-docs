@@ -58,13 +58,8 @@ where:
 - g = The estimated full amount of GIVbacks the donor could receive.
 - G = Total estimated amount of GIVbacks for all donors during the given round.
 
-GIV tokens earned through the GIVbacks program can be used throughout the GIVeconomy: for governance within the [GIVgarden](https://giveth.io/givgarden), locking GIV & boosting projects with [GIVpower](https://giveth.io/givpower) or for donating to projects on [Giveth](https://giveth.io/).
+GIV tokens earned through the GIVbacks program can be used throughout the GIVeconomy: [Voting in the Giveth Snapshot](https://snapshot.org/#/giv.eth), locking GIV & boosting projects with [GIVpower](https://giveth.io/givpower) or for donating to projects on [Giveth](https://giveth.io/).
 
-:::note
-**Referral Program**
-
-Since the launch of the Giveth Referral Program, when making a donation on Giveth using a referral link, part of the GIVbacks generated from that donation will be shared with the person who referred you. As a result, the GIVbacks amount you receive will be lower than if you had made the donation directly without a referral link. Please check our [referral program documentation](./referralprogram.md) for more information about how GIVbacks are calculated for referrals.
-:::
 
 ## Harvesting GIVbacks
 

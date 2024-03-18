@@ -17,7 +17,7 @@ The 1st phase of GIVpower launched on October 4th, 2022 adds a new layer of mech
 <img alt='givpower staking card' width='30%' heigh='auto' src={useBaseUrl('img/givpowerCard.png')} />
 
 
-In addition to the APR of GIV rewards and receiving [gGIV for Giveth governance](https://docs.giveth.io/giveconomy/givgarden), users also get **GIVpower**, a non-transferrable ERC-20 token. Staked GIV is matched 1:1 with GIVpower.  
+In addition to the APR of GIV rewards, users also get **GIVpower**, a non-transferrable ERC-20 token. Staked GIV is matched 1:1 with GIVpower.  
 _(i.e. If you stake 100 GIV you will get 100 GIVpower.)_
 
 
@@ -39,7 +39,7 @@ GIVpower is only available on Gnosis Chain and Optimism. If you have GIV on Main
 
 GIV can be locked according to bi-weekly segments following the same schedule as GIVbacks, the minimum amount of time is 1 round (2 weeks), and the maximum is 26 rounds (1 year).
 
-The longer you lock your GIV the greater the multiplier will be for that specific amount of GIV locked. A bigger multiplier means you will get more GIV from the GIVfarm rewards (you get a higher APR) and you will also get more GIVpower. The amount of gGIV ([GIVgarden voting](./GIVgarden.md)) you receive will not increase.
+The longer you lock your GIV the greater the multiplier will be for that specific amount of GIV locked. A bigger multiplier means you will get more GIV from the GIVfarm rewards (you get a higher APR) and you will also get more GIVpower.
 
 <img alt='givpower multiplier' width="80%" heigh='auto' src={useBaseUrl('img/givpowerMultiplier.png')} />
 
@@ -48,7 +48,7 @@ You can lock up multiple batches of GIV tokens for different lengths of time, ea
 <img alt='givpower locked giv details' width="80%" heigh='auto' src={useBaseUrl('img/givpowerLockedDetails.png')} />
 
 
-After the locking period for your GIV ends your GIV becomes unlocked, meaning it can be unstaked from the GIVfarm. Unstaking your GIV means you will lose any associated GIVpower and gGIV. You can get it back however by staking your GIV again.
+After the locking period for your GIV ends your GIV becomes unlocked, meaning it can be unstaked from the GIVfarm. Unstaking your GIV means you will lose any associated GIVpower. You can get it back however by staking your GIV again.
 
 ### GIVfarm APR
 
