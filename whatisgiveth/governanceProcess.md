@@ -34,7 +34,7 @@ If all conditions have been met, including time requirements for Advice Process,
 
 This is the Giveth reputation token. rGIV DAO members hold rGIV and use an [Aragon DAO deployment](https://optimism.aragon.blossom.software/#/rgiv/) to create and vote on proposals using simple Yes/No voting mechanics. Only rGIV holders can vote or make proposals. Proposals will remain open for voting for 5 days and must adhere to the Quorum and Support Required percentages or else it will fail.
 
-rGIV is distributed monthly to contributors to Giveth who have participated either by doing work for Giveth as a regular contributor or received [Praise](https://givepraise.xyz/) in the Giveth Discord. rGIV processes are still in the experimentation phase, [keep up on the discussion here](https://forum.giveth.io/t/new-rgiv-distribution-system/1297).
+rGIV is distributed quarterly to regular Giveth (core) contributors who have been contributing for at least 1 full quarter. rGIV processes are still in the experimentation phase, [keep up on the discussion here](https://forum.giveth.io/t/new-rgiv-distribution-system/1297).
 
 ## Snapshot Voting
 Snapshot allows all of a users rGIV & GIV holdings, including GIV staked in GIVpower to be counted and calculated towards their total voting power used on the [Giveth Snapshot](https://snapshot.org/#/giv.eth) Snapshot is gasless and chain-agnostic and is a magnificient tool to capture community sentiment on proposals and issues that do not directly request funds from Giveth.
