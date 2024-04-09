@@ -109,11 +109,13 @@ As always, all GIVeconomy rewards are distributed according to the GIVstream. Ch
 
 ## Using your GIVpower
 
-You can use your GIVpower to “boost” verified to projects on the platform. Verified projects are ranked on the platform based on how much GIVpower was allocated to them in the previous round. Projects benefit from a higher ranking by appearing higher on the list of [Giveth projects](https://giveth.io/projects) and also yield more GIVbacks to their donors.
+You can use your GIVpower to “boost” verified projects on the platform! 
 
+Verified projects are sorted on the platform, in real time, based on how much GIVpower is allocated to them. Projects benefit from a higher ranking by appearing higher on the list of [Giveth projects](https://giveth.io/projects) as well as yielding more GIVbacks to their donors. 
 
+By boosting projects, you are not only directly affecting the visibility of the projects but also incentivizing donations to the initiatives that you care about most. The coolest part is you will be able to see the impact of your boost within 5 minutes.  
 
-Top-ranked projects will also eventually benefit from matching funds from the [GIVmatching Program](https://forum.giveth.io/t/givmatching-idea-generation-on-how-to-distribute-funds/346/21)(TBD).
+Top-ranked projects could also eventually benefit from matching funds from the [GIVmatching Program](https://forum.giveth.io/t/givmatching-idea-generation-on-how-to-distribute-funds/346/21)(TBD).
 
 ### How to Boost
 
@@ -130,6 +132,8 @@ Select the percentage of your GIVpower you would like to boost with. If it's you
 
 Click `Confirm` and you should see confirmation that your GIVpower boost was successful! 
 <img alt='boostConfirmation' width="80%" height="auto" src={useBaseUrl('img/content/boostConfirmation.png')} />
+
+You can check out [this tutorial](https://www.youtube.com/watch?v=KjMzQPzr4f8) for a quick walk-through on how to boost a project.
 
 ### Managing your GIVpower
 
@@ -167,7 +171,7 @@ After boosting your first project with GIVpower you will always be allocating 10
 
 ## Project Rank
 
-All verified projects that have been boosted with GIVpower will receive a GIVpower rank. The project with the most GIVpower will be ranked #1 on the platform. The “current rank” is updated at the start  of each new GIVbacks round, and is taken from the average amount of GIVpower staked behind a project across the previous round (two weeks).
+All verified projects that have been boosted with GIVpower will receive a GIVpower rank. The project with the most GIVpower will be ranked #1 on the platform. The “current rank” is updated at the start of each new GIVbacks round, and is taken from the average amount of GIVpower staked behind a project across the previous round (two weeks).
 
 
 :::note
@@ -179,7 +183,7 @@ All verified projects that have been boosted with GIVpower will receive a GIVpow
 
 A project's current rank in turn affects the percentage of GIVbacks new donors will receive from donating it. The top ranked project can yield up to 80% GIVbacks matching while a verified project with no rank (i.e. no GIVpower behind it) will yield 50%. To determine the GIVbacks factor for every project between the top and bottom ranks we take the spread, or the difference between the maximum and minimum [GIVbacks factor](./givbacks.md#rank--calculation), and divide that by the number of ranked projects we have at the end of every round, from this we can find the unique GIVbacks factor for every ranked project.
 
-Every project from the bottom to the top rank will receive incrementally more GIVbacks matching. This means that, no matter what a project’s current rank is, boosting it with GIVpower can always make a difference.
+Every project from the bottom to the top rank will receive incrementally more GIVbacks matching. This means that, no matter what a project’s current rank is, boosting it with GIVpower can always make a difference. The maximum percentage of GIVbacks that each project may yield for the current round is displayed on their project's page.
 
  You can read more about [GIVbacks here](./givbacks.md).
 
