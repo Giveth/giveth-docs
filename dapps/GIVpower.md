@@ -111,11 +111,11 @@ As always, all GIVeconomy rewards are distributed according to the GIVstream. Ch
 
 You can use your GIVpower to “boost” verified projects on the platform! 
 
-Verified projects are sorted on the platform, in real time, based on how much GIVpower is allocated to them. Projects benefit from a higher ranking by appearing higher on the list of [Giveth projects](https://giveth.io/projects) as well as yielding more GIVbacks to their donors. 
+Verified projects are sorted on the platform based on how much GIVpower is behind them, with the sort order updating every 5 min. Projects with more GIVpower allocated to them appear higher on the list of [Giveth projects](https://giveth.io/projects).
 
-By boosting projects, you are not only directly affecting the visibility of the projects but also incentivizing donations to the initiatives that you care about most. The coolest part is you will be able to see the impact of your boost within 5 minutes.  
+GIVpower amounts over two-week periods (GIVbacks rounds) are tracked and averaged. At the start of a new GIVbacks round, the GIVbacks percentage of each verified project is updated based on the average GIVpower behind them throughout the previous round. The greater the GIVpower on a project throughout the previous round, the greater their new GIVbacks %, and the larger the amount of GIV that their donors will receive through GIVbacks.
 
-Top-ranked projects could also eventually benefit from matching funds from the [GIVmatching Program](https://forum.giveth.io/t/givmatching-idea-generation-on-how-to-distribute-funds/346/21)(TBD).
+By boosting projects, you are not only directly affecting the visibility of the projects but also incentivizing donations to the initiatives that you care about most.
 
 ### How to Boost
 
