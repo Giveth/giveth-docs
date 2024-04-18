@@ -44,13 +44,13 @@ Follow the prompts, and input the requested content:
  - Alternatively, click the tab `Search for photos`, and enter a keyword.
  <img alt='featuredimage2' src={useBaseUrl('img/cryptofundraising8.png')} />
 
- - Your recipient address is where donations to your project will be collected. You can choose to set a single recipient address that can receive donations on Ethereum Mainnet, Gnosis Chain, Polygon, Celo, Optimism, Solana and Ethereum Classic or set a different recipient address for each chain. Keep in mind that Solana and Metamask are inherently incompatible due to key technical differences.
+ - Your recipient address is where donations to your project will be collected. You can choose to set a single recipient address that can receive donations on Ethereum Mainnet, Gnosis Chain, Polygon, Celo, Optimism, Solana and Ethereum Classic or set a different recipient address for each chain. 
 
     * Set one address to receive donations on all supported networks.
     
     <img alt='setting recipient wallet' src={useBaseUrl('img/receiveFunds1.png')} />
 
-    * Or set different addresses for the different networks.
+    * Or set different addresses for the different networks. Keep in mind that Solana and Metamask are inherently incompatible due to key technical differences.
 
     <img alt='setting recipient wallet' src={useBaseUrl('img/receiveFunds2.png')} />
     
