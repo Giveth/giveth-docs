@@ -17,7 +17,7 @@ module.exports = {
         label: 'For Donors',
         collapsed: true,
         link: {type: 'doc', id: 'projectdonating'},
-        items: ['projectdonating', 'donatingmetamask' ,'multisigs', 'importTorusMM',
+        items: ['projectdonating', 'donatingmetamask' ,'multisigs', 'importTorusMM'
           ],
        },
        {
@@ -47,7 +47,7 @@ module.exports = {
           , 'givdrop'
 ]
           },
-          'quadraticfunding','giverspfp','niceToken'
+          'recurringDonation','quadraticfunding','giverspfp','niceToken'
         
 
     ,

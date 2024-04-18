@@ -131,6 +131,13 @@ img.center {
   border-color: transparent transparent transparent black !important;
 }
 
+.react-player {
+  margin: 2px;
+  width: fit-content;
+  display: flex;
+  justify-content: center;
+}
+
 .tooltip {
   position: relative;
   display: inline-block;
