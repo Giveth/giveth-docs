@@ -30,6 +30,8 @@ In this scenario the donor currently has a Stream Balance of 100 DAI (DAIx), the
 
 When a Stream Balance runs out of funds, recurring donations made in that token will stop and the project(s) will no longer receive funds, if that happens you will need to deposit more funds to your Stream Balance and create a new recurring donation to the project(s).
 
+Using an analogy from the default world, **think of your Stream Balances as prepaid visa cards**. Each token such as GIV, USDC, DAI is a different card with its own amount of available credit. Depositing tokens to your Stream Balance is like topping up the card with more credit; creating a recurring donation is like setting up a monthly payment from that card. When the card runs out of funds the payment stops, you'll need to top it up and set up your payments again.
+
 ## For Donors
 
 ### Creating a recurring donation
