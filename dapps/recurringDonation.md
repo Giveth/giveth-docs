@@ -152,4 +152,6 @@ If you have multiple tokens to claim you will have to do them one by one, sorry 
 
 ## Quadratic Funding and GIVbacks Eligiblity
 
-At time of writing, recurring donations will not be eligible to reward GIVbacks to donors or be matched by Quadratic Funding. We are working on a solution to this and hope to have it implemented soon. Sorry about that.
+Recurring Donations made to eligible projects during Quadratif Funding rounds will be matched! Only the value of the donations made between the start date and the end date of the round will be matched. To learn more about Quadratic Funding, [read this article](/quadraticFunding).
+
+However, at time of writing, recurring donations will **not be eligible to reward GIVbacks** to donors. We are working on a solution to this and hope to have it implemented soon. Sorry about that.
