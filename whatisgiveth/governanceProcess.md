@@ -17,8 +17,8 @@ The best place for formal conversations around Giveth take place on our [Discour
 
 Anyone in the community can create a proposal, however there are some considerations to make:
 - <span id="proposal">Proposals</span> ideally have a clearly defined intention that outlines actions to be taken, potential consequences and funds requested (if applicable).
--  We adhere to a [**Community Covenant**](./whatisgiveth/covenant) which is our main reference point for any disputes or contentions.
--  We use [**Advice Process**](./whatisgiveth/adviceProcess/) to gather feedback and refine proposals.
+-  We adhere to a [**Community Covenant**](./covenant) which is our main reference point for any disputes or contentions.
+-  We use [**Advice Process**](./adviceProcess/) to gather feedback and refine proposals.
 - Proposals must remain on the forum, open for Advice Process, for a **minimum of 5 days**.
 
 If all conditions have been met, including time requirements for Advice Process, proposals can move on into Snapshot for voting. In order to participate in these DApps you must hold either GIV or rGIV, respectively.
