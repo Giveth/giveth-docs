@@ -28,14 +28,12 @@ With this system, tensions might arise over whether a decision was made properly
 
     In ideation, problems or opportunities are taken on by the person who notices them, or deferred to someone better-qualified. Self-management implies **responsibility**. Tensions are not passed along a hierarchy as in traditional organizations, but are rather addressed by the person with the necessary energy or expertise.
 
-
     ***Channels:*** The channel for communication in this phase is open. This can be informal so chat, make time for a call, have discussions, fireside chats, generate ideas.
 
 
 2.  **Sounding / Meta thinking**:
 
     Prior to a creating a proposal, the decision-maker may seek input to "sound out" perspectives before proposing action. This is the stage where ideas can be tested against other people's sentiments.
-
 
     Some questions to ask:
 
@@ -50,12 +48,9 @@ With this system, tensions might arise over whether a decision was made properly
 
     The initiator makes a proposal and seeks advice from those affected and those with expertise.
 
-
     For minor decisions, there may be no need to seek advice. For larger decisions, advice can come through various channels, including one-on-one conversations, meetings, or broader community discussions.
 
-
     There is no specific time frame to gather advice. It will depend on the scope of the decision.
-
 
     ***Channels:*** If it is a minor decision, you can consult individuals or the group via Discord. For larger decisions, our [Snapshot](https://snapshot.org/#/giv.eth) is the place to create formal proposals.
 
@@ -85,9 +80,6 @@ Advice Process can proceed in several ways, depending on the mindset people brin
 *   The initiator can approach it authoritatively ("I don't care about what others have said" or, alternatively, "I fully comply with what others have said").
 *   They can approach from a perspective of negotiation or compromise ("I'll do some of what they say so they're happy, but I will feel a little frustrated").
 *   They can approach it **co-creatively**, *which is the spirit of the advice process* ("I will listen to others, understand the real need in what they say, and think creatively about an elegant solution").
-
-
-
 
 ### Disclaimer
 **This document is not:**
