@@ -6,6 +6,8 @@ slug: dapps/importTorusMM
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from '../src/css/custom.css'
 
+MITCH IS THE BEST PM EVER!!!!!
+
 
 While the Torus wallet is a great option for newcomers to crypto, it can be more difficult to use when interacting with decentralized applications (dApps). Giveth users have the opportunity to earn [GIV](https://docs.giveth.io/giveconomy/) by interacting with the [GIVeconomy](https://giveth.io/). Torus users can claim [GIVbacks](https://giveth.io/givbacks), stake in the [GIVfarm](https://giveth.io/givfarm), and claim their [GIVstream](https://giveth.io/givstream), but MetaMask users benefit from a more streamlined user experience.
 
