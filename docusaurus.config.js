@@ -205,25 +205,24 @@ module.exports = {
         showLastUpdateTime: true
       }
     ],
-    // [
-    //   '@docusaurus/plugin-content-docs',
-    //
-    //   {
-    //     id: 'jobs',
-    //
-    //     path: 'jobs',
-    //
-    //     editUrl: 'https://github.com/giveth/giveth-docs/edit/master/',
-    //
-    //     routeBasePath: 'jobs',
-    //
-    //     sidebarPath: require.resolve('./sidebarsjobs.js'),
-    //
-    //     showLastUpdateAuthor: true,
-    //
-    //     showLastUpdateTime: true
-    //   }
-    // ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'devouch',
+
+        path: 'devouch',
+
+        editUrl: 'https://github.com/giveth/giveth-docs/edit/master/',
+
+        routeBasePath: 'devouch',
+
+        sidebarPath: require.resolve('./sidebarDevouch.js'),
+
+        showLastUpdateAuthor: true,
+
+        showLastUpdateTime: true
+      }
+    ]
     // [
     //   '@docusaurus/plugin-content-docs',
     //

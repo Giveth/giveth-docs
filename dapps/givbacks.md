@@ -39,7 +39,7 @@ If you would like to request for a token to be considered GIVbacks eligible, you
 ## Getting GIVbacks
 During each round, all donations to verified projects on the DApp are tracked, and this data is used to calculate the amount of GIVbacks received by each Giver for that period.
 
-GIVbacks are distributed in two different blockchains, Gnosis and Optimism. All donations made in eligible tokens on Mainnet, Gnosis, Polygon or Celo will be rewarded with GIV on Gnosis chain; and the ones made in eligible tokens on Optimism will be rewarded with GIV on Optimism. 
+GIVbacks are distributed on two different networks: Gnosis Chain and OP Mainnet. Donations made on Gnosis Chain will be rewarded with GIV on Gnosis Chain. Donations made on all other GIVbacks-supported chains, will be rewarded with GIV on OP Mainnet.
 
 Givers are able to claim their GIV after the round ends and a fraud review has been conducted. Donors will receive an email when the rewards are ready to be claimed on the [GIVbacks page](https://giveth.io/givbacks). A portion of the GIV will be liquid immediately, and the rest will increase the flowrate of their [GIVstream](https://giveth.io/givstream). To learn more about the GIVstream and how it works, check out our [documentation](https://docs.giveth.io/giveconomy/givstream/). For the purposes of this documentation, we will refer to the sum of the liquid amount and the amount allocated to the GIVstream from GIVbacks as `cumulative GIVbacks`.
 
