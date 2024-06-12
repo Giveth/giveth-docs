@@ -20,7 +20,7 @@ Lo guiaremos a través del proceso de hacer una donación criptográfica a trav�
 
  <img  id="contentimg" alt='Transaction in Progress' src={useBaseUrl('img/content/metamaskTransactionprogress.png')} />
 
- Puede verificar su transacción siguiendo el enlace 'Ver en Etherscan', y también debería ver la transacción emergente en su Metamask en la pestaña 'Actividad'. Tenga en cuenta que aquí usamos la red de prueba de Ropsten para la demostración. Debería usar 'Ethereum Mainnet' para hacer su donación.
+ Puede verificar su transacción siguiendo el enlace 'Ver en Blockscout', y también debería ver la transacción emergente en su Metamask en la pestaña 'Actividad'. Tenga en cuenta que aquí usamos la red de prueba de Ropsten para la demostración. Debería usar 'Ethereum Mainnet' para hacer su donación.
 
   Una vez que la transacción haya sido confirmada en la cadena de bloques, se le llevará a la página siguiente para confirmar su donación exitosa. ¡Buen trabajo!
 

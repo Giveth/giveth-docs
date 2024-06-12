@@ -20,7 +20,7 @@ Her şey yolunda görünüyorsa ONAYLA'ya basın, bağış işleminiz başlayaca
 
  <img  id="contentimg" alt='Transaction in Progress' src={useBaseUrl('img/content/metamaskTransactionprogress.png')} />
 
-'View on Etherscan' bağlantısını takip ederek işleminizi kontrol edebilirsiniz ve ayrıca Metamask'ınızda 'Activity' Sekmesi altında işlemin açılır penceresini görmelisiniz. Burada örnek olması adına Ropsten Test Ağı'nı kullandığımızı unutmayın. Bağış yapmak için 'Ethereum Mainnet' kullanıyor olmalısınız.
+'View on Blockscout' bağlantısını takip ederek işleminizi kontrol edebilirsiniz ve ayrıca Metamask'ınızda 'Activity' Sekmesi altında işlemin açılır penceresini görmelisiniz. Burada örnek olması adına Ropsten Test Ağı'nı kullandığımızı unutmayın. Bağış yapmak için 'Ethereum Mainnet' kullanıyor olmalısınız.
 
 İşlem blok zincirinde onaylandıktan sonra, başarılı bağışınızı onaylayan sonraki sayfaya yönlendirileceksiniz. Tebrikler!
 

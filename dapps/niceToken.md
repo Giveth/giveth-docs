@@ -24,7 +24,7 @@ $nice is matched at a 1:1 ratio of the USD value of the donations at the time th
 Eligible donations are registered on the same bi-weekly rounds that [GIVbacks](https://docs.giveth.io/giveconomy/givbacks/) follow. Distribution of $nice, once calculated, is done at the same time that GIVbacks are sent out.
 
 #### Token Address
-- Giveth $nice token (Gnosis Chain): [0xde378ea32af41b4a2b9c8baee1655761d526c0df](https://gnosisscan.io/token/0xde378ea32af41b4a2b9c8baee1655761d526c0df)
+- Giveth $nice token (Gnosis Chain): [0xde378ea32af41b4a2b9c8baee1655761d526c0df](https://gnosis.blockscout.com/token/0xde378ea32af41b4a2b9c8baee1655761d526c0df)
 
 ## Utility
 
@@ -39,18 +39,17 @@ The sky's the limit for $nice and the Giveth team is actively building and exper
 
 ## Use of Funds
 
-Giveth will use the acquired funds for a very direct strategy to ensure the stability and growth of Giveth and the GIVeconomy. 
+Giveth will use the acquired funds for a very direct strategy to ensure the stability and growth of Giveth and the GIVeconomy.
 
 50% of the USD value of eligible donations received will be used to buy back GIV. The other 50% will be used to create a liquidy pool pair with the bought back GIV.
 
 Let's look at an example:
 > Over a 3 month period Giveth acquires $100,000 of eligible donations in DAI.
-> 
+>
 > We use $50,000 worth of the DAI received to buy back GIV from the circulating supply.
-> 
+>
 > Subsequently we take this $50,000 worth of GIV we just bought back and combine it with the remaining $50,000 of DAI to supply a $100,000 DAI/GIV LP position on Uniswap v2 that is owned by the Giveth multisig.
 
 This effectively allows Giveth to create strong DAO-owned liquidity positions over time. This in turn helps to mitigate the volatility that liquidity farming programs can have on the GIV token economy.
 
 Giveth may employ new strategies for received funds at any given point in the future.
-

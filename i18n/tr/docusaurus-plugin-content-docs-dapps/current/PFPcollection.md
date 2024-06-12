@@ -8,9 +8,9 @@ import NotTranslated from '../../_notTranslatedTR.mdx'
 
 <NotTranslated />
 
-“The Givers” NFT’s are not just NFT’s but integrated Giveth PFPs! Giveth's first PFP collection was a [community proposed initiative](https://forum.giveth.io/t/the-givers-the-giveth-ecosystem-pfp-collection/478) begun in March 2022. The intention of the PFP collection is to raise funds for the Giveth DAO and continue our mission of building the Future of Giving. The Givers was launched for public minting on March 24, 2023 at 11am CST. 
+“The Givers” NFT’s are not just NFT’s but integrated Giveth PFPs! Giveth's first PFP collection was a [community proposed initiative](https://forum.giveth.io/t/the-givers-the-giveth-ecosystem-pfp-collection/478) begun in March 2022. The intention of the PFP collection is to raise funds for the Giveth DAO and continue our mission of building the Future of Giving. The Givers was launched for public minting on March 24, 2023 at 11am CST.
 
-**To mint a Giver head on over to [the minting page](https://giveth.io/nft)**! 
+**To mint a Giver head on over to [the minting page](https://giveth.io/nft)**!
 
 
 <img alt="Givers base image" src={useBaseUrl('img/content/GiversHidden.png')} />
@@ -45,7 +45,7 @@ The minting phase for allowlist accounts begins 10am CST March 22, 2023 and ends
 ## Hidden Phase
 
 At launch, all Giver PFPs will show a common art as the one shown above when minted, the final art is still hidden and needs to be revealed. Shortly after launch there is a “Reveal” event where the Giveth team unveils the final art for each unique PFP. You will be able to see your art on the [Opensea Givers Collection page](https://opensea.io/collection/giveth-givers-pfp-collection).
- 
+
 The characters and scenes represent the project and community values. You may also be able to recognize some of Giveth’s iconic elements in them.
 
 ## Secondary Market
@@ -62,9 +62,9 @@ Giveth is also partnering with Punk Domains to provide Givers NFT holders a disc
 
 ## Contract Address
 
-GiversPFP Contract (Mainnet): [0x78fde77737d5b9ab32fc718c9535c7f1b8ce84db](https://etherscan.io/token/0x78fde77737d5b9ab32fc718c9535c7f1b8ce84db)
+GiversPFP Contract (Mainnet): [0x78fde77737d5b9ab32fc718c9535c7f1b8ce84db](https://eth.blockscout.com/token/0x78fde77737d5b9ab32fc718c9535c7f1b8ce84db)
 
 ----
 
-Mint a Givers PFP here: https://giveth.io/nft  
+Mint a Givers PFP here: https://giveth.io/nft
 View the Givers collection on Opensea here: [Giveth Givers PFP](https://opensea.io/collection/giveth-givers-pfp-collection)

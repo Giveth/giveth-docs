@@ -22,8 +22,8 @@ Os usuários também poderão "Bloquear" seu GIV apostado no GIVfarm para multip
 
 ### Contratos
 
-- GIVpower(POW) Token - [0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2](https://gnosisscan.io/address/0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2)
-- GIVpower Staking - [0x24F2d06446AF8D6E89fEbC205e7936a602a87b60](https://gnosisscan.io/address/0x24F2d06446AF8D6E89fEbC205e7936a602a87b60)
+- GIVpower(POW) Token - [0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2](https://gnosis.blockscout.com/address/0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2)
+- GIVpower Staking - [0x24F2d06446AF8D6E89fEbC205e7936a602a87b60](https://gnosis.blockscout.com/address/0x24F2d06446AF8D6E89fEbC205e7936a602a87b60)
 
 ## Staking & Locking
 
@@ -162,12 +162,12 @@ A classificação de um projeto, por sua vez, afetará a porcentagem de GIVbacks
 <summary><b><i>Veja um Exemplo de Distribuição de GIVbacks</i></b></summary>
 
 O ano é 2049, é GIVbacks rodada 1337...
- 
+
 Temos **25 projetos no total** na plataforma que foram impulsionados com GIVpower. O **fator GIVbacks máximo é 80%, o mínimo é 50**%**, A diferença entre os dois é 30%. Isso significaria que o projeto com a menor quantidade de GIVpower, projeto classificado #25, teria um GIVbacks Factor de 50% e **todo projeto subsequentemente com classificação mais alta receberia 1,25% mais correspondência**.
- 
+
 O GIV total a ser distribuído para a rodada é de 1.000.000 e o preço do GIV é de $ 0,53.
  Com base nesta informação e alguns valores dados para GIVpower apostado e as doações feitas para um determinado projeto, nossa distribuição de exemplo ficaria assim:
- 
+
  | Projeto | GIVpower | Classificação | Fator de Devoluções | Valor da Doação em USD | GIVbacks estimados |
 | --- | --- | --- | --- | --- | --- |
 | A | 3736.351 | 1 | 80% | 906 | 1367.5471698113208 |

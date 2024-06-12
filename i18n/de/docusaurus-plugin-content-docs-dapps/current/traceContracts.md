@@ -12,9 +12,9 @@ slug: dapps/traceContracts
 
 
 #### Mainnet multisigs:
-* [Giveth Mainnet: 0x4D9339dd97db55e3B9bCBE65dE39fF9c04d1C2cd](https://etherscan.io/address/0x4D9339dd97db55e3B9bCBE65dE39fF9c04d1C2cd) (6 of 13 multisig)
-* [Giveth Overflow: 0x16fda2fcc887dd7ac65c46be144473067cff8654](https://etherscan.io/address/0x16fda2fcc887dd7ac65c46be144473067cff8654) (4 of 7 multisig)
-* [EscapeHatch Caller: 0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb](https://etherscan.io/address/0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb) (1 of x multisig)
+* [Giveth Mainnet: 0x4D9339dd97db55e3B9bCBE65dE39fF9c04d1C2cd](https://eth.blockscout.com/address/0x4D9339dd97db55e3B9bCBE65dE39fF9c04d1C2cd) (6 of 13 multisig)
+* [Giveth Overflow: 0x16fda2fcc887dd7ac65c46be144473067cff8654](https://eth.blockscout.com/address/0x16fda2fcc887dd7ac65c46be144473067cff8654) (4 of 7 multisig)
+* [EscapeHatch Caller: 0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb](https://eth.blockscout.com/address/0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb) (1 of x multisig)
 
 #### Rinkeby multisigs:
 * [EscapeHatch Caller: 0xc3b2128ca330871037d35fdc5f7b05e195aac5ce](https://rinkeby.etherscan.io/address/0xc3b2128ca330871037d35fdc5f7b05e195aac5ce) (1 of x multisig)
@@ -23,7 +23,7 @@ slug: dapps/traceContracts
 
  ## Contract Roles/params:
 ### Mainnet
- - [**GivethBridge**: 0x30f938fED5dE6e06a9A7Cd2Ac3517131C317B1E7](https://etherscan.io/address/0x30f938fED5dE6e06a9A7Cd2Ac3517131C317B1E7)
+ - [**GivethBridge**: 0x30f938fED5dE6e06a9A7Cd2Ac3517131C317B1E7](https://eth.blockscout.com/address/0x30f938fED5dE6e06a9A7Cd2Ac3517131C317B1E7)
      - Owns the bridge.
      - Receives and deals with donations.
      - Can cancel payments in the bridge.
@@ -37,13 +37,13 @@ slug: dapps/traceContracts
      - Can call the `escapeHatch(address _token)` in an emergency to move all the money out of the bridge for the specified token.
      - Can call `escapeFunds(address _token, uint _amount) ` to move some of the money out of the bridge to be extra cautious.
      - Has all the powers needed to decentralize the bridge.
- - [**Giveth Overflow**: 0x16fda2fcc887dd7ac65c46be144473067cff8654](https://etherscan.io/address/0x16fda2fcc887dd7ac65c46be144473067cff8654)
+ - [**Giveth Overflow**: 0x16fda2fcc887dd7ac65c46be144473067cff8654](https://eth.blockscout.com/address/0x16fda2fcc887dd7ac65c46be144473067cff8654)
      - Receives overflow/escaped funds from the bridge.
      - Sends funds back to the bridge when funds get low using `depositEscapedFunds()`.
- - [**EscapeHatch Caller**: 0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb](https://etherscan.io/address/0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb)
+ - [**EscapeHatch Caller**: 0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb](https://eth.blockscout.com/address/0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb)
      -  Can call the `escapeHatch(address _token)` in an emergency to move all the money out of the bridge for the specified token.
      -  Can call `escapeFunds(address _token, uint _amount) ` to move some of the money out of the bridge to be extra cautious.
- - [**SecurityGuard**: 0xDAa172456F5815256831aeE19C8A370a83522871](https://etherscan.io/address/0xDAa172456F5815256831aeE19C8A370a83522871)
+ - [**SecurityGuard**: 0xDAa172456F5815256831aeE19C8A370a83522871](https://eth.blockscout.com/address/0xDAa172456F5815256831aeE19C8A370a83522871)
      - MaxSecurityGuardDelay:  1 month
 
 ### Rinkeby

@@ -14,20 +14,20 @@ import TraceDeprecated from './_traceDeprecatedPT.mdx'
 - Contratos escapáveis para Mainnet para cada contrato no Rinkeby
 
 #### Multisigs da rede principal:
- - [Giveth Mainnet: 0x4D9339dd97db55e3B9bCBE65dE39fF9c04d1C2cd](https://etherscan.io/address/0x4D9339dd97db55e3B9bCBE65dE39fF9c04d1C2cd) (6 de 13 multisig)
-- [Giveth Overflow: 0x16fda2fcc887dd7ac65c46be144473067cff8654 ](https://etherscan.io/address/0x16fda2fcc887dd7ac65c46be144473067cff8654)(4 de 7 multisig)
-- [EscapeHatch Caller: 0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb](https://etherscan.io/address/0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb) (1 de x multisig)
+ - [Giveth Mainnet: 0x4D9339dd97db55e3B9bCBE65dE39fF9c04d1C2cd](https://eth.blockscout.com/address/0x4D9339dd97db55e3B9bCBE65dE39fF9c04d1C2cd) (6 de 13 multisig)
+- [Giveth Overflow: 0x16fda2fcc887dd7ac65c46be144473067cff8654 ](https://eth.blockscout.com/address/0x16fda2fcc887dd7ac65c46be144473067cff8654)(4 de 7 multisig)
+- [EscapeHatch Caller: 0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb](https://eth.blockscout.com/address/0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb) (1 de x multisig)
 
 #### Rinkeby Multisigs:
 
-- [EscapeHatch Caller: 0xc3b2128ca330871037d35fdc5f7b05e195aac5ce](https://rinkeby.etherscan.io/address/0xc3b2128ca330871037d35fdc5f7b05e195aac5ce) (1 de x multisig) 
+- [EscapeHatch Caller: 0xc3b2128ca330871037d35fdc5f7b05e195aac5ce](https://rinkeby.etherscan.io/address/0xc3b2128ca330871037d35fdc5f7b05e195aac5ce) (1 de x multisig)
 - [Dapp God/EscapeHatch Destination: 0x20fc2ec2518dec7041b4c3e82663d6071bae953f](https://rinkeby.etherscan.io/address/0x20fc2ec2518dec7041b4c3e82663d6071bae953f) (3 de 6 multisig)
 
 ## Funções/parâmetros do contrato:
 
 #### Mainnet
 
-- [GivethBridge: 0x30f938fED5dE6e06a9A7Cd2Ac3517131C317B1E7](https://etherscan.io/address/0x30f938fED5dE6e06a9A7Cd2Ac3517131C317B1E7)
+- [GivethBridge: 0x30f938fED5dE6e06a9A7Cd2Ac3517131C317B1E7](https://eth.blockscout.com/address/0x30f938fED5dE6e06a9A7Cd2Ac3517131C317B1E7)
   - Possui a Bridge
   - Recebe e lida com doações.
   - Pode cancelar pagamentos na Bridge.
@@ -40,15 +40,15 @@ import TraceDeprecated from './_traceDeprecatedPT.mdx'
   - Pode remover/alterar a propriedade.
   - Pode chamar o `escapeHatch(address _token)` em uma emergência para mover todo o dinheiro para fora da ponte para o token especificado.
   - Tem todos os poderes necessários para descentralizar a bridge.
-  - [Giveth Overflow: 0x16fda2fcc887dd7ac65c46be144473067cff8654](https://etherscan.io/address/0x16fda2fcc887dd7ac65c46be144473067cff8654)
+  - [Giveth Overflow: 0x16fda2fcc887dd7ac65c46be144473067cff8654](https://eth.blockscout.com/address/0x16fda2fcc887dd7ac65c46be144473067cff8654)
   - Recebe fundos excedentes/retirados da bridge
   - Envia fundos de volta para a ponte quando os fundos ficam baixos usando `depositEscapedFunds()`
-  - [EscapeHatch Caller: 0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb](https://etherscan.io/address/0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb)
+  - [EscapeHatch Caller: 0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb](https://eth.blockscout.com/address/0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb)
 
   - Pode chamar o `escapeHatch(address _token) em uma emergência para mover todo o dinheiro para fora da ponte para o token especificado.
   - Pode chamar `escapeFunds(address _token, uint   _amount)` para mover parte do dinheiro para fora da bridge sendo mais cauteloso.
 
-  - [SecurityGuard: 0xDAa172456F5815256831aeE19C8A370a83522871](https://etherscan.io/address/0xDAa172456F5815256831aeE19C8A370a83522871)
+  - [SecurityGuard: 0xDAa172456F5815256831aeE19C8A370a83522871](https://eth.blockscout.com/address/0xDAa172456F5815256831aeE19C8A370a83522871)
   - MaxSecurityGuardDelay: 1 mês
 
 ## Rinkeby
@@ -90,7 +90,3 @@ import TraceDeprecated from './_traceDeprecatedPT.mdx'
   - Parâmetro Construtor: 000000000000000000000000a018199569d94c9dfb6de1d8e8cb37928f20d444
 
 **Nota**: Todos os escapeHatches para contratos liquidPledge (não bridge) foram substituídos pela funcionalidade recoveryVault do AragonOS. Registraremos 1 recoveryVault (Giveth Multisig on Rinkeby) no kernel e todos os aplicativos serão “escapáveis” para esse cofre.
-
-
-
-

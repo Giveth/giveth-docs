@@ -15,9 +15,9 @@ import TraceDeprecated from './_traceDeprecatedES.mdx'
 
 
 #### Mainnet multisigs:
-* [Giveth Mainnet: 0x4D9339dd97db55e3B9bCBE65dE39fF9c04d1C2cd](https://etherscan.io/address/0x4D9339dd97db55e3B9bCBE65dE39fF9c04d1C2cd) (6 de 13 multisig)
-* [Giveth Overflow: 0x16fda2fcc887dd7ac65c46be144473067cff8654](https://etherscan.io/address/0x16fda2fcc887dd7ac65c46be144473067cff8654) (4 de 7 multisig)
-* [Llamador de EscapeHatch: 0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb](https://etherscan.io/address/0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb) (1 de x multisig)
+* [Giveth Mainnet: 0x4D9339dd97db55e3B9bCBE65dE39fF9c04d1C2cd](https://eth.blockscout.com/address/0x4D9339dd97db55e3B9bCBE65dE39fF9c04d1C2cd) (6 de 13 multisig)
+* [Giveth Overflow: 0x16fda2fcc887dd7ac65c46be144473067cff8654](https://eth.blockscout.com/address/0x16fda2fcc887dd7ac65c46be144473067cff8654) (4 de 7 multisig)
+* [Llamador de EscapeHatch: 0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb](https://eth.blockscout.com/address/0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb) (1 de x multisig)
 
 #### Multifirmas de Rinkeby:
 * [Llamador de EscapeHatch: 0xc3b2128ca330871037d35fdc5f7b05e195aac5ce](https://rinkeby.etherscan.io/address/0xc3b2128ca330871037d35fdc5f7b05e195aac5ce) (1 de x multisig)
@@ -26,7 +26,7 @@ import TraceDeprecated from './_traceDeprecatedES.mdx'
 
  ## Roles/parámetros del contrato:
 ### red principal
- - [**GivethBridge**: 0x30f938fED5dE6e06a9A7Cd2Ac3517131C317B1E7](https://etherscan.io/address/0x30f938fED5dE6e06a9A7Cd2Ac3517131C317B1E7)
+ - [**GivethBridge**: 0x30f938fED5dE6e06a9A7Cd2Ac3517131C317B1E7](https://eth.blockscout.com/address/0x30f938fED5dE6e06a9A7Cd2Ac3517131C317B1E7)
      - Es dueño del puente.
      - Recibe y tramita las donaciones.
      - Puede cancelar pagos en el puente.
@@ -40,13 +40,13 @@ import TraceDeprecated from './_traceDeprecatedES.mdx'
      - Puede llamar a `escapeHatch(address _token)` en caso de emergencia para sacar todo el dinero del puente para el token especificado.
      - Puede llamar a `escapeFunds(address _token, uint _amount) ` para sacar parte del dinero del puente para ser más cauteloso.
      - Tiene todos los poderes necesarios para descentralizar el puente.
- - [**Dar desbordamiento**: 0x16fda2fcc887dd7ac65c46be144473067cff8654](https://etherscan.io/address/0x16fda2fcc887dd7ac65c46be144473067cff8654)
+ - [**Dar desbordamiento**: 0x16fda2fcc887dd7ac65c46be144473067cff8654](https://eth.blockscout.com/address/0x16fda2fcc887dd7ac65c46be144473067cff8654)
      - Recibe fondos desbordados/fugados del puente.
      - Envía fondos de regreso al puente cuando los fondos se agotan usando `depositEscapedFunds()`.
- - [**Llamador de EscapeHatch**: 0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb](https://etherscan.io/address/0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb)
+ - [**Llamador de EscapeHatch**: 0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb](https://eth.blockscout.com/address/0x1e9f6746147e937e8e1c29180e15af0bd5fd64bb)
      - Puede llamar a `escapeHatch(address _token)` en caso de emergencia para sacar todo el dinero del puente para el token especificado.
      - Puede llamar a `escapeFunds(address _token, uint _amount) ` para sacar parte del dinero del puente para ser más cauteloso.
- - [**SecurityGuard**: 0xDAa172456F5815256831aeE19C8A370a83522871](https://etherscan.io/address/0xDAa172456F5815256831aeE19C8A370a83522871)
+ - [**SecurityGuard**: 0xDAa172456F5815256831aeE19C8A370a83522871](https://eth.blockscout.com/address/0xDAa172456F5815256831aeE19C8A370a83522871)
      - MaxSecurityGuardDelay: 1 mes
 
 ### Rinkeby

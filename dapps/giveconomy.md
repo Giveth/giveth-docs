@@ -21,9 +21,9 @@ At launch, our community can participate in the GIVeconomy in the following ways
 
 ### Token Adresses
 
-- Mainnet: [`0x900db999074d9277c5da2a43f252d74366230da0`](https://etherscan.io/token/0x900db999074d9277c5da2a43f252d74366230da0)
-- Gnosis Chain: [`0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75`](https://gnosisscan.io/token/0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75)
-- Optimism: [`0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98`](https://optimistic.etherscan.io/token/0x528cdc92eab044e1e39fe43b9514bfdab4412b98)
+- Mainnet: [`0x900db999074d9277c5da2a43f252d74366230da0`](https://eth.blockscout.com/token/0x900db999074d9277c5da2a43f252d74366230da0)
+- Gnosis Chain: [`0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75`](https://gnosis.blockscout.com/token/0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75)
+- Optimism: [`0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98`](https://optimism.blockscout.com/token/0x528cdc92eab044e1e39fe43b9514bfdab4412b98)
 - Solana : [`3Xi3EhKjnKAk2KTChzybUSWcLW6eAgTHyotHH1U6sJE1`](https://solscan.io/token/3Xi3EhKjnKAk2KTChzybUSWcLW6eAgTHyotHH1U6sJE1)
 
 ### Distribution
