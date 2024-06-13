@@ -28,9 +28,9 @@ You need to set the attestation as onchain in order for it to be indexed by DeVo
 ### No recipient address
 You don't need to set a recipient address for DeVouch attestations.
 ### Project Source
-This is the name of the source platform that the project is from, currently there are these four: `gitcoin`, `giveth`, `rf4` (Retro Funding round 4). More source platforms may be added later.
+This is the name of the source platform that the project is from, currently there are these three: `gitcoin`, `giveth`, `rf4` (Retro Funding round 4). More source platforms may be added later.
 ### Project Id
-This is different for each source platform.
+Project identifier (ID) from the source platform. This is the unique identifier for the project on the source platform.
 
 #### Giveth
 For Giveth projects you can find the id of a project by going to the [Giveth graphQL API](https://mainnet.serve.giveth.io/graphql) and running a query like this:
@@ -83,7 +83,7 @@ This is a simple true/false value, vouching = true, flagging = false.
 This is a text comment that will be displayed on the DeVouch UI next to the associated attestation. This should be limited to 256 characters for it to be shown appropriately on the DeVouch UI and to limit gas expenses on submitting the transaction.
 
 ### Referenced Attestations
-This is an important part where you associate the attestations with an attester organization. You'll need to get the attestation UID that links the address of the attester organization to the attestation. Look at this example below in the easscan UI:
+This is an important part where you associate the attestations with an attester organization. You'll need to get the attestation UID that links the attester organization relation to the attestation. Look at this example below in the easscan UI:
 
 
 <img alt="easscan view of attester org referencing" src={useBaseUrl('img/devouch/exampleAttesterOrgReference.png')} />
@@ -99,12 +99,13 @@ When you have all those fields filled out, you can submit the attestation to the
 In order to add your attester group to DeVouch there's a few steps you need to take:
 
 1. Fork the [DeVouch BE repo on Github](https://github.com/Giveth/DeVouch-BE)
-2. Modify the `add-organisation.js` file in the root folder.
-  a. Change the `ORGANISATION_NAME` variable to the name of your attester group.
-  b. Change the `SCHEMA_ID` variable to the schema ID of the attestations related to your organization
-  c. Change the `AUTHORIZED_ATTESTOR` variable to the address authorized to add addresses to your attester group or whoever the issuer is/was of the valid attestations.
-  d. Change the `COLOR` variable to a hex colour value that will be associated with your attester group & shown on the UI.
-  e. Ensure the `network` variable is set to the correct network. `eth-sepolia` for testing, `optimism-mainnet` for production.
+2. Make a `org-config.jsonc` config file by copying from `org-config.template.jsonc`.
+  a. Change the `name` variable to the name of your attester group.
+  b. Change the `schemaId` variable to the schema ID of the attestations related to your organization
+  c. Change the `authorizedAttestor` variable to the address authorized to add addresses to your attester group or whoever the issuer is/was of the valid attestations.
+  d. Ensure the `network` variable is set to the correct network. `eth-sepolia` for testing, `optimism-mainnet` for production.
+  e. Optional to change the `color` variable to a hex colour value that will be associated with your attester group & shown on the UI.
+  f. Optional to set `startBlock` to the block number you want to start indexing attestations from. This is useful if you have attestation in the past that you want to index. If so, the `startBlcock` should the block number of the first attestation you want to index.
 3. Run the script with `node add-organisation.js`. You should noticy a new migration file was made under the `db/migrations` folder.
 4. Create a PR to the main DeVouch BE repo with your changes.
 5. Wait for Approval and merging from the DeVouch team.
@@ -204,11 +205,7 @@ To query the Attestation data made to a specific project you will need to know t
 
 ```graphql
 query {
-  projects (where: {
-    id_in: "rf4-0x897d6172efca2d24a6b14f235db5127f7d747d923287ede38d776126bf02cbfe"
-    attests_some:{
-    }
-  }) {
+  projects(where: {source_eq: "rf4", projectId_eq: "0x897d6172efca2d24a6b14f235db5127f7d747d923287ede38d776126bf02cbfe"}) {
     id
     source
     projectId
@@ -218,9 +215,9 @@ query {
       vouch
       comment
       attestorOrganisation {
-         attestor {
-           id
-         }
+        attestor {
+          id
+        }
         organisation {
           id
           name
@@ -229,6 +226,7 @@ query {
     }
   }
 }
+
 ```
 Note: Inside of the `attests` field you can query for the `attestor` and `organisation` entities. The organisation refers to the attester group associated with the attestation. The attestor is the user that made the attestation and it's `id` is their address.
 
