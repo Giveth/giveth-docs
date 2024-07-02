@@ -39,10 +39,11 @@ You can learn more about Gitcoin Passport in their [documentation.](https://docs
 
 <img alt='passport' src={useBaseUrl('img/passport.png')} />
 
+### Cluster Match QF
 
-### Trustalabs
+Giveth has adopted a variation of QF called Connection Oriented Cluster Match (COCM), starting with the Galactic Giving Round in May '24. COCM is a mechanism used to identify groups or clusters of entities within a network based on their similarities or connections. In the context of Giveth QF rounds, COCM will involve analyzing the donation behavior between users participating in funding rounds to detect potential Sybil attacks and allocate matching funds in a way that rewards unique cooperation. By grouping users with similar donation patterns, COCM helps identify legitimate contributors and mitigate the influence of Sybil attacks. 
 
-For post-round sybil analysis, we will be supported by our partners [Trustalabs](https://www.trustalabs.ai/) who have synthesized multiple algorithmic sybil-detection approaches into one single tool.
+For more information, check out this [announcement post](https://forum.giveth.io/t/cluster-match-qf-announcement/1419) on the Giveth Forum.
 
 ## Quadratic Force
 
