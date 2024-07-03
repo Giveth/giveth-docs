@@ -24,7 +24,10 @@ When you create a recurring donation, you are streaming funds to a project by th
 For each recurring donation you create using the same token you increase the "Stream Rate" which is the amount of tokens per second (represented monthly) that are being streamed. This means that if you have multiple recurring donations to the same project in the same token, your Stream Balance will decrease at a faster rate.
 
 Consider this infographic:
+
+<center>
 <img alt='recurring donation infographic' src={useBaseUrl('img/recurringDonations/recurringDonationInfoGraphic.svg')} />
+</center>
 
 In this scenario the donor currently has a Stream Balance of 100 DAI (DAIx), they are donating to 3 projects for a total of 50 DAI monthly (or 0.000019026 DAI per second). Since they have a Stream Balance of 100 DAI we would expect it to run out in 2 months since 100 / 50 = 2. If the user had a separate Stream Balance, for example in GIV, it would not be affected by the recurring donations made in DAI.
 
@@ -47,8 +50,9 @@ Using an analogy from the default world, **think of your Stream Balances as prep
 
 
 #### Watch this video to see how to create a recurring donation
-<div class='react-player'>
+<div class='react-player'class='center'>
     <ReactPlayer 
+        class='center'
         playing 
         light='/video/createRecurringDonation_thumbnail.png'  
         controls 
@@ -72,12 +76,15 @@ You can modify your recurring donation to a project in two ways:
 
 To modify from the donate page you will be able to increase or decrease the amount you're donating monthly, the same limitations apply as with donating with an existing Stream Balance, you won't be able to increase the amount if it would cause your Stream Balance to have less than one month worth of funds left.
 
+<center>
 <img alt='recurring donation infographic' src={useBaseUrl('img/recurringDonations/modifyDonatePage.png')} />
+</center>
 
 From the Recurring Donation tab on the "My Donations" page you can see the details of all the recurring donations you have created in a table. Clicking on the actions menu for a specific recurring donation will present you with two options: "Modify" and "End". Modifying will give you the same options as above, increasing or decreasing the monthly amount. Ending a recurring donation will stop the stream and the project will no longer receive funds, thus reducing the rate at which your Stream balance decreases.
 
+<center>
 <img alt='modify button in recurring donation table' src={useBaseUrl('img/recurringDonations/modifyButton.png')} />
-
+</center>
 
 #### Ending
 Recurring donations end in two ways: manually by the donor from the Recurring Donation tab on the "My Donations" page or automatically when the Stream Balance runs out of funds.
@@ -86,8 +93,9 @@ To end a recurring donation from the Recurring Donation tab on the "My Donations
 
 From the the Recurring Donation tab on the "My Donations" page you can see all the recurring donations you have made. There's two possible actions for an "Ended" recurring donation: Start a new recurring donation or "Archive". Archiving a recurring donation will hide it from the "My Donations" table, you can click a toggle at the top of the table if you wish to see your archived recurring donations.
 
+<center>
 <img alt='ending a recurring donation' src={useBaseUrl('img/recurringDonations/endedDonationButton.png')} />
-
+</center>
 
 Starting a new recurring donation will take you to the donate page of the project and allow you to create a new recurring donation to the same project.
 
@@ -97,12 +105,15 @@ Stream Balances can be managed from two different places, either on the donate p
 
 To manage a Stream Balance from the donate page you can go to an eligible project's donate page, and when you select to donate from one of your existing Stream Balances you will see a link to "Top-up Stream Balance". Clicking this link will open a pop-up allowing you to Deposit or Withdraw from your Stream Balance.
 
+<center>
 <img alt='recurring donation top up button' src={useBaseUrl('img/recurringDonations/topUpButton.png')} />
+</center>
 
 From the Recurring Donation tab on the "My Donations" page there is a table with all the Stream Balances associated with your account. You will be able to see details such as the "Stream Rate" for each Stream Balance and how many projects you are supporting with it. Clicking the Deposit/Withdraw link will show you a pop-up allowing you to Deposit or Withdraw from your Stream Balance.
 
+<center>
 <img alt='action buttons on streamable token table' src={useBaseUrl('img/recurringDonations/streamActionButton.png')} />
-
+</center>
 
 #### Depositing
 Depositing tokens into your Stream Balance will require you hold the underlying tokens in your connected wallet. For example to deposit into your ETH Stream Balance you will need ETH in your wallet. Depositing tokens will increase the duration of any active recurring donations using that Stream Balance. To deposit you will need to sign two transactions, the first is to approve the Superfluid contracts to use your tokens, the second is to deposit your tokens. ETH however only requires 1 transaction, deposit.
@@ -119,12 +130,13 @@ If you're withdrawing from your Stream Balance while it has active recurring don
 To prevent any anomalies it's highly recommended to end any recurring donations using that Stream Balance before withdrawing all of your tokens.
 
 #### Watch this video to see how to manage your recurring donations
-<div class='react-player'>
-    <ReactPlayer 
+<div class='react-player' class='center'>
+    <ReactPlayer
+        class="center"
         playing 
         light='/video/manageRecurringDonation_thumbnail.png'  
         controls 
-        url='/video/manageRecurringDonation.mov' 
+        url='/video/manageRecurringDonation.mov'
         width='756px'
         height="455px"
     />
@@ -143,7 +155,9 @@ DO NOT PANIC! This step is pretty easy and can be done in two ways:
 
 The first way can be done by the project owner, from the create project page (or edit project page for an existing project). Scrolling down to the field for your Optimism recipeint address, below that there is a toggle to enable recurring donations. Switch this toggle to on and when you go to publish your project a transaction will be generated to deploy your anchor contract, sign the transaction and that's it! 
 
+<center>
 <img alt='toggle creation of anchor contract' src={useBaseUrl('img/recurringDonations/alloButton.png')} />
+</center>
 
 The second way can be done by the donor, if you have already added an Optimism recipient address to your project then on your first recurring donation, when a donor creates a recurring donation to your project, they will be prompted to deploy an anchor contract for your project. The donor signs a transaction, the contract is deployed for your project and that's it!
 
@@ -154,8 +168,9 @@ Once you've deployed an anchor contract for your project you will not be able to
 ### Claiming your funds
 When a donor creates a recurring donation to your project, the funds will be streamed to your anchor contract. You can claim these funds at any time by visiting the "My Projects" page in the Giveth DApp. Find the project you wish to claim your funds from and click on the "Actions" drop-down menu. 
 
+<center>
 <img alt='claim recurring donations button' src={useBaseUrl('img/recurringDonations/claimButton.png')} />
-
+</center>
 
 Click on "Claim Recurring Donations" and you will be shown a pop-up with a list of all the available tokens you can claim. Click on the claim button next to each corresponding token and you will be prompted to sign a transaction in your wallet to claim the funds. The tokens will be sent to the recipient address on Optimism that you have set.
 
