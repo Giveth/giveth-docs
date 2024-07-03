@@ -52,9 +52,9 @@ Using an analogy from the default world, **think of your Stream Balances as prep
         playing 
         light='/video/createRecurringDonation_thumbnail.png'  
         controls 
-        url='/video/createRecurringDonation.mp4' 
-        width='900px'
-        height="506px"
+        url='/video/createRecurringDonation.mov' 
+        width='756px'
+        height="455px"
     />
 </div>
 
@@ -117,6 +117,18 @@ Withdrawing tokens from your Stream Balance into your wallet can be done at any 
 If you're withdrawing from your Stream Balance while it has active recurring donations you're available balance to withdraw will be slightly less than your actual balance. This is because technically your Stream Balance is decreasing by the second making it hard to calculate the exact amount you can withdraw, a small buffer is added worth about 60 seconds of your current stream rate.
 
 To prevent any anomalies it's highly recommended to end any recurring donations using that Stream Balance before withdrawing all of your tokens.
+
+#### Watch this video to see how to manage your recurring donations
+<div class='react-player'>
+    <ReactPlayer 
+        playing 
+        light='/video/manageRecurringDonation_thumbnail.png'  
+        controls 
+        url='/video/manageRecurringDonation.mov' 
+        width='756px'
+        height="455px"
+    />
+</div>
 
 ## Project Owners
 
