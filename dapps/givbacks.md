@@ -5,7 +5,7 @@ slug: giveconomy/givbacks
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-GIVbacks is a revolutionary concept that rewards donors to verified projects with GIV. When you give to verified projects during a GIVbacks round, you become eligible to receive GIV rewards after the round ends and the GIV is ready to claim. You can see live information --- including round schedule & your claimable GIV --- on the [GIVbacks page](https://giveth.io/givbacks).
+GIVbacks is a revolutionary concept that rewards donors to verified projects with GIV. When you give to verified projects during a GIVbacks round, you becondndme eligible to receive GIV rewards after the round ends and the GIV is ready to claim. You can see live information --- including round schedule & your claimable GIV --- on the [GIVbacks page](https://giveth.io/givbacks).
 
 ## GIVbacks Rounds
 GIVbacks rounds last two weeks. For each round, there is 1 million GIV available to be rewarded.
