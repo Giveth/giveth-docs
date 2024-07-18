@@ -6,9 +6,9 @@ slug: dapps/giverspfp
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 
-“The Givers” NFT’s are not just NFT’s but integrated Giveth PFPs! Giveth's first PFP collection was a [community proposed initiative](https://forum.giveth.io/t/the-givers-the-giveth-ecosystem-pfp-collection/478) begun in March 2022. The intention of the PFP collection is to raise funds for the Giveth DAO and continue our mission of building the Future of Giving. The Givers was launched for public minting on March 24, 2023 at 11am CST. 
+“The Givers” NFT’s are not just NFT’s but integrated Giveth PFPs! Giveth's first PFP collection was a [community proposed initiative](https://forum.giveth.io/t/the-givers-the-giveth-ecosystem-pfp-collection/478) begun in March 2022. The intention of the PFP collection is to raise funds for the Giveth DAO and continue our mission of building the Future of Giving. The Givers was launched for public minting on March 24, 2023 at 11am CST.
 
-**To mint a Giver head on over to [the minting page](https://giveth.io/nft)**! 
+**To mint a Giver head on over to [the minting page](https://giveth.io/nft)**!
 
 
 <img alt="Givers base image" src={useBaseUrl('img/content/GiversHidden.png')} />
@@ -44,10 +44,10 @@ Givers PFP owners are able to have their NFTs integrated on their Giveth.io prof
 <img alt="pfp holder benefits on the dapp" src={useBaseUrl('img/content/PFPbenefits.png')} />
 </a>
 <p>
-When you set your Giver as your profile picture on Giveth.io it will be show up as a badge next to your name on any projects that you have created as well as when you make donations or boost projects with GIVpower. Users can also get an up close look at your Giver by navigating to your user profile.  
+When you set your Giver as your profile picture on Giveth.io it will be show up as a badge next to your name on any projects that you have created as well as when you make donations or boost projects with GIVpower. Users can also get an up close look at your Giver by navigating to your user profile.
 </p>
-  
-  
+
+
 
 Giveth is also partnering with Punk Domains to provide Givers NFT holders a **50% discount on the Giveth domain names.** Anyone is able claim their unique “yourname.giveth” domain name, which will also be linked to your account. You can check out [Giveth domain names here](https://giveth.punk.domains/#/).
 
@@ -55,13 +55,13 @@ We're still working on providing more benefits to Givers PFP holders, so stay tu
 
 ## Setting your Givers PFP
 
-Setting your Givers PFP as your profile picture on giveth.io is very simple. First login with your web wallet that hold your Givers PFP NFT. Then head over to `My Account` from the dropdown menu in the top right and click on the link next to your profile picture that says `Set your Givers PFP`. From there you'll be taken to a menu where you can select your Givers PFP from your wallet and set it as your profile picture. Click `Save` and you're done! 
+Setting your Givers PFP as your profile picture on giveth.io is very simple. First login with your web wallet that hold your Givers PFP NFT. Then head over to `My Account` from the dropdown menu in the top right and click on the link next to your profile picture that says `Set your Givers PFP`. From there you'll be taken to a menu where you can select your Givers PFP from your wallet and set it as your profile picture. Click `Save` and you're done!
 
 ## Contract Address
 
-GiversPFP Contract (Mainnet): [0x78fde77737d5b9ab32fc718c9535c7f1b8ce84db](https://etherscan.io/token/0x78fde77737d5b9ab32fc718c9535c7f1b8ce84db)
+GiversPFP Contract (Mainnet): [0x78fde77737d5b9ab32fc718c9535c7f1b8ce84db](https://eth.blockscout.com/token/0x78fde77737d5b9ab32fc718c9535c7f1b8ce84db)
 
 ----
 
-Mint a Givers PFP here: https://giveth.io/nft  
+Mint a Givers PFP here: https://giveth.io/nft
 View the Givers collection on Rarible here: [Giveth Givers PFP](https://rarible.com/the-givers-pfp/items)

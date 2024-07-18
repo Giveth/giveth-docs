@@ -21,7 +21,7 @@ Se parecer bom, clique em `CONFIRMAR` e sua transação de doação será inicia
 
  <img  id="contentimg" alt='Transaction in Progress' src={useBaseUrl('img/content/metamaskTransactionprogress.png')} />
 
-Você pode verificar sua transação seguindo o link "Visualizar no Etherscan", e você também deve ver a transação aparecer em sua metamask na guia "Atividade". Observe que aqui usamos a Ropsten Test Network para demonstração. Você deve usar 'Ethereum Mainnet' para fazer sua doação.
+Você pode verificar sua transação seguindo o link "Visualizar no Blockscout", e você também deve ver a transação aparecer em sua metamask na guia "Atividade". Observe que aqui usamos a Ropsten Test Network para demonstração. Você deve usar 'Ethereum Mainnet' para fazer sua doação.
 
 Depois que a transação for confirmada na blockchain, você será levado para a página seguinte, confirmando sua doação bem-sucedida. Bom trabalho!
 

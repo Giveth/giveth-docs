@@ -20,7 +20,7 @@ We'll walk you through the process of making a crypto donation via Metamask here
 
  <img  id="contentimg" alt='Transaction in Progress' src={useBaseUrl('img/content/metamaskTransactionprogress.png')} />
 
- You can check your transaction by following the link 'View on Etherscan', and you should also see the transaction pop up on your Metamask under the 'Activity' Tab. Note that here we used the Ropsten Test Network for demonstration. You should be using 'Ethereum Mainnet' to make your donation.
+ You can check your transaction by following the link 'View on Blockscout', and you should also see the transaction pop up on your Metamask under the 'Activity' Tab. Note that here we used the Ropsten Test Network for demonstration. You should be using 'Ethereum Mainnet' to make your donation.
 
  Once the transaction has been confirmed on the blockchain, you'll be taken to the page next page confirming your successful donation. Nice work!
 

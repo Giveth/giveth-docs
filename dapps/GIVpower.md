@@ -6,7 +6,7 @@ slug: giveconomy/givpower
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../src/css/custom.css'
 import ReactPlayer from 'react-player'
- 
+
 
 # GIVpower
 
@@ -17,7 +17,7 @@ The 1st phase of GIVpower launched on October 4th, 2022 adds a new layer of mech
 <img alt='givpower staking card' width='30%' heigh='auto' src={useBaseUrl('img/givpowerCard.png')} />
 
 
-In addition to the APR of GIV rewards, users also get **GIVpower**, a non-transferrable ERC-20 token. Staked GIV is matched 1:1 with GIVpower.  
+In addition to the APR of GIV rewards, users also get **GIVpower**, a non-transferrable ERC-20 token. Staked GIV is matched 1:1 with GIVpower.
 _(i.e. If you stake 100 GIV you will get 100 GIVpower.)_
 
 
@@ -25,9 +25,9 @@ Users will also be able to "Lock":lock: their staked GIV on the GIVfarm to multi
 
 ### Contracts
 
-- GIVpower(POW) Token - [0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2](https://gnosisscan.io/address/0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2)
-- GIVpower Staking (Gnosis) - [0x24F2d06446AF8D6E89fEbC205e7936a602a87b60](https://gnosisscan.io/address/0x24F2d06446AF8D6E89fEbC205e7936a602a87b60)
-- GIVpower Staking (Optimism) - [0x301C739CF6bfb6B47A74878BdEB13f92F13Ae5E7](https://optimistic.etherscan.io/address/0x301c739cf6bfb6b47a74878bdeb13f92f13ae5e7)
+- GIVpower(POW) Token - [0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2](https://gnosis.blockscout.com/address/0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2)
+- GIVpower Staking (Gnosis) - [0x24F2d06446AF8D6E89fEbC205e7936a602a87b60](https://gnosis.blockscout.com/address/0x24F2d06446AF8D6E89fEbC205e7936a602a87b60)
+- GIVpower Staking (Optimism) - [0x301C739CF6bfb6B47A74878BdEB13f92F13Ae5E7](https://optimism.blockscout.com/address/0x301c739cf6bfb6b47a74878bdeb13f92f13ae5e7)
 
 ## Staking & Locking
 
@@ -109,7 +109,7 @@ As always, all GIVeconomy rewards are distributed according to the GIVstream. Ch
 
 ## Using your GIVpower
 
-You can use your GIVpower to “boost” verified projects on the platform! 
+You can use your GIVpower to “boost” verified projects on the platform!
 
 Verified projects are sorted on the platform based on how much GIVpower is behind them, with the sort order updating every 5 min. Projects with more GIVpower allocated to them appear higher on the list of [Giveth projects](https://giveth.io/projects).
 
@@ -124,13 +124,13 @@ Boosting a project with your GIVpower is very easy. To get started, find the pro
 <img alt='boosting on the project page' width="80%" height="auto" src={useBaseUrl('img/content/boostProjectPage.png')} />
 
 :::caution
-**You can only boost verified projects**, up to a maximum of 20 unique projects. If a project for any reason becomes unverified (e.g. fails to provide updates, or breaks our [Terms of Service](https://giveth.io/tos)) any of your GIVpower backing that project will become “inactive” (i.e. excluded from the calculations of rank & GIVbacks).  
+**You can only boost verified projects**, up to a maximum of 20 unique projects. If a project for any reason becomes unverified (e.g. fails to provide updates, or breaks our [Terms of Service](https://giveth.io/tos)) any of your GIVpower backing that project will become “inactive” (i.e. excluded from the calculations of rank & GIVbacks).
 :::
 Select the percentage of your GIVpower you would like to boost with. If it's your first time boosting you will automatically boost with 100% of your GIVpower. Subsequent GIVpower boosts will proportionally reduce your GIVpower on your other boosted projects. More details below in [Managing your GIVpower](#managing-your-givpower).
 
 <img alt='select boosting percentage' width="80%" height="auto" src={useBaseUrl('img/content/boostingProject.png')} />
 
-Click `Confirm` and you should see confirmation that your GIVpower boost was successful! 
+Click `Confirm` and you should see confirmation that your GIVpower boost was successful!
 <img alt='boostConfirmation' width="80%" height="auto" src={useBaseUrl('img/content/boostConfirmation.png')} />
 
 You can check out [this tutorial](https://www.youtube.com/watch?v=KjMzQPzr4f8) for a quick walk-through on how to boost a project.
@@ -143,7 +143,7 @@ You can manage your GIVpower allocations by navigating to 'My Account' then clic
 
 From this page you can edit your GIVpower allocations to each project you have boosted. To begin click `MODIFY`.
 
-You can edit your percentage of GIVpower allocated to each project, when you modify one allocation all your other allocations will adjust relatively based on what their previous allocation was. If you don't want your allocation to change for a specific project while modifying your GIVpower on other projects you can click the :lock: icon. The sum of percentages allocated to each of your projects must equal 100%, so you can lock all but two of your allocations. 
+You can edit your percentage of GIVpower allocated to each project, when you modify one allocation all your other allocations will adjust relatively based on what their previous allocation was. If you don't want your allocation to change for a specific project while modifying your GIVpower on other projects you can click the :lock: icon. The sum of percentages allocated to each of your projects must equal 100%, so you can lock all but two of your allocations.
 
 You cannot have less than 1 project boosted at any given time. If for some reason your boosted project loses its verified status and all your GIVpower becomes inactive, you must boost another verified project before removing the inactive boosting from the unverified project.
 
@@ -164,10 +164,10 @@ Your total GIVpower may change over time depending on 4 typical events that may 
 
 1.**Staking more GIV.** If you stake more GIV on the [GIVpower farm](https://giveth.io/givfarm) you will receive more GIVpower at 1:1 ratio per GIV staked.
 2.**Locking staked GIV.** If you lock up more of your staked GIV this will multiply your GIVpower by a factor depending on how long you lock it for. The longer you lock, the greater your multiplier, and the greater your GIVpower.
-3.**GIV becomes unlocked.** Once the duration of any of your batches of locked GIV ends, you will lose the multiplier on your GIVpower that was applied from locking up that batch of GIV. Your total GIVpower balance will decrease. 
+3.**GIV becomes unlocked.** Once the duration of any of your batches of locked GIV ends, you will lose the multiplier on your GIVpower that was applied from locking up that batch of GIV. Your total GIVpower balance will decrease.
 4. **Unstaking GIV.** If you unstake your GIV from the [GIVpower farm](https://giveth.io/givfarm) you will burn your GIVpower at a 1:1 ratio per GIV unstaked.
 
-After boosting your first project with GIVpower you will always be allocating 100% of it to a project(s). By design, no matter if your total GIVpower goes up or down you will always be using your GIVpower to maximum effect and your allocations to projects will always remain at the relative percentages in which you allocated. 
+After boosting your first project with GIVpower you will always be allocating 100% of it to a project(s). By design, no matter if your total GIVpower goes up or down you will always be using your GIVpower to maximum effect and your allocations to projects will always remain at the relative percentages in which you allocated.
 
 ## Project Rank
 
@@ -194,11 +194,11 @@ The year is 2049, it is GIVbacks round 1337...
 
 
 We have **25 verified projects** that have been boosted with GIVpower. The **maximum GIVbacks factor is 80%, the minimum is 50%**, and the difference between the two is 30%. This would mean the project with the least amount of GIVpower, project ranked #25, would have a GIVbacks Factor of 50% and **every subsequently higher ranked project would have a 1.25% higher GIVbacks factor**.
- 
+
 The total GIV to distribute for the round is 1,000,000 and the price of GIV is $0.53.
 
 For demonstration purposes we record that every single ranked project got a flat 100 USD value in donations. Based on this information and some given values for GIVpower staked to a given project our example distribution would look like this:
- 
+
  | Project | GIVpower | Rank | Givbacks Factor | USD Value of Donation | Estimated GIVbacks |
 | --- | --- | --- | --- | --- | --- |
 | A | 4213.3329017797105 | 1 | 80% | 100 | 150.94339622641508 |
