@@ -11,8 +11,6 @@ If you don’t here are a few ways to get inspired:
 
 
 * Check out the [ideas Channel on Discord](https://discord.com/channels/679428761438912522/689535474532221030).
-* Have a look at our [Dework board](https://app.dework.xyz/test-120/giveth-dapps-v2/view/board-5901) (alpha version) and [community suggestions](https://app.dework.xyz/test-120/giveth-dapps-v2/community).
-* Find issues suggested in [Tokenlog.](https://tokenlog.xyz/giveth/roadmap)
 * Go to [meetings](https://calendar.google.com/calendar/u/1?cid=Z2l2ZXRoZG90aW9AZ21haWwuY29t) & ask around on Discord.
 
 Once you have an idea, contributing to Giveth is as easy as 1-2-3! Here’s what to do:
