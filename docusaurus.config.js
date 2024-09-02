@@ -95,20 +95,12 @@ module.exports = {
           position: 'left'
         },
         {
-          href: 'https://giveth.recruitee.com/',
-          label: 'Jobs',
+          to: 'devouch/',
+          activeBasePath: 'devouch',
+          label: 'Devouch',
           position: 'left'
         },
-        {
-          href: 'http://news.giveth.io/',
-          label: 'News',
-          position: 'left'
-        },
-        {
-          href: 'https://blog.giveth.io/',
-          label: 'Blog',
-          position: 'left'
-        },
+        
         {
           type: 'localeDropdown',
           position: 'right'
@@ -145,8 +137,11 @@ module.exports = {
             {
               label: 'Instagram',
               href: 'https://www.instagram.com/giveth.io/'
+            },
+            {
+              label: 'Farcaster',
+              href: 'https://warpcast.com/~/channel/giveth'
             }
-            
           ]
         },
         {
@@ -159,7 +154,15 @@ module.exports = {
             {
               label: 'GitHub',
               href: 'https://github.com/giveth/'
-            }
+            },
+            {
+              href: 'http://news.giveth.io/',
+              label: 'News',
+            },
+            {
+              href: 'https://blog.giveth.io/',
+              label: 'Blog',
+            },
           ]
         }
       ],
