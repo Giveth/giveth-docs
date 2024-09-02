@@ -7,6 +7,11 @@ import styles from '../src/css/custom.css'
 import ReactPlayer from 'react-player'
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
+:::caution
+**Big changes are coming to Project Verification!** We are in the process of Decentralizing our Project Verification system so some processes may have changed. *[Check out this forum thread to stay up to date](https://forum.giveth.io/t/decentralizing-project-verification/1528/9)*. This article will soon be updated to reflect the final version of the new system.
+:::
+
+
 Giveth is making use of project verification to review a project’s legitimacy and to reward donors to those projects via the [GIVbacks program](https://docs.giveth.io/giveconomy/givbacks). Project owners can apply directly from their project page after signing in by clicking **VERIFY PROJECT**.
 
 <center>
