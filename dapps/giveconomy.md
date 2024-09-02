@@ -12,7 +12,9 @@ Giveth is building a culture of giving that empowers and rewards those who give 
 
 ## About GIV
 
-GIV is the governance token that fuels and directs the GIVeconomy. GIV holders are empowered to collectively coordinate around shared resources and fund initiatives that shape the Future of Giving.
+GIV is the governance token that fuels and directs the GIVeconomy. GIV holders are empowered to collectively coordinate around shared resources and fund initiatives that shape the Future of Giving. 
+
+**[Click here to discover the best places to get and bridge GIV!](https://linktr.ee/givtoken)**
 
 Our community can participate in the GIVeconomy in the following ways:
 - GIV stakers can earn rewards in the [**GIVfarm**](./givfarm).
