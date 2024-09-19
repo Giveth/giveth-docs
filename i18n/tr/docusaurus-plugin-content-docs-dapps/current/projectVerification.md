@@ -1,66 +1,203 @@
 ---
 id: projectVerification
-title: Proje Doğrulama Süreci ve Yönergeleri
+title: Proje Doğrulama Süreçleri ve Yönergeleri
 slug: dapps/projectVerification
 ---
+import ReactPlayer from 'react-player'
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
-Giveth, bir projenin meşruiyetini gözden geçirmek ve [GIVbacks](/tr/giveconomy/givbacks) programı aracılığıyla bu projelere bağış yapanları ödüllendirmek için proje doğrulamasını kullanıyor. Proje sahipleri doğrulama için [buradan](https://giveth.typeform.com/verification) başvurabilir.
+:::caution
+**Proje Doğrulamada Büyük Değişiklikler Geliyor!** Proje Doğrulama sistemimizi merkezsizleştiriyoruz, bu yüzden bazı süreçler değişmiş olabilir. *[Güncel kalmak için bu forum konusunu inceleyin](https://forum.giveth.io/t/decentralizing-project-verification/1528/9)*. Bu makale yakında yeni sistemin son halini yansıtacak şekilde güncellenecektir.
+:::
 
-Bu makale Proje Doğrulama sürecini, uygulamak için hangi bilgilerin gerekli olduğunu ve bir projeyi GIVbacks programına dahil etmek için neyin nitelendirdiğini/diskalifiye ettiğini anlamak için bir kılavuz görevi görür.
+Giveth, projelerin meşruluğunu inceleme ve kamu yararı sağladıklarını belirleme sistemini kademeli olarak merkezsizleştiriyor. Bu sistem, projelere yapılan bağışların [GIVbacks programı](/tr/giveconomy/givbacks) aracılığıyla donörlerine ödüller sağladığı ve projelerin [GIVpower](/tr/giveconomy/givpower) ile desteklenmeye uygun olup olmadığını belirliyor.
 
-## Doğrulanmış Bir Proje Olmanın Faydaları
-* Projeniz için daha fazla meşruiyet yaratın.
-* Bağışçılar ile daha derin bir güven ve şeffaflık oluşturun.
-* Projenizi öne çıkarın.
-* Platformumuzda "Doğrulanmış Proje" olarak listelen ve o kategoriye göre aranabilir olun.
-* Hayırsever bağışlar için bağış yapanları ödüllendiren GIVbacks programımıza hak kazanın. Projeniz doğrulandıktan sonra, projenize bağış yapan destekçiler, GIVeconomy'ye katılmak için kullanabilecekleri GIV tokenları ile ödüllendirilecektir. GIVbacks programına katılım, projenizin bağış alma olasılığını büyük ölçüde artıracaktır. Doğrulanmış Proje adreslerinin, kendi projelerine veya diğer doğrulanmış projelere yapılan bağışlar için GIV almayacağını unutmayın.
+Projelerin GIVbacks ve GIVpower için uygunluğunu etkileyen iki durum vardır: "Güvenilir" ve "GIVbacks Uygun". Her birinin kendine özgü bir süreci vardır ve farklı proje türleri için önerilir.
 
+- **GIVbacks Uygun** projeler, dünyaya fiziksel veya dijital bir kamu yararı sağlayan projelerdir. Bu makalenin ilerleyen bölümlerinde aradığımız kriterleri ele alacağız. Bu projeler, bir GIVbacks uygunluk başvurusu doldurmalı ve Giveth inceleme ekibinden biri tarafından onaylanmalıdır.
+- **"Güvenilir"** projeler, 3 Giveth Doğrulayıcısı tarafından güvenilir olarak işaretlenmiş projelerdir. Bu, projenin bir kamu yararı olarak değerlendirilmediği ancak meşru ve güvenilir bir üne sahip olduğu anlamına gelir.
 
-## Proje Doğrulaması için Öneriler
+Her bir durumu ve nasıl çalıştıklarını ayrıntılarıyla inceleyeceğiz.
 
-Doğrulama süreci, bir proje ve kuruluşun amaçlanan etkisi hakkında bazı ek bilgiler gerektirecektir.
+# Güvenilir Projeler
 
-Projeler, tura katılabilmek için başvuru formlarını tur başlamadan en az bir hafta önce teslim etmelidir. Onaylandıktan sonra, bir proje sonraki tüm GIVbacks turlarına katılmaya hak kazanacaktır. Bir proje doğrulandığında, durumu Giveth'te güncellenir ve Ana Sayfada ve Projeler Sayfasında Onaylandı (Verified) rozeti verilir.
-<img alt="GIVbacks Rounds Schedule" src={useBaseUrl('img/content/givBacksRounds.png')} />
+Güvenilir Projeler, proje inceleme sistemimizi merkezsizleştirme hedeflerimiz açısından temel olan Giveth Doğrulayıcılarının faaliyetlerine bağlıdır.
 
+#### Giveth Doğrulayıcıları
 
-GIVbacks Rounds Programı
-Başvuruda vermeniz gereken bilgiler şunlardır:
+Giveth Doğrulayıcıları, Giveth topluluğunun ve Ethereum ekosisteminin güvenilir üyelerinden oluşan bir gruptur. Meşru ve güvenilir olduklarına inandıkları projeleri doğrulamakla sorumludurlar. Şu anda Giveth Doğrulayıcıları arasında Optimism Citizen House Badge sahipleri, Top Optimism Token Delegeleri ve proje inceleme ekibimizin üyeleri bulunmaktadır. Daha fazla üye, yakında çıkacak bir katılım programı aracılığıyla eklenecektir.
 
-1. Tam adınız
-2. Email adresiniz
-3. Projeniz tescilli bir kar amacı gütmeyen kuruluşun parçasıysa, tescil durumunuzu kanıtlamak için belgeleri yüklemeniz gerekecektir. Kâr amacı gütmeyen statüye sahip olmak bir gereklilik değildir, ancak doğrulama süreci için faydalıdır.
-4. Projeniz tescilli bir kar amacı gütmeyen kuruluş değilse, ekibin kuruluşunuzun nasıl yapılandırıldığını bilmesi gerekir.
-5. Hem size hem de kuruluşa ait olan sosyal medya hesaplarına bağlantılar ve/veya kullanıcı adları. Örneğin. Twitter, Github, Discord, Facebook vb.
-6. Projenizin adı
-7. Projenizin tarihçesi hakkında bilgiler, örneğin ne zaman kurulduğu, kuruluşunuzun/projenizin kuruluşundan bu yana hangi dönüm noktalarına ulaştığı vb.
-8. Toplanan fonların kişisel kazanç için değil, kamu yararı için kullanılması bekleniyor - Giveth'in projenizin topladığı fonları nasıl kullanacağınızı bilmesi gerekecek. Projenin genel bir yol haritası/eylem planının yanı sıra ayrıntılı finansman hedefleri arıyoruz.
-9. Projenizdeki fonları yönetmek için kullanılan tüm cüzdan adreslerinin listesi.
-10. Başvurduğunuz projenin gerçek bir temsilcisi olduğunuzdan emin olmak için, Giveth projenizin bağlantısını kuruluşun Twitter veya sosyal medya hesabından göndermenizi/paylaşmanızı rica ediyoruz. Twitter veya sosyal medya gönderisine bir bağlantı sağlamanız gerekecek.
-11. “Evet”i onaylayın: Toplanan fonların kişisel kazanç için değil, kamu yararı için kullanılacağına söz veriyoruz.
-12. "Evet"i onaylayın: Giveth'in dolandırıcılık veya kötüye kullanım amacıyla yapılan tüm bağışları analiz edeceğini kabul ediyoruz. Giveth'in kötüye kullanımdan şüphelenmek için herhangi bir nedeni varsa, bağışçılarımızın herhangi bir GIVback alamayabileceğini ve Giveth'in herhangi bir sahtekarlık kanıtını kamuya açık olarak paylaşabileceğini kabul ediyoruz.
-13. “Evet”i onaylayın: Yalnızca Giveth aracılığıyla yeni, dışarıdan gelebilecek bağışları kabul edeceğiz ve kendi fonlarımızı Giveth aracılığıyla yeniden dolaşıma soktuğumuz tespit edilirse, bunun sistemin kötüye kullanılması olarak değerlendirileceğini anlıyoruz.
-14. “Evet”i onaylayın: Bağış verilerimizin gözden geçirileceğini anlıyoruz ve herhangi bir şekilde sistemi kötüye kullanıyormuşuz gibi görünüyorsa, bağışçılarımız GIVback almayacak ve doğrulanmış durumumuzu kaybedeceğiz.
-15. Amacımız, GIVback'lerin hileli kullanımının önüne geçmektir. Kötü niyetli faaliyetlere katıldığınız tespit edilirse, sizin ve/veya projeniz için hangi itibarın tehlikede olduğunu bilmemiz gerekecek. *Varsa itibar kanıtına bağlantılar sağlayın.
+#### Uygunluk ve Avantajlar
 
-Onaylı rozeti almak için başvurmak, daha fazla Bağışçıyı teşvik etmek ve hedeflerinize ulaşmanıza yardımcı olanlara geri vermek isteyen bir proje sahibiyseniz, [lütfen bu formu doldurun.](https://giveth.typeform.com/verification)
+Henüz GIVbacks için uygun olmayan bir proje, 3 Giveth Doğrulayıcısından güven oyu aldığında "Güvenilir" hale gelir. Bu, projenin [GIVpower](/tr/giveconomy/givpower) ile desteklenmesine olanak tanır.
 
-## GIVbacks Programıdan Diskalifiyeye Neden Olan Faktörler
+#### Güven Oyu Nasıl Çalışır
 
-Bir GIVbacks turu sona erdiğinde, GIV bağışçılara dağıtılmadan önce ekibimizin diskalifiye edici faktörler için işaretlenen projeleri ve bağışları gözden geçirmesi için ayrılan bir süre vardır. Bu faktörlerden herhangi biri bulunursa, bir projenin doğrulanmış durumu iptal edilebilir. Aşağıdaki faaliyetlerden herhangi biriyle bulunan projelere bağış yapanlar, o tur için GIVback'leri reddedilebilir. Diskalifiye etme faktörleri aşağıdaki gibidir:
+Güven oyu, Giveth tarafından Ethereum ekosisteminde finansman arayan projeler için itibar sistemleri oluşturmaya odaklanan bir ürün olan [DeVouch](https://devouch.xyz/) kullanılarak verilir.
 
-1. **Bağışçılara bağışları karşılığında mal veya hizmet vermek/sunmak.** Bir proje sahibi, geliri hayır kurumuna gitse bile, bir konferans sponsorluğu, kurabiye alımı veya bir akşam yemeği için bilet gibi mallar sunamaz. Proje sahipleri, bağışçıları için kripto borsası gibi hizmet veremezler. Bir borsanın nasıl kullanılacağını açıklayabilirler, ancak bağışçıları için parayı çeviremezler.
+Güvenilir Projeler yalnızca Giveth Doğrulayıcılarının verdiği güven oylarıyla etkilenirken, herkes DeVouch üzerinde bir proje için güven oyu verebilir. Herhangi bir Giveth projesinin proje detayları sayfasından o projenin DeVouch sayfasına bir bağlantı bulabilirsiniz.
 
-2. **Başka yollarla toplanan bağışları sirküle etmek.** GIVback'ler için yalnızca "first touch" bağışları geçerlidir. Bir proje bir bağışçıdan fon alırsa ve bu bağışları GIVback almak için Giveth platformunda dolaştırdığı tespit edilirse, diskalifiye edilecektir. Örneğin, bir proje başka bir yerden alınan itibari para bağışlarını bağışçılarına geri göndermemeli ve onlardan kripto ile Giveth'te bağış yapmalarını istememelidir.
+<img alt='Nasıl Başvurulur' width="90%" src={useBaseUrl('img/content/Verification/vouchButton.png')} />
 
-3. **Fonlar, proje sayfasında veya gönderilen doğrulama başvurusunda belirtilenler için kullanılmamaktadır.** Doğrulanmış projeler, fonların nasıl kullanıldığına ilişkin bilgilerle projelerini güncel tutmaktan sorumludur. Proje, örneğin fonları eğitim programları geliştirmek için kullandıklarını açıkça belirtirse, fonları geliştiricileri istihdam etmek için kullandıkları tespit edilirse, GIVbacks programından diskalifiye edilebilirler.
-4. **İlkelere uygun olmayan veya hileli faaliyet.** Şiddet kullanımı, yasaları çiğneme veya Giveth topluluğunun değerlerini desteklemeyen diğer davranışlar olabilir. Hüküm ve Koşullarımızı ihlal ettiği tespit edilen projeler, yalnızca doğrulama durumlarını kaybetmekle kalmayacak, aynı zamanda iptal edilecektir.
+İşte DeVouch üzerinde bir Giveth projesi için nasıl güven oyu verebileceğinize dair kısa bir video eğitimi:
 
-Giveth Proje Doğrulama ekibi, GIVbacks etkinliğini ve Proje Doğrulama sistemini izlemekten sorumludur ve bir projenin eylemlerinin vicdansız ve/veya diskalifiye edici olup olmadığını belirlemek için nihai olarak kendi takdirlerini kullanır.
+<div class='react-player' class='center'>
+    <ReactPlayer
+        class="center"
+        controls
+        url='/video/howToVouchGiveth.mp4'
+        width='756px'
+        height="455px"
+    />
+</div>
 
-## İşaretlenen Projeler için Dereceli Yaptırımlar
-Doğrulanmış Projelerin faaliyet ve bağış geçmişi periyodik olarak gözden geçirilecektir. Yukarıdaki diskalifiye edici faktörlerden herhangi biri için işaretlenen doğrulanmış projeler, burada özetlenen kademeli yaptırımlara göre analiz edilecek ve ayırt edilecektir:
+# GIVbacks Uygun Projeler
 
-- İlk kez işaretlenmiş ve diskalifiye edilmiş sayılan bir proje bilgilendirilecek ve bağışçıları o ve sonraki tur için GIVback almayacak. Bununla birlikte, doğrulanmış durumlarını hemen kaybetmeyecekler ve bunu korumak için gerekli değişiklikleri yapma fırsatına sahip olacaklar.
-- İkinci kez işaretlenmiş ve diskalifiye edilmiş sayılan bir projeye, projesinin işaretlendiği ve o tur ve sonraki tüm turlar için bağış yapanların GIVback almayacağı bildirilecektir. Bir proje ikinci bir bayrak aldığında, Doğrulanmış rozetini kaybeder.
+GIVbacks Uygun projeler, dünyaya fiziksel veya dijital bir kamu yararı sağlayan projelerdir. GIVbacks Uygun bir proje olabilmek için bir başvuru formu doldurmanız gerekir ve bu başvuru, Giveth inceleme ekibinden biri tarafından onaylanmalıdır.
+
+Proje sahipleri, projelerinin sayfasından veya "Projem" sayfasını ziyaret ederek **GIVbacks Uygunluğu için Başvur** butonuna tıklayarak başvuru yapabilirler.
+
+<center>
+<img alt='Nasıl Başvurulur' width="90%" src={useBaseUrl('img/content/Verification/ApplyGIVbacksEligiblity.png')} />
+</center>
+
+<center>
+<img alt='Nasıl Başvurulur' width="90%" src={useBaseUrl('img/content/Verification/MyProjectsGIVbacksElgibility.png')} />
+</center>
+
+## GIVbacks Uygun Bir Proje Olmanın Avantajları
+
+- Projenizin meşruiyetini artırın.
+- Bağışçılarla daha derin güven ve şeffaflık oluşturun.
+- Projenizi öne çıkarın! Platformumuzda "GIVbacks Uygun" proje olarak listelenin ve bu kategori altında arama yapılabilir olun.
+- GIV staker'ları, projenizi [GIVpower](/tr/giveconomy/givpower) ile destekleyebilecek. Evet, kendi projenizi bile destekleyebilirsiniz!
+- GIVbacks Uygunluğu rozeti almak, projenizin [Giveth’in Quadratic Funding](/tr/quadraticfunding) turlarına katılma şansını artırabilir.
+- Bağış yapanları ödüllendiren GIVbacks programına katılın. Projeniz GIVbacks uygun hale geldiğinde, projenize bağış yapan destekçilere GIV tokenları ile ödüller verilecektir. GIVbacks uygunluğu, projenizin bağış alması olasılığını büyük ölçüde artıracaktır. ***Projenize veya diğer GIVbacks Uygun projelere yapılan bağışlar için proje adreslerinin GIVbacks ödülleri almayacağını unutmayın. Lütfen aşağıda açıklanan [Diskalifiye Edici Faktörler](#disqualifying-factors-for-the-givbacks-program)'a bakın.***
+
+## GIVbacks Uygunluğu İçin Kalifikasyon Kriterleri
+
+Projenizi Giveth’te GIVbacks uygun hale getirmekle ilgileniyor musunuz? Başvuru süreci, proje hakkında ek bilgi ve kuruluşun amaçlanan etkisiyle ilgili detaylar gerektirecektir.
+
+**Herhangi bir GIVbacks uygunluk başvurusunu onaylarken aradığımız temel kriterler şunlardır:**
+
+* Eylem ve Etki: Projenizin dünyada bir fark yaratma geçmişine sahip olduğunu görmek istiyoruz. Bir fikir doğrulanamaz, ancak DOĞRULAYABİLECEĞİMİZ şey eylem ve etkidir!
+
+* İtibar: Projenizin topluluk tarafından desteklendiğini bilmemiz gerekiyor. Bu, güçlü bir çevrimiçi varlık, kar amacı gütmeyen statü veya projenizi doğrulayan biri anlamına gelir. Projenizin risk altında olduğunu bize göstermelisiniz.
+
+* Kamu Yararı: Dünyada olumlu değişiklikler yaratmakla ilgileniyoruz. Eğer projeniz kişisel kazanca odaklanmışsa, GIVbacks programı için uygun değildir. Projenizin toplumsal faydalar sağlamaya ve dünyayı bir şekilde iyileştirmeye yönelik olduğunu görmek istiyoruz.
+
+Bu kriterlere uyuyorsanız ve projenizi bir sonraki seviyeye taşımaya hazırsanız, başlayalım!
+
+Başvurunuzu aldıktan sonra ekibimiz tarafından incelenecek ve bir karar verilecektir. Sonuçları 2 hafta içinde e-posta yoluyla almayı bekleyebilirsiniz. Onaylandıktan sonra projenizin durumu Giveth’te güncellenecek ve bir 'GIVbacks Uygun' rozeti verilecektir. ***GIVbacks Uygunluğu rozetleri, projenin 3 ay boyunca hareketsiz kalması durumunda otomatik olarak sona erecektir. Düzenli güncellemeler ekleyerek ilerlemenizi dünyayla paylaşmayı unutmayın!***
+
+## Başvuru Süreci
+
+Doğrulama başvurusu yaparken sağlanması gerekenleri daha yakından inceleyelim!
+
+**Başlamadan önce dikkate alınması gereken birkaç şey:**
+- Projeniz kayıtlı bir kar amacı gütmeyen kuruluşsa, formu tamamlamak için doğrulanabilir bir kanıt yüklemeniz gerekecektir.
+- Projenin, iddia ettiği kuruluş tarafından gerçekten sahiplenildiğini kanıtlamak için, kuruluşunuzun Giveth projenize bağlantı verdiği bir halka açık gönderinin bağlantısını sağlamanız gerekecektir.
+- Projeniz içinde fonları yönetmek için kullanılan tüm cüzdan adreslerinin bir listesini sunmanız gerekecektir.
+- Proje açıklamanızın güncel olduğundan ve ekibin projenizin eylemlerinin kanıtlarını açıkça görebileceği medya veya harici site bağlantılarını içerdiğinden emin olun.
+
+### Kişisel Bilgiler
+
+Bu bölümde adınızı, cüzdan adresinizi toplayacağız ve e-posta adresinizi doğrulamanızı isteyeceğiz. 'E-posta Adresini Doğrula' butonuna tıkladıktan sonra profilinize ekli e-posta adresini doğrulamanız için size bir bağlantı içeren bir e-posta göndereceğiz.
+
+<center>
+<img alt='Kişisel Bilgiler' width="90%" src={useBaseUrl('img/content/Verification/PersonalInfo.png')} />
+</center>
+
+### Sosyal Profiller
+
+Bu sayfada, ekip üyelerinin sizi proje sahibi olarak tanıması için sosyal medya hesaplarınızı listelemelisiniz. Sosyal medya hesaplarınızı bağlamak, kim olduğunuzu doğrulamanın iyi bir yoludur.
+
+<center>
+<img alt='Sosyal Profiller' width="90%" src={useBaseUrl('img/content/Verification/SocialProfiles.png')} />
+</center>
+
+### Kayıt
+
+Projeniz kayıtlı bir kar amacı gütmeyen kuruluşun bir parçasıysa, kayıtlı statünüzü kanıtlayan belgeleri yüklemeniz gerekecektir. Ayrıca, ekibin statünüzü araştırıp doğrulayabileceği ülkenizin devlet kayıt bağlantısını sağlamanızı istiyoruz.
+
+Projeniz kayıtlı bir kar amacı gütmeyen kuruluşun parçası değilse, ekibin kuruluşunuzun nasıl yapılandırıldığı hakkında daha fazla bilgi edinmesi gerekecektir.
+
+<center>
+<img alt='Kayıt' width="80%" src={useBaseUrl('img/content/Verification/Registration.png')} />
+</center>
+
+### Proje İletişim
+
+Başvurunuzla ilgili sorular, QF turu uygunluğu veya projenizle ilgili sorunlar gibi gerekli iletişimler için iletişim bilgilerinizi bu bölümde sağlayın.
+
+**Önemli:** Ayrıca, Giveth projesinin iddia edilen kuruluş tarafından gerçekten sahiplenildiğini doğrulamak için kuruluşunuz tarafından yapılan bir halka açık bildirinin bağlantısını sağlamanız gerekecektir. Bu, bir sosyal medya gönderisi, web siteniz, github depo dosyanızın okuma bölümünde veya kuruluş tarafından sahip olunan herhangi bir başka forumda yapılabilir. **Kişisel hesaplardan yapılan açıklamalar kabul edilmeyecektir ve başvurunuz reddedilecektir.**
+
+<center>
+<img alt='Proje İletişim' width="80%" src={useBaseUrl('img/content/Verification/ProjectContact.png')} />
+</center>
+
+### Etki
+
+Burada, projenizin misyonunu ve elde ettiği ölçülebilir etkiyi ekibimize açıklamanız istenecektir. Geçmiş faaliyetler, ulaşılan kilometre taşları ve gelecekteki planlar hakkında bilgi vermenizi istiyoruz. Eylem geçmişinizin kanıtlarını bağlantı veya yüklenen içerik aracılığıyla sağlamayı unutmayın.
+
+<center>
+<img alt='Etki' width="80%" src={useBaseUrl('img/content/Verification/Impact.png')} />
+</center>
+
+### Fon Yönetimi
+
+GIVbacks programına uygun olmak için projenizin topluma bir fayda sağladığını veya bir kamu yararı sunduğunu bilmemiz gerekir. Projeniz, dünyaya dışlanamaz ve rekabet edilemez bir mal veya hizmet sunmalıdır. Giveth projeniz aracılığıyla alınan fonların bu amaçla nasıl kullanılacağını açıklamanız gerekecek. Kişisel kazanç odaklı projelerin reddedileceğini unutmayın.
+
+Bu bölümde, fonların yönetimi için projeniz tarafından kullanılan cüzdan adreslerini de eklemelisiniz.
+
+<center>
+<img alt='Fon Yönetimi' width="90%" src={useBaseUrl('img/content/Verification/ManagingFunds.png')} />
+</center>
+
+### Şartlar ve Koşullar
+
+Son adımda, başvuruyu göndermeden önce GIVbacks programı politikalarını kabul etmeniz gerekecektir.
+
+<center>
+<img alt='T&C' width="90%" src={useBaseUrl('img/content/Verification/TermsConditions.png')} />
+</center>
+
+### Sırada Ne Var?
+
+Başvurunuzu gönderdikten sonra, özel inceleyicilerden oluşan ekibimiz içeriği araştıracak ve 2 hafta içinde kararın ayrıntılarını içeren bir e-posta gönderecektir. Bizden haber alamazsanız, [Discord destek kanalında](https://discord.gg/rNYPHPFquS) bir mesaj bırakmaktan veya [info@giveth.io](mailto:info@giveth.io) adresine e-posta göndermekten çekinmeyin.
+
+## Projenizi Güncelleyin
+
+İlerlemenizi görmek istiyoruz! Lütfen projenize düzenli olarak güncellemeler ekleyin. Bu, yalnızca Giveth ekibinin fonların nasıl kullanıldığını bilgilendirmesini sağlamakla kalmaz, aynı zamanda bağışçıların ilgisini de canlı tutar. İnsanlar bağışlarının etkisini görebildiğinde, daha fazla desteği teşvik edebilir. Projeniz GIVbacks programı için onaylandıktan sonra, GIVbacks uygunluk statüsünü korumak için en az üç ayda bir (90 gün) projenize bir güncelleme eklemeniz gerekecektir. Çok uzun süre hareketsiz kalan projelerin rozetleri iptal edilecektir.
+
+#### Projenize nasıl güncelleme ekleyeceğinizi öğrenmek için bu videoyu izleyin:
+
+<div class='react-player' class='center'>
+    <ReactPlayer
+        class="center"
+        playing
+        light='/video/AddUpdate_thumbnail.png'
+        controls
+        url='/video/AddUpdate.mp4'
+        width='756px'
+        height="455px"
+    />
+</div>
+
+## GIVbacks Programı İçin Diskalifiye Edici Faktörler
+
+Bir GIVbacks turu sona erdiğinde, ekibimizin bayraklanan projeleri ve bağışları incelemesi için GIV'in bağışçılara dağıtılmasından önce belirlenen bir süre vardır. Aşağıdaki faktörlerden herhangi biri tespit edilirse bir proje GIVbacks Uygun statüsünü kaybedebilir. Bu faaliyetlerden herhangi birine katıldığı tespit edilen projelere bağış yapan bağışçılar da o tur için GIVbacks alamayabilir. Diskalifiye edici faktörler şunlardır:
+
+1. **Bağışçılara bağışları karşılığında mal veya hizmet vermek.** (Yani "karşılıklı anlaşma"). Bir proje sahibi, bağışlar için proje tokenları, bir konferansa sponsorluk, izci kurabiye satın alımları veya NFT'ler gibi mallar sunamaz, hatta gelirleri hayır kurumlarına gitse bile. Proje sahipleri, bağışçılar için bir kripto para borsası gibi hareket edemezler. Bir borsanın nasıl kullanılacağını açıklayabilirler, ancak bağışçılar için parayı dönüştüremezler.
+2. **Bağışları projeniz aracılığıyla tekrar dolaşıma sokmak.** Sadece "ilk temas" bağışları GIVbacks için geçerlidir. Bir proje bir bağışçıdan fon alır ve bu bağışları Giveth platformu içinde GIVbacks almak için dolaşıma soktuğu tespit edilirse, diskalifiye edilir. Örneğin, bir proje bağışlanan fonları birine göndermemeli ve onların Giveth'e bağış yapmasını ve GIVbacks almasını istememelidir.
+3. **Fonlar proje sayfasında veya gönderilen doğrulama başvurusunda belirtilen amaçlar doğrultusunda kullanılmıyor.** GIVbacks Uygun projeler, fonların nasıl kullanıldığını güncel tutmaktan sorumludur. Proje, örneğin fonları eğitim programları geliştirmek için kullanacaklarını açıkça beyan eder ancak fonların geliştiricileri istihdam etmek için kullanıldığı tespit edilirse, GIVbacks programından diskalifiye edilebilirler.
+4. **Hileli veya etik olmayan faaliyet.** Bu, şiddet kullanımı, yasa ihlalleri veya Giveth topluluğunun değerlerine uymayan diğer davranışlar olabilir. Şartlar ve Koşullarımızı ihlal eden projeler yalnızca doğrulama statülerini kaybetmekle kalmaz, aynı zamanda iptal edilirler.
+
+Giveth Proje Doğrulama Ekibi, GIVbacks faaliyetlerini ve Proje Doğrulama Sistemini izlemekle sorumludur. Nihayetinde, bir projenin eylemlerinin etik dışı ve/veya diskalifiye edici olup olmadığını belirlemek için takdir yetkimizi kullanacağız.
+
+## İşaretlenen Projeler İçin Kademeli Yaptırımlar
+
+GIVbacks Uygun Projelerin faaliyetleri ve bağış geçmişleri periyodik olarak gözden geçirilecektir. Yukarıda belirtilen diskalifiye edici faktörlerden herhangi biri nedeniyle işaretlenen GIVbacks Uygun projeler analiz edilecek ve burada belirtilen kademeli yaptırımlara göre değerlendirilecektir:
+
+- **İlk kez** işaretlenmiş ve diskalifiye edilmiş bir projeye bildirim yapılacak ve bağışçıları o tur için ve bir sonraki tur için GIVbacks almayacaktır. Ancak, hemen GIVbacks Uygunluk statüsünü kaybetmezler ve bunu korumak için gerekli değişiklikleri yapma fırsatına sahip olacaklardır.
+- **İkinci kez** işaretlenmiş ve diskalifiye edilmiş bir projeye, projenin işaretlendiği ve o tur ve gelecekteki tüm turlar için bağışçılarının GIVbacks almayacağı bildirilecektir. Bir proje ikinci kez işaretlendiğinde, 'GIVbacks Uygun' rozetini kaybedecektir.
