@@ -1,6 +1,6 @@
 ---
 id: projectVerification
-title: Project Verification Process and Guidelines
+title: Project Verification Processes and Guidelines
 slug: dapps/projectVerification
 ---
 import styles from '../src/css/custom.css'
@@ -12,28 +12,77 @@ import useBaseUrl from '@docusaurus/useBaseUrl'
 :::
 
 
-Giveth is making use of project verification to review a project’s legitimacy and to reward donors to those projects via the [GIVbacks program](https://docs.giveth.io/giveconomy/givbacks). Project owners can apply directly from their project page after signing in by clicking **VERIFY PROJECT**.
+Giveth is progressively decentralizing its system of reviewing projects for legitimacy and determining if they are providing a public good. This system determines which projects provide rewards to their donors to those projects via the [GIVbacks program](https://docs.giveth.io/giveconomy/givbacks) as well as which projects are eligible to be boosted with [GIVpower](./giveconomy/givpower). 
+
+There are two statuses that project's can have that impact their eligiblity for GIVbacks and GIVpower: "Vouched" and "GIVbacks Eligible". Each of these have a unique flow and are recommended for different types of projects. 
+
+- **GIVbacks Eligible** projects are those that are providing a public good to the world, either physical or digital. We'll cover the criteria we look for further down in this article. These projects must fill out a GIVbacks eligiblity application and be approved by someone from the Giveth review team. 
+- **"Vouched"** projects are those that have been vouched for by 3 Giveth Verifiers. This means that the project isn't considered a public good but it is legitimate and has a trustworthy reputation. 
+
+We'll break down the details of each status and how they work. 
+
+# Vouched Projects
+
+Vouched Projects are linked to the activity of Giveth Verifiers, which are fundamental to our goals of decentralizing our project review system. 
+
+#### Giveth Verifiers
+
+Giveth Verifiers are a group of trusted members of the Giveth community and Ethereum ecosystem. They are responsible for vouching for projects that they believe are legitimate and trustworthy. Currently Giveth Verifiers include Optimism Citizen House Badgeholders, Top Optimism Token Delegates as well as members of our project review team. More members will be added later through a forthcoming onboarding program. 
+
+#### Eligibility & Benefits
+
+When a project that is not yet GIVbacks eligible has received 3 vouches from Giveth Verifiers it will become "Vouched". This will allow the project to be boosted by [GIVpower](./giveconomy/givpower). 
+
+#### How Vouching Works
+
+Vouching happens using [DeVouch](https://devouch.xyz/), another product built by Giveth focused on building reputation systems for projects looking for funding in the Ethereum ecosystem.
+
+While Vouched Projects are only influenced by vouches from Giveth Verifiers, anyone can vouch for a project on DeVouch. You can find a link to any Giveth project from that project's details page to their project page on DeVouch. 
+
+<img alt='How to Apply' width="90%" src={useBaseUrl('img/content/Verification/vouchButton.png')} />
+
+
+Here's a short video tutorial of how to vouch for a Giveth project on DeVouch:
+
+<div class='react-player' class='center'>
+    <ReactPlayer
+        class="center"
+        controls
+        url='/video/howToVouchGiveth.mp4'
+        width='756px'
+        height="455px"
+    />
+</div>
+
+# GIVbacks Eligible Projects
+
+GIVbacks Eligible projects are those that are providing a public good to the world, either physical or digital. In order to become a GIVbacks Eligible project you must fill out an application form and the application must be approved by someone from the Giveth review team.
+ 
+Project owners can apply, after signing in, from their project page or by visiting the "My Project" page and clicking **Apply for GIVbacks Eligiblity**.
 
 <center>
-<img alt='How to Apply' width="90%" src={useBaseUrl('img/content/Verification/VerifiedArrow.png')} />
+<img alt='How to Apply' width="90%" src={useBaseUrl('img/content/Verification/ApplyGIVbacksEligiblity.png')} />
 </center>
 
-This document serves as a guide to understanding the Project Verification process, what information is needed to apply, as well as what qualifies/disqualifies a project for participation in the GIVbacks program.
+<center>
+<img alt='How to Apply' width="90%" src={useBaseUrl('img/content/Verification/MyProjectsGIVbacksElgibility.png')} />
+</center>
 
-## Benefits of Becoming a Verified Project
+
+## Benefits of Becoming a GIVbacks Eligible Project
 
 - Create greater legitimacy for your Project.
 - Build deeper trust and transparency with Donors.
-- Make your project stand out! Get listed as a ‘Verified’ project on our platform and searchable by that category.
-- GIV stakers will be able to boost your project with [GIVpower](https://docs.giveth.io/giveconomy/givpower). Yes. You can even boost your own project!
-- Wearing the 'Verified' badge can increase your project's chances of participation in [Giveth’s Quadratic Funding](https://docs.giveth.io/quadraticfunding) rounds.
-- Participate in the GIVbacks program, which rewards Givers for philanthropic donations. Once your project is verified, the supporters who donate to your project will be rewarded with GIV tokens. GIVbacks eligibility will greatly increase the likelihood of your project receiving donations. ***Note that verified project addresses will not receive GIVbacks rewards for donations made to their own project or any other verified projects. Please refer to the [Disqualifying Measures](#disqualifying-factors-for-the-givbacks-program) outlined below.***
+- Make your project stand out! Get listed as a "GIVbacks Eligible" project on our platform and searchable by that category.
+- GIV stakers will be able to boost your project with [GIVpower](https://docs.giveth.io/giveconomy/givpower). Yes, you can even boost your own project!
+- Having the GIVbacks Eligible badge can increase your project's chances of participation in [Giveth’s Quadratic Funding](https://docs.giveth.io/quadraticfunding) rounds.
+- Participate in the GIVbacks program, which rewards donors for their donations. Once your project is GIVbacks eligible, the supporters who donate to your project will be rewarded with GIV tokens. GIVbacks eligibility will greatly increase the likelihood of your project receiving donations. ***Note that GIVbacks eligible project addresses will not receive GIVbacks rewards for donations made to their own project or any other GIVbacks Eligible projects. Please refer to the [Disqualifying Measures](#disqualifying-factors-for-the-givbacks-program) outlined below.***
 
-## Qualifying Measures for Project Verification
+## Qualifying Measures for GIVbacks Eligibility
 
-Are you interested in getting your project verified on Giveth? The verification process will require some additional information about a project and the intended impact of the organization.
+Are you interested in making your project GIVbacks eligible on Giveth? The application process will require some additional information about a project and the intended impact of the organization.
 
-**These are the top criteria we look for when verifying any project:**
+**These are the top criteria we look for when approving any GIVbacks eligibility application:**
 
 * Action and Impact: We want to see that your project has a track record of making a difference in the world. An idea cannot be verified, but what we CAN verify is action and impact!
 
@@ -43,7 +92,7 @@ Are you interested in getting your project verified on Giveth? The verification 
 
 So, if you meet these criteria and are ready to take your project to the next level, let's get started!
 
-After we receive your application, it will be reviewed by our team and a decision will be made. You can expect to receive the results via email within 2 weeks. Once approved, your project's status is updated on Giveth and it will be given a 'Verified' badge. ***Verified badges will automatically expire after 3 months of project inactivity.
+After we receive your application, it will be reviewed by our team and a decision will be made. You can expect to receive the results via email within 2 weeks. Once approved, your project's status is updated on Giveth and it will be given a 'GIVbacks Eligible' badge. ***GIVbacks Eligible badges will automatically expire after 3 months of project inactivity.
 Be sure to share your progress with the world by adding regular updates!***
 
 ## Application Process
@@ -102,7 +151,7 @@ Here you will be asked to explain to our team the mission of your project and wh
 
 ### Managing Funds
 
-We need to know that your project is providing some sort of benefit to society or public good in order to be eligible for the GIVbacks program. Giveth verified projects should be providing a non-excludable non-rivalrous good or service to the world. You will be asked to explain how the funds received by your Giveth project will be used for this purpose. Note that projects focused on personal gain will be rejected.
+We need to know that your project is providing some sort of benefit to society or public good in order to be eligible for the GIVbacks program. Your project should be providing a non-excludable non-rivalrous good or service to the world. You will be asked to explain how the funds received by your Giveth project will be used for this purpose. Note that projects focused on personal gain will be rejected.
 
 You should also include the wallet addresses used by your project for managing funds in this section.
 
@@ -120,11 +169,11 @@ In the last step, you will need to agree to the GIVbacks program policies before
 
 ### What comes next?
 
-After you submit your application, our team of dedicated unicorns will review the contents and email you with the details of their decision within 2 weeks time. If you haven’t heard anything from us, feel free to drop a message in the [Discord support channel](https://discord.gg/rNYPHPFquS) or email us at [info@giveth.io](mailto:info@giveth.io).
+After you submit your application, our team of dedicated reviewers will investigate the contents and email you with the details of their decision within 2 weeks time. If you haven’t heard anything from us, feel free to drop a message in the [Discord support channel](https://discord.gg/rNYPHPFquS) or email us at [info@giveth.io](mailto:info@giveth.io).
 
 ## Updating Your Project
 
-We want to see your progress! Please add updates to your project regularly. Not only does it keep the Giveth team informed of how the funds are being used, it also keeps donors engaged. When people can see the impact of their donations, it can inspire more support. Once your project is approved for the GIVbacks program, you will need to add an update to your project at least every quarter (90 days) in order to maintain the verified status. Projects that go inactive for too long will have their badges revoked.
+We want to see your progress! Please add updates to your project regularly. Not only does it keep the Giveth team informed of how the funds are being used, it also keeps donors engaged. When people can see the impact of their donations, it can inspire more support. Once your project is approved for the GIVbacks program, you will need to add an update to your project at least every quarter (90 days) in order to maintain your GIVbacks eligible status. Projects that go inactive for too long will have their badges revoked.
 
 #### Watch this video to learn how to add updates to your project:
 
@@ -142,18 +191,18 @@ We want to see your progress! Please add updates to your project regularly. Not 
 
 ## Disqualifying Factors for the GIVbacks Program
 
-Once a GIVbacks round ends, there is a period of time allocated for our team to review flagged projects and donations for disqualifying factors before GIV is distributed to donors. A project could have their Verified status revoked if any of these factors are found. Donors to projects who are found with any of the following activity may also be denied GIVbacks for that round. Disqualification factors are as follows:
+Once a GIVbacks round ends, there is a period of time allocated for our team to review flagged projects and donations for disqualifying factors before GIV is distributed to donors. A project could have their GIVbacks Eligible status revoked if any of these factors are found. Donors to projects who are found with any of the following activity may also be denied GIVbacks for that round. Disqualification factors are as follows:
 
 1. **Giving/offering goods or services to donors in exchange for their donation.** (AKA quid-pro-quos). A project owner cannot offer goods such as project tokens, sponsorship for a conference, Girl Scout cookie purchases or NFTs, even if the proceeds go to charity. Project owners cannot provide services like acting as a crypto exchange for their donors. They can explain how to use an exchange, but they cannot convert the money for their donors.
 2. **Recirculating donations through your project.** Only “first touch” donations count for GIVbacks. If a project receives funding from a donor and is found to be circulating these donations within the Giveth platform to receive GIVbacks, they will be disqualified. For example, a project should not be sending donated funds to anyone and asking them to donate on Giveth to receive GIVbacks.
-3. **The funds are not being used for what is expressed in the project page or submitted verification application.** Verified projects are responsible for keeping their projects up-to-date with information on how the funds are being used. If the project states explicitly that they are, for example, using the funds to develop education programs but are found to be using the funds to employ developers, they may be disqualified from the GIVbacks program.
+3. **The funds are not being used for what is expressed in the project page or submitted verification application.** GIVbacks Eligible projects are responsible for keeping their projects up-to-date with information on how the funds are being used. If the project states explicitly that they are, for example, using the funds to develop education programs but are found to be using the funds to employ developers, they may be disqualified from the GIVbacks program.
 4. **Unscrupulous or fraudulent activity.** This can be the use of violence, breaking laws, or other behaviour that does not uphold the values of the Giveth community. Projects found to be violating our Terms and Conditions will not only lose their verification status, but they also will be canceled.
 
 The Giveth Project Verification Team is responsible for monitoring GIVbacks activity as well as the Project Verification System. We will ultimately use our discretion to determine whether a project’s actions are unscrupulous and/or disqualifying.
 
 ## Graduated Sanctions for flagged projects
 
-The activity and donation history of Verified Projects will be periodically reviewed. Verified projects that are flagged for any of the disqualifying factors above will be analyzed and discerned according to the graduated sanctions outlined here:
+The activity and donation history of GIVbacks Eligible Projects will be periodically reviewed. GIVbacks Eligible projects that are flagged for any of the disqualifying factors above will be analyzed and discerned according to the graduated sanctions outlined here:
 
-- A project that has been flagged and deemed to be disqualified for the **first time** will be notified and their donors will not receive GIVbacks for that round and the next. They will not, however, lose their verified status immediately and will have the opportunity to make any changes necessary to keep it.
-- A project that has been flagged and deemed to be disqualified for the **second time** will be notified that their project has been flagged and that the donors for that round and all future rounds will not be receiving GIVbacks. Once a project has received a second flag, it will lose its 'Verified' badge.
+- A project that has been flagged and deemed to be disqualified for the **first time** will be notified and their donors will not receive GIVbacks for that round and the next. They will not, however, lose their GIVbacks Eligible status immediately and will have the opportunity to make any changes necessary to keep it.
+- A project that has been flagged and deemed to be disqualified for the **second time** will be notified that their project has been flagged and that the donors for that round and all future rounds will not be receiving GIVbacks. Once a project has received a second flag, it will lose its 'GIVbacks Eligible' badge.
