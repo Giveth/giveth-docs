@@ -7,11 +7,6 @@ import styles from '../src/css/custom.css'
 import ReactPlayer from 'react-player'
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
-:::caution
-**Big changes are coming to Project Verification!** We are in the process of Decentralizing our Project Verification system so some processes may have changed. *[Check out this forum thread to stay up to date](https://forum.giveth.io/t/decentralizing-project-verification/1528/9)*. This article will soon be updated to reflect the final version of the new system.
-:::
-
-
 Giveth is progressively decentralizing its system of reviewing projects for legitimacy and determining if they are providing a public good. This system determines which projects provide rewards to their donors to those projects via the [GIVbacks program](https://docs.giveth.io/giveconomy/givbacks) as well as which projects are eligible to be boosted with [GIVpower](./giveconomy/givpower). 
 
 There are two statuses that project's can have that impact their eligiblity for GIVbacks and GIVpower: "Vouched" and "GIVbacks Eligible". Each of these have a unique flow and are recommended for different types of projects. 
@@ -20,6 +15,10 @@ There are two statuses that project's can have that impact their eligiblity for 
 - **"Vouched"** projects are those that have been vouched for by 3 Giveth Verifiers. This means that the project isn't considered a public good but it is legitimate and has a trustworthy reputation. 
 
 We'll break down the details of each status and how they work. 
+
+<img alt='How to Apply' width="90%" src={useBaseUrl('img/content/Verification/DVinfographic.png')} />
+
+
 
 # Vouched Projects
 
