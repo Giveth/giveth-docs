@@ -6,9 +6,9 @@ slug: giveconomy/givbacks
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 :::info 
-**GIVbacks V2 Experiment Begins!**
+**GIVbacks Reloaded!**
 
-Starting on September 3 (Round 71), we’ll be experimenting with a new way of rewarding donors on Giveth. Each eligible donation that you make gives you a chance to win up to 250,000 GIV! Join us for our biweekly [X Spaces](https://x.com/giveth), where we’ll announce the winners, share stories, and connect with our amazing community. To learn more about this experiment with GIVbacks, check out this [blog post](https://blog.giveth.io/transform-your-donations-into-winning-chances-with-givbacks-v2-9831be80dca0) or join in the conversation on [our forum](https://forum.giveth.io/t/givbacks-v2-scaling-the-way-we-reward-public-goods-donors/1510).
+Starting on November 26th, 2024 (Round 77), the GIVbacks program will transition to a fully raffle-based system. Each eligible donation that you make gives you a chance to win up to 500,000 GIV! Join us for our biweekly [X Spaces](https://x.com/giveth), where we’ll announce the winners, share stories, and connect with our amazing community. To learn more about this transition, check out this [blog post](https://blog.giveth.io/givbacks-reloaded-introducing-the-new-givbacks-program-92d3827ba970).
 :::
 
 GIVbacks is a revolutionary concept that rewards donors to verified projects with GIV. When you give to verified projects during a GIVbacks round, you become eligible to receive GIV rewards after the round ends and the GIV is ready to claim. You can see live information --- including round schedule & your claimable GIV --- on the [GIVbacks page](https://giveth.io/givbacks).
