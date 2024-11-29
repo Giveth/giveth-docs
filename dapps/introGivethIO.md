@@ -8,7 +8,7 @@ import styles from '../src/css/custom.css'
 
 # Intro to Giveth.io
 
-Giveth.io, [launched in March 2021](https://medium.com/giveth/the-future-of-giving-is-here-d480388a3338), offers a simple and streamlined way for the world to donate to for-good projects via the Ethereum Blockchain.
+The current version of Giveth.io, [launched in March 2021](https://medium.com/giveth/the-future-of-giving-is-here-d480388a3338), offers a simple and streamlined way for the world to donate to for-good projects via the Ethereum Blockchain. This is the culmination of years of experience that started in early 2017 when [we launched the first smart contract donation platform on Ethereum](https://blog.giveth.io/giveth-donation-3-0-the-soft-launch-bf00d3bddca8).
 
 <img id="contentimg" width="800" height="auto" alt="giveth.io homepage" src={useBaseUrl('img/content/givethio/givethIOhome.png')} />
 
