@@ -23,116 +23,74 @@ The [Giveth Github organization](https://github.com/Giveth) has many, many repos
 
 <table>
   <tr>
-   <td><h3>Product</h3>
-   </td>
-   <td><h3>Repository</h3>
-   </td>
-   <td><h3>Description</h3>
-   </td>
+   <td><h3>Product</h3></td>
+   <td><h3>Repository</h3></td>
+   <td><h3>Description</h3></td>
   </tr>
   <tr>
-   <td>Giveth.io
-   </td>
-   <td>impact-graph
-   </td>
-   <td>Backend of Giveth.io
-   </td>
+   <td>Giveth.io</td>
+   <td>impact-graph</td>
+   <td>Backend of Giveth.io</td>
   </tr>
   <tr>
-   <td>Giveth.io
-   </td>
-   <td>giveth-next
-   </td>
-   <td>Giveth.io current version
-   </td>
+   <td>Giveth.io</td>
+   <td>giveth-next</td>
+   <td>Giveth.io current version</td>
   </tr>
   <tr>
-   <td>Giveth.io
-   </td>
-   <td>giveth-io-typescript
-   </td>
-   <td>Givethio typescript version with new design.
-   </td>
+   <td>Giveth.io</td>
+   <td>giveth-io-typescript</td>
+   <td>Givethio typescript version with new design.</td>
   </tr>
   <tr>
-   <td>GIVEeconomy
-   </td>
-   <td>GIVeconomy
-   </td>
-   <td>Usually used for planning and issue tracking
-   </td>
+   <td>GIVEeconomy</td>
+   <td>GIVeconomy</td>
+   <td>Usually used for planning and issue tracking</td>
   </tr>
   <tr>
-   <td>GIVeconomy
-   </td>
-   <td>giv-token-contracts
-   </td>
-   <td>Smart contract implementations
-   </td>
+   <td>GIVeconomy</td>
+   <td>giv-token-contracts</td>
+   <td>Smart contract implementations</td>
   </tr>
   <tr>
-   <td>GIVeconomy
-   </td>
-   <td>liquidity-mining-dapp
-   </td>
-   <td>GIVeconomy Frontend UI
-   </td>
+   <td>GIVeconomy</td>
+   <td>liquidity-mining-dapp</td>
+   <td>GIVeconomy Frontend UI</td>
   </tr>
   <tr>
-   <td>GIVeconomy
-   </td>
-   <td>giv-token-subgraph
-   </td>
-   <td>Calculating $GIV data for GIVeconomy Frontend
-   </td>
+   <td>GIVeconomy</td>
+   <td>giv-token-subgraph</td>
+   <td>Calculating $GIV data for GIVeconomy Frontend</td>
   </tr>
   <tr>
-   <td>GIVeconomy
-   </td>
-   <td>givback-calculation
-   </td>
-   <td>Calculating GIVbacks
-   </td>
+   <td>GIVeconomy</td>
+   <td>givback-calculation</td>
+   <td>Calculating GIVbacks</td>
   </tr>
   <tr>
-   <td>TRACE
-   </td>
-   <td>giveth-dapp
-   </td>
-   <td>Frontend and planning of giveth TRACE
-   </td>
+   <td>TRACE</td>
+   <td>giveth-dapp</td>
+   <td>Frontend and planning of giveth TRACE</td>
   </tr>
   <tr>
-   <td>TRACE
-   </td>
-   <td>feathers-giveth
-   </td>
-   <td>Backend of Giveth TRACE
-   </td>
+   <td>TRACE</td>
+   <td>feathers-giveth</td>
+   <td>Backend of Giveth TRACE</td>
   </tr>
   <tr>
-   <td>TRACE
-   </td>
-   <td>dapp-mailer
-   </td>
-   <td>Email notification system for TRACE
-   </td>
+   <td>TRACE</td>
+   <td>dapp-mailer</td>
+   <td>Email notification system for TRACE</td>
   </tr>
   <tr>
-   <td>TRACE
-   </td>
-   <td>giveth-bridge
-   </td>
-   <td>Giveth Rinkeby - Mainnet Bridge system
-   </td>
+   <td>TRACE</td>
+   <td>giveth-bridge</td>
+   <td>Giveth Rinkeby - Mainnet Bridge system</td>
   </tr>
   <tr>
-   <td>General Services
-   </td>
-   <td>ui-design-system
-   </td>
-   <td>npm package for Giveth design assets
-   </td>
+   <td>General Services</td>
+   <td>ui-design-system</td>
+   <td>npm package for Giveth design assets</td>
   </tr>
 </table>
 

@@ -55,9 +55,8 @@ Note that, even with the GIVbacks program, a donation on Giveth is still a donat
 
 If, at the end of a round, the estimated amount of GIVbacks to distribute exceeds the limit of 1 million GIV per round then donors will receive proportionally less matching relative to the rank of the project they donated to, for each donation. This is calculated as follows:
 
-$$
+```math
 n = N \frac{g}{G}
-$$
 
 where:
 

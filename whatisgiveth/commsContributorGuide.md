@@ -17,10 +17,8 @@ Giveth is a platform to support for-good projects through cryptocurrency and fia
 
 <table>
   <tr>
-   <td><a href="https://www.youtube.com/watch?v=-JXwwIGJGQQ&feature=emb_logo">Why Giveth?</a> - Giveth Donor 101 Course
-   </td>
-   <td><a href="/whatisgiveth/">MVV</a> - Mission, Vision and Values
-   </td>
+   <td><a href="https://www.youtube.com/watch?v=-JXwwIGJGQQ&feature=emb_logo">Why Giveth?</a> - Giveth Donor 101 Course</td>
+   <td><a href="/whatisgiveth/">MVV</a> - Mission, Vision and Values</td>
   </tr>
 </table>
 
@@ -30,68 +28,49 @@ Giveth is a platform to support for-good projects through cryptocurrency and fia
 
 
 <table>
-  <tr>
-   <td>
-<ol>
-
-<li><strong><a href="/whatisgiveth/introCommunity">Community Circle</a></strong>
-</li>
-</ol>
-   </td>
-   <td>
-<ul>
-
-<li>Comms WG</li>
-
-<li>Connect WG - outreach and project liaison</li>
-
-<li>Conflict Resolution WG</li>
-
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td>
-<ol>
-
-<li><strong><a href="/whatisgiveth/introPlatform/">Platform Circle</a></strong>
-   
-</li>
-Product development
-</ol>
-   </td>
-   <td>
-<ul>
-
-<li>Design WG</li>
-
-<li>Devs WG</li>
-
-<li>GIVeconomy WG</li>
-
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td>
-<ol>
-
-<li><strong><a href="/whatisgiveth/introGIVernance/">GIVernance Circle</a></strong>
-</li>
-</ol>
-   </td>
-   <td>
-<ul>
-
-<li>Governance WG</li>
-
-<li>DAO WG</li>
-
-</ul>
-   </td>
-  </tr>
+   <tr>
+      <td>
+         <ol>
+            <li><strong><a href="/whatisgiveth/introCommunity">Community Circle</a></strong></li>
+         </ol>
+      </td>
+      <td>
+         <ul>
+            <li>Comms WG</li>
+            <li>Connect WG - outreach and project liaison</li>
+            <li>Conflict Resolution WG</li>
+         </ul>
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <ol>
+            <li><strong><a href="/whatisgiveth/introPlatform/">Platform Circle</a></strong></li>
+            <li>Product development</li>
+         </ol>
+      </td>
+      <td>
+         <ul>
+            <li>Design WG</li>
+            <li>Devs WG</li>
+            <li>GIVeconomy WG</li>
+         </ul>
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <ol>
+            <li><strong><a href="/whatisgiveth/introGIVernance/">GIVernance Circle</a></strong></li>
+         </ol>
+      </td>
+      <td>
+         <ul>
+            <li>Governance WG</li>
+            <li>DAO WG</li>
+         </ul>
+      </td>
+   </tr>
 </table>
-
 
 For more detailed information and to learn more about how to participate throughout the DAO, please read our docs including: 
 
@@ -172,199 +151,141 @@ Below is more detailed information on Giveth’s workflow design.
 
 
 <table>
-  <tr>
-   <td>Amplitude 
-   </td>
-   <td>
-<ul>
-
-<li>Analytics
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://aragon.1hive.org/#/giveth/">AragonDAO</a>
-   </td>
-   <td>
-<ul>
-
-<li>Propose and vote on important governance topics using token-weighted voting.
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://discord.giveth.io">Discord</a>
-   </td>
-   <td>
-<ul>
-
-<li>Discord is where our team communicates. Introduce yourself, give feedback, find out how to contribute, or just say hello! </li>
-
-<li>Join the Community Call (11h CST/17h CET) and/or any other call that interests you via <a href="https://calendar.giveth.io/">Google calendar</a> or <a href="https://calendar.google.com/calendar/ical/givethdotio%40gmail.com/public/basic.ics">iCal</a>.
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://docs.giveth.io/">Docs.Giveth</a>
-   </td>
-   <td>
-<ul>
-
-<li>User and Developer Guides, Technical Documentation
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="http://doodle.com">Doodle</a>
-   </td>
-   <td>
-<ul>
-
-<li>Polls to schedule meeting times
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="http://figma.com">Figma</a> 
-   </td>
-   <td>
-<ul>
-
-<li>Design mockups and collaboration
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://forum.giveth.io/">Forum</a>
-   </td>
-   <td>
-<ul>
-
-<li>Engage with relevant topics and proposals, discussion about governance and Giveth tech, as well as participation in conviction voting for GIVgardens.</li>
-
-<li>Uses the Discourse platform.
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://github.com/Giveth/ ">GitHub</a>
-   </td>
-   <td>
-<ul>
-
-<li>We use Github to track all issues and tasks.</li>
-
-<li>giveth-planning for comms/community action items</li>
-
-<li>giveth-next for technical issues/user testing on giveth.io</li>
-
-<li>giveth-dapp for technical issues/user testing on giveth trace</li>
-
-<li>giveth-docs for issues on the giveth documentation</li>
-
-<li>V1 is Giveth TRACE repo.</li>
-
-<li>V2 is Giveth.io repo.
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://drive.google.com/drive/folders/0B2gzflwFITCBbmVSd052WWpuNFU?resourcekey=0--3HypbiRwLLGa0n6vHQ5kg&usp=sharing">Google Drive</a>
-   </td>
-   <td>
-<ul>
-
-<li>Collaborative documents before it is added to Notion or docs.Giveth
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://hackmd.io/Qqhlz_EYQH-J8aXTgeqCWg">HackMD</a>
-   </td>
-   <td>
-<ul>
-
-<li>Used for documentation written in markdown formatting
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://medium.com/giveth/">Medium</a> 
-   </td>
-   <td>
-<ul>
-
-<li>Publication for regular development and community updates
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://www.notion.so/giveth/Giveth-2c97e0eca91e43238565c8f79dfe5e8d">Notion</a>
-   </td>
-   <td>
-<ul>
-
-<li>Meeting notes and internal document storage
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://t.me/Givethio ">Telegram</a>
-   </td>
-   <td>
-<ul>
-
-<li>Group bridged directly to #general channel in the Giveth Discord where all messages arrive.
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://twitter.com/givethio">Twitter</a>
-   </td>
-   <td>
-<ul>
-
-<li>Stay up-to-date on exciting shares about the Future of Giving!
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td>Youtube
-   </td>
-   <td>
-<ul>
-
-<li><a href="https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ">Giveth</a> presentations and interviews</li>
-
-<li>Meeting recordings are uploaded in the <a href="https://www.youtube.com/channel/UCdqmP4axeI1hNmX20aZsOwg/featured">Giveth Transparency Channel</a>.
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://app.zenhub.com/workspaces/giveth-planning-5f08ce1f9264b300166a0185/">Zenhub</a> 
-   </td>
-   <td>
-<ul>
-
-<li>Used for issue tracking, visible in Github
-</li>
-</ul>
-   </td>
-  </tr>
+   <tr>
+      <td>Amplitude</td>
+      <td>
+         <ul>
+            <li>Analytics</li>
+         </ul>
+      </td>
+   </tr>
+   <tr>
+      <td><a href="https://aragon.1hive.org/#/giveth/">AragonDAO</a></td>
+      <td>
+         <ul>
+            <li>Propose and vote on important governance topics using token-weighted voting.</li>
+         </ul>
+      </td>
+   </tr>
+   <tr>
+      <td><a href="https://discord.giveth.io">Discord</a></td>
+      <td>
+         <ul>
+            <li>Discord is where our team communicates. Introduce yourself, give feedback, find out how to contribute, or just say hello! </li>
+            <li>Join the Community Call (11h CST/17h CET) and/or any other call that interests you via <a href="https://calendar.giveth.io/">Google calendar</a> or <a href="https://calendar.google.com/calendar/ical/givethdotio%40gmail.com/public/basic.ics">iCal</a></li>
+         </ul>
+      </td>
+   </tr>
+   <tr>
+      <td><a href="https://docs.giveth.io/">Docs.Giveth</a></td>
+      <td>
+         <ul>
+            <li>User and Developer Guides, Technical Documentation</li>
+         </ul>
+      </td>
+   </tr>
+   <tr>
+      <td><a href="http://doodle.com">Doodle</a></td>
+      <td>
+         <ul>
+            <li>Polls to schedule meeting times</li>
+         </ul>
+      </td>
+   </tr>
+   <tr>
+      <td><a href="http://figma.com">Figma</a> </td>
+      <td>
+         <ul>
+            <li>Design mockups and collaboration</li>
+         </ul>
+      </td>
+   </tr>
+   <tr>
+      <td><a href="https://forum.giveth.io/">Forum</a></td>
+      <td>
+         <ul>
+            <li>Engage with relevant topics and proposals, discussion about governance and Giveth tech, as well as participation in conviction voting for GIVgardens.</li>
+            <li>Uses the Discourse platform.</li>
+         </ul>
+      </td>
+   </tr>
+   <tr>
+      <td><a href="https://github.com/Giveth/ ">GitHub</a></td>
+      <td>
+         <ul>
+            <li>We use Github to track all issues and tasks.</li>
+            <li>giveth-planning for comms/community action items</li>
+            <li>giveth-next for technical issues/user testing on giveth.io</li>
+            <li>giveth-dapp for technical issues/user testing on giveth trace</li>
+            <li>giveth-docs for issues on the giveth documentation</li>
+            <li>V1 is Giveth TRACE repo.</li>
+            <li>V2 is Giveth.io repo.</li>
+         </ul>
+      </td>
+   </tr>
+   <tr>
+      <td><a href="https://drive.google.com/drive/folders/0B2gzflwFITCBbmVSd052WWpuNFU?resourcekey=0--3HypbiRwLLGa0n6vHQ5kg&usp=sharing">Google Drive</a></td>
+      <td>
+         <ul>
+            <li>Collaborative documents before it is added to Notion or docs.Giveth</li>
+         </ul>
+      </td>
+   </tr>
+   <tr>
+      <td><a href="https://hackmd.io/Qqhlz_EYQH-J8aXTgeqCWg">HackMD</a></td>
+      <td>
+         <ul>
+            <li>Used for documentation written in markdown formatting</li>
+         </ul>
+      </td>
+   </tr>
+   <tr>
+      <td><a href="https://medium.com/giveth/">Medium</a></td>
+      <td>
+         <ul>
+            <li>Publication for regular development and community updates</li>
+         </ul>
+      </td>
+   </tr>
+   <tr>
+      <td><a href="https://www.notion.so/giveth/Giveth-2c97e0eca91e43238565c8f79dfe5e8d">Notion</a></td>
+      <td>
+         <ul>
+            <li>Meeting notes and internal document storage</li>
+         </ul>
+      </td>
+   </tr>
+   <tr>
+      <td><a href="https://t.me/Givethio ">Telegram</a></td>
+      <td>
+         <ul>
+            <li>Group bridged directly to #general channel in the Giveth Discord where all messages arrive.</li>
+         </ul>
+      </td>
+   </tr>
+   <tr>
+      <td><a href="https://twitter.com/givethio">Twitter</a></td>
+      <td>
+         <ul>
+            <li>Stay up-to-date on exciting shares about the Future of Giving!</li>
+         </ul>
+      </td>
+   </tr>
+   <tr>
+      <td>Youtube</td>
+      <td>
+         <ul>
+            <li><a href="https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ">Giveth</a> presentations and interviews</li>
+            <li>Meeting recordings are uploaded in the <a href="https://www.youtube.com/channel/UCdqmP4axeI1hNmX20aZsOwg/featured">Giveth Transparency Channel</a>.</li>
+         </ul>
+      </td>
+   </tr>
+   <tr>
+      <td><a href="https://app.zenhub.com/workspaces/giveth-planning-5f08ce1f9264b300166a0185/">Zenhub</a></td>
+      <td>
+         <ul>
+            <li>Used for issue tracking, visible in Github</li>
+         </ul>
+      </td>
+   </tr>
 </table>
-
