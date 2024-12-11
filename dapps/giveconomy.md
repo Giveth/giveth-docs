@@ -55,7 +55,7 @@ The launch of the GIVeconomy with all the features described above is only the b
 
 Keep reading to learn more about the raw, exciting and beautiful ideas that we intend to bring to fruition. If you want to have a hand in shaping the next generation of philanthropy, start to [explore the GIVeconomy](https://giveth.io/giveconomy) and [join our community](https://giveth.io/join)!
 
-![Gurves Diagram](Gurves.jpeg)
+<img alt="Gurves flow diagram"  src={useBaseUrl('/img/content/giveconomy/Gurves.jpeg')} />
 
 ### Gurves
 

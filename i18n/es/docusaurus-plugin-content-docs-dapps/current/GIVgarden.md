@@ -99,137 +99,75 @@ Los parámetros actuales en nuestro GIVgarden son los siguientes:
 
 <table>
   <tr>
-   <td><strong>Parametros</strong>
-   </td>
-   <td><strong>Valores</strong>
-   </td>
-   <td><strong>Metricas</strong>
-   </td>
+    <td><strong>Parametros</strong></td>
+    <td><strong>Valores</strong></td>
+    <td><strong>Metricas</strong></td>
   </tr>
   <tr>
-   <td>Crecimiento de la convicción
-   </td>
-   <td><p class="rightAlign">
-30</p>
-
-   </td>
-   <td>días
-   </td>
+    <td>Crecimiento de la convicción</td>
+    <td><p class="rightAlign">30</p></td>
+    <td>días</td>
   </tr>
   <tr>
-   <td>Limite de Gastos
-   </td>
-   <td><p class="rightAlign">
-2.50</p>
-
-   </td>
-   <td>%
-   </td>
+    <td>Limite de Gastos</td>
+    <td><p class="rightAlign">2.50</p></td>
+    <td>%</td>
   </tr>
   <tr>
-   <td>Min Convicción
-   </td>
-   <td><p class="rightAlign">
-5</p>
-
-   </td>
-   <td>%
-   </td>
+    <td>Min Convicción</td>
+    <td><p class="rightAlign">5</p></td>
+    <td>%</td>
   </tr>
   <tr>
-   <td>Minimo Activos Stakeados
-   </td>
-   <td><p class="rightAlign">
-2</p>
-
-   </td>
-   <td>%
-   </td>
+    <td>Minimo Activos Stakeados</td>
+    <td><p class="rightAlign">2</p></td>
+    <td>%</td>
   </tr>
 </table>
-
 
 ### Votación Tao (Votos de Decisión)
 
 
 <table>
   <tr>
-   <td><strong>Parametros</strong>
-   </td>
-   <td><strong>Valores</strong>
-   </td>
-   <td><strong>Metricas</strong>
-   </td>
+    <td><strong>Parametros</strong></td>
+    <td><strong>Valores</strong></td>
+    <td><strong>Metricas</strong></td>
   </tr>
   <tr>
-   <td>Apoyo Requerido
-   </td>
-   <td><p class="rightAlign">
-90</p>
-
-   </td>
-   <td>%
-   </td>
+    <td>Apoyo Requerido</td>
+    <td><p class="rightAlign">90</p></td>
+    <td>%</td>
   </tr>
   <tr>
-   <td>Min Aprovacion
-   </td>
-   <td><p class="rightAlign">
-10</p>
-
-   </td>
-   <td>%
-   </td>
+    <td>Min Aprovacion</td>
+    <td><p class="rightAlign">10</p></td>
+    <td>%</td>
   </tr>
   <tr>
-   <td>Duración de Voto
-   </td>
-   <td><p class="rightAlign">
-1.5</p>
-
-   </td>
-   <td>Días
-   </td>
+    <td>Duración de Voto</td>
+    <td><p class="rightAlign">1.5</p></td>
+    <td>Días</td>
   </tr>
   <tr>
-   <td>Retraso en la ejecución
-   </td>
-   <td><p class="rightAlign">
-0.5</p>
-
-   </td>
-   <td>Días
-   </td>
+    <td>Retraso en la ejecución</td>
+    <td><p class="rightAlign">0.5</p></td>
+    <td>Días</td>
   </tr>
   <tr>
-   <td>Período de finalización tranquilo
-   </td>
-   <td><p class="rightAlign">
-0.5</p>
-
-   </td>
-   <td>Días
-   </td>
+    <td>Período de finalización tranquilo</td>
+    <td><p class="rightAlign">0.5</p></td>
+    <td>Días</td>
   </tr>
   <tr>
-   <td>Extensión de final tranquilo
-   </td>
-   <td><p class="rightAlign">
-2</p>
-
-   </td>
-   <td>Días
-   </td>
+    <td>Extensión de final tranquilo</td>
+    <td><p class="rightAlign">2</p></td>
+    <td>Días</td>
   </tr>
   <tr>
-   <td>Período de votación del delegado
-   </td>
-   <td><p class="rightAlign">
-1</p>
-
-   </td>
-   <td>Días
-   </td>
+    <td>Período de votación del delegado</td>
+    <td><p class="rightAlign">1</p></td>
+    <td>Días</td>
   </tr>
 </table>
 
@@ -239,41 +177,23 @@ Los parámetros actuales en nuestro GIVgarden son los siguientes:
 
 <table>
   <tr>
-   <td><strong>Parámetros</strong>
-   </td>
-   <td><strong>Valores</strong>
-   </td>
-   <td><strong>Metricas</strong>
-   </td>
+    <td><strong>Parámetros</strong></td>
+    <td><strong>Valores</strong></td>
+    <td><strong>Metricas</strong></td>
   </tr>
   <tr>
-   <td>Depósito de Acción
-   </td>
-   <td><p class="rightAlign">
-5000</p>
-
-   </td>
-   <td>GIV
-   </td>
+    <td>Depósito de Acción</td>
+    <td><p class="rightAlign">5000</p></td>
+    <td>GIV</td>
   </tr>
   <tr>
-   <td>Depósito de desafío
-   </td>
-   <td><p class="rightAlign">
-10000</p>
-
-   </td>
-   <td>GIV
-   </td>
+    <td>Depósito de desafío</td>
+    <td><p class="rightAlign">10000</p></td>
+    <td>GIV</td>
   </tr>
   <tr>
-   <td>Periodo de Establecimiento
-   </td>
-   <td><p class="rightAlign">
-7</p>
-
-   </td>
-   <td>Días
-   </td>
+    <td>Periodo de Establecimiento</td>
+    <td><p class="rightAlign">7</p></td>
+    <td>Días</td>
   </tr>
 </table>

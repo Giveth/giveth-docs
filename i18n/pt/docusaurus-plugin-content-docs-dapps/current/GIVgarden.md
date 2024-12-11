@@ -91,52 +91,29 @@ Os parâmetros atuais em nosso GIVgarden são os seguintes:
 
 <table>
   <tr>
-   <td><strong>Parâmetro</strong>
-   </td>
-   <td><strong>Valor</strong>
-   </td>
-   <td><strong>Métrica</strong>
-   </td>
+    <td><strong>Parâmetro</strong></td>
+    <td><strong>Valor</strong></td>
+    <td><strong>Métrica</strong></td>
   </tr>
   <tr>
-   <td>Crescimento de Convicção
-   </td>
-   <td><p class="rightAlign">
-30</p>
-
-   </td>
-   <td>dias
-   </td>
+    <td>Crescimento de Convicção</td>
+    <td><p class="rightAlign">30</p></td>
+    <td>dias</td>
   </tr>
   <tr>
-   <td>Limite de Gastos
-   </td>
-   <td><p class="rightAlign">
-2.50</p>
-
-   </td>
-   <td>%
-   </td>
+    <td>Limite de Gastos</td>
+    <td><p class="rightAlign">2.50</p></td>
+    <td>%</td>
   </tr>
   <tr>
-   <td>Convicção Mínima
-   </td>
-   <td><p class="rightAlign">
-5</p>
-
-   </td>
-   <td>%
-   </td>
+    <td>Convicção Mínima</td>
+    <td><p class="rightAlign">5</p></td>
+    <td>%</td>
   </tr>
   <tr>
-   <td>Stake Mínimo Ativo
-   </td>
-   <td><p class="rightAlign">
-2</p>
-
-   </td>
-   <td>%
-   </td>
+    <td>Stake Mínimo Ativo</td>
+    <td><p class="rightAlign">2</p></td>
+    <td>%</td>
   </tr>
 </table>
 
@@ -144,83 +121,44 @@ Os parâmetros atuais em nosso GIVgarden são os seguintes:
 
 <table>
   <tr>
-   <td><strong>Parâmetro</strong>
-   </td>
-   <td><strong>Valor</strong>
-   </td>
-   <td><strong>Métrica</strong>
-   </td>
+    <td><strong>Parâmetro</strong></td>
+    <td><strong>Valor</strong></td>
+    <td><strong>Métrica</strong></td>
   </tr>
   <tr>
-   <td>Suporte Necessário
-
-   </td>
-   <td><p class="rightAlign">
-90</p>
-
- </td>
-   <td>%
-   </td>
+    <td>Suporte Necessário</td>
+    <td><p class="rightAlign">90</p></td>
+    <td>%</td>
   </tr>
   <tr>
-   <td>Aprovação Mínima
-   </td>
-   <td><p class="rightAlign">
-10</p>
-
-   </td>
-   <td>%
-   </td>
+    <td>Aprovação Mínima</td>
+    <td><p class="rightAlign">10</p></td>
+    <td>%</td>
   </tr>
   <tr>
-   <td>Duração de Voto
-   </td>
-   <td><p class="rightAlign">
-1.5</p>
-
-   </td>
-   <td>dias
-   </td>
+    <td>Duração de Voto</td>
+    <td><p class="rightAlign">1.5</p></td>
+    <td>dias</td>
   </tr>
   <tr>
-   <td>Atraso de Execução
-   </td>
-   <td><p class="rightAlign">
-0.5</p>
-
-   </td>
-   <td>dias
-   </td>
+    <td>Atraso de Execução</td>
+    <td><p class="rightAlign">0.5</p></td>
+    <td>dias</td>
   </tr>
   <tr>
-   <td>Período Quiet Ending
-   </td>
-   <td><p class="rightAlign">
-0.5</p>
-
-   </td>
-   <td>dias
-   </td>
+    <td>Período Quiet Ending</td>
+    <td><p class="rightAlign">0.5</p></td>
+    <td>dias</td>
   </tr>
   <tr>
-   <td> Extensão do Quiet Ending
-   </td>
-   <td><p class="rightAlign">
-2</p>
-
-   </td>
-   <td>dias
-   </td>
+    <td>Extensão do Quiet Ending</td>
+    <td><p class="rightAlign">2</p></td>
+    <td>dias</td>
   </tr>
   <tr>
-   <td>Período de Votação Delegada
-   </td>
-   <td><p class="rightAlign">
-1</p>
-
-   </td>
-   <td>dia
-   </td>
+    <td>Período de Votação Delegada</td>
+    <td><p class="rightAlign">1</p></td>
+    <td>dia</td>
   </tr>
 </table>
 
@@ -228,42 +166,24 @@ Os parâmetros atuais em nosso GIVgarden são os seguintes:
 
 <table>
   <tr>
-   <td><strong>Parâmetro</strong>
-   </td>
-   <td><strong>Valor</strong>
-   </td>
-   <td><strong>Métrica</strong>
-   </td>
+    <td><strong>Parâmetro</strong></td>
+    <td><strong>Valor</strong></td>
+    <td><strong>Métrica</strong></td>
   </tr>
   <tr>
-   <td>Depósito de Ação
-   </td>
-   <td><p class="rightAlign">
-5000</p>
-
-   </td>
-   <td>GIV
-   </td>
+    <td>Depósito de Ação</td>
+    <td><p class="rightAlign">5000</p></td>
+    <td>GIV</td>
   </tr>
   <tr>
-   <td>Depósito de Desafio
-   </td>
-   <td><p class="rightAlign">
-10000</p>
-
-   </td>
-   <td>GIV
-   </td>
+    <td>Depósito de Desafio</td>
+    <td><p class="rightAlign">10000</p></td>
+    <td>GIV</td>
   </tr>
   <tr>
-   <td>Período de Liquidação
-   </td>
-   <td><p class="rightAlign">
-7</p>
-
-   </td>
-   <td>dias
-   </td>
+    <td>Período de Liquidação</td>
+    <td><p class="rightAlign">7</p></td>
+    <td>dias</td>
   </tr>
 </table>
 

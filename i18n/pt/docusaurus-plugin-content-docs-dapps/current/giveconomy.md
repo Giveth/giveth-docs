@@ -34,33 +34,24 @@ A GIVeconomy foi construída graças à nossa comunidade dedicada de Doadores. A
 
 ## O Futuro da GIVeconomy
 
-O lançamento do GIVeconomy com todos os recursos descritos acima é apenas o começo - já estamos elaborando a próxima fase do Futuro da Doação. Estamos desenvolvendo sistemas que mudarão completamente a forma como as sociedades criam e recompensam a criação de bens públicos.
+O lançamento da GIVeconomy com todos os recursos descritos acima é apenas o começo - já estamos criando a próxima fase do Futuro da Doação. Estamos desenvolvendo sistemas que mudarão completamente a forma como as sociedades criam e recompensam a criação de bens públicos.
 
-Continue lendo para saber mais sobre algumas das ideias cruas, emocionantes e belas que pretendemos concretizar. Se você quer ajudar a moldar a próxima geração de filantropia, comece a [explorar GIVeconomy](https://giv.giveth.io/) e [junte-se à nossa equipe](https://giveth.io/join)!
+Continue lendo para saber mais sobre as ideias cruas, emocionantes e belas que pretendemos concretizar. Se você quer ter um papel na formação da próxima geração de filantropia, comece a [explorar a GIVeconomy](https://giveth.io/giveconomy) e [junte-se à nossa comunidade](https://giveth.io/join)!
 
-### GIVcuration
+<img alt="Gurves flow diagram"  src={useBaseUrl('/img/content/giveconomy/Gurves.jpeg')} />
 
-Esta será uma forma descentralizada de substituir a [Verificação de Projetos](https://docs.giveth.io/dapps/makeTraceableProject) pelo programa GIVbacks. Os membros da comunidade poderão fazer o *stake* de GIV (usando o Conviction Voting) em seus projetos favoritos no Giveth. Durante as rodadas de GIVbacks, os doadores dos projetos mais votados receberão mais GIV dos GIVbacks! Usando esse sistema, a comunidade decide quais projetos darão mais retorno aos doadores, o que, por sua vez, incentiva doações para projetos alinhados aos valores da comunidade.
+### Gurves
 
-### GIVmatching
+Um grande problema que existe na sociedade atual é que os criadores de bens públicos dependem de doações e, em última análise, de sacrifícios para sobreviver. Ao contrário do setor de bens privados, não há dinâmicas de mercado no setor de bens públicos para impulsionar a inovação e o crescimento.
 
-A Giveth planeja implementar a correspondência de doações para projetos na Giveth usando "Causas". As causas serão categorias de iniciativas para o bem, como regeneração ambiental, bens públicos digitais, causas sociais, etc. Os doadores poderão doar para o Causes, e esses fundos serão distribuídos para projetos favorecidos pela comunidade (como doação correspondente) usando [financiamento quadrático](https://wtfisqf.com/?grant=&grant=&grant=&grant=&match=1000).
+O token GIV introduzirá o poder dos mercados abertos no setor de bens públicos através dos Gurves. Gurves usará [curvas de vinculação](https://thegraph.academy/curators/introduction-to-bonding-curves/) para permitir que os projetos lancem suas próprias microeconomias apoiadas por GIV, conectadas ao valor real que fornecem. As curvas de vinculação são contratos inteligentes que mantêm colateral e cunham ou queimam tokens de acordo com uma curva de preços determinada matematicamente. Isso proporciona estabilidade à economia de tokens do novo projeto e liquidez incorporada.
 
-### GIVfi
+Gurves permitirá que os projetos tokenizem seu impacto e, graças à [curva de vinculação aumentada](https://www.commonsstack.org/augmented-bonding-curve), oferecerá fluxos de receita incorporados que prosperam com a especulação.
 
-A intenção com o GIVfi é criar uma forma sustentável de manter os fundos na *pool* comum do GIVgarden. Enquanto as doações no DApp estão esperando para serem desembolsadas, elas estarão gerando rendimentos que poderão ser usados para enviar GIV ao GIVgarden para financiar iniciativas usando o Voto de Convicção.
+Gurves é nosso maior sonho e o ponto central de nosso [roteiro de longo prazo](https://blog.giveth.io/evolving-nonprofits-into-regen-economies-f8282f97f8d3).
 
-![](https://i.imgur.com/FRcA3p6.jpg)
+-----
 
-### GURVES
+**A missão da Giveth é recompensar e capacitar aqueles que dão.**
 
-Nosso maior sonho é apoiar projetos definitivos em Giveth para que se tornem suas próprias microeconomias. A ideia é que quando um doador doa para um projeto verificado no Giveth, ele recebe algum GIV do programa GIVbacks. Quando isso acontece, algum GIV é colocado em uma curva de ligação que é gerada exclusivamente para o projeto. O doador então recebe "tokens de projeto" recém-mintados da curva de ligação. Os projetos estão, de fato, recebendo sua própria economia simbólica, abrindo infinitas possibilidades de incentivos e design de sistemas!
-
-> ### Interacting using the Torus Wallet
-> Para interagir com o [GIVeconomy](https://giv.giveth.io/) e outros dApps usando a carteira Torus, você terá que conectar sua carteira. Para se conectar, clique no ícone “Connect Wallet” no canto superior direito do site, selecione Torus e verifique. A carteira Torus permite que os usuários façam login com contas de vários serviços da Web diferentes, portanto, certifique-se de fazer login com a mesma conta usada para configurar a carteira.
-> ![](https://i.imgur.com/rmrHcaV.png)
-> Se você estiver usando o navegador Brave, precisará desativar o recurso Brave's Shield. Para fazer isso, clique no logotipo do Brave à direita da barra de pesquisa e desative o Escudo.
-> ![](https://i.imgur.com/YJhf8Av.png)
---------
-
-A missão da Giveth é recompensar e capacitar aqueles que doam. [A GIVeconomy](https://giv.giveth.io/) é um marco importante no futuro da doação e está permitindo que nosso coletivo de projetos, doadores, construtores e membros da comunidade doem de novas maneiras que apoiam projetos, a sociedade e o mundo!
+[A GIVeconomy](https://giveth.io/giveconomy) é um marco importante no Futuro da Doação e está permitindo que nosso coletivo de projetos, doadores, construtores e membros da comunidade doem de novas maneiras que apoiam projetos, a sociedade e o mundo!

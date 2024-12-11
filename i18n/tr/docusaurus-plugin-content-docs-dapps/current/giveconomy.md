@@ -34,40 +34,26 @@ GIVeconomy'nin başlangıcında 1 milyar GIV tokenı çıkartıldı. 100 milyon 
 
 GIVeconomy, değerli Givers topluluğumuz sayesinde oluşturulmuştur. Giveth, 2016'dan beri bağış, zaman, beceri, emek, cömertlik ve sevgi temelinde büyüyor! Ön satışlardan veya risk sermayedarlarından hiçbir para toplanmayan, bağışçılar tarafından, bağışçılar için bir ekonomi başlatmaktan gurur duyuyoruz.
 
-## GIVeconomy’nin Geleceği
+## GIVeconomy'nin Geleceği
 
-GIVeconomy'nin yukarıda açıklanan tüm özelliklerle lansmanın yapılması sadece başlangıç - şimdiden bağışın geleceğinin bir sonraki aşamasını şekillendiriyoruz. Toplumların kamu mallarını yaratma ve ödüllendirme şeklini tamamen değiştirecek sistemler geliştiriyoruz.
+Yukarıda açıklanan tüm özelliklerle GIVeconomy'nin lansmanı sadece bir başlangıç - Bağışın Geleceği'nin bir sonraki aşamasını zaten şekillendiriyoruz. Toplumların kamu mallarını yaratma ve yaratmayı ödüllendirme şeklini tamamen değiştirecek sistemler geliştiriyoruz.
 
-Gerçekleştirmeyi hedeflediğimiz bazı ham, heyecan verici ve güzel fikirler hakkında daha fazla bilgi edinmek için okumaya devam edin. Yeni nesil hayırseverliğin şekillenmesinde rol almak istiyorsanız, [GIVeconomy](https://giveth.io/)'yi keşfetmeye başlayın ve [ekibimize katılın](https://giveth.io/join)!
+Gerçekleştirmeyi amaçladığımız ham, heyecan verici ve güzel fikirler hakkında daha fazla bilgi edinmek için okumaya devam edin. Hayırseverliğin bir sonraki neslini şekillendirmede rol almak istiyorsanız, [GIVeconomy'yi keşfetmeye başlayın](https://giveth.io/giveconomy) ve [topluluğumuza katılın](https://giveth.io/join)!
 
-### GIVcuration
+<img alt="Gurves flow diagram"  src={useBaseUrl('/img/content/giveconomy/Gurves.jpeg')} />
 
-GIVcuration, GIVbacks programı için [Proje Doğrulamanın](/tr/dapps/makeTraceableProject) yerini almanın merkeziyetsiz bir yolu olacaktır. Topluluk üyeleri, Giveth'teki favori projelerinde GIV'i (Kanaat Oylamasını kullanarak) stake edebilecek. GIVbacks turları sırasında, en çok oy alan projelere bağış yapanlar, GIVback'lerden en fazla GIV’i alacak! Bu sistemi kullanarak, hangi projelerin bağışçılara en çok geri döneceğine topluluk karar verir ve bu da topluluğun değerleriyle uyumlu projelere bağış yapılmasını teşvik eder.
+### Gurves
 
-### GIVmatching
+Bugünün toplumunda var olan büyük bir sorun, kamu malı yaratıcılarının bağışlara ve nihayetinde geçinmek için fedakarlıklara güvenmesidir. Özel mallar sektöründe olduğu gibi, kamu malları sektöründe yenilik ve büyümeyi yönlendirecek piyasa dinamikleri yoktur.
 
-Giveth, "Nedenler"i kullanarak Giveth'teki projelere bağış eşleştirmesi uygulamayı planlıyor. Nedenler, çevresel yenilenme, dijital kamu malları, sosyal nedenler vb. gibi iyiye yönelik girişim kategorileri olacaktır. Bağışçılar Nedenler’e bağış yapabilecek ve bu fon havuzları daha sonra ikinci dereceden finansman kullanılarak topluluk tarafından tercih edilen projelere ([bağış eşleştirme olarak](https://wtfisqf.com/?grant=&grant=&grant=&grant=&match=1000)) dağıtılacak.
+GIV token, Gurves aracılığıyla kamu malları sektörüne açık piyasaların gücünü tanıtacak. Gurves, projelerin sağladıkları gerçek dünya değerine bağlı olarak kendi GIV destekli mikro ekonomilerini başlatmalarını sağlamak için [bağlama eğrilerini](https://thegraph.academy/curators/introduction-to-bonding-curves/) kullanacak. Bağlama eğrileri, teminat tutan ve matematiksel olarak belirlenmiş bir fiyat eğrisine göre token basan veya yakan akıllı sözleşmelerdir. Bu, yeni projenin token ekonomisine istikrar ve yerleşik likidite sağlar.
 
-### GIVfi
+Gurves, projelerin etkilerini tokenleştirmelerine ve [geliştirilmiş bağlama eğrisi](https://www.commonsstack.org/augmented-bonding-curve) sayesinde spekülasyonla gelişen yerleşik gelir akışları sunmalarına olanak tanıyacak.
 
-GIVfi ile amaç, GIVgarden topluluk havuzunda fon tutmanın sürdürülebilir bir yolunu yaratmaktır. DApp'teki bağışlar ödenmeyi beklerken, Kanaat Oylaması ile girişimleri finanse etmek için GIVgarden'a GIV göndermede kullanılabilecek faiz üreteceklerdir.
+Gurves, en büyük hayalimiz ve [uzun vadeli yol haritamızın](https://blog.giveth.io/evolving-nonprofits-into-regen-economies-f8282f97f8d3) merkezi noktasıdır.
 
-<img alt="GIVfi diagram" src={useBaseUrl('img/content/giveconomy/GIVfi.jpg')} />
+-----
 
+**Giveth'in misyonu, verenleri ödüllendirmek ve güçlendirmektir.**
 
-### GURVES
-
-En büyük hayalimiz, Giveth'teki iyiye yönelik projelerin kendi mikroekonomileri haline gelmelerini desteklemek. Buradaki fikir, bir bağışçı Giveth'te doğrulanmış bir projeye bağışta bulunduğunda, GIVbacks programından bir miktar GIV alırlar. Bu olduğunda, bir miktar GIV, proje için özel olarak oluşturulan bir [bonding curve](https://thegraph.academy/curators/introduction-to-bonding-curves/) konur. Bağışçı daha sonra bağlanma eğrisinden yeni çıkartılmış "proje tokenları" alır. Projelere aslında kendi token ekonomileri hediye edilirek teşvikler ve sistem tasarımı için sonsuz olasılıklar açılır!
-
-<details>
-    <summary><h3><i>Torus Cüzdanını kullanarak etkileşime geçme></i></h3></summary>
-*Torus cüzdanı ile [GIVeconomy](https://giveth.io/) ve diğer dApp'lerle etkileşim kurmak için cüzdanınızı bağlamanız gerekir. Bağlanmak için sitenin sağ üst köşesindeki “Connect Wallet” simgesine tıklayın, ardından Torus'u seçin ve doğrulayın. Torus cüzdanı, kullanıcıların birçok farklı web hizmetinden hesaplarla oturum açmasına izin verir, bu nedenle cüzdanı kurmak için kullandığınız hesapla oturum açtığınızdan emin olun.*
-
- <img alt="Signing in with Torus on the GIVeconomy" width="50%" height="auto" class='center' src={useBaseUrl('img/content/giveconomyTorusConnect.png')} />
-*Brave tarayıcısını kullanıyorsanız, Brave's Shield özelliğini kapatmanız gerekecektir. Bunu yapmak için arama çubuğunun sağındaki Brave logosuna tıklayın, ardından Shiled kapalı konuma getirin.*
-  <img alt="Turning shields off with Brave" class='center'  width="35%" height="auto" src={useBaseUrl("img/content/giveconomyShieldsDown.png")} />
-</details>
-
----
-
-Giveth'in misyonu, bağışçıları ödüllendirmek ve güçlendirmektir. [GIVeconomy](https://giveth.io/), projeler, bağışçılar, inşaatçılar ve topluluk üyelerinden oluşan kolektifimizin, projeleri, toplumu ve dünyayı desteklemek için yeni yollarla bağış yapmalarını sağladığı için bağışın geleceğinde önemli bir kilometre taşıdır!
+[GIVeconomy](https://giveth.io/giveconomy), Bağışın Geleceği'nde önemli bir kilometre taşıdır ve projeleri, bağışçıları, inşaatçıları ve topluluk üyelerini destekleyen yeni yollarla projelere, topluma ve dünyaya katkıda bulunmamızı sağlıyor!

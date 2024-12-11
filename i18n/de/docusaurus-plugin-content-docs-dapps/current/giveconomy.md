@@ -34,38 +34,24 @@ The GIVeconomy has been built thanks to our dedicated community of Givers. Givet
 
 ## The GIVeconomy Future
 
-The launch of GIVeconomy with all the features described above is only the beginning - we are already crafting the next phase of the Future of Giving. We're developing systems that will completely change the way societies create and reward the creation of public goods.
+The launch of the GIVeconomy with all the features described above is only the beginning - we are already crafting the next phase of the Future of Giving. We're developing systems that will completely change the way societies create and reward the creation of public goods.
 
-Keep reading to learn more about some of the raw, exciting and beautiful ideas that we intend to bring to fruition. If you want to have a hand in shaping the next generation of philanthropy, start to [explore GIVeconomy](https://giv.giveth.io/) and [join our team](https://giveth.io/join)!
+Keep reading to learn more about the raw, exciting and beautiful ideas that we intend to bring to fruition. If you want to have a hand in shaping the next generation of philanthropy, start to [explore the GIVeconomy](https://giveth.io/giveconomy) and [join our community](https://giveth.io/join)!
 
-### **GIVcuration**
-This will be a decentralized way to replace [Project Verification](https://docs.giveth.io/dapps/makeTraceableProject) for the GIVbacks program. Community members will be able to stake GIV (using Conviction Voting) on their favourite projects on Giveth. During GIVbacks rounds, the donors to the top voted projects will get the most GIV from GIVbacks! Using this system, the community decides which projects will give the most back to donors which in turn encourages donations to projects that align with the community's values.
+<img alt="Gurves flow diagram"  src={useBaseUrl('/img/content/giveconomy/Gurves.jpeg')} />
 
-### **GIVmatching**
-Giveth plans to implement donation matching to projects on Giveth using "Causes". Causes will be for-good initiative categories such as environmental regeneration, digital public goods, social causes, etc. Donors will be able to donate to Causes, and these pools of funds will then be distributed to community-favoured projects (as donation matching) using [quadratic funding](https://wtfisqf.com/?grant=&grant=&grant=&grant=&match=1000).
+### Gurves
 
-### **GIVfi**
-The intention with GIVfi is to create a sustainable way of maintaining funds in the GIVgarden common pool. While donations on the DApp are waiting to be disbursed, they will be generating interest that can be used to send GIV to the GIVgarden for funding initiatives using Conviction Voting.
+A major problem that exists within today’s society is that public goods creators rely on donations and, ultimately, sacrifice to get by. Unlike in the private goods sector, there are no market dynamics in the public goods sector to drive innovation and growth.
 
-<img alt="GIVfi diagram" src={useBaseUrl('img/content/giveconomy/GIVfi.jpg')} />
+The GIV token will introduce the power of open markets to the public goods sector through Gurves. Gurves will use [bonding curves](https://thegraph.academy/curators/introduction-to-bonding-curves/) to enable projects to launch their own GIV-backed microeconomies, connected to the real-world value they provide. Bonding curves are smart contracts that hold collateral and mint or burn tokens according to a mathematically determined price curve. This provides stability to the new project’s token economy and built-in liquidity.
 
-### **GURVES**
-Our biggest dream is to support for-good projects on Giveth to become their own microeconomies. The idea is when a donor gives to a verified project on Giveth, they get some GIV from the GIVbacks program. When this happens, some GIV is put into a [bonding curve](https://thegraph.academy/curators/introduction-to-bonding-curves/) that is uniquely generated for the project. The donor then receives freshly minted "project tokens" from the bonding curve. Projects are in effect being gifted their own token economy, opening up endless possibilities for incentives and system design!
+Gurves will allow projects to tokenize their impact and, thanks to the [augmented bonding curve](https://www.commonsstack.org/augmented-bonding-curve), will offer built-in revenue streams that thrive with speculation.
 
-
-<details>
-  <summary><h3><i>*Interacting using the Torus Wallet</i></h3></summary>
-  <div><p>To interact with the [GIVeconomy](https://giv.giveth.io/) and other dApps using the Torus wallet, you will have to connect your wallet. To connect, click the “Connect Wallet” icon in the upper right corner of the site, then select Torus and verify. The Torus wallet allows users to sign in with accounts from many different web services, so be sure to sign in with the same account you used to set up the wallet.</p>
-
-  <img alt="Signing in with Torus on the GIVeconomy" width="50%" height="auto" class='center' src={useBaseUrl('img/content/giveconomyTorusConnect.png')} />
-
-  <p>If you are using the Brave browser, you will need to turn off Brave’s Shield feature. To do this, click the Brave logo to the right of the search bar, then toggle the Shield to off.</p>
-
-  <img alt="Turning shields off with Brave" class='center'  width="35%" height="auto" src={useBaseUrl("img/content/giveconomyShieldsDown.png")} />
-  </div>
-</details>
-
+Gurves is our biggest dream and the central point of our [long-term roadmap](https://blog.giveth.io/evolving-nonprofits-into-regen-economies-f8282f97f8d3).
 
 -----
 
-Giveth's mission is to reward and empower those who give. [The GIVeconomy](https://giv.giveth.io/) is a major milestone in the Future of Giving and is enabling our collective of projects, donors, builders, and community members to give in new ways that support projects, society & the world!
+**Giveth's mission is to reward and empower those who give.**
+
+[The GIVeconomy](https://giveth.io/giveconomy) is a major milestone in the Future of Giving and is enabling our collective of projects, donors, builders, and community members to give in new ways that support projects, society & the world!

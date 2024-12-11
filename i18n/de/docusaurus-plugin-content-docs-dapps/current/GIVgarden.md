@@ -97,56 +97,6 @@ The current parameters in our GIVgarden are as follow:
 ### Conviction Voting (Funding Requests and Suggestions)
 
 
-<table>
-  <tr>
-   <td><strong>Parameter</strong>
-   </td>
-   <td><strong>Value</strong>
-   </td>
-   <td><strong>Metric</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Conviction Growth
-   </td>
-   <td><p class="rightAlign">
-30</p>
-
-   </td>
-   <td>days
-   </td>
-  </tr>
-  <tr>
-   <td>Spending Limit
-   </td>
-   <td><p class="rightAlign">
-2.50</p>
-
-   </td>
-   <td>%
-   </td>
-  </tr>
-  <tr>
-   <td>Min Conviction
-   </td>
-   <td><p class="rightAlign">
-5</p>
-
-   </td>
-   <td>%
-   </td>
-  </tr>
-  <tr>
-   <td>Minimum Active Stake
-   </td>
-   <td><p class="rightAlign">
-2</p>
-
-   </td>
-   <td>%
-   </td>
-  </tr>
-</table>
 
 
 ### Tao Voting (Decision Votes)
@@ -154,126 +104,69 @@ The current parameters in our GIVgarden are as follow:
 
 <table>
   <tr>
-   <td><strong>Parameter</strong>
-   </td>
-   <td><strong>Value</strong>
-   </td>
-   <td><strong>Metric</strong>
-   </td>
+    <td><strong>Parameter</strong></td>
+    <td><strong>Value</strong></td>
+    <td><strong>Metric</strong></td>
   </tr>
   <tr>
-   <td>Support Required
-   </td>
-   <td><p class="rightAlign">
-90</p>
-
-   </td>
-   <td>%
-   </td>
+    <td>Support Required</td>
+    <td><p class="rightAlign">90</p></td>
+    <td>%</td>
   </tr>
   <tr>
-   <td>Min Approval
-   </td>
-   <td><p class="rightAlign">
-10</p>
-
-   </td>
-   <td>%
-   </td>
+    <td>Min Approval</td>
+    <td><p class="rightAlign">10</p></td>
+    <td>%</td>
   </tr>
   <tr>
-   <td>Vote Duration
-   </td>
-   <td><p class="rightAlign">
-1.5</p>
-
-   </td>
-   <td>days
-   </td>
+    <td>Vote Duration</td>
+    <td><p class="rightAlign">1.5</p></td>
+    <td>days</td>
   </tr>
   <tr>
-   <td>Execution delay
-   </td>
-   <td><p class="rightAlign">
-0.5</p>
-
-   </td>
-   <td>days
-   </td>
+    <td>Execution delay</td>
+    <td><p class="rightAlign">0.5</p></td>
+    <td>days</td>
   </tr>
   <tr>
-   <td>Quiet Ending Period
-   </td>
-   <td><p class="rightAlign">
-0.5</p>
-
-   </td>
-   <td>days
-   </td>
+    <td>Quiet Ending Period</td>
+    <td><p class="rightAlign">0.5</p></td>
+    <td>days</td>
   </tr>
   <tr>
-   <td>Quiet Ending extension
-   </td>
-   <td><p class="rightAlign">
-2</p>
-
-   </td>
-   <td>days
-   </td>
+    <td>Quiet Ending extension</td>
+    <td><p class="rightAlign">2</p></td>
+    <td>days</td>
   </tr>
   <tr>
-   <td>Delegated Voting Period
-   </td>
-   <td><p class="rightAlign">
-1</p>
-
-   </td>
-   <td>days
-   </td>
+    <td>Delegated Voting Period</td>
+    <td><p class="rightAlign">1</p></td>
+    <td>days</td>
   </tr>
 </table>
-
 
 ### Proposal Settings
 
 
 <table>
   <tr>
-   <td><strong>Parameter</strong>
-   </td>
-   <td><strong>Value</strong>
-   </td>
-   <td><strong>Metric</strong>
-   </td>
+    <td><strong>Parameter</strong></td>
+    <td><strong>Value</strong></td>
+    <td><strong>Metric</strong></td>
   </tr>
   <tr>
-   <td>Action Deposit
-   </td>
-   <td><p class="rightAlign">
-5000</p>
-
-   </td>
-   <td>GIV
-   </td>
+    <td>Action Deposit</td>
+    <td><p class="rightAlign">5000</p></td>
+    <td>GIV</td>
   </tr>
   <tr>
-   <td>Challenge Deposit
-   </td>
-   <td><p class="rightAlign">
-10000</p>
-
-   </td>
-   <td>GIV
-   </td>
+    <td>Challenge Deposit</td>
+    <td><p class="rightAlign">10000</p></td>
+    <td>GIV</td>
   </tr>
   <tr>
-   <td>Settlement Period
-   </td>
-   <td><p class="rightAlign">
-7</p>
-
-   </td>
-   <td>days
-   </td>
+    <td>Settlement Period</td>
+    <td><p class="rightAlign">7</p></td>
+    <td>days</td>
   </tr>
 </table>
