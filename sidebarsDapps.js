@@ -42,7 +42,7 @@ module.exports = {
             type: 'category',
             label: 'GIVfarm',
             link: {type: 'doc', id: 'givfarm'},
-            items:['regenFarms', 'angelVault']
+            items:['regenFarms']
           }
           , 'givdrop'
 ]
@@ -53,23 +53,31 @@ module.exports = {
     ,
     'disclosure',
     'troubleshooting',
-    {
-     type: 'category',
-     label: "Developer Guides",
-     items: [ 'contributors','givethioinstallation' , {
-       type: 'category',
-       label: "Giveth TRACE (Deprecated)",
-       items: ['TRACEinstallation','bridgeSecurity', 'developmentProcess']
-     },
-     'regenFarmContracts'
-  ]
-   },
+  //   {
+  //    type: 'category',
+  //    label: "Developer Guides",
+  //    items: [ 'contributors','givethioinstallation' , {
+  //      type: 'category',
+  //      label: "Giveth TRACE (Deprecated)",
+  //      items: ['TRACEinstallation','bridgeSecurity', 'developmentProcess']
+  //    },
+  //    'regenFarmContracts'
+  // ]
+  //  },
    {
     type: 'category',
-    label: 'Giveth TRACE (Deprecated)',
-    link: {type: 'doc', id:'introTrace'},
-    items: [ 'entitiesAndRoles','makeTraceableProject','leavingTraces', 'technicalWhitePaper', 'exchangeRates', 'traceContracts' ]
-     },
+    label: 'Archives',
+    items: [
+      {
+        type: 'category',
+        label: 'Giveth TRACE (Deprecated)',
+        link: {type: 'doc', id:'introTrace'},
+        items: [ 'entitiesAndRoles','makeTraceableProject','leavingTraces', 'technicalWhitePaper', 'exchangeRates', 'traceContracts' ]
+         },'niceToken', 'angelVault',
+
+    ]
+   },       
+  
   
    ],
 

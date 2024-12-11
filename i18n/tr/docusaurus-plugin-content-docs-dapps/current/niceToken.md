@@ -1,10 +1,15 @@
 ---
 id: niceToken
-title: $nice Token Nedir?
+title: $nice Token Nedir? (Deprecated)
 slug: /giveconomy/niceToken
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
+_**$nice token dağıtımı 24 Aralık 2024 tarihinde durdurulmuştur. $nice tokenleri hala tanıtım ve topluluk teşvikleri için dağıtılabilir, ancak artık [Giveth Projesi](https://giveth.io/project/the-giveth-community-of-makers) için stablecoin bağışları için iki haftada bir dağıtılmayacaktır.**_
+
+_**Bu dokümantasyon tarihsel referans için mevcut kalacaktır.**_
+
+---
 
  $nice Token, Giveth Organizasyonuna doğrudan bağışları teşvik etmek amacıyla 2022'nin 3. çeyreğinde piyasaya sürüldü. 
  
