@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgiveth_docs=self.webpackChunkgiveth_docs||[]).push([[1713],{3457:e=>{e.exports=JSON.parse('[{"label":"how-to","permalink":"/blog/tags/how-to","count":1},{"label":"documentation","permalink":"/blog/tags/documentation","count":1}]')}}]);
