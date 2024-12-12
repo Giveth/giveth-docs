@@ -54,7 +54,7 @@ module.exports = {
         ,
         'disclosure',
         'troubleshooting',
-        {
+       {
           type: 'category',
           label: "Developer Guides",
           items: ['contributors', 'givethioinstallation', {
@@ -71,9 +71,7 @@ module.exports = {
           link: { type: 'doc', id: 'introTrace' },
           items: ['entitiesAndRoles', 'makeTraceableProject', 'leavingTraces', 'technicalWhitePaper', 'exchangeRates', 'traceContracts']
         },
-
       ],
-
     },
   ]
 }

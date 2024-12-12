@@ -1,11 +1,16 @@
 ---
 id: niceToken
-title: $nice Token
+title: $nice Token (Depcrecated)
 slug: /giveconomy/niceToken
 ---
 import NotTranslatedMessage from '../../_notTranslatedES.mdx'
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
+_**La distribución del token $nice se ha descontinuado el 24 de diciembre de 2024. Los tokens $nice aún pueden ser distribuidos para incentivos promocionales y comunitarios, sin embargo, ya no se distribuirán quincenalmente para donaciones en stablecoin al [Proyecto Giveth](https://giveth.io/project/the-giveth-community-of-makers).**_
+
+_**Esta documentación permanecerá disponible para referencia histórica.**_
+
+---
 
 El token $nice se lanzó en el tercer trimestre de 2022 en un esfuerzo por promover las donaciones directas a la Organización Giveth.
 
