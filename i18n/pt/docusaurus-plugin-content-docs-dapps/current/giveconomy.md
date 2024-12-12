@@ -4,33 +4,46 @@ title: GIVeconomy
 slug: giveconomy/
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
+import LiquidityList from '../../../../dapps/_liquidityPoolList.mdx'
 
 
-A Giveth está construindo uma cultura de doação que capacita e recompensa aqueles que doam – para projetos, para a sociedade e para o mundo. Nosso objetivo é inspirar nossa comunidade a participar de um ecossistema de apoio coletivo, abundância e criação de valor. **Bem-vindo ao GIVeconomy.**
+Giveth está construindo uma cultura de doação que capacita e recompensa aqueles que doam -- para projetos, para a sociedade e para o mundo. Nosso objetivo é inspirar nossa comunidade a participar de um ecossistema de apoio coletivo, abundância e criação de valor.
+
+**Bem-vindo à [GIVeconomy](https://medium.com/giveth/welcome-to-the-giveconomy-b3e372da63dd)!**
 
 ## Sobre o GIV
 
-GIV é o token de governança que alimenta e direciona a GIVeconomy. Os detentores de GIV têm o poder de coordenar coletivamente recursos compartilhados e financiar iniciativas que moldam o Futuro da Doação.
+GIV é o token de governança que alimenta e direciona a GIVeconomy. Os detentores de GIV são capacitados para coordenar coletivamente em torno de recursos compartilhados e financiar iniciativas que moldam o Futuro da Doação.
 
-No lançamento, nossa comunidade pode participar da GIVeconomy das seguintes maneiras:
+**[Clique aqui para descobrir os melhores lugares para obter e fazer bridge de GIV!](https://linktr.ee/givtoken)**
 
-* A partir de 24 de dezembro de 2021, os destinatários elegíveis podem reivindicar seu [**GIVdrop**](https://docs.giveth.io/giveconomy/givdrop) na Gnosis Chain (anteriormente Rede xDai).
-* Doadores de [projetos verificados](https://giveth.io/projects) no Giveth recebem recompensas de [**GIVbacks**](https://docs.giveth.io/giveconomy/givbacks).
-* Provedores de liquidez e *stakers* podem ganhar recompensas no [**GIVfarm**](https://docs.giveth.io/giveconomy/givfarm).
-* Todos os detentores de GIV podem criar e/ou votar em propostas no [**GIVgarden**](https://docs.giveth.io/giveconomy/givgarden).
-* Qualquer pessoa que reivindique o GIV de sua participação na GIVeconomy recebe um fluxo contínuo de GIV do [**GIVstream**](https://docs.giveth.io/giveconomy/givstream) até 23 de dezembro de 2026.
+Nossa comunidade pode participar da GIVeconomy das seguintes maneiras:
+- Stakers de GIV podem ganhar recompensas na [**GIVfarm**](./givfarm).
+- Doadores para [projetos verificados](https://giveth.io/projects/all?filter=Verified) no Giveth recebem recompensas de [**GIVbacks**](./givbacks).
+- Detentores de GIV podem fazer stake de seu GIV para obter [**GIVpower!**](./givpower). Com GIVpower, eles podem impulsionar os projetos que amam para aumentar sua classificação, bem como a porcentagem de GIVbacks recompensados aos seus doadores.
+- Qualquer pessoa que reivindique GIV de sua participação na GIVeconomy recebe um fluxo contínuo de GIV do [**GIVstream**](./givstream) até 23 de dezembro de 2026.
 
-### Informações do token
+### Endereços de Token
 
-* Endereço do token na rede principal: 0x900db999074d9277c5da2a43f252d74366230da0
-* Endereço do token na Gnosis Chain (anteriormente Rede xDai): 0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75
+- Mainnet: [`0x900db999074d9277c5da2a43f252d74366230da0`](https://etherscan.io/token/0x900db999074d9277c5da2a43f252d74366230da0)
+- Gnosis Chain: [`0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75`](https://gnosisscan.io/token/0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75)
+- Optimism: [`0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98`](https://optimistic.etherscan.io/token/0x528cdc92eab044e1e39fe43b9514bfdab4412b98)
+- Solana: [`3Xi3EhKjnKAk2KTChzybUSWcLW6eAgTHyotHH1U6sJE1`](https://solscan.io/token/3Xi3EhKjnKAk2KTChzybUSWcLW6eAgTHyotHH1U6sJE1)
+- Polygon zkEVM: [`0xddAFB91475bBf6210a151FA911AC8fdA7dE46Ec2`](https://zkevm.polygonscan.com/token/0xddAFB91475bBf6210a151FA911AC8fdA7dE46Ec2)
 
-### Distribuição
+### Distribuição de Tokens GIV
 
-Uma quantidade de 1 bilhão de tokens GIV foram mintados no início da GIVeconomy. 100 milhões dos tokens GIV são líquidos e disponíveis para uso imediato, e os outros 900 milhões foram alocados ao [GIVstream](https://docs.giveth.io/giveconomy/givstream) e estão sendo lançados continuamente em todo o "GIViverse" por um período de 5 anos (até 23 de dezembro de 2026). A distribuição da oferta total de GIV em todo o GIViverse é descrita no gráfico a seguir:
+Um total de 1 bilhão de tokens GIV foram cunhados no início da GIVeconomy. 100 milhões dos tokens GIV são líquidos e estão disponíveis para uso imediato, e os outros 900 milhões foram alocados para o [GIVstream](./givstream) e estão sendo liberados continuamente em todo o "GIViverse" ao longo de um período de 5 anos (até 23 de dezembro de 2026). A distribuição do fornecimento total de GIV em todo o GIViverse é descrita no gráfico a seguir:
 
-![](https://i.imgur.com/0cLOODE.jpg)
-A GIVeconomy foi construída graças à nossa comunidade dedicada de Doadores. A Giveth vem crescendo desde 2016 com base em doações, tempo, habilidades, suor, generosidade e amor!
+<img alt='distribuição da economia GIV' src={useBaseUrl('/img/content/giveconomy/giveconomyDistro.jpg')} />
+
+A GIVeconomy foi construída graças à nossa dedicada comunidade de Givers. Giveth tem crescido desde 2016 com base em doações, tempo, habilidades, suor, generosidade e amor! Estamos orgulhosos de lançar uma economia por e para os doadores, sem dinheiro obtido de pré-vendas ou capitalistas de risco.
+
+### Pools de Liquidez da DAO
+
+Estes são pools de liquidez que são apoiados pela DAO do Giveth. Consulte esta tabela para encontrar pools de liquidez de GIV; está organizada por rede, token emparelhado e tamanho do pool:
+
+<LiquidityList />
 
 ## O Futuro da GIVeconomy
 

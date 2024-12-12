@@ -4,6 +4,7 @@ title: GIVeconomy
 slug: giveconomy/
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
+import LiquidityList from '../../../../dapps/_liquidityPoolList.mdx'
 
 
 Giveth, projelere, topluma ve dünyaya katkı sağlayan kişileri güçlendiren ve ödüllendiren bir bağış kültürü oluşturuyor. Amacımız, topluluğumuzu kolektif destek, bolluk ve değer yaratma ekosistemine katılmaya teşvik etmek.
@@ -14,12 +15,12 @@ Giveth, projelere, topluma ve dünyaya katkı sağlayan kişileri güçlendiren 
 
 GIV, GIVeconomy’yi yönlendiren ve destekleyen yönetişim token’ıdır. GIV sahipleri, paylaşılan kaynaklar etrafında kolektif olarak koordinasyon sağlayarak Bağışçılığın Geleceğini şekillendiren girişimleri finanse etme gücüne sahiptir.
 
-**[GIV edinmek ve köprüleme hakkında daha fazla bilgi edinin!](https://linktr.ee/givtoken)**
+**[GIV edinmek ve köprüleme h- GIV sahipleri, GIV'lerini stake ederek [**GIVpower**](./givpower) kazanabilir. GIVpower ile sevdikleri projelerin sıralamasını ve bağışçılara verilen GIVbacks ödüllerinin yüzdesini artırabilirler.
+akkında daha fazla bilgi edinin!](https://linktr.ee/givtoken)**
 
 Topluluğumuz, GIVeconomy'ye şu yollarla katılabilir:
 - GIV sahipleri [**GIVfarm**](./givfarm)’da ödül kazanabilir.
 - [Doğrulanmış projelere](https://giveth.io/projects/all?filter=Verified) bağış yapanlar [**GIVbacks**](./givbacks) ödüllerinden faydalanabilir.
-- GIV sahipleri, GIV'lerini stake ederek [**GIVpower**](./givpower) kazanabilir. GIVpower ile sevdikleri projelerin sıralamasını ve bağışçılara verilen GIVbacks ödüllerinin yüzdesini artırabilirler.
 - GIVeconomy’ye katılım yoluyla elde edilen GIV ödülleri, [**GIVstream**](./givstream) aracılığıyla 23 Aralık 2026’ya kadar sürekli bir akış şeklinde alınabilir.
 
 ### Token Adresleri
@@ -42,11 +43,7 @@ GIVeconomy, bağışçılardan oluşan adanmış topluluğumuz sayesinde inşa e
 
 Bunlar, Giveth DAO tarafından desteklenen likidite havuzlarıdır. Aşağıdaki tablo, GIV likidite havuzlarını ağ, eşlenmiş token ve havuz büyüklüğüne göre organize eder:
 
-| **Gnosis** | [GNO](https://info.honeyswap.org/#/pair/0x5aa67e24ba8a3fbdc553e308d02377e03ce9e94f) | [FOX](https://info.honeyswap.org/#/pair/0x75594f01da2e4231e16e67f841c307c4df2313d1) | [WATER](https://info.honeyswap.org/#/pair/0xe96adbd48d57ef7a5ee8fa622c1cd7fc7731630e) | [WETH](https://www.sushi.com/pool/100%3A0x55ff0cef43f0df88226e9d87d09fa036017f5586) | [BRIGHT](https://info.honeyswap.org/#/pair/0x094cf5da3f313747f460f1e410e0daefcad6c0c8) | [HNY](https://info.honeyswap.org/#/pair/0x08ea9f608656a4a775ef73f5b187a2f1ae2ae10e) | [xDAI](https://info.honeyswap.org/#/pair/0xb7189a7ea38fa31210a79fe282aec5736ad5fa57) |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Optimism** | [**OP**](https://velodrome.finance/deposit?token0=0x4200000000000000000000000000000000000042&token1=0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98&type=-1) | [**DAI**](https://app.uniswap.org/explore/pools/optimism/0x969e1D236289742C9D36eA1c7124cdDb84397772) | [**TEC**](https://velodrome.finance/deposit?token0=0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98&token1=0x8Fc7C1109c08904160d6AE36482B79814D45eB78&type=-1) | [**USDGLO**](https://app.uniswap.org/explore/pools/optimism/0x165E6DAD9772C8CB44015eDD5bd8b012A84bd276) | | | |
-| **Mainnet** | [**ETH**](https://info.uniswap.org/#/pools/0xc763b6b3d0f75167db95daa6a0a0d75dd467c4e1) | [**MATIC**](https://app.uniswap.org/explore/pools/ethereum/0x46ad345fff4aec9990a4f20e829c50fbf291db0e) | | | | |
-| **Solana** | [**SOL**](https://www.orca.so/liquidity?address=E7yVYRW2HZVXcreRE2asLs4HmtyviGbnnTXTarj7uDjc) | | | | | |
+<LiquidityList />
 
 
 ## GIVeconomy'nin Geleceği

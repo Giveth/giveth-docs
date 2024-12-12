@@ -4,7 +4,7 @@ title: GIVeconomy
 slug: giveconomy/
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
-
+import LiquidityList from '../../../../dapps/_liquidityPoolList.mdx'
 
 Giveth está construyendo una cultura de dar que empodera y recompensa a aquellos que dan: a proyectos, a la sociedad y al mundo. Nuestro objetivo es inspirar a nuestra comunidad a participar en un ecosistema de apoyo colectivo, abundancia y creación de valor.
 
@@ -42,11 +42,8 @@ La GIVeconomy ha sido construida gracias a nuestra dedicada comunidad de Givers.
 
 Estos son pools de liquidez que son apoyados por la DAO de Giveth. Consulte esta tabla para encontrar pools de liquidez de GIV; está organizada por red, token emparejado y tamaño del pool:
 
-| Gnosis | [GNO](https://info.honeyswap.org/#/pair/0x5aa67e24ba8a3fbdc553e308d02377e03ce9e94f) | [FOX](https://info.honeyswap.org/#/pair/0x75594f01da2e4231e16e67f841c307c4df2313d1) | [WATER](https://info.honeyswap.org/#/pair/0xe96adbd48d57ef7a5ee8fa622c1cd7fc7731630e) | [WETH](https://www.sushi.com/pool/100%3A0x55ff0cef43f0df88226e9d87d09fa036017f5586) | [BRIGHT](https://info.honeyswap.org/#/pair/0x094cf5da3f313747f460f1e410e0daefcad6c0c8) | [HNY](https://info.honeyswap.org/#/pair/0x08ea9f608656a4a775ef73f5b187a2f1ae2ae10e) | [xDAI](https://info.honeyswap.org/#/pair/0xb7189a7ea38fa31210a79fe282aec5736ad5fa57) |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Optimism** | [**OP**](https://velodrome.finance/deposit?token0=0x4200000000000000000000000000000000000042&token1=0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98&type=-1) | [**DAI**](https://app.uniswap.org/explore/pools/optimism/0x969e1D236289742C9D36eA1c7124cdDb84397772) | [**TEC**](https://velodrome.finance/deposit?token0=0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98&token1=0x8Fc7C1109c08904160d6AE36482B79814D45eB78&type=-1) | [**USDGLO**](https://app.uniswap.org/explore/pools/optimism/0x165E6DAD9772C8CB44015eDD5bd8b012A84bd276) | | | |
-| **Mainnet** | [**ETH**](https://info.uniswap.org/#/pools/0xc763b6b3d0f75167db95daa6a0a0d75dd467c4e1) | [**MATIC**](https://app.uniswap.org/explore/pools/ethereum/0x46ad345fff4aec9990a4f20e829c50fbf291db0e) | | | | |
-| **Solana** | [**SOL**](https://www.orca.so/liquidity?address=E7yVYRW2HZVXcreRE2asLs4HmtyviGbnnTXTarj7uDjc) | | | | | |
+<LiquidityList />
+
 
 ## El Futuro de la GIVeconomy
 

@@ -54,17 +54,6 @@ module.exports = {
         ,
         'disclosure',
         'troubleshooting',
-       {
-          type: 'category',
-          label: "Developer Guides",
-          items: ['contributors', 'givethioinstallation', {
-            type: 'category',
-            label: "Giveth TRACE (Deprecated)",
-            items: ['TRACEinstallation', 'bridgeSecurity']
-          },
-            'regenFarmContracts'
-          ]
-        },
         {
           type: 'category',
           label: 'Giveth TRACE (Deprecated)',
