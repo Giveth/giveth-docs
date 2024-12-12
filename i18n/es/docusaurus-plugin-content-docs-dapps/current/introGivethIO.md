@@ -27,4 +27,3 @@ Giveth.io se implementa actualmente tanto en la red principal de Ethereum como e
 - Visita [Giveth.io](https://giveth.io) para ver cómo sucede la magia
 - Únete a nuestro [Discord](https://discord.giveth.io) para conocer a la comunidad
 - Para donantes y propietarios de proyectos, obtenga más información en [Cómo empezar](/dapps/gettingStarted)
-- Para desarrolladores, diríjase a la [Guía de contribuyentes](/dapps/contributors)

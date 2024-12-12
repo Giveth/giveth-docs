@@ -25,4 +25,3 @@ Harika projeler günün sonunda Giveth'i başarılı kılar! DApp'te en kaliteli
 * Sürecin tüm detaylarını görmek için [Giveth.io](https://giveth.io/)'yu ziyaret edin
 * Toplulukla tanışmak için [Discord'umuza](https://discord.giveth.io/) katılın
 * Bağışçılar ve proje sahipleri için [Başlangıç](/dapps/gettingStarted) bölümünde daha fazla bilgi edinin
-* Geliştiriciler hakkında detaylar için [Katkı Verenler](/dapps/contributors) sayfasına gidin

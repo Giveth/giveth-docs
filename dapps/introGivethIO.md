@@ -27,4 +27,3 @@ Great projects make Giveth thrive! We have a Project Verification process to ens
 - Visit [Giveth.io](https://giveth.io) to see the magic happening
 - Join our [Discord](https://discord.giveth.io) to meet the community
 - For Givers and project owners learn more in [Getting Started](/dapps/gettingStarted)
-- For developers, head over to the [Contributor Guide](/dapps/contributors)
