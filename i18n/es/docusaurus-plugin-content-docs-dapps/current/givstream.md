@@ -16,7 +16,7 @@ Bienvenidos a la expansión del GIViverso! GIVstream alinea a los miembros de la
 
 
 ## ¿Como esto funciona?
-En el lanzamiento, el 10% del suministro total de tokens de 1000 millones de GIV será líquido y se distribuirá en [GIVeconomy](/es/giveconomy/). El resto alimenta el GIVstream que fluye durante 5 años, liberando más GIV líquido cada segundo. Después del período de 5 años, el 100 % de los tokens GIV serán líquidos.
+En el lanzamiento, el 10% del suministro total de tokens de 1000 millones de GIV será líquido y se distribuirá en [GIVeconomy](/giveconomy/). El resto alimenta el GIVstream que fluye durante 5 años, liberando más GIV líquido cada segundo. Después del período de 5 años, el 100 % de los tokens GIV serán líquidos.
 
 La siguiente tabla explica qué porcentaje de GIV es líquido y se distribuye por todo el GIViverse, y qué parte aún debe fluir del GIVstream.
 
@@ -34,7 +34,7 @@ La siguiente tabla explica qué porcentaje de GIV es líquido y se distribuye po
 
 <img width='85%' alt='flowrate counter' src={useBaseUrl('/img/content/giveconomy/flowrate.png')} />
 
-Su tasa de flujo GIVstream es la tasa (GIV/semana) a la que su GIV se vuelve líquido. Todos los destinatarios del [GIVdrop](/es/giveconomy/givdrop) también recibirán un GIVstream en Gnosis Chain (anteriormente xDai Network). Si no recibió un GIVdrop, aún puede obtener un GIVstream al participar en GIVeconomy.
+Su tasa de flujo GIVstream es la tasa (GIV/semana) a la que su GIV se vuelve líquido. Todos los destinatarios del [GIVdrop](/giveconomy/givdrop) también recibirán un GIVstream en Gnosis Chain (anteriormente xDai Network). Si no recibió un GIVdrop, aún puede obtener un GIVstream al participar en GIVeconomy.
 
 Puedes obtener (o aumentar) su tasa de flujo GIVstream en Gnosis Chain (anteriormente xDai Network) al donar (en Gnosis Chain o Mainnet) y obtener [GIVbacks] (https://giveth.io/givbacks), por wrapp GIV,utilícelo en [GIVgarden](https://giveth.io/givgarden), o stackea en [GIVfarm](https://giveth.io/givfarm) en Gnosis Chain.
 

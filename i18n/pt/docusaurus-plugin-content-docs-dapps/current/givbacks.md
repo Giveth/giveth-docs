@@ -41,9 +41,8 @@ Observe que, mesmo com o programa GIVbacks, uma doação no Giveth ainda é uma 
 
 Se, no final de uma rodada, o valor estimado de GIVbacks para distribuir exceder o limite de 1 milhão de GIV por rodada, os doadores receberão proporcionalmente menos correspondência em relação à classificação do projeto (ou falta dela) para o qual doaram, para cada doação. Isso é calculado da seguinte forma:
 
-$$
-n = N \frac{g}{G}
-$$
+```math
+n = N \frac{v}{V}
 
 Onde:
 

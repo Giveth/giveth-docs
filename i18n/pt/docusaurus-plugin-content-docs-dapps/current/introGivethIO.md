@@ -27,5 +27,4 @@ Grandes projetos fazem a Giveth prosperar! Temos um processo de Verificação de
 
 * Visite Giveth.io para ver a mágica acontecendo
 * Junte-se ao nosso [Discord](https://discord.giveth.io/) para conhecer a comunidade
-* Para Doadores e proprietários de projetos, saiba mais em [Primeiros Passos](https://docs.giveth.io/dapps/gettingStarted)
-* Para desenvolvedores, acesse o [Guia do Colaborador](https://docs.giveth.io/dapps/contributors)
+* Para Doadores e proprietários de projetos, saiba mais em [Primeiros Passos](/dapps/gettingStarted)

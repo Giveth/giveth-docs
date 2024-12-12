@@ -13,7 +13,7 @@ title: GIVernance
 
 Giveth tiene como objetivo ser una organización centrada en los donantes que retribuya a aquellos que usan nuestra plataforma para apoyar de manera transparente y responsable el cambio en el mundo.
 
-Valoramos la gobernanza transparente y holística y esperamos ser un brillante ejemplo de ello. Exploramos y adoptamos fácilmente nuevas innovaciones que nos ayudan a encarnar estos valores. Creemos en el poder autoorganizador de la sociocracia, que aplicamos en la organización de tareas, participación en las [Propuestas](https://forum.giveth.io/t/proposal-template/303) y [Proceso de Asesoramiento](/es/whatisgiveth/adviceProcess/), y en facilitación de nuestras reuniones de gobierno.
+Valoramos la gobernanza transparente y holística y esperamos ser un brillante ejemplo de ello. Exploramos y adoptamos fácilmente nuevas innovaciones que nos ayudan a encarnar estos valores. Creemos en el poder autoorganizador de la sociocracia, que aplicamos en la organización de tareas, participación en las [Propuestas](https://forum.giveth.io/t/proposal-template/303) y [Proceso de Asesoramiento](/whatisgiveth/adviceProcess/), y en facilitación de nuestras reuniones de gobierno.
 
 Nuestro círculo une el poder de nuestra [Comunidad Autónoma Descentralizada (DAC)](https://trace.giveth.io/community/giveth-dac) con las ventajas sin ánimo de lucro de nuestra [Fundación Guiada por Donantes (DAF)]( https://www.sdgimpactfund.org/giveth-foundation) para iterar sobre la creación de nuestro gobernante [Organización Autónoma Descentralizada (DAO)](https://aragon.1hive.org/#/giveth/).
 

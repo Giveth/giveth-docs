@@ -1,7 +1,7 @@
 module.exports = {
   docsSidebar: {
     Installation: ['givethioinstallation'],
-    Guidelines: ['contributors', 'testing-guidelines', 'dev-guidelines'],
+    Guidelines: ['dev-guidelines'],
     Reference: ['styleguide']
   }
 }

@@ -36,7 +36,7 @@ When you're sending real funds to any entity on Giveth TRACE, you do it with the
 
 
 
-To learn more about the Giveth bridge, head over to the documentation [here](/tr/dapps/bridgeSecurity). There is also a [wonderful Medium article](https://medium.com/giveth/tackling-ethereum-scalability-issues-29bd700b5060) from 2017, that identifies the major scalability issues of that era in crypto and how we found a solution.
+To learn more about the Giveth bridge, head over to the documentation [here](/dapps/bridgeSecurity). There is also a [wonderful Medium article](https://medium.com/giveth/tackling-ethereum-scalability-issues-29bd700b5060) from 2017, that identifies the major scalability issues of that era in crypto and how we found a solution.
 
 ### Development
 You can follow the development on [Github](https://github.com/Giveth/giveth-dapp), read more in this documentation (add internal link) or join our contributors channel in [Discord](https://discord.gg/qf7XZ48gCU). Our meetings are on the [Giveth calendar](https://calendar.google.com/calendar/embed?src=givethdotio@gmail.com&pli=1), and you are welcome to join!

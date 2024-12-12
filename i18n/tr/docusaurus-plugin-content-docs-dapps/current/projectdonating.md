@@ -19,6 +19,6 @@ Hem Mainnet hem de Gnosis Chain (eski adıyla xDai Network) üzerinde ETH ve ço
 
 İşlem imzalandıktan ve işlendikten sonra, başardınız! İşte böyle! Onay sayfasına yönlendirileceksiniz ve sayfadaki bağlantıyı takip ederek işlem detaylarını takip edebilirsiniz.
 
-**[Metamask aracılığıyla bağış yapmak için adım adım talimatlar burada bulunabilir.](/tr/dapps/donatingmetamask)**
+**[Metamask aracılığıyla bağış yapmak için adım adım talimatlar burada bulunabilir.](/dapps/donatingmetamask)**
 
-**[Fiat para biriminde bağış yapmak istiyorsanız bu kılavuzu takip edin.](/tr/dapps/torusonramp)**
+**[Fiat para biriminde bağış yapmak istiyorsanız bu kılavuzu takip edin.](/dapps/torusonramp)**

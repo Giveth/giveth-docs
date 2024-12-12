@@ -31,15 +31,14 @@ Un donante puede donar cualquier token ERC-20 a proyectos en Giveth.io en Gnosis
 ## Obtener devoluciones
 Durante cada ronda, se realiza un seguimiento de todas las donaciones a proyectos verificados en la DApp, y estos datos se utilizan para calcular la cantidad de GIVbacks recibidos por cada donante durante ese período.
 
-Los donantes pueden reclamar su GIV después de que finaliza la ronda y se realiza una revisión de fraude. Los donantes recibirán un correo electrónico cuando las recompensas estén listas para reclamar en la [página de GIVbacks](https://giveth.io/givbacks). Una parte del GIV será líquido inmediatamente y el resto aumentará el caudal de su [GIVstream](https://giveth.io/givstream). Para saber más sobre GIVstream y su funcionamiento, consulta nuestra [documentación](/es/giveconomy/givstream/). A los efectos de esta documentación, nos referiremos a la suma del monto líquido y el monto asignado al GIVstream de GIVbacks como "GIVbacks acumulativos".
+Los donantes pueden reclamar su GIV después de que finaliza la ronda y se realiza una revisión de fraude. Los donantes recibirán un correo electrónico cuando las recompensas estén listas para reclamar en la [página de GIVbacks](https://giveth.io/givbacks). Una parte del GIV será líquido inmediatamente y el resto aumentará el caudal de su [GIVstream](https://giveth.io/givstream). Para saber más sobre GIVstream y su funcionamiento, consulta nuestra [documentación](/giveconomy/givstream/). A los efectos de esta documentación, nos referiremos a la suma del monto líquido y el monto asignado al GIVstream de GIVbacks como "GIVbacks acumulativos".
 
 Tenga en cuenta que, incluso con el programa GIVbacks, una donación en Giveth sigue siendo una donación. El valor máximo de los 'GIVbacks' acumulados del donante es igual al 75% del valor de su donación, en el momento de la donación. Si el valor de "1 millón GIV" asignado a la ronda de GIVbacks es superior al 75 % del valor total de todas las donaciones (en el momento de cada donación) durante la duración de la ronda, todos los donantes elegibles obtendrán su respectivo máximo acumulativo. devoluciones.
 
 Si el valor total de las donaciones (en el momento de cada donación) supera el 75 % del "1 millón de GIV" asignado a la ronda, los "GIVbacks acumulados" para cada donante son proporcionalmente menores y se calculan de la siguiente manera:
 
-$$
+```math
 n = N \frac{v}{V}
-$$
  
 donde:
 
@@ -65,7 +64,7 @@ Una vez que finaliza una ronda de GIVbacks, se otorga un período de tiempo a nu
 1. **Dar/ofrecer bienes o servicios a los donantes a cambio de su donación.** El propietario de un proyecto no puede ofrecer bienes como patrocinio para una conferencia, compras de galletas de Girl Scouts o boletos para una cena, incluso si las ganancias se destinan a caridad. Los propietarios de proyectos no pueden proporcionar servicios como actuar como un intercambio criptográfico para sus donantes. Pueden explicar cómo usar un intercambio, pero no pueden convertir el dinero para sus donantes.
 2. **Donaciones circulantes recaudadas por otros medios.** Solo las donaciones de "primer toque" cuentan para las devoluciones. Si un proyecto recibe fondos de un donante y se descubre que está circulando estas donaciones dentro de la plataforma Giveth para recibir GIVbacks, será descalificado. Por ejemplo, un proyecto no debería enviar donaciones fiduciarias recibidas en otros lugares a sus donantes y pedirles que donen en Giveth con criptografía.
 3. **Los fondos no se están utilizando para lo que se expresa en la página del proyecto o en la solicitud de verificación enviada.** Los proyectos verificados son responsables de mantener sus proyectos actualizados con información sobre cómo se están utilizando los fondos. Si el proyecto establece explícitamente que, por ejemplo, están usando los fondos para desarrollar programas educativos pero se descubre que están usando los fondos para emplear a desarrolladores, pueden ser descalificados del programa GIVbacks.
-4. **Actividad sin escrúpulos o fraudulenta.** Puede ser el uso de la violencia, infringir las leyes u otro comportamiento que no respete los [valores de la comunidad Giveth](/es/whatisgiveth/). Los proyectos que violen nuestros [Términos y condiciones](https://giveth.io/tos) no solo perderán su estado de verificación, sino que también serán cancelados.
+4. **Actividad sin escrúpulos o fraudulenta.** Puede ser el uso de la violencia, infringir las leyes u otro comportamiento que no respete los [valores de la comunidad Giveth](/whatisgiveth/). Los proyectos que violen nuestros [Términos y condiciones](https://giveth.io/tos) no solo perderán su estado de verificación, sino que también serán cancelados.
 
 El equipo de verificación de proyectos de Giveth es responsable de monitorear la actividad de GIVbacks y el sistema de verificación de proyectos y, en última instancia, usará su discreción para determinar si las acciones de un proyecto son inescrupulosas o descalificantes.
 

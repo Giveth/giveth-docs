@@ -4,66 +4,67 @@ title: GIVeconomy
 slug: giveconomy/
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
+import LiquidityList from '../../../../dapps/_liquidityPoolList.mdx'
+
+Giveth está construyendo una cultura de dar que empodera y recompensa a aquellos que dan: a proyectos, a la sociedad y al mundo. Nuestro objetivo es inspirar a nuestra comunidad a participar en un ecosistema de apoyo colectivo, abundancia y creación de valor.
+
+**Bienvenido a la [GIVeconomy](https://medium.com/giveth/welcome-to-the-giveconomy-b3e372da63dd)!**
+
+## Sobre GIV
+
+GIV es el token de gobernanza que impulsa y dirige la GIVeconomy. Los poseedores de GIV están empoderados para coordinar colectivamente alrededor de recursos compartidos y financiar iniciativas que dan forma al Futuro de la Donación.
+
+**[Haz clic aquí para descubrir los mejores lugares para obtener y puentear GIV!](https://linktr.ee/givtoken)**
+
+Nuestra comunidad puede participar en la GIVeconomy de las siguientes maneras:
+- Los stakers de GIV pueden ganar recompensas en la [**GIVfarm**](./givfarm).
+- Los donantes a [proyectos verificados](https://giveth.io/projects/all?filter=Verified) en Giveth obtienen recompensas de [**GIVbacks**](./givbacks).
+- Los poseedores de GIV pueden hacer stake de su GIV para obtener [**GIVpower!**](./givpower). Con GIVpower pueden impulsar los proyectos que aman para aumentar su rango así como el porcentaje de GIVbacks recompensados a sus donantes.
+- Cualquiera que reclame GIV de su participación en la GIVeconomy recibe un flujo continuo de GIV del [**GIVstream**](./givstream) hasta el 23 de diciembre de 2026.
+
+### Direcciones de Token
+
+- Mainnet: [`0x900db999074d9277c5da2a43f252d74366230da0`](https://etherscan.io/token/0x900db999074d9277c5da2a43f252d74366230da0)
+- Gnosis Chain: [`0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75`](https://gnosisscan.io/token/0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75)
+- Optimism: [`0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98`](https://optimistic.etherscan.io/token/0x528cdc92eab044e1e39fe43b9514bfdab4412b98)
+- Solana: [`3Xi3EhKjnKAk2KTChzybUSWcLW6eAgTHyotHH1U6sJE1`](https://solscan.io/token/3Xi3EhKjnKAk2KTChzybUSWcLW6eAgTHyotHH1U6sJE1)
+- Polygon zkEVM: [`0xddAFB91475bBf6210a151FA911AC8fdA7dE46Ec2`](https://zkevm.polygonscan.com/token/0xddAFB91475bBf6210a151FA911AC8fdA7dE46Ec2)
+
+### Distribución de Tokens GIV
+
+Se acuñaron 1 mil millones de tokens GIV al inicio de la GIVeconomy. 100 millones de los tokens GIV son líquidos y están disponibles para su uso inmediato, y los otros 900 millones han sido asignados al [GIVstream](./givstream) y se están liberando continuamente en todo el "GIViverse" durante un período de 5 años (hasta el 23 de diciembre de 2026). La distribución del suministro total de GIV en todo el GIViverse se describe en el siguiente gráfico:
+
+<img alt='distribución de la economía GIV' src={useBaseUrl('/img/content/giveconomy/giveconomyDistro.jpg')} />
+
+La GIVeconomy ha sido construida gracias a nuestra dedicada comunidad de Givers. Giveth ha estado creciendo desde 2016 sobre una base de donaciones, tiempo, habilidades, sudor, generosidad y amor. ¡Estamos orgullosos de lanzar una economía por y para los donantes, sin dinero obtenido de preventas o capitalistas de riesgo!
+
+### Pools de Liquidez Propiedad de la DAO
+
+Estos son pools de liquidez que son apoyados por la DAO de Giveth. Consulte esta tabla para encontrar pools de liquidez de GIV; está organizada por red, token emparejado y tamaño del pool:
+
+<LiquidityList />
 
 
-Giveth está construyendo una cultura de generosidad que empodera y recompensa a quienes dan, a los proyectos, a la sociedad y al mundo. Nuestro objetivo es inspirar a nuestra comunidad a participar en un ecosistema de apoyo colectivo, abundancia y creación de valor. **Bienvenido a la economía GIV.**
+## El Futuro de la GIVeconomy
 
-## Acerca de GIV
+El lanzamiento de la GIVeconomy con todas las características descritas anteriormente es solo el comienzo: ya estamos creando la próxima fase del Futuro de la Donación. Estamos desarrollando sistemas que cambiarán completamente la forma en que las sociedades crean y recompensan la creación de bienes públicos.
 
-GIV es el token de gobernanza que alimenta y dirige la economía GIV. Los titulares de GIV están facultados para coordinarse colectivamente en torno a recursos compartidos y financiar iniciativas que dan forma al futuro de las donaciones.
+Sigue leyendo para conocer más sobre las ideas crudas, emocionantes y hermosas que pretendemos llevar a cabo. Si quieres tener un papel en la configuración de la próxima generación de la filantropía, comienza a [explorar la GIVeconomy](https://giveth.io/giveconomy) y [únete a nuestra comunidad](https://giveth.io/join)!
 
-En el lanzamiento, nuestra comunidad puede participar en GIVeconomy de las siguientes maneras:
-- Desde el 24 de diciembre de 2021 en adelante, los destinatarios elegibles pueden reclamar su [**GIVdrop**](./givdrop) en Gnosis Chain (anteriormente xDai Network).
-- Los donantes de [proyectos verificados](https://giveth.io/projects) en Giveth obtienen recompensas de [**GIVbacks**](./givbacks).
-- Los proveedores de liquidez y los participantes pueden obtener recompensas en [**GIVfarm**](./givfarm).
-- Todos los titulares de GIV pueden crear y/o votar propuestas en el [**GIVgarden**](./givgarden).
-- Cualquiera que reclame GIV de su participación en GIVeconomy obtiene un flujo continuo de GIV de [**GIVstream**](./givstream) hasta el 23 de diciembre de 2026.
+<img alt="Gurves flow diagram"  src={useBaseUrl('/img/content/giveconomy/Gurves.jpeg')} />
 
-### Información del Token
+### Gurves
 
-- Dirección del Token en Mainnet: 0x900db999074d9277c5da2a43f252d74366230da0
-- Dirección del Token en Gnosis Chain (antiguamente xDai Network): 0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75
+Un problema importante que existe en la sociedad actual es que los creadores de bienes públicos dependen de donaciones y, en última instancia, sacrificios para salir adelante. A diferencia del sector de bienes privados, no hay dinámicas de mercado en el sector de bienes públicos para impulsar la innovación y el crecimiento.
 
-### Distribución
+El token GIV introducirá el poder de los mercados abiertos en el sector de bienes públicos a través de Gurves. Gurves utilizará [curvas de vinculación](https://thegraph.academy/curators/introduction-to-bonding-curves/) para permitir que los proyectos lancen sus propias microeconomías respaldadas por GIV, conectadas al valor real que proporcionan. Las curvas de vinculación son contratos inteligentes que mantienen colateral y acuñan o queman tokens según una curva de precios determinada matemáticamente. Esto proporciona estabilidad a la economía de tokens del nuevo proyecto y liquidez incorporada.
 
-Se acuñó una cantidad de mil millones de tokens GIV al inicio de la economía GIV. 100 millones de tokens GIV son líquidos y están disponibles para su uso inmediato, y los otros 900 millones se han asignado a [GIVstream](./givstream) y se liberan continuamente en todo el "GIViverse" durante un período de 5 años ( hasta el 23 de diciembre de 2026). La distribución del suministro total de GIV a lo largo del GIViverse se muestra en el siguiente gráfico:
+Gurves permitirá a los proyectos tokenizar su impacto y, gracias a la [curva de vinculación aumentada](https://www.commonsstack.org/augmented-bonding-curve), ofrecerá flujos de ingresos incorporados que prosperan con la especulación.
 
-<img alt='givbacks round 8 sample' src={useBaseUrl('/img/content/giveconomy/giveconomyDistro.jpg')} />
-
-La GIVeconomy se ha construido gracias a nuestra dedicada comunidad de Givers. Giveth ha estado creciendo desde 2016 gracias a las donaciones, el tiempo, las habilidades, el sudor, la generosidad y el amor. Estamos orgullosos de lanzar una economía por y para los donantes, sin dinero obtenido de preventas o capitales de riesgo.
-
-## El futuro de la economía GIV
-
-El lanzamiento de GIVeconomy con todas las características descritas anteriormente es solo el comienzo: ya estamos elaborando la siguiente fase del futuro de la generosidad. Estamos desarrollando sistemas que cambiarán por completo la forma en que las sociedades crean y recompensan la creación de bienes públicos.
-
-Siga leyendo para obtener más información sobre algunas de las ideas crudas, emocionantes y hermosas que pretendemos llevar a cabo. Si desea ayudar a dar forma a la próxima generación de filántropos, comience a [explorar GIVeconomy](https://giveth.io/giveconomy) y [únase a nuestro equipo](https://giveth.io/join)!
-
-### **GIVcuration**
-Esta será una forma descentralizada de reemplazar [Proyecto de Verificación](/es/dapps/makeTraceableProject) para el programa GIVbacks. Los miembros de la comunidad podrán apostar GIV (usando la votación de convicción) en sus proyectos favoritos en Giveth. ¡Durante las rondas de GIVbacks, los donantes de los proyectos más votados obtendrán la mayor cantidad de GIV de GIVbacks! Con este sistema, la comunidad decide qué proyectos devolverán más a los donantes, lo que a su vez fomenta las donaciones a proyectos que se alinean con los valores de la comunidad.
-
-### **GIVmatching**
-Giveth planea implementar donaciones igualadas a proyectos usando "Causas". Las causas serán categorías de iniciativas benéficas, como regeneración ambiental, bienes públicos digitales, causas sociales, etc. Los donantes podrán donar a Causas, y estos fondos se distribuirán luego a proyectos favorecidos por la comunidad (como donación equivalente) usando [financiamiento cuadrático](https://wtfisqf.com/?grant=&grant=&grant=&grant=&match=1000).
-
-### **GIVfi**
-La intención con GIVfi es crear una forma sostenible de mantener los fondos en el fondo común de GIVgarden. Mientras las donaciones en la DApp están a la espera de ser desembolsadas, generarán interés que se puede usar para enviar GIV a GIVgarden para financiar iniciativas usando el voto de convicción.
-<img alt="GIVfi diagram" src={useBaseUrl('img/content/giveconomy/GIVfi.jpg')} />
-
-### **GURVES**
-Nuestro mayor sueño es apoyar proyectos positivos en Giveth para que se conviertan en sus propias microeconomías. La idea es que cuando un donante da a un proyecto verificado en Giveth, obtiene algo de GIV del programa GIVbacks. Cuando esto sucede, parte del GIV se coloca en una [curva de vinculación](https://thegraph.academy/curators/introduction-to-bonding-curves/) que se genera exclusivamente para el proyecto. Luego, el donante recibe "fichas de proyecto" recién acuñadas de la curva de bonos. De hecho, los proyectos están recibiendo su propia economía simbólica, ¡lo que abre infinitas posibilidades para los incentivos y el diseño del sistema!
-
-<details>
-  <summary><h3><i>*Interactuar usando la billetera Torus</i></h3></summary>
-  <div><p>Para interactuar con [GIVeconomy](https://giveth.io/giveconomy) y otras dApps usando la billetera Torus, deberá conectar su billetera. Para conectarse, haga clic en el ícono "Conectar billetera" en la esquina superior derecha del sitio, luego seleccione Torus y verifique. La billetera Torus permite a los usuarios iniciar sesión con cuentas de muchos servicios web diferentes, así que asegúrese de iniciar sesión con la misma cuenta que utilizó para configurar la billetera.</p>
-
-  <img alt="Signing in with Torus on the GIVeconomy" width="50%" height="auto" class='center' src={useBaseUrl('img/content/giveconomyTorusConnect.png')} />
-
-  <p>Si está utilizando el navegador Brave, deberá desactivar la función Brave's Shield. Para hacer esto, haga clic en el logotipo de Brave a la derecha de la barra de búsqueda, luego desactive el escudo..</p>
-
-  <img alt="Turning shields off with Brave" class='center'  width="35%" height="auto" src={useBaseUrl("img/content/giveconomyShieldsDown.png")} />
-  </div>
-</details>
-
+Gurves es nuestro mayor sueño y el punto central de nuestra [hoja de ruta a largo plazo](https://blog.giveth.io/evolving-nonprofits-into-regen-economies-f8282f97f8d3).
 
 -----
 
-La misión de Giveth es recompensar y empoderar a quienes dan. [The GIVeconomy](https://giveth.io/giveconomy) es un hito importante en el futuro de la generosidad y está permitiendo que nuestro colectivo de proyectos, donantes, constructores y miembros de la comunidad puedan donar nuevas formas que apoyen los proyectos, la sociedad y ¡el mundo!
+**La misión de Giveth es recompensar y empoderar a aquellos que dan.**
+
+[La GIVeconomy](https://giveth.io/giveconomy) es un hito importante en el Futuro de la Donación y está permitiendo que nuestro colectivo de proyectos, donantes, constructores y miembros de la comunidad den de nuevas maneras que apoyan proyectos, la sociedad y el mundo.

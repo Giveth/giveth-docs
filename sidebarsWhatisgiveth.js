@@ -4,7 +4,7 @@ module.exports = {
       {
         type: 'category',
         label:'Guides',
-        items:['fundraisingGuide','commsContributorGuide','meetingsGuide','adviceProcess', 'introDiscord','brandBook']
+        items:['fundraisingGuide','meetingsGuide','adviceProcess', 'introDiscord','brandBook']
       },
       , 'toolsDecentralizedCommunities','history'
    ],

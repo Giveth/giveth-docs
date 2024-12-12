@@ -17,7 +17,7 @@ Tüm GIVstream'ler 23 Aralık 2026'ya kadar akacak ve bu noktada GIVeconomy tüm
 
 ## Nasıl İşler?
 
-Lansman sırasında, 1 milyar GIV'lik toplam token arzının %10'u likit olacak ve [GIVeconomy](/tr/giveconomy/)'de dağıtılacaktır. Gerisi, 5 yıl boyunca akan GIV akışını besleyecek ve her saniye daha fazla likit GIV çıkartacaktır. 5 yıllık sürenin sonunda GIV tokenlarının %100'ü likit hale gelecektir.
+Lansman sırasında, 1 milyar GIV'lik toplam token arzının %10'u likit olacak ve [GIVeconomy](/giveconomy/)'de dağıtılacaktır. Gerisi, 5 yıl boyunca akan GIV akışını besleyecek ve her saniye daha fazla likit GIV çıkartacaktır. 5 yıllık sürenin sonunda GIV tokenlarının %100'ü likit hale gelecektir.
 
 Aşağıdaki tablo, GIV'in yüzde kaçının likit olduğunu ve GIViverse boyunca dağıtıldığını ve hangi kısmın henüz GIVstream'den akmadığını açıklamaktadır.
 
@@ -36,7 +36,7 @@ Aşağıdaki tablo, GIV'in yüzde kaçının likit olduğunu ve GIViverse boyunc
 
 <img width='85%' alt='flowrate counter' src={useBaseUrl('/img/content/giveconomy/flowrate.png')} />
 
-GIVstream akış hızınız, GIV'inizin likit hale geldiği hızdır (GIV/hafta). GIVdrop'un tüm alıcıları ayrıca Gnosis Chain (eski adıyla xDai Network) üzerinden bir GIVstream alacaktır. Bir [GIVdrop](/tr/giveconomy/givdrop) almadıysanız, yine de GIVeconomy'ye katılarak bir GIVstream alabilirsiniz.
+GIVstream akış hızınız, GIV'inizin likit hale geldiği hızdır (GIV/hafta). GIVdrop'un tüm alıcıları ayrıca Gnosis Chain (eski adıyla xDai Network) üzerinden bir GIVstream alacaktır. Bir [GIVdrop](/giveconomy/givdrop) almadıysanız, yine de GIVeconomy'ye katılarak bir GIVstream alabilirsiniz.
 
 Gnosis Chain'de (eski adıyla xDai Network) GIVstream akış hızınızı, bağış yaparak (Gnosis Chain veya Mainnet'te) ve [GIVback](https://giveth.io/givbacks)'leri alarak, [GIVgarden](https://giveth.io/givgarden)'da kullanmak üzere GIV'i wrap’leyerek veya Gnosis Chain üzerinde [GIVfarm](https://giveth.io/givfarm)'da stake ederek alabilirsiniz (veya artırabilirsiniz).
 

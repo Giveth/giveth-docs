@@ -4,70 +4,68 @@ title: GIVeconomy
 slug: giveconomy/
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
+import LiquidityList from '../../../../dapps/_liquidityPoolList.mdx'
 
 
-Giveth, projelere, topluma ve dünyaya verenleri güçlendiren ve ödüllendiren bir bağış kültürü inşa ediyor. Amacımız, topluluğumuza kolektif destek, bolluk ve değer yaratma ekosistemine katılmaları için ilham vermektir. **GIVeconomy'ye hoş geldiniz.**
+Giveth, projelere, topluma ve dünyaya katkı sağlayan kişileri güçlendiren ve ödüllendiren bir bağış kültürü oluşturuyor. Amacımız, topluluğumuzu kolektif destek, bolluk ve değer yaratma ekosistemine katılmaya teşvik etmek.
 
-## GIV hakkında
+**[GIVeconomy’ye Hoş Geldiniz](https://medium.com/giveth/welcome-to-the-giveconomy-b3e372da63dd)!**
 
-GIV, GIVeconomy'yi besleyen ve yönlendiren yönetişim tokenıdır. GIV sahipleri, Bağışın Geleceğini şekillendiren ortak kaynaklar ve fon girişimlerini koordine etme yetkisine sahiptir.
+## GIV Hakkında
 
-Lansman sırasında topluluğumuz GIVeconomy'ye aşağıdaki şekillerde katılabilir:
+GIV, GIVeconomy’yi yönlendiren ve destekleyen yönetişim token’ıdır. GIV sahipleri, paylaşılan kaynaklar etrafında kolektif olarak koordinasyon sağlayarak Bağışçılığın Geleceğini şekillendiren girişimleri finanse etme gücüne sahiptir.
 
-* 24 Aralık 2021'den itibaren, uygun alıcılar Gnosis Chain'de (eski adıyla xDai Network) [GIVdrop](/tr/giveconomy/givdrop)'larını talep edebilir.
-* Giveth'teki [doğrulanmış projelere](https://giveth.io/projects) bağış yapanlar, [GIVback](/tr/giveconomy/givbacks)'lerden ödüller alabilir.
-* Likidite sağlayıcıları ve stake yapanlar, [GIVfarm](/tr/giveconomy/givfarm)'da ödüller kazanabilir.
-* Tüm GIV sahipleri, [GIVgarden](/tr/giveconomy/givgarden)'da teklifler oluşturabilir ve/veya oylayabilir.
-* GIVeconomy'ye katılımlarından dolayı GIV talep eden herkes, 23 Aralık 2026'ya kadar [GIVstream](/tr/giveconomy/givstream)'den sürekli bir GIV akışı alabilir.
+**[GIV edinmek ve köprüleme h- GIV sahipleri, GIV'lerini stake ederek [**GIVpower**](./givpower) kazanabilir. GIVpower ile sevdikleri projelerin sıralamasını ve bağışçılara verilen GIVbacks ödüllerinin yüzdesini artırabilirler.
+akkında daha fazla bilgi edinin!](https://linktr.ee/givtoken)**
 
-### Token Bilgisi
+Topluluğumuz, GIVeconomy'ye şu yollarla katılabilir:
+- GIV sahipleri [**GIVfarm**](./givfarm)’da ödül kazanabilir.
+- [Doğrulanmış projelere](https://giveth.io/projects/all?filter=Verified) bağış yapanlar [**GIVbacks**](./givbacks) ödüllerinden faydalanabilir.
+- GIVeconomy’ye katılım yoluyla elde edilen GIV ödülleri, [**GIVstream**](./givstream) aracılığıyla 23 Aralık 2026’ya kadar sürekli bir akış şeklinde alınabilir.
 
-* Mainnet Token Adresi: 0x900db999074d9277c5da2a43f252d74366230da0
-* Gnosis Chain’deki Token Adresi (eski adıyla xDai Network): 0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75
+### Token Adresleri
 
-### Dağıtım
+- Mainnet: [`0x900db999074d9277c5da2a43f252d74366230da0`](https://etherscan.io/token/0x900db999074d9277c5da2a43f252d74366230da0)
+- Gnosis Chain: [`0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75`](https://gnosisscan.io/token/0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75)
+- Optimism: [`0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98`](https://optimistic.etherscan.io/token/0x528cdc92eab044e1e39fe43b9514bfdab4412b98)
+- Solana: [`3Xi3EhKjnKAk2KTChzybUSWcLW6eAgTHyotHH1U6sJE1`](https://solscan.io/token/3Xi3EhKjnKAk2KTChzybUSWcLW6eAgTHyotHH1U6sJE1)
+- Polygon zkEVM: [`0xddAFB91475bBf6210a151FA911AC8fdA7dE46Ec2`](https://zkevm.polygonscan.com/token/0xddAFB91475bBf6210a151FA911AC8fdA7dE46Ec2)
 
-GIVeconomy'nin başlangıcında 1 milyar GIV tokenı çıkartıldı. 100 milyon GIV tokenı likittir ve hemen kullanıma hazırdır, diğer 900 milyonu [GIVstream](/tr/giveconomy/givstream)'e tahsis edilmiştir ve 5 yıllık bir süre içinde (23 Aralık 2026'ya kadar) tüm "GIViverse" boyunca sürekli olarak çıkartılmaktadır. GIViverse boyunca toplam GIV arzının dağılımı aşağıdaki grafikte özetlenmiştir:
+### GIV Token Dağılımı
 
-<img alt='givbacks round 8 sample' src={useBaseUrl('/img/content/giveconomy/giveconomyDistro.jpg')} />
+GIVeconomy’nin başlangıcında 1 milyar GIV token basılmıştır. Bu token’ların 100 milyonu likit olarak hemen kullanıma sunulmuş, geri kalan 900 milyonu ise [**GIVstream**](./givstream) aracılığıyla tüm "GIViverse" boyunca 5 yıl süresince (23 Aralık 2026’ya kadar) sürekli olarak dağıtılmak üzere tahsis edilmiştir. GIV’in toplam arzının GIViverse boyunca dağılımı şu grafikle özetlenmiştir:
 
+<img alt='givbacks round 8 örneği' src={useBaseUrl('/img/content/giveconomy/giveconomyDistro.jpg')} />
 
-GIVeconomy, değerli Givers topluluğumuz sayesinde oluşturulmuştur. Giveth, 2016'dan beri bağış, zaman, beceri, emek, cömertlik ve sevgi temelinde büyüyor! Ön satışlardan veya risk sermayedarlarından hiçbir para toplanmayan, bağışçılar tarafından, bağışçılar için bir ekonomi başlatmaktan gurur duyuyoruz.
+GIVeconomy, bağışçılardan oluşan adanmış topluluğumuz sayesinde inşa edilmiştir. Giveth, 2016'dan bu yana bağışlar, zaman, beceriler, özveri, cömertlik ve sevgi temelinde büyümüştür! Ön satışlar veya girişim sermayedarlarından para toplamadan, tamamen bağışçılar tarafından ve onlar için bir ekonomi başlatmaktan gurur duyuyoruz.
 
-## GIVeconomy’nin Geleceği
+### DAO’ya Ait Likidite Havuzları
 
-GIVeconomy'nin yukarıda açıklanan tüm özelliklerle lansmanın yapılması sadece başlangıç - şimdiden bağışın geleceğinin bir sonraki aşamasını şekillendiriyoruz. Toplumların kamu mallarını yaratma ve ödüllendirme şeklini tamamen değiştirecek sistemler geliştiriyoruz.
+Bunlar, Giveth DAO tarafından desteklenen likidite havuzlarıdır. Aşağıdaki tablo, GIV likidite havuzlarını ağ, eşlenmiş token ve havuz büyüklüğüne göre organize eder:
 
-Gerçekleştirmeyi hedeflediğimiz bazı ham, heyecan verici ve güzel fikirler hakkında daha fazla bilgi edinmek için okumaya devam edin. Yeni nesil hayırseverliğin şekillenmesinde rol almak istiyorsanız, [GIVeconomy](https://giveth.io/)'yi keşfetmeye başlayın ve [ekibimize katılın](https://giveth.io/join)!
-
-### GIVcuration
-
-GIVcuration, GIVbacks programı için [Proje Doğrulamanın](/tr/dapps/makeTraceableProject) yerini almanın merkeziyetsiz bir yolu olacaktır. Topluluk üyeleri, Giveth'teki favori projelerinde GIV'i (Kanaat Oylamasını kullanarak) stake edebilecek. GIVbacks turları sırasında, en çok oy alan projelere bağış yapanlar, GIVback'lerden en fazla GIV’i alacak! Bu sistemi kullanarak, hangi projelerin bağışçılara en çok geri döneceğine topluluk karar verir ve bu da topluluğun değerleriyle uyumlu projelere bağış yapılmasını teşvik eder.
-
-### GIVmatching
-
-Giveth, "Nedenler"i kullanarak Giveth'teki projelere bağış eşleştirmesi uygulamayı planlıyor. Nedenler, çevresel yenilenme, dijital kamu malları, sosyal nedenler vb. gibi iyiye yönelik girişim kategorileri olacaktır. Bağışçılar Nedenler’e bağış yapabilecek ve bu fon havuzları daha sonra ikinci dereceden finansman kullanılarak topluluk tarafından tercih edilen projelere ([bağış eşleştirme olarak](https://wtfisqf.com/?grant=&grant=&grant=&grant=&match=1000)) dağıtılacak.
-
-### GIVfi
-
-GIVfi ile amaç, GIVgarden topluluk havuzunda fon tutmanın sürdürülebilir bir yolunu yaratmaktır. DApp'teki bağışlar ödenmeyi beklerken, Kanaat Oylaması ile girişimleri finanse etmek için GIVgarden'a GIV göndermede kullanılabilecek faiz üreteceklerdir.
-
-<img alt="GIVfi diagram" src={useBaseUrl('img/content/giveconomy/GIVfi.jpg')} />
+<LiquidityList />
 
 
-### GURVES
+## GIVeconomy'nin Geleceği
 
-En büyük hayalimiz, Giveth'teki iyiye yönelik projelerin kendi mikroekonomileri haline gelmelerini desteklemek. Buradaki fikir, bir bağışçı Giveth'te doğrulanmış bir projeye bağışta bulunduğunda, GIVbacks programından bir miktar GIV alırlar. Bu olduğunda, bir miktar GIV, proje için özel olarak oluşturulan bir [bonding curve](https://thegraph.academy/curators/introduction-to-bonding-curves/) konur. Bağışçı daha sonra bağlanma eğrisinden yeni çıkartılmış "proje tokenları" alır. Projelere aslında kendi token ekonomileri hediye edilirek teşvikler ve sistem tasarımı için sonsuz olasılıklar açılır!
+Yukarıda açıklanan tüm özelliklerle GIVeconomy'nin lansmanı sadece bir başlangıç - Bağışın Geleceği'nin bir sonraki aşamasını zaten şekillendiriyoruz. Toplumların kamu mallarını yaratma ve yaratmayı ödüllendirme şeklini tamamen değiştirecek sistemler geliştiriyoruz.
 
-<details>
-    <summary><h3><i>Torus Cüzdanını kullanarak etkileşime geçme></i></h3></summary>
-*Torus cüzdanı ile [GIVeconomy](https://giveth.io/) ve diğer dApp'lerle etkileşim kurmak için cüzdanınızı bağlamanız gerekir. Bağlanmak için sitenin sağ üst köşesindeki “Connect Wallet” simgesine tıklayın, ardından Torus'u seçin ve doğrulayın. Torus cüzdanı, kullanıcıların birçok farklı web hizmetinden hesaplarla oturum açmasına izin verir, bu nedenle cüzdanı kurmak için kullandığınız hesapla oturum açtığınızdan emin olun.*
+Gerçekleştirmeyi amaçladığımız ham, heyecan verici ve güzel fikirler hakkında daha fazla bilgi edinmek için okumaya devam edin. Hayırseverliğin bir sonraki neslini şekillendirmede rol almak istiyorsanız, [GIVeconomy'yi keşfetmeye başlayın](https://giveth.io/giveconomy) ve [topluluğumuza katılın](https://giveth.io/join)!
 
- <img alt="Signing in with Torus on the GIVeconomy" width="50%" height="auto" class='center' src={useBaseUrl('img/content/giveconomyTorusConnect.png')} />
-*Brave tarayıcısını kullanıyorsanız, Brave's Shield özelliğini kapatmanız gerekecektir. Bunu yapmak için arama çubuğunun sağındaki Brave logosuna tıklayın, ardından Shiled kapalı konuma getirin.*
-  <img alt="Turning shields off with Brave" class='center'  width="35%" height="auto" src={useBaseUrl("img/content/giveconomyShieldsDown.png")} />
-</details>
+<img alt="Gurves flow diagram"  src={useBaseUrl('/img/content/giveconomy/Gurves.jpeg')} />
 
----
+### Gurves
 
-Giveth'in misyonu, bağışçıları ödüllendirmek ve güçlendirmektir. [GIVeconomy](https://giveth.io/), projeler, bağışçılar, inşaatçılar ve topluluk üyelerinden oluşan kolektifimizin, projeleri, toplumu ve dünyayı desteklemek için yeni yollarla bağış yapmalarını sağladığı için bağışın geleceğinde önemli bir kilometre taşıdır!
+Bugünün toplumunda var olan büyük bir sorun, kamu malı yaratıcılarının bağışlara ve nihayetinde geçinmek için fedakarlıklara güvenmesidir. Özel mallar sektöründe olduğu gibi, kamu malları sektöründe yenilik ve büyümeyi yönlendirecek piyasa dinamikleri yoktur.
+
+GIV token, Gurves aracılığıyla kamu malları sektörüne açık piyasaların gücünü tanıtacak. Gurves, projelerin sağladıkları gerçek dünya değerine bağlı olarak kendi GIV destekli mikro ekonomilerini başlatmalarını sağlamak için [bağlama eğrilerini](https://thegraph.academy/curators/introduction-to-bonding-curves/) kullanacak. Bağlama eğrileri, teminat tutan ve matematiksel olarak belirlenmiş bir fiyat eğrisine göre token basan veya yakan akıllı sözleşmelerdir. Bu, yeni projenin token ekonomisine istikrar ve yerleşik likidite sağlar.
+
+Gurves, projelerin etkilerini tokenleştirmelerine ve [geliştirilmiş bağlama eğrisi](https://www.commonsstack.org/augmented-bonding-curve) sayesinde spekülasyonla gelişen yerleşik gelir akışları sunmalarına olanak tanıyacak.
+
+Gurves, en büyük hayalimiz ve [uzun vadeli yol haritamızın](https://blog.giveth.io/evolving-nonprofits-into-regen-economies-f8282f97f8d3) merkezi noktasıdır.
+
+-----
+
+**Giveth'in misyonu, verenleri ödüllendirmek ve güçlendirmektir.**
+
+[GIVeconomy](https://giveth.io/giveconomy), Bağışın Geleceği'nde önemli bir kilometre taşıdır ve projeleri, bağışçıları, inşaatçıları ve topluluk üyelerini destekleyen yeni yollarla projelere, topluma ve dünyaya katkıda bulunmamızı sağlıyor!

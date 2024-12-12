@@ -7,9 +7,9 @@ import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
 
 
-Giveth ha elegido la plataforma DAO de gobernanza Gardens desarrollada por [1hive](https://forum.1hive.org/t/welcome-to-1hive/7) para permitir que los titulares de tokens GIV administren las configuraciones del DAO y asignen fondos a proyectos que estén alineados con su [misión, visión y valores](/es/whatisgiveth/). Nuestro único Giveth Garden ha sido acertadamente llamado "GIVgarden" y se implementa en Gnosis Chain (anteriormente xDai Network). Las principales herramientas utilizadas para la gobernanza en el GIVgarden son la Votación por Convicción y la Votación por Tao.
+Giveth ha elegido la plataforma DAO de gobernanza Gardens desarrollada por [1hive](https://forum.1hive.org/t/welcome-to-1hive/7) para permitir que los titulares de tokens GIV administren las configuraciones del DAO y asignen fondos a proyectos que estén alineados con su [misión, visión y valores](/whatisgiveth/). Nuestro único Giveth Garden ha sido acertadamente llamado "GIVgarden" y se implementa en Gnosis Chain (anteriormente xDai Network). Las principales herramientas utilizadas para la gobernanza en el GIVgarden son la Votación por Convicción y la Votación por Tao.
 
-GIVgarden utiliza el [Pacto de la comunidad Giveth](/es/whatisgiveth/covenant) como un contrato social descentralizado que describe los estándares para el comportamiento dentro y fuera de la cadena.
+GIVgarden utiliza el [Pacto de la comunidad Giveth](/whatisgiveth/covenant) como un contrato social descentralizado que describe los estándares para el comportamiento dentro y fuera de la cadena.
 
 Puedes visitar [**GIVgarden** Aquí](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98).  
 
@@ -64,7 +64,7 @@ Para obtener más información sobre cómo funciona el GIVgarden, visite la desc
 
 
 ## Convenio
-Para participar en GIVgarden, primero deberá firmar el [Convenio Giveth](/es/whatisgiveth/covenant). Este es nuestro contrato social descentralizado que describe los estándares para el comportamiento de la comunidad dentro y fuera de la cadena. En caso de que se cuestione una propuesta, el convenio se utilizará como referencia para lo que define las propuestas aceptables y no aceptables dentro de ese GIVgarden.
+Para participar en GIVgarden, primero deberá firmar el [Convenio Giveth](/whatisgiveth/covenant). Este es nuestro contrato social descentralizado que describe los estándares para el comportamiento de la comunidad dentro y fuera de la cadena. En caso de que se cuestione una propuesta, el convenio se utilizará como referencia para lo que define las propuestas aceptables y no aceptables dentro de ese GIVgarden.
 
 
 ## Disputabilidad
@@ -77,7 +77,7 @@ Cuando se impugna una propuesta en GIVgarden, el creador de la propuesta tiene u
 
 ## Ciclo de vida de la propuesta
 
-Si cree que tiene un buen conocimiento de Giveth y [cómo trabajamos](/es/whatisgiveth/) y tiene algo excelente que proponer a la comunidad, hay algunos procesos que debe respetar para tener la mayor posibilidad de éxito.
+Si cree que tiene un buen conocimiento de Giveth y [cómo trabajamos](/whatisgiveth/) y tiene algo excelente que proponer a la comunidad, hay algunos procesos que debe respetar para tener la mayor posibilidad de éxito.
 
 
 
@@ -99,137 +99,75 @@ Los parámetros actuales en nuestro GIVgarden son los siguientes:
 
 <table>
   <tr>
-   <td><strong>Parametros</strong>
-   </td>
-   <td><strong>Valores</strong>
-   </td>
-   <td><strong>Metricas</strong>
-   </td>
+    <td><strong>Parametros</strong></td>
+    <td><strong>Valores</strong></td>
+    <td><strong>Metricas</strong></td>
   </tr>
   <tr>
-   <td>Crecimiento de la convicción
-   </td>
-   <td><p class="rightAlign">
-30</p>
-
-   </td>
-   <td>días
-   </td>
+    <td>Crecimiento de la convicción</td>
+    <td><p class="rightAlign">30</p></td>
+    <td>días</td>
   </tr>
   <tr>
-   <td>Limite de Gastos
-   </td>
-   <td><p class="rightAlign">
-2.50</p>
-
-   </td>
-   <td>%
-   </td>
+    <td>Limite de Gastos</td>
+    <td><p class="rightAlign">2.50</p></td>
+    <td>%</td>
   </tr>
   <tr>
-   <td>Min Convicción
-   </td>
-   <td><p class="rightAlign">
-5</p>
-
-   </td>
-   <td>%
-   </td>
+    <td>Min Convicción</td>
+    <td><p class="rightAlign">5</p></td>
+    <td>%</td>
   </tr>
   <tr>
-   <td>Minimo Activos Stakeados
-   </td>
-   <td><p class="rightAlign">
-2</p>
-
-   </td>
-   <td>%
-   </td>
+    <td>Minimo Activos Stakeados</td>
+    <td><p class="rightAlign">2</p></td>
+    <td>%</td>
   </tr>
 </table>
-
 
 ### Votación Tao (Votos de Decisión)
 
 
 <table>
   <tr>
-   <td><strong>Parametros</strong>
-   </td>
-   <td><strong>Valores</strong>
-   </td>
-   <td><strong>Metricas</strong>
-   </td>
+    <td><strong>Parametros</strong></td>
+    <td><strong>Valores</strong></td>
+    <td><strong>Metricas</strong></td>
   </tr>
   <tr>
-   <td>Apoyo Requerido
-   </td>
-   <td><p class="rightAlign">
-90</p>
-
-   </td>
-   <td>%
-   </td>
+    <td>Apoyo Requerido</td>
+    <td><p class="rightAlign">90</p></td>
+    <td>%</td>
   </tr>
   <tr>
-   <td>Min Aprovacion
-   </td>
-   <td><p class="rightAlign">
-10</p>
-
-   </td>
-   <td>%
-   </td>
+    <td>Min Aprovacion</td>
+    <td><p class="rightAlign">10</p></td>
+    <td>%</td>
   </tr>
   <tr>
-   <td>Duración de Voto
-   </td>
-   <td><p class="rightAlign">
-1.5</p>
-
-   </td>
-   <td>Días
-   </td>
+    <td>Duración de Voto</td>
+    <td><p class="rightAlign">1.5</p></td>
+    <td>Días</td>
   </tr>
   <tr>
-   <td>Retraso en la ejecución
-   </td>
-   <td><p class="rightAlign">
-0.5</p>
-
-   </td>
-   <td>Días
-   </td>
+    <td>Retraso en la ejecución</td>
+    <td><p class="rightAlign">0.5</p></td>
+    <td>Días</td>
   </tr>
   <tr>
-   <td>Período de finalización tranquilo
-   </td>
-   <td><p class="rightAlign">
-0.5</p>
-
-   </td>
-   <td>Días
-   </td>
+    <td>Período de finalización tranquilo</td>
+    <td><p class="rightAlign">0.5</p></td>
+    <td>Días</td>
   </tr>
   <tr>
-   <td>Extensión de final tranquilo
-   </td>
-   <td><p class="rightAlign">
-2</p>
-
-   </td>
-   <td>Días
-   </td>
+    <td>Extensión de final tranquilo</td>
+    <td><p class="rightAlign">2</p></td>
+    <td>Días</td>
   </tr>
   <tr>
-   <td>Período de votación del delegado
-   </td>
-   <td><p class="rightAlign">
-1</p>
-
-   </td>
-   <td>Días
-   </td>
+    <td>Período de votación del delegado</td>
+    <td><p class="rightAlign">1</p></td>
+    <td>Días</td>
   </tr>
 </table>
 
@@ -239,41 +177,23 @@ Los parámetros actuales en nuestro GIVgarden son los siguientes:
 
 <table>
   <tr>
-   <td><strong>Parámetros</strong>
-   </td>
-   <td><strong>Valores</strong>
-   </td>
-   <td><strong>Metricas</strong>
-   </td>
+    <td><strong>Parámetros</strong></td>
+    <td><strong>Valores</strong></td>
+    <td><strong>Metricas</strong></td>
   </tr>
   <tr>
-   <td>Depósito de Acción
-   </td>
-   <td><p class="rightAlign">
-5000</p>
-
-   </td>
-   <td>GIV
-   </td>
+    <td>Depósito de Acción</td>
+    <td><p class="rightAlign">5000</p></td>
+    <td>GIV</td>
   </tr>
   <tr>
-   <td>Depósito de desafío
-   </td>
-   <td><p class="rightAlign">
-10000</p>
-
-   </td>
-   <td>GIV
-   </td>
+    <td>Depósito de desafío</td>
+    <td><p class="rightAlign">10000</p></td>
+    <td>GIV</td>
   </tr>
   <tr>
-   <td>Periodo de Establecimiento
-   </td>
-   <td><p class="rightAlign">
-7</p>
-
-   </td>
-   <td>Días
-   </td>
+    <td>Periodo de Establecimiento</td>
+    <td><p class="rightAlign">7</p></td>
+    <td>Días</td>
   </tr>
 </table>

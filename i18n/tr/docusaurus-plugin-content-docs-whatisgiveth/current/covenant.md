@@ -7,7 +7,7 @@ Giveth DAO, Ethereum ve kâr amacı gütmeyen dünyalar arasında köprü kurara
 
 Giveth, paylaşmanın zahmetli olmadığı ve dünyanın dört bir yanında pozitif değişim yaratmak isteyen insanların ödüllendirildiği bir gelecek öngörmektedir. Giveth platformları, bağışçılar ve projeler için küresel ölçekte özgürce erişilebilen ve kendi kendini idame eden köprüler olmayı amaçlamaktadır. Giveth, fonların doğrudan nerede en fazla etki yaratabileceğini görüp ona göre şeffaf ve etkin bir şekilde akışının gerçekleştirilmesini kolaylaştırmayı hedefler.
 
-Giveth topluluğu merkeziyetsizliği, yeniliği, özgeciliği, güçlendirmeyi, güveni, şeffaflığı ve işbirliğini [değerli](/tr/whatisgiveth/) görür. Bu sosyal katman, DAO'muzun üzerine inşa edildiği temeldir.
+Giveth topluluğu merkeziyetsizliği, yeniliği, özgeciliği, güçlendirmeyi, güveni, şeffaflığı ve işbirliğini [değerli](/whatisgiveth/) görür. Bu sosyal katman, DAO'muzun üzerine inşa edildiği temeldir.
 
 GIVeconomy, GIV'in ihraç edilip programatik olarak dağıtıldığı ekonomik katmanı temsil eder. GIV tokenleri, GIVgarden'a sunulup kabul edilen tekliflerin finansmanında kullanılacaktır. Dolayısıyla, GIVgarden'dan GIV dağılımı oy kullanmak için GIV ile güçlendirilen topluluk kararına bağlı olacaktır.
 
@@ -19,7 +19,7 @@ Bu nedenle, Giveth üyelerin hem protokolle hem de birbirleriyle nasıl etkileş
 
 Üyeler, katkıda bulunanlar ve liderler olarak Giveth'e katılımın; yaş, beden, görünür ve görünmez engellilik, etnisite, cinsiyet özellikleri, cinsel kimlik ve ifade, deneyim ve eğitim düzeyi, sosyo-ekonomik statü, milliyet, kişisel görünüş, ırk, din veya cinsel yönelimine bakılmaksızın herkes için tacizsiz bir deneyim oluşturacağını taahhüt ederiz.
 
-[Giveth misyonu, vizyonu ve değerleri](/tr/whatisgiveth/) ile uyumlu şekilde davranacağımızı ve açık, misafirperver, kapsayıcı ve sağlıklı bir topluluğa katkıda bulunacak şekilde hareket etmeyi taahhüt ederiz.
+[Giveth misyonu, vizyonu ve değerleri](/whatisgiveth/) ile uyumlu şekilde davranacağımızı ve açık, misafirperver, kapsayıcı ve sağlıklı bir topluluğa katkıda bulunacak şekilde hareket etmeyi taahhüt ederiz.
 
 
 ### Standartlarımız
@@ -44,11 +44,11 @@ Kabul edilemez davranış örnekleri şunlardır:
 
 ### Karar Alma
 
-Giveth, GIVgarden yapılandırmalarını yönetmek ve [misyonu, vizyonu ve değerleriyle](/tr/whatisgiveth/) uyumlu projelere finansman tahsis etmek için [Gardens](https://gardens.1hive.org/#/home/) yönetişim platformundan faydalanır.
+Giveth, GIVgarden yapılandırmalarını yönetmek ve [misyonu, vizyonu ve değerleriyle](/whatisgiveth/) uyumlu projelere finansman tahsis etmek için [Gardens](https://gardens.1hive.org/#/home/) yönetişim platformundan faydalanır.
 
 Givgarden için blokzincir üzerinde karar alma mekanizmaları  [Kanaat Oylaması](https://forum.tecommons.org/t/conviction-voting-tl-dr/308?u=liviade) ve [Tao Oylamasıdır](https://forum.tecommons.org/t/tao-voting-formerly-disputable-voting-parameters-general-discussion/267). Kanaat Oylaması, temel olarak finansman tahsisi için kullanılmaktadır. Tao Oylaması ise parametrelerin güncellenmesi, hataların düzeltilmesi, DAO'ya yeni özelliklerin eklenmesi ve/veya DAO hazinesine saldırı gibi acil durumlarda kullanılır.
 
-Giveth tarafından kullanılan ekstra çok merkezli yönetişim süreçleri [şu dokümanda](/tr/whatisgiveth/governanceProcess) açıklanmış ve topluluk kararlarına göre değişebilir uygulamalar içermektedir.
+Giveth tarafından kullanılan ekstra çok merkezli yönetişim süreçleri [şu dokümanda](/whatisgiveth/governanceProcess) açıklanmış ve topluluk kararlarına göre değişebilir uygulamalar içermektedir.
 
 ### Uygulama
 
@@ -64,7 +64,7 @@ GIVgarden'ı kullanırken teklifi sunan kişinin teklifi sunarken belirli bir mi
 
 ### Karar Alma
 
-Giveth, katkıda bulunanların kültürel tekliflerini ilerletmeleri amacıyla kendi başlarına hareket edebilmelerini desteklemek açısından birincil karar alma yöntemi olarak [Tavsiye Süreci'nden](/tr/whatisgiveth/adviceProcess) faydalanır. Tavsiye Süreci, Giveth dokümantasyonunda yazılı olarak bulunmakla birlikte topluluk görüşmelerinde sözlü olarak da açıklanır. Finansal olmayan, kod gerektirmeyen bir teklifin topluluğun büyük bir bölümünü etkileme olasılığı doğduğunda, Discord veya Forumda anketler yöntemiyle blokzincir dışı oylama gerçekleştirilir. Bir kararın bu sözleşmeye riayet etmesi, topluluğun bilgiye sunulması ve sonuçlarına 2 hafta içerisinde itiraz edilmemesi halinde söz konusu karar meşru kabul edilir.
+Giveth, katkıda bulunanların kültürel tekliflerini ilerletmeleri amacıyla kendi başlarına hareket edebilmelerini desteklemek açısından birincil karar alma yöntemi olarak [Tavsiye Süreci'nden](/whatisgiveth/adviceProcess) faydalanır. Tavsiye Süreci, Giveth dokümantasyonunda yazılı olarak bulunmakla birlikte topluluk görüşmelerinde sözlü olarak da açıklanır. Finansal olmayan, kod gerektirmeyen bir teklifin topluluğun büyük bir bölümünü etkileme olasılığı doğduğunda, Discord veya Forumda anketler yöntemiyle blokzincir dışı oylama gerçekleştirilir. Bir kararın bu sözleşmeye riayet etmesi, topluluğun bilgiye sunulması ve sonuçlarına 2 hafta içerisinde itiraz edilmemesi halinde söz konusu karar meşru kabul edilir.
 
 Giveth [Forumu](https://forum.giveth.io/), [Github](https://github.com/Giveth) ve [Discord](https://discord.gg/JxF38Tj364) sunucuları dahil Giveth topluluk alanları ile birlikte ilerleyen süreçte ortaya çıkabilecek diğer blokzincir dışı tartışma alanlarının bu sözleşmeye uyması beklenir.
 

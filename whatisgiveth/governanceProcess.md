@@ -51,7 +51,7 @@ After minimum advice process is met for all proposals a vote is created on the G
 To learn more about Working Groups check out our [DAO structure documentation](./daoStructure)
 
 ## Informal Decisions
-Not all decisions require formal on-chain votes. There is room for making low-impact, agile decisions via a range of platforms that Giveth's community utilizes. For the most clarity we refer to the Covenant's section on [off-chain decision making](./whatisgiveth/covenant/#off-chain):
+Not all decisions require formal on-chain votes. There is room for making low-impact, agile decisions via a range of platforms that Giveth's community utilizes. For the most clarity we refer to the Covenant's section on [off-chain decision making](./covenant#off-chain):
 
 > Giveth uses Advice Process as its primary practice for flat decision making to empower contributors with agency to move their cultural proposals forward. Advice Process is written in the Giveth documentation and promoted verbally in community calls. When a non-financial, no-code decision will likely affect a large part of the community, the use of off-chain voting using polls in the Discord or Forum is implemented. A decision is considered legitimate when it respects this covenant, is promoted to the awareness of the community and its results aren’t challenged within 2 weeks.  
 

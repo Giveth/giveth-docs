@@ -19,7 +19,7 @@ Metamask'a aşina değilseniz veya halihazırda bir cüzdanınız yoksa (https:/
 Giriş yaptıktan sonra, kendinizle ilgili bazı bilgileri doldurmanız önerilir. Şeffaflık iki yönlü bir yoldur! Sağ üst köşede hesabınızın küçük resmini bulmalısınız. Üzerine tıklayın ve ardından `My Account`'a, ardından `Edit Public Profile`'e tıklayın ve verilen alanları doldurup `SAVE`'e tıklayın.
 
 ## Bağış yapma
-Bir projeye bağış yapma hakkında daha fazla bilgiyi [kullanım kılavuzunda](/tr/dapps/projectdonating) bulabilirsiniz.
+Bir projeye bağış yapma hakkında daha fazla bilgiyi [kullanım kılavuzunda](/dapps/projectdonating) bulabilirsiniz.
 
 ## Proje oluşturma
-Proje oluşturmaya yönelik Kullanıcı Kılavuzu sayfamıza [buradan](/tr/dapps/createproject) ulaşabilirsiniz.
+Proje oluşturmaya yönelik Kullanıcı Kılavuzu sayfamıza [buradan](/dapps/createproject) ulaşabilirsiniz.

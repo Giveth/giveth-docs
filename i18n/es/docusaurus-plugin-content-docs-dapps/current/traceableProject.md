@@ -53,7 +53,7 @@ Confirme la información solicitada en cada sección del Asistente, luego firme 
 <img width="600" height="auto" alt='Herramienta del asistente de verificación' src={useBaseUrl('img/content/givethio/verifiedWizard.png')} />
 
 ### Paso 6 - ¡Magia!
-Una vez que llegue la página de "Felicitaciones", puede hacer clic en `IR A SU PROYECTO` para visitar su nuevo espacio. Comience explorando la interfaz de usuario de Giveth TRACE y cree algunos Traces para alentar más donaciones a su campaña. Para obtener más información sobre cómo funciona Giveth TRACE, lea la [documentación de DApp](/es/dapps/introTrace).
+Una vez que llegue la página de "Felicitaciones", puede hacer clic en `IR A SU PROYECTO` para visitar su nuevo espacio. Comience explorando la interfaz de usuario de Giveth TRACE y cree algunos Traces para alentar más donaciones a su campaña. Para obtener más información sobre cómo funciona Giveth TRACE, lea la [documentación de DApp](/dapps/introTrace).
 
 <img width="600" height="auto" alt="Correo electrónico de aprobación de verificación" src={useBaseUrl('img/content/givethio/verifiedTraceCampaign.jpg')} />
 

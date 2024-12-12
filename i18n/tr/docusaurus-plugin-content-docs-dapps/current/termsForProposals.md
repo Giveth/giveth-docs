@@ -21,7 +21,7 @@ If you do not agree with the Terms, you shall not submit or challenge a Proposal
 
 ### 2. **MODIFICATIONS OF TERMS OF USE**
 
-The Giveth community reserves the right, at its sole discretion, to modify or replace these Terms & Conditions at any time. The most current version of these Terms will be posted on our [docs](/tr/). You shall be responsible for reviewing and becoming familiar with any such modifications. Submission of or disputing Proposals after any modification to the Term constitutes your acceptance of the Terms & Conditions as modified. To participate in the GIVgarden you are assumed to have read and accepted these Terms.
+The Giveth community reserves the right, at its sole discretion, to modify or replace these Terms & Conditions at any time. The most current version of these Terms will be posted on our [docs](/). You shall be responsible for reviewing and becoming familiar with any such modifications. Submission of or disputing Proposals after any modification to the Term constitutes your acceptance of the Terms & Conditions as modified. To participate in the GIVgarden you are assumed to have read and accepted these Terms.
 
 ### 3. **ELIGIBILITY**
 
@@ -35,14 +35,14 @@ Pursuant to applicable laws and regulations, the Giveth community maintains the 
 
 ### 4. **PROPOSAL GUIDELINES**
 
-All proposals are bound by the [Giveth Covenant](https://gardens.1hive.org//tr/whatisgiveth/covenant/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98/covenant). If you haven't taken the time to read through it yet, please make sure you do so. To participate in Giveth you are assumed to have read, understood and agreed to be bound by the Giveth Covenant.  
+All proposals are bound by the [Giveth Covenant](https://gardens.1hive.org/tr/whatisgiveth/covenant/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98/covenant). If you haven't taken the time to read through it yet, please make sure you do so. To participate in Giveth you are assumed to have read, understood and agreed to be bound by the Giveth Covenant.  
 
 Before submitting a Proposal, the Proposal Creator must first create a post on the [Giveth Forum](https://forum.giveth.io/). This post should explain why the Proposal is beneficial to the community and (if applicable) what the requested funds will be used for. Only submitted Proposals linked to a post in the Forum are subject to Conviction Voting.
 
 ### 5. **DEPOSIT AND OTHER FEES**
 
 1. **“Deposit Manager”**-  The Proposal Creator or the Challenger will be required to add Giveth tokens (GIV) into the GIVgarden’s [Deposit Manager](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98/collateral) before submitting or challenging a Proposal. The Giveth tokens in the Deposit Manager can be withdrawn at any time, as long as they are not actively being used as collateral for a “Proposal Deposit” or “Challenge Deposit”.
-2. **“Proposal Deposit”** - When the Proposal Creator makes a Proposal, an amount of GIVs previously deposited in the Deposit Manager will be used as the collateral while the Proposal is being voted on to attest that the Proposal is aligned with [Giveth Covenant](/tr/whatisgiveth/covenant/). This collateral is referred to as the Proposal Deposit.
+2. **“Proposal Deposit”** - When the Proposal Creator makes a Proposal, an amount of GIVs previously deposited in the Deposit Manager will be used as the collateral while the Proposal is being voted on to attest that the Proposal is aligned with [Giveth Covenant](/whatisgiveth/covenant/). This collateral is referred to as the Proposal Deposit.
 3. “**Challenge Deposit”**- When the Challenger disputes a Proposal, the Challenger is required to stake some tokens as collateral. This amount is taken from the tokens the Challenger already deposited using the Deposit Manager. Backing challenges with collateral helps to ensure they have some amount of seriousness behind them. The Challenge Deposit can be forfeited in case the [Celeste Keepers](https://1hive.gitbook.io/celeste/key-concepts#keepers) rule against the Challenger, if the Proposal was [raised to Celeste](https://1hive.gitbook.io/gardens/actions-for-community-members/disputes/raise-to-celeste).
 
 :::info

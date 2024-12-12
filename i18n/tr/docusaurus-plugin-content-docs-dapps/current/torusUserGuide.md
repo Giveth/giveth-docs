@@ -39,7 +39,7 @@ Torus hesabınızdan `Add Token` açılır penceresine yapıştırın. `Next`'e 
 <img alt="Adding Tokens in Torus" height="500"  width="auto" class='center' src={useBaseUrl('img/content/givethio/addTokenTorus.png')} />
 
 ### Diğer Fonksiyonlar
-İtibari para birimini kullanarak kripto satın almak istiyorsanız, bunu "Top Up" seçeneğini kullanarak yapabilirsiniz. [Bu süreçte](/tr/dapps/torusonramp) size yardımcı olacak küçük bir kılavuz yazdık.
+İtibari para birimini kullanarak kripto satın almak istiyorsanız, bunu "Top Up" seçeneğini kullanarak yapabilirsiniz. [Bu süreçte](/dapps/torusonramp) size yardımcı olacak küçük bir kılavuz yazdık.
 
 Sahip olduğunuz kriptoyu başka bir cüzdana göndermek için `Transfer`'i kullanın. İşleminiz için gerekli olan "gas ödeyebilmek" için cüzdanınızda Ethereum'a (ETH) ihtiyacınız olacak. Gas hakkında daha fazla bilgi için [tıklayın](https://ethereum.org/en/developers/docs/gas/).
 

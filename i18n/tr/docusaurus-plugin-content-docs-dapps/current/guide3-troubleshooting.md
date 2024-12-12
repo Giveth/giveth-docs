@@ -15,10 +15,7 @@ Bu sorunu hızlı bir şekilde çözmek için şunları yapabilirsiniz:
 
 * site ayarlarına tıklayın (Brave simgesi)
 * Sadece Giveth.io için çerez ayarını "tüm çerezlere izin verilir" olarak değiştirin
-<img
-  alt="Enable Cookies in Brave"
-  src={useBaseUrl('img/content/screenshot-brave-cookies.png')}
-/>
+<img alt="Enable Cookies in Brave" src={useBaseUrl('img/content/screenshot-brave-cookies.png')}/>
 [Brave'de çerezleri kullanma hakkında daha fazla bilgi edinin.](https://support.brave.com/hc/en-us/articles/360050634931-How-Do-I-Manage-Cookies-In-Brave-)
 
 ### Giveth.io boş bir ekran gösteriyor! Lütfen Yardım!

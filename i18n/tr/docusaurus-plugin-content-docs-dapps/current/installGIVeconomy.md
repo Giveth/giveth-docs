@@ -33,7 +33,7 @@ npm run dev
 yarn dev
 ```
 
-Sonucu görmek için tarayıcınızla http://localhost:3000'i ve kod düzenleyicinizi açın. Artık hazırsınız!
+Sonucu görmek için tarayıcınızla [http://localhost:3000](http://localhost:3000) adresini ve kod düzenleyicinizi açın. Artık hazırsınız!
 
 ## Daha fazla bilgi
 

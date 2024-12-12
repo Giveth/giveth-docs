@@ -7,7 +7,7 @@ import styles from '../src/css/custom.css'
 import ReactPlayer from 'react-player'
 import useBaseUrl from '@docusaurus/useBaseUrl'
 
-Giveth is progressively decentralizing its system of reviewing projects for legitimacy and determining if they are providing a public good. This system determines which projects provide rewards to their donors to those projects via the [GIVbacks program](https://docs.giveth.io/giveconomy/givbacks) as well as which projects are eligible to be boosted with [GIVpower](./giveconomy/givpower). 
+Giveth is progressively decentralizing its system of reviewing projects for legitimacy and determining if they are providing a public good. This system determines which projects provide rewards to their donors to those projects via the [GIVbacks program](https://docs.giveth.io/giveconomy/givbacks) as well as which projects are eligible to be boosted with [GIVpower](/giveconomy/givpower). 
 
 There are two statuses that project's can have that impact their eligiblity for GIVbacks and GIVpower: "Vouched" and "GIVbacks Eligible". Each of these have a unique flow and are recommended for different types of projects. 
 
@@ -30,7 +30,7 @@ Giveth Verifiers are a group of trusted members of the Giveth community and Ethe
 
 #### Eligibility & Benefits
 
-When a project that is not yet GIVbacks eligible has received 3 vouches from Giveth Verifiers it will become "Vouched". This will allow the project to be boosted by [GIVpower](./giveconomy/givpower). 
+When a project that is not yet GIVbacks eligible has received 3 vouches from Giveth Verifiers it will become "Vouched". This will allow the project to be boosted by [GIVpower](/giveconomy/givpower). 
 
 #### How Vouching Works
 
@@ -73,8 +73,8 @@ Project owners can apply, after signing in, from their project page or by visiti
 - Create greater legitimacy for your Project.
 - Build deeper trust and transparency with Donors.
 - Make your project stand out! Get listed as a "GIVbacks Eligible" project on our platform and searchable by that category.
-- GIV stakers will be able to boost your project with [GIVpower](https://docs.giveth.io/giveconomy/givpower). Yes, you can even boost your own project!
-- Having the GIVbacks Eligible badge can increase your project's chances of participation in [Giveth’s Quadratic Funding](https://docs.giveth.io/quadraticfunding) rounds.
+- GIV stakers will be able to boost your project with [GIVpower](/giveconomy/givpower). Yes, you can even boost your own project!
+- Having the GIVbacks Eligible badge can increase your project's chances of participation in [Giveth’s Quadratic Funding](./quadraticfunding.md) rounds.
 - Participate in the GIVbacks program, which rewards donors for their donations. Once your project is GIVbacks eligible, the supporters who donate to your project will be rewarded with GIV tokens. GIVbacks eligibility will greatly increase the likelihood of your project receiving donations. ***Note that GIVbacks eligible project addresses will not receive GIVbacks rewards for donations made to their own project or any other GIVbacks Eligible projects. Please refer to the [Disqualifying Measures](#disqualifying-factors-for-the-givbacks-program) outlined below.***
 
 ## Qualifying Measures for GIVbacks Eligibility

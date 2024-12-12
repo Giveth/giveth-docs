@@ -10,7 +10,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl'
 **¡Se avecinan grandes cambios en la Verificación de Proyectos!** Estamos en proceso de descentralizar nuestro sistema de verificación de proyectos, por lo que algunos procesos pueden haber cambiado. *[Consulta este hilo del foro para estar al día](https://forum.giveth.io/t/decentralizing-project-verification/1528/9)*. Este artículo se actualizará pronto para reflejar la versión final del nuevo sistema.
 :::
 
-Giveth está descentralizando progresivamente su sistema de revisión de proyectos para verificar su legitimidad y determinar si están proporcionando un bien público. Este sistema determina qué proyectos ofrecen recompensas a sus donantes a través del [programa GIVbacks](/es/giveconomy/givbacks), así como qué proyectos son elegibles para ser impulsados con [GIVpower](/es/giveconomy/givpower).
+Giveth está descentralizando progresivamente su sistema de revisión de proyectos para verificar su legitimidad y determinar si están proporcionando un bien público. Este sistema determina qué proyectos ofrecen recompensas a sus donantes a través del [programa GIVbacks](/giveconomy/givbacks), así como qué proyectos son elegibles para ser impulsados con [GIVpower](/giveconomy/givpower).
 
 Hay dos estatus que los proyectos pueden tener y que impactan su elegibilidad para GIVbacks y GIVpower: "Avalado" y "Elegible para GIVbacks". Cada uno de estos tiene un flujo único y se recomienda para diferentes tipos de proyectos.
 
@@ -29,7 +29,7 @@ Los Verificadores de Giveth son un grupo de miembros de confianza de la comunida
 
 #### Elegibilidad y Beneficios
 
-Cuando un proyecto que aún no es elegible para GIVbacks recibe 3 avales de Verificadores de Giveth, se convierte en "Avalado". Esto permitirá que el proyecto sea impulsado por [GIVpower](/es/giveconomy/givpower).
+Cuando un proyecto que aún no es elegible para GIVbacks recibe 3 avales de Verificadores de Giveth, se convierte en "Avalado". Esto permitirá que el proyecto sea impulsado por [GIVpower](/giveconomy/givpower).
 
 #### Cómo Funciona el Aval
 
@@ -70,8 +70,8 @@ Los propietarios de proyectos pueden solicitarlo, después de iniciar sesión, d
 - Crea mayor legitimidad para tu Proyecto.
 - Construye una mayor confianza y transparencia con los Donantes.
 - ¡Haz que tu proyecto destaque! Obtén el listado como proyecto "Elegible para GIVbacks" en nuestra plataforma y que sea buscable por esa categoría.
-- Los stakers de GIV podrán impulsar tu proyecto con [GIVpower](/es/giveconomy/givpower). ¡Sí, incluso puedes impulsar tu propio proyecto!
-- Tener la insignia de Elegible para GIVbacks puede aumentar las posibilidades de que tu proyecto participe en las rondas de [Financiamiento Cuadrático de Giveth](/es/quadraticfunding).
+- Los stakers de GIV podrán impulsar tu proyecto con [GIVpower](/giveconomy/givpower). ¡Sí, incluso puedes impulsar tu propio proyecto!
+- Tener la insignia de Elegible para GIVbacks puede aumentar las posibilidades de que tu proyecto participe en las rondas de [Financiamiento Cuadrático de Giveth](/quadraticfunding).
 - Participa en el programa GIVbacks, que recompensa a los donantes por sus donaciones. Una vez que tu proyecto sea elegible para GIVbacks, los seguidores que donen a tu proyecto serán recompensados con tokens GIV. La elegibilidad para GIVbacks aumentará significativamente la probabilidad de que tu proyecto reciba donaciones. ***Tenga en cuenta que las direcciones de los proyectos elegibles para GIVbacks no recibirán recompensas GIVbacks por donaciones hechas a su propio proyecto u otros proyectos elegibles para GIVbacks. Por favor, consulte las [Medidas de Descalificación](#disqualifying-factors-for-the-givbacks-program) que se detallan a continuación.***
 
 ## Medidas de Calificación para la Elegibilidad de GIVbacks
