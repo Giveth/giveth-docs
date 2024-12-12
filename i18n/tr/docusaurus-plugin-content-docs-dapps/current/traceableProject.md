@@ -60,7 +60,7 @@ Confirm the information requested on each section of the Wizard, then sign the t
 
 
 ### Step 6 -  Magic!
-Once you make it to the "Congratulations" page, you can click `GO TO YOUR PROJECT` to visit your new space! Get started by exploring Giveth TRACE's UI, and create some Traces to encourage more donations to your Campaign. To learn more about how Giveth TRACE works, read the [DApp documentation](/tr/dapps/introTrace).
+Once you make it to the "Congratulations" page, you can click `GO TO YOUR PROJECT` to visit your new space! Get started by exploring Giveth TRACE's UI, and create some Traces to encourage more donations to your Campaign. To learn more about how Giveth TRACE works, read the [DApp documentation](/dapps/introTrace).
 
 <img width="600" height="auto" alt="Verification Approval Email" src={useBaseUrl('img/content/givethio/verifiedTraceCampaign.jpg')} />
 

@@ -18,11 +18,11 @@ Giveth.io şu anda Ethereum ve Gnosis Chain'de (eski adıyla xDai) konuşlandır
 
 ## Doğrulama ve İzlenebilir Projeler
 
-Harika projeler günün sonunda Giveth'i başarılı kılar! DApp'te en kaliteli ve güvenilir projelere sahip olduğumuzdan emin olmak için bir Proje Doğrulama sürecimiz var. Doğrulamanın faydalarından biri, onaylanmış projelerin [Giveth TRACE](https://trace.giveth.io/)'de bir Kampanya haline gelmesi ve özelleştirilebilir bağış yönetimi, özellikleri ve bağış izlenebilirliği kazanmasıdır. Daha fazla bilgi için [bu linke](/tr/dapps/makeTraceableProject) tıklayın.
+Harika projeler günün sonunda Giveth'i başarılı kılar! DApp'te en kaliteli ve güvenilir projelere sahip olduğumuzdan emin olmak için bir Proje Doğrulama sürecimiz var. Doğrulamanın faydalarından biri, onaylanmış projelerin [Giveth TRACE](https://trace.giveth.io/)'de bir Kampanya haline gelmesi ve özelleştirilebilir bağış yönetimi, özellikleri ve bağış izlenebilirliği kazanmasıdır. Daha fazla bilgi için [bu linke](/dapps/makeTraceableProject) tıklayın.
 
 ---
 **Giveth.io hakkında daha fazla bilgi edinmek için bu bağlantılardan herhangi birine tıklayın:**
 * Sürecin tüm detaylarını görmek için [Giveth.io](https://giveth.io/)'yu ziyaret edin
 * Toplulukla tanışmak için [Discord'umuza](https://discord.giveth.io/) katılın
-* Bağışçılar ve proje sahipleri için [Başlangıç](/tr/dapps/gettingStarted) bölümünde daha fazla bilgi edinin
-* Geliştiriciler hakkında detaylar için [Katkı Verenler](/tr/dapps/contributors) sayfasına gidin
+* Bağışçılar ve proje sahipleri için [Başlangıç](/dapps/gettingStarted) bölümünde daha fazla bilgi edinin
+* Geliştiriciler hakkında detaylar için [Katkı Verenler](/dapps/contributors) sayfasına gidin

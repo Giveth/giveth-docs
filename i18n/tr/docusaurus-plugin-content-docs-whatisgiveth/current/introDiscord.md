@@ -65,7 +65,7 @@ Sunucuya katıldıktan sonra, bir bot size çözmeniz için bir Captha gönderec
 
 <strong><code>#👍governance</code></strong>, merkeziyetsiz yönetişim deneyleri yaptığımız ve bizimki gibi diğer topluluklara da ilerleyen zamanlarda faydalı olabilecek her şeyi belgelediğimiz yerdir.
 <strong><code>#🌐 dao</code></strong> kanalı, DAO tekliflerinin linklerinin paylaşıldığı ve topluluğa oy vermeleri için bilgi verilen alandır. Bu kanalda tekliflere ilişkin her şeyi konuşabilirsiniz.
-<strong><code># giveth-trace-payments</code></strong>, Giveth TRACE köprüsü üzerinde gerçekleşen ödeme işlermlerine dair bilgilerin paylaşılması için kullanılmaktadır. Köprünün nasıl çalıştığı hakkında [buradan](/tr/dapps/bridgeSecurity) daha fazla bilgi edinebilirsiniz.
+<strong><code># giveth-trace-payments</code></strong>, Giveth TRACE köprüsü üzerinde gerçekleşen ödeme işlermlerine dair bilgilerin paylaşılması için kullanılmaktadır. Köprünün nasıl çalıştığı hakkında [buradan](/dapps/bridgeSecurity) daha fazla bilgi edinebilirsiniz.
 
 ### Platform
 
@@ -89,7 +89,7 @@ Sunucuya katıldıktan sonra, bir bot size çözmeniz için bir Captha gönderec
 
 Bu kanallar topluluk üyeleriyle sesli ve/veya görüntülü sohbetler için kullanılır.
 
-<strong><code>#groovy-playlist</code></strong>, Chip Bot komutlarını yazmak için kullanılan metin kanalıdır.[(Bot komutlarına dair daha fazla bilgi aşağıda)](/tr/whatisgiveth/introDiscord/#chip)
+<strong><code>#groovy-playlist</code></strong>, Chip Bot komutlarını yazmak için kullanılan metin kanalıdır.[(Bot komutlarına dair daha fazla bilgi aşağıda)](/whatisgiveth/introDiscord/#chip)
 <strong><code>Stage</code></strong> - Bu kanal, Ethereum topluluğuna Giveth'i göstermek için etkinliklere ev sahibi yapılırken kullanılır.
 <strong><code>Community</code></strong> - haftalık Topluluk Toplantıları ile birlikte Topluluk Katmanındaki çalışma gruplarının toplantılarını gerçekleştirdiği yerdir.
 <strong><code>Platform</code></strong> - Platform Katmanındaki çalışma gruplarının toplantı yeridir.

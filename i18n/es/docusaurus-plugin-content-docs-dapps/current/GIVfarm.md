@@ -11,7 +11,7 @@ slug: giveconomy/givfarm
 Este artículo de documentación se mantendrá como referencia histórica.
 :::
 
-GIVfarm se lanzó el **24 de diciembre de 2021**. El 3,5% del suministro total de tokens, 35 millones de GIV, se asignó a la primera ronda de GIVfarm de 6 meses, 65 millones de tokens se mantienen en un multisig para provisión de liquidez futura. Las farms están disponibles en **Ethereum Mainnet (ETH)** o **Gnosis Chain** (anteriormente xDai Network). Cualquier farm en la que apueste tokens generará recompensas de GIV y se agregará a su [tasa de flujo de GIVstream](/es/giveconomy/givstream) solo para esa cadena correspondiente. La distribución de recompensas GIV para los 6 grupos disponibles es la siguiente:
+GIVfarm se lanzó el **24 de diciembre de 2021**. El 3,5% del suministro total de tokens, 35 millones de GIV, se asignó a la primera ronda de GIVfarm de 6 meses, 65 millones de tokens se mantienen en un multisig para provisión de liquidez futura. Las farms están disponibles en **Ethereum Mainnet (ETH)** o **Gnosis Chain** (anteriormente xDai Network). Cualquier farm en la que apueste tokens generará recompensas de GIV y se agregará a su [tasa de flujo de GIVstream](/giveconomy/givstream) solo para esa cadena correspondiente. La distribución de recompensas GIV para los 6 grupos disponibles es la siguiente:
 
 | Pool                          | Tokens asignados |
 | ----------------------------- | ---------------- |
@@ -84,7 +84,7 @@ GIVeconomy implementa una característica única en su grupo de participación G
 
 
 
-Es posible que se lancen más rondas después de este período que podrían contener nuevos grupos y cambios en la distribución. Todas las recompensas de GIVfarm se verán afectadas por GIVstream. Lea la [documentación de GIVstream](/es/giveconomy/givstream) para obtener más información.
+Es posible que se lancen más rondas después de este período que podrían contener nuevos grupos y cambios en la distribución. Todas las recompensas de GIVfarm se verán afectadas por GIVstream. Lea la [documentación de GIVstream](/giveconomy/givstream) para obtener más información.
 
 
 :::info

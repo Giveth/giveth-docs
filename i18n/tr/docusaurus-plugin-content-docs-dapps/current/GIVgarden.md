@@ -7,9 +7,9 @@ import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
 
 
-Giveth, GIV token sahiplerinin DAO yönetmesine ve [misyon, vizyon ve değerleriyle](/tr/whatisgiveth/) uyumlu projelere fon tahsis etmesine izin vermek için [1hive](https://forum.1hive.org/t/welcome-to-1hive/7) tarafından geliştirilen Gardens DAO yönetişim platformunu seçti. Eşsiz Giveth Garden, "GIVgarden" olarak adlandırılmıştır ve Gnosis Chain'de (eski adıyla xDai Network) konuşlandırılmıştır. GIVgarden'da yönetişim için kullanılan ana araçlar [Kanaat Oylaması](/tr/whatisgiveth/covenant) ve Tao Oylamasıdır.
+Giveth, GIV token sahiplerinin DAO yönetmesine ve [misyon, vizyon ve değerleriyle](/whatisgiveth/) uyumlu projelere fon tahsis etmesine izin vermek için [1hive](https://forum.1hive.org/t/welcome-to-1hive/7) tarafından geliştirilen Gardens DAO yönetişim platformunu seçti. Eşsiz Giveth Garden, "GIVgarden" olarak adlandırılmıştır ve Gnosis Chain'de (eski adıyla xDai Network) konuşlandırılmıştır. GIVgarden'da yönetişim için kullanılan ana araçlar [Kanaat Oylaması](/whatisgiveth/covenant) ve Tao Oylamasıdır.
 
-GIVgarden, Giveth [Topluluk Sözleşmesi](/tr/whatisgiveth/covenant) zincir üstü ve zincir dışı davranış standartlarını belirleyen merkeziyetsiz bir sosyal sözleşme olarak kullanır.
+GIVgarden, Giveth [Topluluk Sözleşmesi](/whatisgiveth/covenant) zincir üstü ve zincir dışı davranış standartlarını belirleyen merkeziyetsiz bir sosyal sözleşme olarak kullanır.
 
 GIVgarden detaylarına [buradan](https://gardens.1hive.org/#/xdai/garden/0xb25f0ee2d26461e2b5b3d3ddafe197a0da677b98) erişebilirsiniz.
 
@@ -47,7 +47,7 @@ GIVgarden'da yapılabilecek üç tür teklif vardır: **Finansman**, **Öneri** 
 GIVgarden'ın nasıl çalıştığı hakkında daha fazla bilgi edinmek için [1hive belgelerini](https://1hive.gitbook.io/gardens/) inceleyebilirsiniz.
 
 ## Sözleşme
-GIVgarden'a katılmak için önce [Giveth Covenant](/tr/whatisgiveth/covenant)'ı imzalamanız gerekir. Bu sözleşme, zincir üstü ve zincir dışı topluluk için standartları belirleyen merkeziyetsiz sosyal sözleşmemizdir.
+GIVgarden'a katılmak için önce [Giveth Covenant](/whatisgiveth/covenant)'ı imzalamanız gerekir. Bu sözleşme, zincir üstü ve zincir dışı topluluk için standartları belirleyen merkeziyetsiz sosyal sözleşmemizdir.
 
 ## İtiraz Edilebilirlik
 Bir teklif oluşturmak veya teklife itiraz etmek için GIV'yi GIVgarden'a yatırmanız gerekir. Bir teklif yaptığınızda, buradan bir miktar GIV, [Teklif Depozitosu](https://1hive.gitbook.io/gardens/actions-for-community-members/proposals/creating-a-new-proposal#what-is-the-proposal-deposit) (diğer adıyla “İşlem Depozitosu”) olarak kullanılacak ve teklifinize itiraz edildiğinde (yani Sözleşme ile anlaşmaya varmamakla suçlandığında) teminat olarak tutulacaktır. Benzer şekilde, bir teklife itiraz etmek isterseniz ilk depozitodan elde edilen bir miktar GIV, [İtiraz Depozitosu](https://1hive.gitbook.io/gardens/actions-for-community-members/proposals/challenge-a-proposal#what-is-the-challenge-deposit) olarak, yani bir itirazda bulunmak için teminat olarak kullanılacaktır.
@@ -57,13 +57,13 @@ GIVgarden'da bir teklife itiraz edildiğinde, teklifi oluşturanın belirli bir 
 Yine 1Hive tarafından inşa edilen [Celeste](https://1hive.gitbook.io/celeste/), GIVgarden'da son backstop görevi gören DAO'lar için merkeziyetsiz bir mahkemedir. Celeste, itiraz edilen  tekliflerin işaretlenmesine ve rastgele seçilmiş bir jüri üyesinin değerlendirmesine sunulmasına izin vererek, tartışmalı tekliflerin yasal süreç olmadan geçirilemeyeceğini garanti eder.
 
 ## Tekliflerin Yaşam Döngüsü
-Giveth'i ve nasıl çalıştığımızı iyi anladığınızı ve topluluğa önermek için harika bir şeyimiz olduğunu düşünüyorsanız, mümkün olan en iyi başarı şansına sahip olmak için saygı duymanız gereken [bazı süreçler](/tr/whatisgiveth/) vardır.
+Giveth'i ve nasıl çalıştığımızı iyi anladığınızı ve topluluğa önermek için harika bir şeyimiz olduğunu düşünüyorsanız, mümkün olan en iyi başarı şansına sahip olmak için saygı duymanız gereken [bazı süreçler](/whatisgiveth/) vardır.
 
 * **Harika bir fikir üzerinde çalışın**! Giveth Topluluğu veya Platformu için değerli olacağını düşündüğünüz bir fikir bulun. Fikriniz finansman gerektiriyorsa, maliyetini ne kadar ve nasıl haklı çıkarabileceğinizi düşünün.
 
 * **Bir forum gönderisi oluşturun**. Fikrinizi [Giveth Forumunda](https://forum.giveth.io/) uygun kategoride yayınlayın ve teklifinizi ayrıntılı olarak özetleyin. Böylelikle topluluğun teklifinizin etkilerini incelemesine ve değerlendirmesine olanak tanırsınız. GIVgarden'da oluşturulan teklifler, ayrıntılarını açıklayan bir Giveth forum gönderisine bağlantı içermelidir.
-* **Tavsiye Sürecini Kullanın**. Forum gönderinizin ardından topluluk size geri bildirimde bulunacak ve endişelerinizi dile getirecektir. [Tavsiye Süreci](/tr/whatisgiveth/adviceProcess), teklifinizi değiştirmenize veya mümkün olan en iyi sürüm olmasını ve maksimum fikir birliğine varmasını sağlayarak endişelerinizi gidermenize olanak tanır.
-* **Giveth Sözleşmesini imzalayın**. GIVgardens'ta [Giveth Covenant](/tr/whatisgiveth/covenant)'ı kabul ettiğinizi imzalamanız, sağladığı yönetişim araçlarını kullanmaya başlamanıza izin verecektir.
+* **Tavsiye Sürecini Kullanın**. Forum gönderinizin ardından topluluk size geri bildirimde bulunacak ve endişelerinizi dile getirecektir. [Tavsiye Süreci](/whatisgiveth/adviceProcess), teklifinizi değiştirmenize veya mümkün olan en iyi sürüm olmasını ve maksimum fikir birliğine varmasını sağlayarak endişelerinizi gidermenize olanak tanır.
+* **Giveth Sözleşmesini imzalayın**. GIVgardens'ta [Giveth Covenant](/whatisgiveth/covenant)'ı kabul ettiğinizi imzalamanız, sağladığı yönetişim araçlarını kullanmaya başlamanıza izin verecektir.
 * **GIV'i GIVgarden'a yatırın**. Her teklif, bir Teklif Depozitosu, yani teminat olarak gönderdiğiniz belirli bir miktarda GIV gerektirir. Bu, spam tekliflerini caydırır ve itiraz edilen bir teklifin kaybedilmesi veya kabul edilmesi durumunda da kaybedilebilir.
 * **Teklifinizi yayınlayın**. GIVgarden'da gerekli bilgileri sağlayarak Teklif Depozitosu ile birlikte teklifinizi hazırlayın ve yayınlayın.
 * **Topluluğa Oy Vermesini Hatırlatın!** Şimdi topluluk, GIV'lerini arkasına alıp almamayı seçerek nihai teklifinizi tartışacak. Yeterli desteği alırsa teklif geçer.

@@ -83,4 +83,4 @@ GIVfarm likidite madenciliği arzına dayalı 1. Tur (26 hafta) haftalık GIV ö
 
 UniV3 ödül programının 13. haftada sona ermesinin bir sonucu olarak, daha önce bu ödüller için ayrılmış olan ve artık GIVfarm tahsisinin parçası olmayan yaklaşık 5 milyon GIV olduğunu unutmayın.
 
-Bu programdan sonra yeni havuzlar ve dağıtım değişiklikleri içerebilecek başka turlar başlatılabilir. GIVfarm'dan gelen tüm ödüller GIVstream'den etkilenecektir. Daha fazla bilgi için [GIVstream dökümanlarını](/tr/giveconomy/givstream) inceleyebilirsiniz.
+Bu programdan sonra yeni havuzlar ve dağıtım değişiklikleri içerebilecek başka turlar başlatılabilir. GIVfarm'dan gelen tüm ödüller GIVstream'den etkilenecektir. Daha fazla bilgi için [GIVstream dökümanlarını](/giveconomy/givstream) inceleyebilirsiniz.

@@ -7,7 +7,7 @@ Giveth DAO es una organización autónoma dedicada a revolucionar la filantropí
 
 Giveth visualiza un futuro en el que dar es fácil y las personas de todo el mundo son recompensadas por crear un cambio positivo. Las plataformas de Giveth pretenden ser gratuitas para donantes y proyectos, accesibles a nivel mundial y autosuficientes. Giveth tiene como objetivo facilitar el flujo eficiente y transparente de fondos directamente a donde tienen el impacto más positivo.
 
-La comunidad de Giveth [valora](/es/whatisgiveth/) la descentralización, la innovación, el altruismo, el empoderamiento, la confianza, la transparencia y la colaboración. Esta capa social es la base sobre la que se construye nuestra DAO.
+La comunidad de Giveth [valora](/whatisgiveth/) la descentralización, la innovación, el altruismo, el empoderamiento, la confianza, la transparencia y la colaboración. Esta capa social es la base sobre la que se construye nuestra DAO.
 
 La GIVeconomy representa la capa económica donde el GIV se emite y distribuye programáticamente. Los tokens GIV se asignarán para financiar propuestas aprobadas en GIVgarden. La distribución del GIV de GIVgarden la determina la comunidad que tiene derecho a usar su GIV para votar.
 
@@ -19,7 +19,7 @@ Entonces, Giveth se basa en un contrato social en constante evolución que estab
 
 Nosotros, como miembros, colaboradores y líderes, estamos comprometidos a participar en Giveth sin acoso, independientemente de la edad, la forma del cuerpo, la discapacidad visible o invisible, el origen étnico, las características sexuales, la identidad y expresión de género, el nivel de experiencia, la educación, el estado socioeconómico, el origen nacional, apariencia personal, raza, religión u orientación e identidad sexual.
 
-Estamos comprometidos a actuar e interactuar para estar a la altura de [la misión, visión y valores de Giveth](/es/whatisgiveth/) y contribuir a una comunidad abierta, acogedora, diversa, inclusiva y saludable.
+Estamos comprometidos a actuar e interactuar para estar a la altura de [la misión, visión y valores de Giveth](/whatisgiveth/) y contribuir a una comunidad abierta, acogedora, diversa, inclusiva y saludable.
 
 ## Nuestros estándares
 
@@ -44,11 +44,11 @@ Ejemplos de comportamiento inaceptable por parte de los participantes incluyen:
 
 ### Toma de decisiones
 
-Giveth usa la plataforma de gobierno de [Gardens](https://gardens.1hive.org/#/home/) para administrar los entornos de GIVgarden y asignar fondos a proyectos que están alineados con [su misión, visión y valores.](/es/whatisgiveth/)
+Giveth usa la plataforma de gobierno de [Gardens](https://gardens.1hive.org/#/home/) para administrar los entornos de GIVgarden y asignar fondos a proyectos que están alineados con [su misión, visión y valores.](/whatisgiveth/)
 
 Los mecanismos de toma de decisiones en cadena para GIVgarden incluyen [Votación de convicción](https://forum.tecommons.org/t/conviction-voting-tl-dr/308?u=liviade) y [Tao Voting](https://forum.tecommons.org/t/tao-voting-formly-disputable-voting-parameters-general-discussion/267). La votación de convicción debe utilizarse principalmente para asignar fondos. Tao Voting debe usarse para actualizar parámetros, corregir errores, agregar nuevas funciones a DAO y/o para situaciones de emergencia como un ataque a la tesoreria de DAO.
 
-Los procesos de gobernanza policéntricos adicionales utilizados por Giveth se especifican [en este documento](/es/whatisgiveth/governanceProcess) y pueden cambiar según las decisiones de la comunidad.
+Los procesos de gobernanza policéntricos adicionales utilizados por Giveth se especifican [en este documento](/whatisgiveth/governanceProcess) y pueden cambiar según las decisiones de la comunidad.
 
 ### Aplicación de estándares
 
@@ -64,7 +64,7 @@ Se espera que los participantes en el protocolo de resolución de disputas revis
 
 ### Toma de decisiones
 
-Giveth utiliza un [Proceso de asesoramiento](/es/whatisgiveth/adviceProcess) como su práctica central de toma de decisiones para empoderar a los contribuyentes para llevar a cabo sus propuestas culturales. El proceso de asesoramiento está escrito en la documentación de Giveth y se promueve verbalmente en llamadas comunitarias. Cuando una decisión sin impactos financieros o de código de protocolo podría afectar a una gran parte de la comunidad, se implementa el uso de votaciones fuera de la cadena mediante encuestas de Discord o Forum. Una decisión se considera legítima cuando respeta este pacto, se promueve a la conciencia de la comunidad y sus resultados no se impugnan dentro de las 2 semanas.
+Giveth utiliza un [Proceso de asesoramiento](/whatisgiveth/adviceProcess) como su práctica central de toma de decisiones para empoderar a los contribuyentes para llevar a cabo sus propuestas culturales. El proceso de asesoramiento está escrito en la documentación de Giveth y se promueve verbalmente en llamadas comunitarias. Cuando una decisión sin impactos financieros o de código de protocolo podría afectar a una gran parte de la comunidad, se implementa el uso de votaciones fuera de la cadena mediante encuestas de Discord o Forum. Una decisión se considera legítima cuando respeta este pacto, se promueve a la conciencia de la comunidad y sus resultados no se impugnan dentro de las 2 semanas.
 
 Se espera que los espacios comunitarios de Giveth, incluidos [Giveth Forum](https://forum.giveth.io/), [GitHub](https://github.com/Giveth) y [Discord](https://discord.gg/JxF38Tj364), así como otros foros fuera de la cadena que puedan surgir en el futuro, cumplen con este pacto.
 

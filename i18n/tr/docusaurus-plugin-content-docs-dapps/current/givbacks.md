@@ -43,9 +43,8 @@ GIVbacks programında bile, Giveth'te yapılan bir bağışın yine de bir bağ�
 
 Bir turun sonunda, dağıtılacak tahmini GIVback miktarı tur başına 1 milyon GIV sınırını aşarsa, bağışçılar her bağış için bağışta bulundukları projenin sıralamasına göre orantılı olarak daha az eşleştirme alacaklardır. Bu, aşağıdaki şekilde hesaplanır:
 
-$$
-n = N \frac{g}{G}
-$$
+```math
+n = N \frac{v}{V}
 
 Formül açıklaması:
 

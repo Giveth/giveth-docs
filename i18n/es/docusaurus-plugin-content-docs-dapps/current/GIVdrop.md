@@ -13,7 +13,7 @@ Todas las direcciones tienen 5 años a partir del 24 de diciembre de 2021 para r
 
 ## Elegibilidad para GIVdrop
 
-El 17,05% del suministro inicial total (1.000 millones GIV) se ha repartido a nuestra semilla de confianza. La semilla de confianza es un grupo de personas: los seguidores anteriores 10% de estos tokens se pueden reclamar instantáneamente en Gnosis Chain (anteriormente xDai Network) como GIVdrop. El resto inicializa y sostiene [el GIVstream](/es/giveconomy/givstream) - un flujo de GIV que se vuelve exigible de manera gradual y continua hasta el 23 de diciembre de 2026.
+El 17,05% del suministro inicial total (1.000 millones GIV) se ha repartido a nuestra semilla de confianza. La semilla de confianza es un grupo de personas: los seguidores anteriores 10% de estos tokens se pueden reclamar instantáneamente en Gnosis Chain (anteriormente xDai Network) como GIVdrop. El resto inicializa y sostiene [el GIVstream](/giveconomy/givstream) - un flujo de GIV que se vuelve exigible de manera gradual y continua hasta el 23 de diciembre de 2026.
 
 Los destinatarios elegibles de GIVdrop y el GIVstream asociado incluyen:
 
@@ -24,7 +24,7 @@ Los destinatarios elegibles de GIVdrop y el GIVstream asociado incluyen:
 - Usuarios anteriores de beta Giveth TRACE 1%
 - Donantes anteriores de Gitcoin Grants en Rondas 1-7 1%
 
-El grupo de héroes Blockchain4Good DAO incluye una lista de más de 2500 direcciones únicas, con más de 60 agrupaciones diferentes. La mayoría de las direcciones pertenecen a personas que han sido identificadas como criptodonantes, y el resto pertenece a miembros de DAO alineados con el valor que están trabajando, directa o indirectamente, para promover [la misión de Giveth](/es/whatisgiveth/). Puedes tener un GIVdrop si formas parte de alguno de estos grupos (¡y muchos otros!):
+El grupo de héroes Blockchain4Good DAO incluye una lista de más de 2500 direcciones únicas, con más de 60 agrupaciones diferentes. La mayoría de las direcciones pertenecen a personas que han sido identificadas como criptodonantes, y el resto pertenece a miembros de DAO alineados con el valor que están trabajando, directa o indirectamente, para promover [la misión de Giveth](/whatisgiveth/). Puedes tener un GIVdrop si formas parte de alguno de estos grupos (¡y muchos otros!):
 
 - 1Hive
 - ChievMint

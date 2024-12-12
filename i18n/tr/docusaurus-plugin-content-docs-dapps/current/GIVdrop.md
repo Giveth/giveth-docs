@@ -23,7 +23,7 @@ GIVdrop ve ilgili GIVstream'in uygun alıcıları şunları içerir:
 * Giveth TRACE'in Beta sürümünü kullanan eski kullanıcıları %1
 * 1-7 arasındaki turlarda Gitcoin Hibelerine geçmişte bağış yapanlar %1
 
-Blockchain4Good DAO kahramanlar grubu, 60'tan fazla farklı gruplandırma ile 2500'den fazla benzersiz adresin bir listesini içerir. Adreslerin çoğu, kripto bağışçıları olarak tanımlanan kişilere aittir. Geri kalan adresler ise [Giveth'in misyonunu](/tr/whatisgiveth/) geliştirme için doğrudan veya dolaylı olarak çalışan, değer odaklı DAO üyelerine aittir. Bu gruplardan herhangi birinin (ve diğerlerinin) parçasıysanız, bir GIVdrop'unuz olabilir:
+Blockchain4Good DAO kahramanlar grubu, 60'tan fazla farklı gruplandırma ile 2500'den fazla benzersiz adresin bir listesini içerir. Adreslerin çoğu, kripto bağışçıları olarak tanımlanan kişilere aittir. Geri kalan adresler ise [Giveth'in misyonunu](/whatisgiveth/) geliştirme için doğrudan veya dolaylı olarak çalışan, değer odaklı DAO üyelerine aittir. Bu gruplardan herhangi birinin (ve diğerlerinin) parçasıysanız, bir GIVdrop'unuz olabilir:
 
 * 1Hive
 * ChievMint
@@ -64,11 +64,11 @@ Buradan, uygunluğunuzu kontrol etmek için web3 cüzdanınızı DApp'e bağlama
 
 Bağlandıktan sonra üç durumdan biri gerçekleşir:
 
-* [Claim edebileceğiniz gereken bir GIVdrop'unuz var, GÜZEL!](/tr/giveconomy/givdrop#1-givdrop-to-claim)
-* [Adres daha önce GIVdrop claim etmiş, MUAZZAM!](/tr/giveconomy/givdrop#2-the-address-provided-has-already-claimed-its-givdrop)
-* [GIVdrop'u kaçırdınız. :(](/tr/giveconomy/givdrop#3-you-missed-the-givdrop-sad-face)
+* [Claim edebileceğiniz gereken bir GIVdrop'unuz var, GÜZEL!](/giveconomy/givdrop#1-givdrop-to-claim)
+* [Adres daha önce GIVdrop claim etmiş, MUAZZAM!](/giveconomy/givdrop#2-the-address-provided-has-already-claimed-its-givdrop)
+* [GIVdrop'u kaçırdınız. :(](/giveconomy/givdrop#3-you-missed-the-givdrop-sad-face)
 
-Nasıl devam edeceğinizi öğrenmek için yukarıdaki durumlardan herhangi birine tıklayın. GIVdrop uygunluğu hakkında daha fazla bilgi edinmek için [buraya](/tr/giveconomy/givdrop) tıklayın.
+Nasıl devam edeceğinizi öğrenmek için yukarıdaki durumlardan herhangi birine tıklayın. GIVdrop uygunluğu hakkında daha fazla bilgi edinmek için [buraya](/giveconomy/givdrop) tıklayın.
 
 ---
 
@@ -85,7 +85,7 @@ Son sayfada GI düşüşünüzü talep edebilir ve GIV tokenını MetaMask cüzd
 
 <img alt='claim your giv now screen' src={useBaseUrl('/img/content/giveconomy/claimReady3.png')} />
 
-GIVdrop'a ek olarak, 5 yıla kadar bir süre boyunca size sürekli olarak GIV akışı sağlayacak bir GIVstream alacaksınız - buradan [GIVstream](/tr/giveconomy/givstream) hakkında daha fazla bilgi edinin.
+GIVdrop'a ek olarak, 5 yıla kadar bir süre boyunca size sürekli olarak GIV akışı sağlayacak bir GIVstream alacaksınız - buradan [GIVstream](/giveconomy/givstream) hakkında daha fazla bilgi edinin.
 
 <img alt='harvesting your GIVdrop' src={useBaseUrl('/img/content/giveconomy/claimHarvest1.png')} />
 
@@ -111,7 +111,7 @@ Eğer kaçırdıysanız, üzülmeyin; GIV kazanmanın başka yolları da var! [G
 
 <img alt='buy tokens link from GIVfarm' src={useBaseUrl('/img/content/giveconomy/claimMissed2.png')} />
 
-Gerçek bir GIVhero olmak istiyorsanız, GIVbacks programına katılın. [Giveth.io](https://giveth.io/projects/)'da doğrulanmış projelere bağış yaparak GIV kazanmaya hak kazanabilirsiniz. [GIVbacks](/tr/giveconomy/givbacks) programı hakkında daha fazla bilgiyi buradan edinebilirsiniz.
+Gerçek bir GIVhero olmak istiyorsanız, GIVbacks programına katılın. [Giveth.io](https://giveth.io/projects/)'da doğrulanmış projelere bağış yaparak GIV kazanmaya hak kazanabilirsiniz. [GIVbacks](/giveconomy/givbacks) programı hakkında daha fazla bilgiyi buradan edinebilirsiniz.
 
 ## GIVdrop claimlerken sorun yaşamanız halinde:
 Aşağıdakiler de dahil olmak üzere çeşitli nedenlerle kendinizi GIVdrop Connect sayfasında sıkışıp kalmış bulabilirsiniz:

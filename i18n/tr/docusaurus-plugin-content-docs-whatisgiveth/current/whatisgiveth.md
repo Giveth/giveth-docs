@@ -42,7 +42,7 @@ Giveth Bağış Uygulamaları (DApp'ler), iyi niyetli projeler ile fark yaratmak
 
 **Giveth.io**, herkesin dahil olabilmesi için kullanım kolaylığı ön plana alınarak tasarlanmıştır. Hesap oluşturmak oldukça kolaydır; dakikalar içinde proje oluşturabilir veya projelere bağışta bulunabilirsiniz. Giveth, geniş ölçekli hayırsever girişimlere ev yapmakla birlikte Ethereum ekosisteminde de tanınmış bir projedir; dolayısıyla, misyonunuzu Ethereum topluluğuna tanıtmak için doğal olarak mükemmel bir yerdir!
 
-**Giveth TRACE**, 2017 yılından bu yana geliştirdiğimiz orijinal DApp'imizdir. Proje sahiplerine [katmanlı bağış yöntemi](/tr/dapps/entitiesAndRoles) ile finansman hedeflerini tanımlamaları için sağlam bir sistem sunar. Bağışçılar, yaptıkları baışların hareketini belirleme ve izleyebilme fırsatına sahip olarak bu ekstra katmandan faydalanabilirler. Giveth, Ethereum ağları arasındaki ilk köprüye öncülük etti ve bu köprü burada inşa edildi. Fonların kolay ve gas harcamaksızın yönetilmesi, izlenebilmesi ve çekilebilmesi için Mainnet ve Rinkeby köprüsünden faydalanıyoruz.
+**Giveth TRACE**, 2017 yılından bu yana geliştirdiğimiz orijinal DApp'imizdir. Proje sahiplerine [katmanlı bağış yöntemi](/dapps/entitiesAndRoles) ile finansman hedeflerini tanımlamaları için sağlam bir sistem sunar. Bağışçılar, yaptıkları baışların hareketini belirleme ve izleyebilme fırsatına sahip olarak bu ekstra katmandan faydalanabilirler. Giveth, Ethereum ağları arasındaki ilk köprüye öncülük etti ve bu köprü burada inşa edildi. Fonların kolay ve gas harcamaksızın yönetilmesi, izlenebilmesi ve çekilebilmesi için Mainnet ve Rinkeby köprüsünden faydalanıyoruz.
 
 ## Neden projelere Giveth üzerinde bağış yapmalıyım?
 

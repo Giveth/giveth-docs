@@ -117,4 +117,4 @@ GIVstream, hem Gnosis Chain hem de Kovan'da mevcuttur. GIVstream'i tam olarak te
 
 ---
 
-Döngüde kalmak için Platform Katmanı'nın haftalık toplantılarına katılmayı unutmayın. Giveth Geliştirme ve Test etkinliğine düzenli olarak katkıda bulunmak için ihtiyacınız olan tüm bilgiler için [Giveth Gelişimine Katkıda Bulunma](/tr/dapps/contributors) kılavuzumuzu okuyun.
+Döngüde kalmak için Platform Katmanı'nın haftalık toplantılarına katılmayı unutmayın. Giveth Geliştirme ve Test etkinliğine düzenli olarak katkıda bulunmak için ihtiyacınız olan tüm bilgiler için [Giveth Gelişimine Katkıda Bulunma](/dapps/contributors) kılavuzumuzu okuyun.

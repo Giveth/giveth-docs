@@ -10,7 +10,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl'
 **Proje Doğrulamada Büyük Değişiklikler Geliyor!** Proje Doğrulama sistemimizi merkezsizleştiriyoruz, bu yüzden bazı süreçler değişmiş olabilir. *[Güncel kalmak için bu forum konusunu inceleyin](https://forum.giveth.io/t/decentralizing-project-verification/1528/9)*. Bu makale yakında yeni sistemin son halini yansıtacak şekilde güncellenecektir.
 :::
 
-Giveth, projelerin meşruluğunu inceleme ve kamu yararı sağladıklarını belirleme sistemini kademeli olarak merkezsizleştiriyor. Bu sistem, projelere yapılan bağışların [GIVbacks programı](/tr/giveconomy/givbacks) aracılığıyla donörlerine ödüller sağladığı ve projelerin [GIVpower](/tr/giveconomy/givpower) ile desteklenmeye uygun olup olmadığını belirliyor.
+Giveth, projelerin meşruluğunu inceleme ve kamu yararı sağladıklarını belirleme sistemini kademeli olarak merkezsizleştiriyor. Bu sistem, projelere yapılan bağışların [GIVbacks programı](/giveconomy/givbacks) aracılığıyla donörlerine ödüller sağladığı ve projelerin [GIVpower](/giveconomy/givpower) ile desteklenmeye uygun olup olmadığını belirliyor.
 
 Projelerin GIVbacks ve GIVpower için uygunluğunu etkileyen iki durum vardır: "Güvenilir" ve "GIVbacks Uygun". Her birinin kendine özgü bir süreci vardır ve farklı proje türleri için önerilir.
 
@@ -29,7 +29,7 @@ Giveth Doğrulayıcıları, Giveth topluluğunun ve Ethereum ekosisteminin güve
 
 #### Uygunluk ve Avantajlar
 
-Henüz GIVbacks için uygun olmayan bir proje, 3 Giveth Doğrulayıcısından güven oyu aldığında "Güvenilir" hale gelir. Bu, projenin [GIVpower](/tr/giveconomy/givpower) ile desteklenmesine olanak tanır.
+Henüz GIVbacks için uygun olmayan bir proje, 3 Giveth Doğrulayıcısından güven oyu aldığında "Güvenilir" hale gelir. Bu, projenin [GIVpower](/giveconomy/givpower) ile desteklenmesine olanak tanır.
 
 #### Güven Oyu Nasıl Çalışır
 
@@ -70,8 +70,8 @@ Proje sahipleri, projelerinin sayfasından veya "Projem" sayfasını ziyaret ede
 - Projenizin meşruiyetini artırın.
 - Bağışçılarla daha derin güven ve şeffaflık oluşturun.
 - Projenizi öne çıkarın! Platformumuzda "GIVbacks Uygun" proje olarak listelenin ve bu kategori altında arama yapılabilir olun.
-- GIV staker'ları, projenizi [GIVpower](/tr/giveconomy/givpower) ile destekleyebilecek. Evet, kendi projenizi bile destekleyebilirsiniz!
-- GIVbacks Uygunluğu rozeti almak, projenizin [Giveth’in Quadratic Funding](/tr/quadraticfunding) turlarına katılma şansını artırabilir.
+- GIV staker'ları, projenizi [GIVpower](/giveconomy/givpower) ile destekleyebilecek. Evet, kendi projenizi bile destekleyebilirsiniz!
+- GIVbacks Uygunluğu rozeti almak, projenizin [Giveth’in Quadratic Funding](/quadraticfunding) turlarına katılma şansını artırabilir.
 - Bağış yapanları ödüllendiren GIVbacks programına katılın. Projeniz GIVbacks uygun hale geldiğinde, projenize bağış yapan destekçilere GIV tokenları ile ödüller verilecektir. GIVbacks uygunluğu, projenizin bağış alması olasılığını büyük ölçüde artıracaktır. ***Projenize veya diğer GIVbacks Uygun projelere yapılan bağışlar için proje adreslerinin GIVbacks ödülleri almayacağını unutmayın. Lütfen aşağıda açıklanan [Diskalifiye Edici Faktörler](#disqualifying-factors-for-the-givbacks-program)'a bakın.***
 
 ## GIVbacks Uygunluğu İçin Kalifikasyon Kriterleri

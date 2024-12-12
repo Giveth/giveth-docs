@@ -15,7 +15,7 @@ We aim to bring people together and promote resilience in the Giveth DAO by trai
 
 ### What is Gravity?
 
-Gravity aims to establish a culture of voluntary compliance around Giveth’s [Community Covenant](/tr/whatisgiveth/covenant), [Code of Conduct](/tr/whatisgiveth/codeofconduct), and [Community Communications Guide](/tr/whatisgiveth/communityCommsGuide). It proposes the recognition and application of conflict management mechanisms to shape harmonious interactions between the members of its community.
+Gravity aims to establish a culture of voluntary compliance around Giveth’s [Community Covenant](/whatisgiveth/covenant), [Code of Conduct](/whatisgiveth/codeofconduct), and [Community Communications Guide](/whatisgiveth/communityCommsGuide). It proposes the recognition and application of conflict management mechanisms to shape harmonious interactions between the members of its community.
 
 
 ### What is a Giveth Graviton?
@@ -72,13 +72,13 @@ The training is offered 2 times a year with the intention to form Gravitons - th
 * Conflict resolution calls and chats are closed to Gravitons and parties involved to respect privacy and vulnerability.
 * The Giveth Conflict Resolution working group can facilitate safe spaces, skills up leveling workshops, and collaborate with TEC’s Gravity working group to host training and capacitate individuals to become Gravitons.
     * The Gravity training is free and open for all.
-* Gravity can remove proposals from all the voting categories if they receive **flags** and/or are seen as harmful for the community based on our rules, boundaries, T&C’s, [Community Covenant](/tr/whatisgiveth/covenant),[ Code of Conduct](/tr/whatisgiveth/codeofconduct), and [Community Communications Guide](/tr/whatisgiveth/communityCommsGuide).
+* Gravity can remove proposals from all the voting categories if they receive **flags** and/or are seen as harmful for the community based on our rules, boundaries, T&C’s, [Community Covenant](/whatisgiveth/covenant),[ Code of Conduct](/whatisgiveth/codeofconduct), and [Community Communications Guide](/whatisgiveth/communityCommsGuide).
 
 **What actions or outcomes are required or encouraged?**
 
 * All members should be aware of the [guidelines for scale of conflict and graduated sanctions](https://forum.tecommons.org/t/scale-of-conflicts-graduated-sanction-guideline/234).
-* All members should commit to respect the protocol for [Giveth Meetings](/tr/whatisgiveth/meetingsGuide).
-* Gravitons should comply to Giveth’s [Community Covenant](/tr/whatisgiveth/covenant), [Code of Conduct](/tr/whatisgiveth/codeofconduct), and [Community Communications Guide](/tr/whatisgiveth/communityCommsGuide) and the additional [Graviton Code of Conduct](https://forum.tecommons.org/t/gravity-role-design/174).
+* All members should commit to respect the protocol for [Giveth Meetings](/whatisgiveth/meetingsGuide).
+* Gravitons should comply to Giveth’s [Community Covenant](/whatisgiveth/covenant), [Code of Conduct](/whatisgiveth/codeofconduct), and [Community Communications Guide](/whatisgiveth/communityCommsGuide) and the additional [Graviton Code of Conduct](https://forum.tecommons.org/t/gravity-role-design/174).
 * Gravitons should accept cases based on their competence and communicate to the Conflict Resolution working group if they don’t feel capable of handling an issue.
 * Gravitons should promote trust and good relationships between the community.
 * It is required to complete the Graviton Training successfully to become a Graviton.
