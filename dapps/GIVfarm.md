@@ -10,6 +10,10 @@ slug: giveconomy/givfarm
  This documentation article will remain for historical reference.
 :::
 
+:::tip Still have tokens staked?
+The new Giveth app no longer has a UI for these pools. See **[Archived Staking Pools - Recover Your Tokens & Rewards](./archivedStakingPools.md)** for a full contract inventory and step-by-step instructions to claim rewards and withdraw your staked tokens via a block explorer.
+:::
+
 The GIVfarm launched on **December 24, 2021**. 3.5% of the total token supply, 35 Million GIV, has been allocated to the first GIVfarm round of 6 months, 65 million tokens are held in a multisig for future liquidity provision. Farms are available on either **Ethereum Mainnet (ETH)** or **Gnosis Chain** (formerly xDai Network). Any farms you stake tokens into will yield GIV rewards and add to your [GIVstream flowrate](https://docs.giveth.io/giveconomy/givstream) only for that corresponding chain. GIV reward distribution for the 6 pools available is as follows:
 
 | Pool                          | Tokens Allocated |

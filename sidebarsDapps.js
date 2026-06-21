@@ -42,7 +42,7 @@ module.exports = {
             type: 'category',
             label: 'GIVfarm',
             link: {type: 'doc', id: 'givfarm'},
-            items:['regenFarms']
+            items:['regenFarms', 'archivedStakingPools']
           }
           , 'givdrop'
 ]
