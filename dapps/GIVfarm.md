@@ -37,7 +37,7 @@ GIV Gnosis Chain (formerly xDai Network) - 0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD
 
 ### Staking Contract Addresses (Mainnet)
 - Balancer v2 80GIV/ETH Pool -0xc0dbDcA66a0636236fAbe1B3C16B1bD4C84bB1E1
-- GIV Staking  - 0x3115e5aAa3D6f742d09fbB649150dfE285a9c2A3
+- GIV Staking  - 0x4B9EfAE862a1755F7CEcb021856D467E86976755
 ### Staking Contract Addresses (Gnosis Chain (formerly xDai Network))
 - GIV Staking - 0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2
 - GIV/HNY Honeyswap - 0x4B9EfAE862a1755F7CEcb021856D467E86976755

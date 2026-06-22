@@ -83,7 +83,7 @@ Explorer: [etherscan.io](https://etherscan.io) (alternative: [eth.blockscout.com
 | CULT / ETH — V2 (Uniswap V2) | `0xcA128517053e8c459E12E3aCB615bb421d768219` | `0x5281E311734869C64ca60eF047fd87759397EFe6` | reward = CULT |
 
 - **CULT reward TokenDistro:** `0x73f2D115C2cBAa3b5F477A78F7A7CD348D8b70a2` · CULT token `0xf0f9D895aCa5c8678f706FB8216fa22957685A13`
-- The original single-asset **GIV staking** contract `0x3115e5aAa3D6f742d09fbB649150dfE285a9c2A3` was compromised in the October 2022 exploit and is decommissioned. If you had funds there, contact the Giveth team before interacting.
+- **Single-asset GIV staking** (stakes the GIV token directly): `0x4B9EfAE862a1755F7CEcb021856D467E86976755` — a legacy farm (ended September 2022) flagged as affected by the 2022 GIVfarm exploit. It is still deployed on-chain; check `balanceOf`/`earned` and use the standard `getReward` → `claim` and `withdraw`/`exit` flow, and contact the Giveth team before interacting if a call reverts or you are unsure. *(Some older Giveth documentation lists `0x3115e5aAa3D6f742d09fbB649150dfE285a9c2A3` for "GIV staking" — that address is actually the Uniswap V3 reward token (GUR), not a staking contract.)*
 
 ### Gnosis Chain (formerly xDai) — chainId 100
 
@@ -100,6 +100,8 @@ Explorer: [gnosisscan.io](https://gnosisscan.io) (alternative: [gnosis.blockscou
 
 :::caution
 GIVgarden uses 1Hive Gardens. Harvest rewards with `getReward()` on the reward contract above. Withdrawing the staked GIV is done by unwrapping on the Gardens contract; **GIV locked for GIVpower can only be unstaked after its lock period has expired.** If you are unsure, contact the Giveth team.
+
+Note: on the GIVgarden reward contract, `earned()` reports the portion of rewards already released by your GIVstream, not the full amount `getReward()` allocates — don't be alarmed if the GIV that lands on the TokenDistro is larger than `earned()` showed.
 :::
 
 **GIVfarm LP pools**
