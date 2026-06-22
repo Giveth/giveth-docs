@@ -4,7 +4,7 @@ title: Archived Staking Pools - Recover Your Tokens & Rewards
 slug: giveconomy/archived-staking-pools
 ---
 
-The new Giveth app no longer ships a user interface for the old [GIVfarm](./GIVfarm.md) and [GIVgarden](./GIVgarden.md) staking pools. **Your funds are not lost** — the staking contracts are still live on-chain, and you can interact with them directly through a block explorer to harvest your remaining rewards and withdraw your staked tokens.
+The new Giveth app no longer ships a user interface for the old [GIVfarm](https://docs.giveth.io/giveconomy/givfarm) and [GIVgarden](https://docs.giveth.io/giveconomy/givgarden) staking pools. **Your funds are not lost** — the staking contracts are still live on-chain, and you can interact with them directly through a block explorer to harvest your remaining rewards and withdraw your staked tokens.
 
 This guide lists every archived staking pool across all networks with its contract address, and walks you through recovering your tokens manually.
 
@@ -24,7 +24,7 @@ Three contract types are involved. You will usually touch two of them:
 
 :::info
 ### GIV rewards vest — they are not paid instantly
-When you call `getReward()` on a staking contract, your earned GIV is **allocated to the TokenDistro contract as part of your [GIVstream](./givstream.md)**, not sent straight to your wallet. To actually receive GIV you then call `claim()` on the TokenDistro for that network. Partner-token rewards (CULT, FOX) have their own TokenDistro — see each table below.
+When you call `getReward()` on a staking contract, your earned GIV is **allocated to the TokenDistro contract as part of your [GIVstream](https://docs.giveth.io/giveconomy/givstream)**, not sent straight to your wallet. To actually receive GIV you then call `claim()` on the TokenDistro for that network. Partner-token rewards (CULT, FOX) have their own TokenDistro — see each table below.
 :::
 
 The full flow is usually:
@@ -77,7 +77,7 @@ Explorer: [etherscan.io](https://etherscan.io) (alternative: [eth.blockscout.com
 | Pool | Staking contract — call here | LP token | Notes |
 | --- | --- | --- | --- |
 | GIV / DAI (Uniswap V2) | `0xa4523D703F663615Bd41606B46B58dEb2F926D98` | `0xbeba1666c62c65e58770376de332891b09461eeb` | |
-| oneGIV / GIV — [Angel Vault](./angelVault.md) (ICHI) | `0xA4b727DF6fD608d1835e3440288c73fB28c4eF16` | `0xc3151A58d519B94E915f66B044De3E55F77c2dd9` | ⚠️ exploited |
+| oneGIV / GIV — Angel Vault (ICHI) | `0xA4b727DF6fD608d1835e3440288c73fB28c4eF16` | `0xc3151A58d519B94E915f66B044De3E55F77c2dd9` | ⚠️ exploited |
 | GIV / ETH (Balancer) | `0xc0dbDcA66a0636236fAbe1B3C16B1bD4C84bB1E1` | `0x7819f1532c49388106f7762328c51ee70edd134c` | ⚠️ exploited · Balancer Vault `0xBA12222222228d8Ba445958a75a0704d566BF2C8`, poolId `0x7819…0109` |
 | CULT / ETH (Uniswap V2) | `0xa479103c2618aD514653B53F064Bc6c9dC35a30b` | `0x5281E311734869C64ca60eF047fd87759397EFe6` | ⚠️ exploited · reward = CULT |
 | CULT / ETH — V2 (Uniswap V2) | `0xcA128517053e8c459E12E3aCB615bb421d768219` | `0x5281E311734869C64ca60eF047fd87759397EFe6` | reward = CULT |
@@ -92,7 +92,7 @@ Explorer: [gnosisscan.io](https://gnosisscan.io) (alternative: [gnosis.blockscou
 - **GIV token:** `0x4f4F9b8D5B4d0Dc10506e5551B0513B61fD59e75`
 - **TokenDistro (GIV rewards):** `0xc0dbDcA66a0636236fAbe1B3C16B1bD4C84bB1E1`
 
-**GIVgarden — single-asset GIV staking ([GIVpower](./GIVpower.md))**
+**GIVgarden — single-asset GIV staking ([GIVpower](https://docs.giveth.io/giveconomy/givpower))**
 
 - Reward / harvest contract (`getReward`): `0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2`
 - Gardens contract (stake / unstake by wrap / unwrap): `0x24f2d06446af8d6e89febc205e7936a602a87b60`
@@ -125,7 +125,7 @@ Explorer: [optimistic.etherscan.io](https://optimistic.etherscan.io) (alternativ
 
 | Pool | Staking contract | Notes |
 | --- | --- | --- |
-| GIV — single-asset staking ([GIVpower](./GIVpower.md)) | `0x301C739CF6bfb6B47A74878BdEB13f92F13Ae5E7` | Harvest `getReward()`, unstake `withdraw()`; locked GIV unstakable after lock expiry |
+| GIV — single-asset staking ([GIVpower](https://docs.giveth.io/giveconomy/givpower)) | `0x301C739CF6bfb6B47A74878BdEB13f92F13Ae5E7` | Harvest `getReward()`, unstake `withdraw()`; locked GIV unstakable after lock expiry |
 
 ### Polygon zkEVM — chainId 1101
 
@@ -136,7 +136,7 @@ Explorer: [zkevm.polygonscan.com](https://zkevm.polygonscan.com) (alternative: [
 
 | Pool | Staking contract | Notes |
 | --- | --- | --- |
-| GIV — single-asset staking ([GIVpower](./GIVpower.md)) | `0xc790f82bf6f8709aa4a56dc11afad7af7c2a9867` | Harvest `getReward()`, unstake `withdraw()`; locked GIV unstakable after lock expiry |
+| GIV — single-asset staking ([GIVpower](https://docs.giveth.io/giveconomy/givpower)) | `0xc790f82bf6f8709aa4a56dc11afad7af7c2a9867` | Harvest `getReward()`, unstake `withdraw()`; locked GIV unstakable after lock expiry |
 
 ## Worked example — unstaking from a GIVfarm LP pool
 
