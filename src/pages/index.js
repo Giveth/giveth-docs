@@ -1,151 +1,115 @@
 import React from 'react'
-import clsx from 'clsx'
 import Layout from '@theme/Layout'
 import Link from '@docusaurus/Link'
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext'
 import useBaseUrl from '@docusaurus/useBaseUrl'
+import Translate from '@docusaurus/Translate'
 import styles from './styles.module.css'
-import { useColorMode } from '@docusaurus/theme-common'
-import Translate, { translate } from '@docusaurus/Translate'
 
-const features = [
+/**
+ * Homepage, rebuilt to match the Super/Notion design: a full-width cover
+ * banner followed by a four-card grid. Card banners and the cover were
+ * salvaged from Super's CDN (see super-salvage/DESIGN-TOKENS.md).
+ */
+const cards = [
   {
-    title: <Translate>'What is Giveth?'</Translate>,
-    slug: 'whatisgiveth/',
-    id: 'whatisgiveth',
+    title: <Translate>What Is Giveth?</Translate>,
+    image: 'img/home/card-what-is-giveth.png',
+    to: '/whatisgiveth',
     description: (
-      <>
-        <p id='introText'>
-          <Translate>
-            Everything you need to know about how we do things at Giveth. If
-            you're a new contributor, start here!
-          </Translate>
-        </p>
-      </>
+      <Translate>
+        Who we are, how the DAO is structured and how we work. Start here if
+        you are new to the community.
+      </Translate>
     )
   },
   {
-    title: 'Giveth DApps',
-    slug: 'dapps/',
-    id: 'dapps',
+    title: <Translate>Donors &amp; Project Guide</Translate>,
+    image: 'img/home/card-donors-projects.png',
+    to: '/dapps/gettingStarted',
+    icon: '🤝🏻',
     description: (
-      <>
-        <Translate>
-          User Guides, Developer Documentation and all things technical for
-          Giveth.io and Giveth TRACE.
-        </Translate>
-      </>
+      <Translate>
+        Making a donation, creating and verifying a project, and everything
+        else you need to get going on Giveth.
+      </Translate>
     )
   },
   {
-    title: 'GIVeconomy',
-    slug: 'giveconomy/',
-    id: 'giveconomy',
+    title: <Translate>The GIVeconomy</Translate>,
+    image: 'img/home/card-giveconomy.png',
+    to: '/giveconomy',
+    icon: '📥',
     description: (
-      <>
-        <Translate>
-          All you need to know about the GIVeconomy; contract addresses,
-          functionality, tutorials and more!
-        </Translate>
-      </>
+      <Translate>
+        GIVbacks, GIVstream, GIVpower and the rest of the token economy —
+        contract addresses, mechanics and tutorials.
+      </Translate>
+    )
+  },
+  {
+    title: <Translate>DeVouch</Translate>,
+    image: 'img/home/card-devouch.jpg',
+    to: '/devouch',
+    description: (
+      <Translate>
+        Decentralised vouching for projects: what it is, and how to integrate
+        it into your own application.
+      </Translate>
     )
   }
 ]
-function Feature ({ imageUrl, slug, id, title, description }) {
-  // const {isDarkTheme} =  ();
-  let imgUrl = useBaseUrl(imageUrl)
-  // if(id === 'whatisgiveth' && isDarkTheme){
-  //   imgUrl = useBaseUrl('img/givethLogoWhite.svg')
-  //  }
-  //  if(id === 'givethio' && isDarkTheme){
-  //    imgUrl = useBaseUrl('img/givethIOdark.svg')
-  //   }
-  //   if(id === 'givethTrace' && isDarkTheme){
-  //     imgUrl = useBaseUrl('img/givethTRACEdark.svg')
-  //    }
+
+function Card ({ title, image, to, icon, description }) {
   return (
-    <div className={clsx('col col--4', styles.feature)}>
-      {imgUrl && (
-        <div className='text--center'>
-          <img
-            className={styles.featureImage}
-            id={styles[id]}
-            src={imgUrl}
-            alt={title}
-          />
-        </div>
-      )}
-
-      <h3>
-        {' '}
-        <Link className={styles.formatLink} to={useBaseUrl(slug)}>
+    <Link className={styles.card} to={useBaseUrl(to)}>
+      <img
+        className={`${styles.cardImage} no-border`}
+        src={useBaseUrl(image)}
+        alt=''
+        loading='lazy'
+      />
+      <div className={styles.cardBody}>
+        <h2 className={styles.cardTitle}>
+          {icon && (
+            <span className={styles.cardIcon} aria-hidden='true'>
+              {icon}
+            </span>
+          )}
           {title}
-        </Link>
-      </h3>
-
-      <p>{description}</p>
-    </div>
+        </h2>
+        <p className={styles.cardText}>{description}</p>
+      </div>
+    </Link>
   )
 }
 
-function Home () {
-  const context = useDocusaurusContext()
-  const { siteConfig = {} } = context
-  function HeaderContent () {
-    const { isDarkTheme } = useColorMode()
-    return (
-      <header
-        className={clsx('hero hero--primary', styles.heroBanner)}
-        style={{
-          backgroundImage: isDarkTheme && "url('/img/GivethDocsLogo.svg')"
-        }}
-      >
-        <div className='container hero--primary'>
-          <div
-            className={styles.formatHero}
-            style={{ color: isDarkTheme && 'white' }}
-          >
-            <h1 className='hero__title'>{siteConfig.title}</h1>
-            <p className='hero__subtitle'>{siteConfig.tagline}</p>
-
-            <div className={styles.buttons}>
-              <Link
-                className={clsx(
-                  'button button--outline button--lg',
-                  styles.getStarted
-                )}
-                to={useBaseUrl('whatisgiveth/')}
-              >
-                Get Started
-              </Link>
-            </div>
-          </div>
-        </div>
-      </header>
-    )
-  }
+export default function Home () {
+  const { siteConfig } = useDocusaurusContext()
 
   return (
     <Layout
-      title={`${siteConfig.title}`}
-      description='Comprehensive Documentation for Contributors and Developers to the Giveth DApps and about Giveth as an organisation'
+      title={siteConfig.title}
+      description='Comprehensive documentation for contributors and developers to the Giveth DApps, and about Giveth as an organisation'
     >
-      <HeaderContent siteConfig={siteConfig} />
-      <main>
-        {features && features.length > 0 && (
-          <section className={styles.features}>
-            <div className='container'>
-              <div className='row'>
-                {features.map((props, idx) => (
-                  <Feature key={idx} {...props} />
-                ))}
-              </div>
-            </div>
-          </section>
-        )}
+      <header className={styles.cover}>
+        <img
+          className={`${styles.coverImage} no-border`}
+          src={useBaseUrl('img/home/cover-giveth.png')}
+          alt=''
+        />
+      </header>
+
+      <main className={styles.main}>
+        <h1 className={styles.title}>{siteConfig.title}</h1>
+        <p className={styles.tagline}>{siteConfig.tagline}</p>
+
+        <div className={styles.grid}>
+          {cards.map((card) => (
+            <Card key={card.to} {...card} />
+          ))}
+        </div>
       </main>
     </Layout>
   )
 }
-
-export default Home
