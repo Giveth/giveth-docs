@@ -1,47 +1,119 @@
 /* stylelint-disable docusaurus/copyright-header */
 /**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
+ * Global styles for docs.giveth.io
+ *
+ * Design tokens ported from the Super/Notion site (see super-salvage/DESIGN-TOKENS.md).
+ * Headings use TeX Gyre Adventor, body copy uses Red Hat Display, brand purple is #5326ec.
+ */
+
+/* --- Body font: Red Hat Display ------------------------------------ */
+@font-face {
+  font-family: RedHatDisplay;
+  src: url('/fonts/RedHatDisplay-Regular.ttf');
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: RedHatDisplay;
+  src: url('/fonts/RedHatDisplay-Medium.ttf');
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: RedHatDisplay;
+  src: url('/fonts/RedHatDisplay-SemiBold.ttf');
+  font-weight: 600;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: RedHatDisplay;
+  src: url('/fonts/RedHatDisplay-Bold.ttf');
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: RedHatDisplay;
+  src: url('/fonts/RedHatDisplay-Italic.ttf');
+  font-style: italic;
+  font-display: swap;
+}
+
+/* --- Heading font: TeX Gyre Adventor (GUST Font License) ------------
+ * Salvaged from Super, which hosted it on their CDN. Only the Bold cut was
+ * ever uploaded, and Super declared it at weight 400 — headings on the live
+ * site are therefore the Bold face at normal weight. Kept as-is to match.
  */
 @font-face {
-  font-family: RedHatDisplay;
-  src: url('../../static/fonts/RedHatDisplay-Medium.ttf');
-  font-weight: normal;
+  font-family: TeXGyreAdventor;
+  src: url('/fonts/TeXGyreAdventor-Bold.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
 }
 
-@font-face {
-  font-family: RedHatDisplay;
-  src: url('../../static/fonts/RedHatDisplay-ExtraBold.ttf');
-  font-weight: 700;
-  font-weight: bold;
-}
-
-@font-face {
-  font-family: RedHatDisplay;
-  src: url('../../static/fonts/RedHatDisplay-Italic.ttf');
-  font-style: italic;
-}
-
-@font-face {
-  font-family: RedHatDisplay;
-  src: url('../../static/fonts/RedHatDisplay-Regular.ttf');
-  font-weight: light;
-}
-/* You can override the default Infima variables here. */
+/* --- Design tokens -------------------------------------------------- */
 :root {
-  --ifm-font-family-base: RedHatDisplay;
-  --ifm-heading-font-family: RedHatDisplay;
-  --ifm-font-weight-normal: bolder;
-  --ifm-color-primary: #C2449F;
-  --ifm-color-secondary: #303B72;
-  --ifm-color-primary-dark: #202850;
-  --ifm-color-primary-darker: #171d3a;
-  --ifm-color-primary-darkest: hsl(229, 44%, 13%);
-  --ifm-color-primary-light: #404f99;
-  --ifm-color-primary-lighter: #4e61be;
-  --ifm-color-primary-lightest: hsl(230, 78%, 65%);
-  --ifm-code-font-size: 110%;
+  --ifm-font-family-base: RedHatDisplay, Helvetica, -apple-system, BlinkMacSystemFont,
+    'Segoe UI', Roboto, 'Helvetica Neue', 'Noto Sans', sans-serif;
+  --ifm-heading-font-family: TeXGyreAdventor, RedHatDisplay, Helvetica, sans-serif;
+
+  /* Brand purple */
+  --ifm-color-primary: #5326ec;
+  --ifm-color-primary-dark: #4214e0;
+  --ifm-color-primary-darker: #3e12d2;
+  --ifm-color-primary-darkest: #310fa8;
+  --ifm-color-primary-light: #6942ee;
+  --ifm-color-primary-lighter: #7450f0;
+  --ifm-color-primary-lightest: #967af3;
+
+  /* Supporting palette, straight from Super */
+  --giveth-purple: #5326ec;
+  --giveth-purple-deep: #1b1657;
+  --giveth-purple-light: #8668fc;
+  --giveth-purple-tint: #f5f3fe;
+  --giveth-purple-pressed: #3c14c4;
+  --giveth-footer-bg: #f7f7f9;
+
+  --ifm-background-color: #ffffff;
+  --ifm-font-color-base: #1d1e1f;
+  --ifm-navbar-background-color: #ffffff;
+  --ifm-footer-background-color: var(--giveth-footer-bg);
+  --ifm-menu-color-background-active: var(--giveth-purple-tint);
+  --ifm-menu-color-background-hover: var(--giveth-purple-tint);
+  --ifm-card-background-color: #ffffff;
+  /* kept for .formatLink and other legacy content styles */
+  --ifm-color-secondary: var(--giveth-purple-deep);
+
+  /* Layout — Super's measurements */
+  --ifm-navbar-height: 56px;
+  --ifm-global-radius: 20px;
+  --ifm-container-width-xl: 1300px;
+  --doc-sidebar-width: 241px;
+  --ifm-code-font-size: 95%;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: var(--giveth-purple-light);
+  --ifm-color-primary-dark: #5326ec;
+  --ifm-color-primary-darker: #4214e0;
+  --ifm-color-primary-darkest: #310fa8;
+  --ifm-color-primary-light: #9d85fd;
+  --ifm-color-primary-lighter: #b3a1fe;
+  --ifm-color-primary-lightest: #cabefe;
+
+  --ifm-background-color: var(--giveth-purple-deep);
+  --ifm-background-surface-color: #241d6b;
+  --ifm-font-color-base: #edeeee;
+  --ifm-navbar-background-color: var(--giveth-purple-deep);
+  --ifm-footer-background-color: var(--giveth-purple);
+  --ifm-menu-color-background-active: var(--giveth-purple);
+  --ifm-menu-color-background-hover: var(--giveth-purple);
+  --ifm-card-background-color: var(--giveth-purple);
+  --ifm-color-secondary: #cabefe;
 }
 
 iframe {
@@ -68,7 +140,7 @@ border-bottom: 2px solid #E1458D;
 
 img:not(.no-border)
 {
-  border: 3px solid #C2449F;
+  border: 3px solid var(--ifm-color-primary);
   border-radius: 15px;
   margin: 20px;
 }
