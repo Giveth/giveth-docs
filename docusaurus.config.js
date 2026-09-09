@@ -255,7 +255,10 @@ module.exports = {
           blogSidebarCount: 'ALL'
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css')
+          customCss: [
+            require.resolve('./src/css/custom.css'),
+            require.resolve('./src/css/notion-blocks.css')
+          ]
         }
       }
     ]

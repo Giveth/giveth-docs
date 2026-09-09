@@ -1,0 +1,205 @@
+/* stylelint-disable docusaurus/copyright-header */
+
+/**
+ * Component-level design ported from the Super/Notion site.
+ *
+ * custom.css carries the global tokens (colour, type, measurements). This file
+ * carries the block-level styling that gave the Notion site its character:
+ * callouts, page titles, images, quotes, code and tables.
+ *
+ * Values are taken from Super's own stylesheets, not eyeballed — see
+ * super-salvage/css/ for the originals and super-salvage/DESIGN-TOKENS.md
+ * for the variable reference.
+ */
+
+/* ------------------------------------------------------------------ *
+ * Callouts
+ *
+ * Notion callouts are a flat tinted panel: icon on the left, content on
+ * the right, 1px border, generously rounded, no shadow. Docusaurus stacks
+ * a heading row (icon + type label) above the content and draws an Infima
+ * accent bar, so the label is hidden and the layout turned into a row.
+ *
+ * Super pairs a 30%-alpha tint for the background with the full-opacity
+ * colour for the border. Both come from the Notion palette.
+ * ------------------------------------------------------------------ */
+
+:root {
+  --notion-callout-blue-bg: rgba(221, 235, 241, 0.3);
+  --notion-callout-blue-border: rgb(221, 235, 241);
+  --notion-callout-gray-bg: rgba(235, 236, 237, 0.3);
+  --notion-callout-gray-border: rgb(235, 236, 237);
+  --notion-callout-yellow-bg: rgba(251, 243, 219, 0.3);
+  --notion-callout-yellow-border: rgb(251, 243, 219);
+  --notion-callout-green-bg: rgba(221, 237, 234, 0.3);
+  --notion-callout-green-border: rgb(221, 237, 234);
+  --notion-callout-red-bg: rgba(251, 228, 228, 0.3);
+  --notion-callout-red-border: rgb(251, 228, 228);
+}
+
+[data-theme='dark'] {
+  --notion-callout-blue-bg: hsl(219, 26%, 13%);
+  --notion-callout-blue-border: hsl(187, 62%, 17%);
+  --notion-callout-gray-bg: hsl(195, 2%, 18.5%);
+  --notion-callout-gray-border: hsl(195, 2%, 26%);
+  --notion-callout-yellow-bg: hsl(48, 76%, 7%);
+  --notion-callout-yellow-border: hsl(47, 102%, 15%);
+  --notion-callout-green-bg: hsl(169, 44%, 17%);
+  --notion-callout-green-border: hsl(172, 58%, 21%);
+  --notion-callout-red-bg: hsl(9, 35%, 9%);
+  --notion-callout-red-border: hsl(9, 54%, 16%);
+}
+
+.theme-admonition {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  /* Super: calc(var(--padding-layout) + 0.4rem) with --padding-layout 0.6rem */
+  padding: 1rem;
+  /* Super: calc(var(--border-radii-layout) - 2px) */
+  border-radius: calc(var(--ifm-global-radius) - 2px);
+  border: 1px solid transparent;
+  border-left-width: 1px;
+  box-shadow: none;
+  margin-bottom: 1.25rem;
+}
+
+/* Collapse the type label to leave just the icon, as Notion does. */
+.theme-admonition [class*='admonitionHeading'] {
+  font-size: 0;
+  margin: 0;
+  padding: 0;
+  flex-shrink: 0;
+  text-transform: none;
+  line-height: 0;
+}
+
+.theme-admonition [class*='admonitionHeading'] [class*='admonitionIcon'] {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.theme-admonition [class*='admonitionIcon'] svg {
+  width: 20px;
+  height: 20px;
+  display: block;
+  fill: currentColor;
+}
+
+.theme-admonition [class*='admonitionContent'] {
+  flex: 1;
+  min-width: 0;
+}
+
+.theme-admonition [class*='admonitionContent'] > *:first-child {
+  margin-top: 0;
+}
+
+.theme-admonition [class*='admonitionContent'] > *:last-child {
+  margin-bottom: 0;
+}
+
+.theme-admonition-info,
+.theme-admonition-note {
+  background-color: var(--notion-callout-blue-bg);
+  border-color: var(--notion-callout-blue-border);
+}
+
+.theme-admonition-secondary {
+  background-color: var(--notion-callout-gray-bg);
+  border-color: var(--notion-callout-gray-border);
+}
+
+.theme-admonition-caution,
+.theme-admonition-warning {
+  background-color: var(--notion-callout-yellow-bg);
+  border-color: var(--notion-callout-yellow-border);
+}
+
+.theme-admonition-tip,
+.theme-admonition-success {
+  background-color: var(--notion-callout-green-bg);
+  border-color: var(--notion-callout-green-border);
+}
+
+.theme-admonition-danger {
+  background-color: var(--notion-callout-red-bg);
+  border-color: var(--notion-callout-red-border);
+}
+
+/* ------------------------------------------------------------------ *
+ * Page titles
+ *
+ * Super: --title-size 3.5rem, weight 700. This is the single loudest
+ * element of the design. Reduce --giveth-title-size if it reads too
+ * large in Docusaurus's narrower content column.
+ * ------------------------------------------------------------------ */
+
+:root {
+  --giveth-title-size: 3.5rem;
+}
+
+.markdown > h1:first-child,
+article header h1 {
+  font-size: var(--giveth-title-size);
+  line-height: 1.1;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+}
+
+/* ------------------------------------------------------------------ *
+ * Images, quotes, code and tables
+ * ------------------------------------------------------------------ */
+
+/* Super: --image-border-radii calc(var(--border-radii-layout) - 5px) */
+.markdown img:not(.no-border) {
+  border-radius: calc(var(--ifm-global-radius) - 5px);
+}
+
+/* Super: --quote-border calc(--border-thickness-layout + 2px) solid currentcolor */
+.markdown blockquote {
+  border-inline-start: 3px solid currentColor;
+  border-left-color: currentColor;
+  margin: 0.5rem 0 1.25rem;
+  padding: 0.1rem 0.9rem;
+  background: transparent;
+}
+
+/* Super: --code-border-radii var(--border-radii-layout) */
+.markdown pre,
+.theme-code-block {
+  border-radius: var(--ifm-global-radius);
+}
+
+.markdown table {
+  border-radius: calc(var(--ifm-global-radius) - 6px);
+  overflow: hidden;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+.markdown table thead tr {
+  background-color: var(--giveth-purple-tint);
+  border-bottom: 0;
+}
+
+[data-theme='dark'] .markdown table thead tr {
+  background-color: var(--ifm-background-surface-color);
+}
+
+/* ------------------------------------------------------------------ *
+ * Layout
+ *
+ * Super ran a 1300px content column with 96px side padding (24px on
+ * mobile). Docusaurus's doc container is narrower by default.
+ * ------------------------------------------------------------------ */
+
+.container {
+  max-width: var(--ifm-container-width-xl);
+}
+
+@media screen and (max-width: 966px) {
+  :root {
+    --giveth-title-size: 2.25rem;
+  }
+}
