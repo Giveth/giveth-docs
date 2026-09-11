@@ -15,7 +15,7 @@ const cards = [
   {
     title: <Translate>What Is Giveth?</Translate>,
     image: 'img/home/card-what-is-giveth.png',
-    to: '/whatisgiveth',
+    to: '/what-is-giveth/about-giveth',
     description: (
       <Translate>
         Who we are, how the DAO is structured and how we work. Start here if
@@ -26,7 +26,7 @@ const cards = [
   {
     title: <Translate>Donors &amp; Project Guide</Translate>,
     image: 'img/home/card-donors-projects.png',
-    to: '/dapps/gettingStarted',
+    to: '/what-is-giveth/donors-project-guides',
     icon: '🤝🏻',
     description: (
       <Translate>
@@ -38,7 +38,7 @@ const cards = [
   {
     title: <Translate>The GIVeconomy</Translate>,
     image: 'img/home/card-giveconomy.png',
-    to: '/giveconomy',
+    to: '/what-is-giveth/the-giveconomy',
     icon: '📥',
     description: (
       <Translate>

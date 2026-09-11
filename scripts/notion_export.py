@@ -114,8 +114,18 @@ def paged(path, body=None):
 # --------------------------------------------------------------------------- #
 
 def esc(s):
-    """Escape MDX-hostile characters in plain prose."""
-    return s.replace("<", "&lt;").replace("{", "&#123;").replace("}", "&#125;")
+    """Escape MDX-hostile characters in plain prose.
+
+    Asterisks are escaped because some Notion pages contain literal markdown
+    markers typed by hand — e.g. text reading "**donate at least 5 USD**" that
+    is *also* bold-annotated. Without escaping, the emitted markdown ends up as
+    "****donate at least 5 USD****", which renders wrong. Notion displays those
+    asterisks literally, so escaping is also the faithful reading.
+    """
+    return (s.replace("<", "&lt;")
+             .replace("{", "&#123;")
+             .replace("}", "&#125;")
+             .replace("*", "\\*"))
 
 
 # Set once per run by main(); consulted by rich() to turn Notion page links into
@@ -182,6 +192,29 @@ def slugify(s):
     return re.sub(r"[\s_-]+", "-", s) or "untitled"
 
 
+_SLUG_MAP = None
+
+
+def super_slug(title):
+    """The URL the Super site served for this page title, if any.
+
+    Keeping these means the rebuilt site holds on to every indexed URL instead
+    of redirecting away from it. Super's own pageIds are stale, so the mapping
+    is by title — see scripts/slug_map.json.
+    """
+    global _SLUG_MAP
+    if _SLUG_MAP is None:
+        f = Path(__file__).parent / "slug_map.json"
+        try:
+            _SLUG_MAP = json.loads(f.read_text(encoding="utf-8"))["by_title"]
+        except Exception:  # noqa: BLE001 - the map is an optimisation, not a need
+            _SLUG_MAP = {}
+    if title in _SLUG_MAP:
+        return _SLUG_MAP[title]
+    lowered = {k.lower(): v for k, v in _SLUG_MAP.items()}
+    return lowered.get((title or "").strip().lower())
+
+
 # --------------------------------------------------------------------------- #
 # Assets
 # --------------------------------------------------------------------------- #
@@ -198,6 +231,17 @@ def file_url(node):
     return None
 
 
+def embed_url(url):
+    """Turn a YouTube/Vimeo watch URL into its embeddable form."""
+    m = re.search(r"(?:youtube\.com/watch\?v=|youtu\.be/|youtube\.com/embed/)([\w-]{6,})", url)
+    if m:
+        return f"https://www.youtube.com/embed/{m.group(1)}"
+    m = re.search(r"vimeo\.com/(?:video/)?(\d+)", url)
+    if m:
+        return f"https://player.vimeo.com/video/{m.group(1)}"
+    return None
+
+
 def download(url, dest_dir, stem):
     """Fetch an asset now — signed Notion URLs expire in about an hour."""
     if not url:
@@ -207,12 +251,17 @@ def download(url, dest_dir, stem):
     if ext not in (".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp", ".mp4", ".pdf"):
         ext = ".png"
     dest = dest_dir / f"{stem}{ext}"
-    if dest.exists():
+    # Treat a zero-byte file as absent: an earlier run may have written an empty
+    # response, and caching that would make the failure permanent.
+    if dest.exists() and dest.stat().st_size > 0:
         return dest
     try:
         req = urllib.request.Request(url, headers={"User-Agent": "giveth-docs-export"})
-        with urllib.request.urlopen(req, timeout=120) as r, open(dest, "wb") as f:
-            f.write(r.read())
+        with urllib.request.urlopen(req, timeout=120) as r:
+            data = r.read()
+        if not data:
+            raise ValueError("empty response")
+        dest.write_bytes(data)
         return dest
     except Exception as e:  # noqa: BLE001 - a missing asset must not kill the run
         print(f"    ! asset failed {stem}: {e}", file=sys.stderr)
@@ -339,8 +388,14 @@ class Renderer:
                     return [f"![{esc(cap)}]({rel})", ""]
                 return [f"![{esc(cap)}]({url})", ""] if url else [""]
             if t == "video" and url:
-                if "youtube" in url or "youtu.be" in url or "vimeo" in url:
-                    return [f"<ReactPlayer controls url='{url}' />", ""]
+                embed = embed_url(url)
+                if embed:
+                    # A raw iframe needs no import, unlike a React component.
+                    return [f'<iframe width="100%" height="420" src="{embed}" '
+                            f'title="{esc(cap) or "Video"}" frameBorder="0" '
+                            f'allow="accelerometer; autoplay; clipboard-write; '
+                            f'encrypted-media; gyroscope; picture-in-picture" '
+                            f'allowFullScreen></iframe>', ""]
                 return [f"[{esc(cap) or 'Video'}]({url})", ""]
             if url:
                 return [f"[{esc(cap) or 'Download'}]({url})", ""]
@@ -473,7 +528,8 @@ def print_tree(nodes, indent=0):
 def flatten(nodes, out=None, parent=None):
     out = out if out is not None else []
     for x in nodes:
-        out.append({"id": x["id"], "title": x["title"], "parent": parent})
+        out.append({"id": x["id"], "title": x["title"], "parent": parent,
+                    "has_children": bool(x["children"])})
         flatten(x["children"], out, x["id"])
     return out
 
@@ -502,12 +558,15 @@ def export_page(node, outdir, page_map, unknown):
         if got:
             cover_rel = f"{img_rel}/{got.name}"
 
+    route = super_slug(node["title"])
     fm = {
         "id": slug,
         "title": node["title"],
         "sidebar_label": node["title"],
         "notion_page_id": node["id"],
     }
+    if route:
+        fm["slug"] = route
     if cover_rel:
         fm["image"] = cover_rel
     if icon:
@@ -522,6 +581,19 @@ def export_page(node, outdir, page_map, unknown):
     if cover_rel:
         lines += [f"![]({cover_rel})", ""]
     lines += body
+
+    kids = node.get("children_index") or []
+    if kids:
+        # On Super these pages rendered as a grid of cards for their children,
+        # because the page body is an inline database rather than prose, so the
+        # exported markdown is nearly empty. DocCardList would be the natural
+        # equivalent but it only works on pages that are a sidebar category
+        # index, and these are not, so link the children explicitly.
+        lines += [""]
+        for k in kids:
+            bullet = f"- [{k['title']}]({k['slug']})"
+            lines.append(f"{bullet}")
+        lines += [""]
 
     docs = outdir / "docs"
     docs.mkdir(parents=True, exist_ok=True)
@@ -578,11 +650,23 @@ def main():
         nodes = nodes[: args.limit]
 
     outdir = Path(args.out)
-    page_map = {n["id"]: {"title": n["title"], "slug": "/" + slugify(n["title"])} for n in nodes}
+    page_map = {n["id"]: {"title": n["title"],
+                          "slug": super_slug(n["title"]) or "/" + slugify(n["title"])}
+                for n in nodes}
     unresolved = set()
     globals()["_RESOLVER"] = (page_map, unresolved)
     unknown = set()
     results = []
+    by_parent = {}
+    for n in nodes:
+        if n.get("parent"):
+            by_parent.setdefault(n["parent"], []).append(n)
+    for n in nodes:
+        n["children_index"] = [
+            {"title": c["title"], "slug": page_map[c["id"]]["slug"]}
+            for c in by_parent.get(n["id"], [])
+        ]
+
     for i, n in enumerate(nodes, 1):
         print(f"[{i}/{len(nodes)}] {n['title']}")
         try:
