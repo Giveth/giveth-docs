@@ -47,24 +47,37 @@ def main():
     report = json.loads(report_path.read_text(encoding="utf-8"))
     exported = {p["title"]: p["slug"] for p in report["pages"]}
 
+    def resolve(entry):
+        """Super nav entry -> exported doc id, or None."""
+        title = title_by_slug.get(entry.get("link"))
+        doc = exported.get(title) if title else None
+        if doc:
+            return doc
+        cand = slugify(entry.get("label", ""))
+        return cand if cand in exported.values() else None
+
     sections = []
     missing = []
     for sec in nav["sidebar"]["links"]:
         label = sec.get("label")
+        # Not every top-level entry is a category: Super allows a bare page at
+        # the top level of the sidebar (FAQ is one), which has type "page" and
+        # an empty list. Emit those as a plain doc entry.
+        if sec.get("type") == "page" and not sec.get("list"):
+            doc = resolve(sec)
+            if doc:
+                sections.append((label, sec.get("icon"), [doc], True))
+            else:
+                missing.append((None, label, sec.get("link")))
+            continue
         items = []
         for child in sec.get("list", []):
-            link = child.get("link")
-            title = title_by_slug.get(link)
-            doc = exported.get(title) if title else None
-            if not doc:
-                # Fall back to matching the Super label against exported titles.
-                cand = slugify(child.get("label", ""))
-                doc = cand if cand in exported.values() else None
+            doc = resolve(child)
             if doc:
                 items.append(doc)
             else:
-                missing.append((label, child.get("label"), link))
-        sections.append((label, sec.get("icon"), items))
+                missing.append((label, child.get("label"), child.get("link")))
+        sections.append((label, sec.get("icon"), items, False))
 
     lines = [
         "/**",
@@ -80,8 +93,13 @@ def main():
         "module.exports = {",
         "  docs: [",
     ]
-    for label, icon, items in sections:
+    for label, icon, items, is_page in sections:
         if not items:
+            continue
+        if is_page:
+            if icon:
+                lines.append(f"    // Super used the Lucide icon {icon!r}")
+            lines.append(f"    {json.dumps(items[0])},")
             continue
         lines.append("    {")
         lines.append("      type: 'category',")
@@ -97,15 +115,15 @@ def main():
     lines += ["  ],", "}", ""]
 
     Path(args.out).write_text("\n".join(lines), encoding="utf-8")
-    placed = sum(len(i) for _, _, i in sections)
-    print(f"{args.out}: {len([s for s in sections if s[2]])} sections, {placed} pages")
+    placed = sum(len(s[2]) for s in sections)
+    print(f"{args.out}: {len([s for s in sections if s[2]])} entries, {placed} pages")
 
     if missing:
         print(f"\nnot placed ({len(missing)}) — no exported page matched:")
         for sec, lab, link in missing:
             print(f"  [{sec}] {lab}  {link}")
 
-    unplaced = set(exported.values()) - {i for _, _, items in sections for i in items}
+    unplaced = set(exported.values()) - {i for s in sections for i in s[2]}
     if unplaced:
         print(f"\nexported but absent from Super's sidebar ({len(unplaced)}):")
         for u in sorted(unplaced):
