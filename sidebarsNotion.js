@@ -10,10 +10,12 @@
 
 module.exports = {
   docs: [
+    "home",
     {
       type: 'category',
       label: "What Is Giveth?",
       // Super used the Lucide icon 'FileQuestion'
+      link: { type: 'doc', id: "what-is-giveth" },
       collapsed: true,
       items: [
         "about-giveth",
@@ -60,6 +62,7 @@ module.exports = {
       type: 'category',
       label: "Donors Guide",
       // Super used the Lucide icon 'BookOpenCheck'
+      link: { type: 'doc', id: "donors-project-guides" },
       collapsed: true,
       items: [
         "making-a-donation",
@@ -92,6 +95,7 @@ module.exports = {
       type: 'category',
       label: "GIVeconomy",
       // Super used the Lucide icon 'HelpingHand'
+      link: { type: 'doc', id: "the-giveconomy" },
       collapsed: true,
       items: [
         "giveconomy",
@@ -118,6 +122,7 @@ module.exports = {
       type: 'category',
       label: "Devouch Docs",
       // Super used the Lucide icon 'Check'
+      link: { type: 'doc', id: "devouch" },
       collapsed: true,
       items: [
         "what-is-devouch",
@@ -136,5 +141,16 @@ module.exports = {
     },
     // Super used the Lucide icon 'MessageCircleMore'
     "faqs",
+    {
+      type: 'category',
+      label: "Causes",
+      link: { type: 'doc', id: "causes" },
+      collapsed: true,
+      items: [
+        "how-it-works",
+        "creating-a-cause",
+        "for-project-owners",
+      ],
+    },
   ],
 }

@@ -1,0 +1,126 @@
+/* stylelint-disable docusaurus/copyright-header */
+
+/**
+ * Homepage body styles, using the measurements salvaged from Super:
+ * 20px corner radius, 35vh cover, brand purple borders and hover tint.
+ */
+
+.home {
+  margin: 0;
+}
+
+.cover {
+  width: 100%;
+  height: 35vh;
+  min-height: 180px;
+  max-height: 320px;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  border-radius: var(--ifm-global-radius);
+  /* cancel the global content-image treatment from custom.css */
+  border: 0;
+  margin: 0 0 2.5rem;
+}
+
+.title {
+  font-size: 3.5rem;
+  line-height: 1.1;
+  margin: 0 0 0.5rem;
+}
+
+.tagline {
+  font-size: 1.35rem;
+  margin: 0 0 3rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border: 1px solid var(--ifm-color-primary);
+  border-radius: var(--ifm-global-radius);
+  background: var(--ifm-card-background-color);
+  color: inherit;
+  text-decoration: none;
+  transition: background-color 200ms ease, transform 200ms ease,
+    box-shadow 200ms ease;
+}
+
+.card:hover,
+.card:focus-visible {
+  background: var(--giveth-purple-tint);
+  text-decoration: none;
+  color: inherit;
+  transform: translateY(-2px);
+  box-shadow: rgba(83, 38, 236, 0.16) 0 8px 20px -6px;
+}
+
+[data-theme='dark'] .card:hover,
+[data-theme='dark'] .card:focus-visible {
+  background: var(--giveth-purple-pressed);
+  box-shadow: rgba(0, 0, 0, 0.4) 0 8px 20px -6px;
+}
+
+.cardImage {
+  width: 100%;
+  height: 128px;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  border: 0;
+  border-radius: 0;
+  margin: 0;
+}
+
+.cardBody {
+  padding: 1.25rem 1.5rem 1.5rem;
+}
+
+.cardTitle {
+  font-size: 1.5rem;
+  margin: 0 0 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.cardIcon {
+  font-size: 1.4rem;
+  line-height: 1;
+}
+
+.cardText {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--ifm-color-emphasis-700);
+}
+
+@media screen and (max-width: 996px) {
+  .title {
+    font-size: 2.25rem;
+  }
+
+  .tagline {
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+  }
+
+  .grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 16px;
+  }
+
+  .cover {
+    height: 22vh;
+    margin-bottom: 1.5rem;
+  }
+}

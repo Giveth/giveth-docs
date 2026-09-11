@@ -56,6 +56,25 @@ def main():
         cand = slugify(entry.get("label", ""))
         return cand if cand in exported.values() else None
 
+    # Docusaurus only shows a sidebar on docs that appear in one, whereas
+    # Super's sidebar was global chrome present on every page. So every doc has
+    # to be placed somewhere, or it renders bare.
+    #
+    # Four Notion section pages are landing pages for a whole area; attach them
+    # as the category link for the Super section they correspond to, which both
+    # gives them a sidebar and makes the category header clickable.
+    CATEGORY_INDEX = {
+        "What Is Giveth?": "what-is-giveth",
+        "GIVeconomy": "the-giveconomy",
+        "Devouch Docs": "devouch",
+        "Donors Guide": "donors-project-guides",
+    }
+    # Causes is live at /donation-agents but was never in Super's sidebar.
+    EXTRA_SECTIONS = [
+        ("Causes", None, "causes",
+         ["how-it-works", "creating-a-cause", "for-project-owners"]),
+    ]
+
     sections = []
     missing = []
     for sec in nav["sidebar"]["links"]:
@@ -79,6 +98,11 @@ def main():
                 missing.append((label, child.get("label"), child.get("link")))
         sections.append((label, sec.get("icon"), items, False))
 
+    for label, icon, index_doc, kids in EXTRA_SECTIONS:
+        present = [k for k in kids if k in exported.values()]
+        if index_doc in exported.values():
+            sections.append((label, icon, present, False, index_doc))
+
     lines = [
         "/**",
         " * Sidebar reproducing the Super site's navigation.",
@@ -93,8 +117,13 @@ def main():
         "module.exports = {",
         "  docs: [",
     ]
-    for label, icon, items, is_page in sections:
-        if not items:
+    sections = [s if len(s) == 5 else (*s, CATEGORY_INDEX.get(s[0])) for s in sections]
+
+    # The homepage is a doc too, and needs a sidebar like every other page.
+    lines.append('    "home",')
+
+    for label, icon, items, is_page, index_doc in sections:
+        if not items and not index_doc:
             continue
         if is_page:
             if icon:
@@ -106,6 +135,8 @@ def main():
         lines.append(f"      label: {json.dumps(label)},")
         if icon:
             lines.append(f"      // Super used the Lucide icon {icon!r}")
+        if index_doc:
+            lines.append(f"      link: {{ type: 'doc', id: {json.dumps(index_doc)} }},")
         lines.append("      collapsed: true,")
         lines.append("      items: [")
         for it in items:
@@ -123,7 +154,8 @@ def main():
         for sec, lab, link in missing:
             print(f"  [{sec}] {lab}  {link}")
 
-    unplaced = set(exported.values()) - {i for s in sections for i in s[2]}
+    placed_ids = {i for s in sections for i in s[2]} | {s[4] for s in sections if s[4]} | {"home"}
+    unplaced = set(exported.values()) - placed_ids
     if unplaced:
         print(f"\nexported but absent from Super's sidebar ({len(unplaced)}):")
         for u in sorted(unplaced):
