@@ -1,0 +1,245 @@
+/*
+ * Overrides on top of react-notion-x's stylesheet, to land the Notion blocks on
+ * Super's design tokens. react-notion-x ships Notion's own look; these rules
+ * move it onto the Giveth type, colours and rounding.
+ */
+
+.notion {
+  font-family: var(--secondary-font);
+  color: var(--color-text-default);
+  --notion-max-width: var(--layout-max-width);
+}
+
+.notion-page {
+  padding-left: var(--padding-left);
+  padding-right: var(--padding-right);
+  width: 100%;
+  max-width: 100%;
+}
+
+.notion-page.notion-full-page {
+  padding-bottom: 48px;
+}
+
+.notion-page-content {
+  max-width: var(--layout-max-width);
+  margin: 0 auto;
+  width: 100%;
+}
+
+/* ------------------------------------------------------------------- type */
+
+.notion-title,
+.notion-h,
+.notion-h1,
+.notion-h2,
+.notion-h3,
+.notion-quote,
+.notion-page-title-text,
+.notion-collection-column-title {
+  font-family: var(--primary-font);
+}
+
+.notion-title {
+  font-size: var(--title-size);
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.notion-h1 {
+  font-size: calc(var(--heading1-size) * 2.2);
+  font-weight: var(--heading-weight);
+}
+
+.notion-h2 {
+  font-size: calc(var(--heading2-size) * 2.2);
+  font-weight: var(--heading-weight);
+}
+
+.notion-h3 {
+  font-size: calc(var(--heading3-size) * 2.2);
+  font-weight: var(--heading-weight);
+}
+
+.notion-link,
+.notion-page-link {
+  color: var(--color-text-default-light);
+  border-bottom: none;
+  text-decoration: none;
+}
+
+.notion-link:hover {
+  text-decoration: underline;
+}
+
+/* ------------------------------------------------------------ page header */
+
+.notion-page-cover-wrapper,
+.notion-page-cover-wrapper img,
+.notion-page-cover {
+  height: var(--header-cover-height);
+  max-height: calc(100vh - var(--navbar-height));
+  object-fit: cover;
+}
+
+/* ------------------------------------------------------------ card grids */
+
+/*
+ * The single most load-bearing block type here: the four section pages have
+ * almost no prose and are rendered entirely as card grids, as is the homepage.
+ */
+.notion-gallery-grid {
+  gap: var(--collection-card-gap);
+  border-top: none;
+}
+
+.notion-collection-card {
+  border-radius: var(--collection-card-border-radii);
+  overflow: hidden;
+  background: var(--color-card-bg);
+  border: var(--border-thickness-layout) solid var(--color-border-default);
+  box-shadow: none;
+  transition: background 200ms ease-in-out;
+}
+
+.notion-collection-card:hover {
+  background: var(--color-card-bg-hover);
+}
+
+.notion-collection-card-cover {
+  height: var(--collection-card-cover-height-large);
+  border-bottom: var(--border-thickness-layout) solid var(--color-border-default);
+}
+
+.notion-collection-card-cover img {
+  object-fit: cover;
+}
+
+.notion-collection-card-body {
+  padding: 12px 16px 16px 16px;
+}
+
+.notion-collection-card-property {
+  font-family: var(--primary-font);
+  white-space: normal;
+  overflow: visible;
+  text-overflow: unset;
+}
+
+.notion-collection-card .notion-page-title-text {
+  font-size: 1.1rem;
+  border-bottom: none;
+}
+
+/* --------------------------------------------------------------- callouts */
+
+.notion-callout {
+  border-radius: var(--callout-border-radii);
+  border: var(--border-thickness-layout) solid var(--color-border-default);
+  padding: 16px;
+}
+
+/* ------------------------------------------------------- code and tables */
+
+.notion-code {
+  border-radius: var(--code-border-radii);
+  font-size: 0.9em;
+}
+
+.notion-simple-table {
+  border-radius: calc(var(--border-radii-layout) - 8px);
+  overflow: hidden;
+}
+
+.notion-simple-table td {
+  border-color: var(--color-border-default);
+}
+
+.notion-hr {
+  border-color: var(--color-border-default);
+  opacity: 0.4;
+}
+
+.notion-quote {
+  border-left: 3px solid var(--color-border-default);
+}
+
+.notion-asset-wrapper img,
+.notion-asset-wrapper video {
+  border-radius: calc(var(--border-radii-layout) - 8px);
+  max-width: 100%;
+}
+
+/* ----------------------------------------------------------------- themes */
+
+.theme-dark .notion,
+html.theme-dark .notion {
+  color: var(--color-text-default);
+}
+
+html.theme-dark .notion-code,
+html.theme-dark .notion-simple-table th {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+/* react-notion-x hides some elements behind its own dark-mode class. */
+html.theme-dark .notion-page,
+html.theme-dark .notion-gallery-grid {
+  background: transparent;
+}
+
+/*
+ * react-notion-x ships its dark palette behind a `dark-mode` class that it only
+ * adds from a server-rendered prop. This site's theme is toggled on <html> at
+ * runtime, so the same variables are re-declared here under that class instead,
+ * with Giveth's deep indigo in place of Notion's grey.
+ */
+html.theme-dark .notion {
+  --fg-color: #edeeee;
+  --fg-color-0: var(--fg-color);
+  --fg-color-1: var(--fg-color);
+  --fg-color-2: var(--fg-color);
+  --fg-color-3: var(--fg-color);
+  --fg-color-4: var(--fg-color);
+  --fg-color-5: rgba(255, 255, 255, 0.7);
+  --fg-color-6: #fff;
+  --fg-color-icon: #fff;
+  --bg-color: #1b1657;
+  --bg-color-0: rgb(71, 76, 80);
+  --bg-color-1: rgb(63, 68, 71);
+  --bg-color-2: rgba(135, 131, 120, 0.15);
+  --notion-red: rgb(255, 115, 105);
+  --notion-pink: rgb(226, 85, 161);
+  --notion-blue: rgb(82, 156, 202);
+  --notion-purple: rgb(154, 109, 215);
+  --notion-teal: rgb(77, 171, 154);
+  --notion-yellow: rgb(255, 220, 73);
+  --notion-orange: rgb(255, 163, 68);
+  --notion-brown: rgb(147, 114, 100);
+  --notion-gray: rgba(151, 154, 155, 0.95);
+  --notion-red_background: rgb(89, 65, 65);
+  --notion-pink_background: rgb(83, 59, 76);
+  --notion-blue_background: rgb(54, 73, 84);
+  --notion-purple_background: rgb(68, 63, 87);
+  --notion-teal_background: rgb(53, 76, 75);
+  --notion-yellow_background: rgb(89, 86, 59);
+  --notion-orange_background: rgb(89, 74, 58);
+  --notion-brown_background: rgb(67, 64, 64);
+  --notion-gray_background: rgb(69, 75, 78);
+  --notion-red_background_co: rgba(89, 65, 65, 0.3);
+  --notion-pink_background_co: rgba(83, 59, 76, 0.3);
+  --notion-blue_background_co: rgba(120, 162, 187, 0.3);
+  --notion-purple_background_co: rgba(68, 63, 87, 0.3);
+  --notion-teal_background_co: rgba(53, 76, 75, 0.3);
+  --notion-yellow_background_co: rgba(89, 86, 59, 0.3);
+  --notion-orange_background_co: rgba(89, 74, 58, 0.3);
+  --notion-brown_background_co: rgba(67, 64, 64, 0.3);
+  --notion-gray_background_co: rgba(69, 75, 78, 0.3);
+}
+
+/* And the light values, moved onto the Giveth text colour. */
+.notion {
+  --fg-color: #1d1e1f;
+  --bg-color: #ffffff;
+  --notion-font: var(--secondary-font);
+}

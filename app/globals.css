@@ -1,0 +1,210 @@
+/*
+ * Giveth Docs design system.
+ *
+ * Values are the ones Super actually served, recovered from the inline <style>
+ * blocks of the live site and recorded in super-salvage/DESIGN-TOKENS.md.
+ * Super's dashboard had no custom CSS, so these variables plus faithful Notion
+ * block rendering are the whole design.
+ */
+
+/* ------------------------------------------------------------------ fonts */
+
+/*
+ * Super uploaded only the Bold cut of TeX Gyre Adventor and declared it at
+ * font-weight 400, so every heading on the live site is the Bold face rendered
+ * at normal weight. That mis-weighting is preserved deliberately -- correcting
+ * it would make the headings lighter than the site they are replacing.
+ * GUST Font License (free/libre), so self-hosting is permitted.
+ */
+@font-face {
+  font-family: 'Tex-Gyre-Adventor';
+  src: url('/fonts/TeXGyreAdventor-Bold.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Red Hat Display';
+  src: url('/fonts/RedHatDisplay-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Red Hat Display';
+  src: url('/fonts/RedHatDisplay-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Red Hat Display';
+  src: url('/fonts/RedHatDisplay-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Red Hat Display';
+  src: url('/fonts/RedHatDisplay-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Red Hat Display';
+  src: url('/fonts/RedHatDisplay-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Red Hat Display';
+  src: url('/fonts/RedHatDisplay-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* ----------------------------------------------------------------- tokens */
+
+:root {
+  --primary-font: Tex-Gyre-Adventor, Inter, Helvetica, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Noto Color Emoji', -apple-system, BlinkMacSystemFont,
+    'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+  --secondary-font: 'Red Hat Display', Helvetica, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Noto Color Emoji', -apple-system, BlinkMacSystemFont,
+    'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+
+  --title-size: 3.5rem;
+  --heading-size: 0.7rem;
+  --heading1-size: calc(var(--heading-size) * 1.875);
+  --heading2-size: calc(var(--heading-size) * 1.5);
+  --heading3-size: calc(var(--heading-size) * 1.25);
+  --heading-weight: 600;
+  --text-weight: 400;
+
+  --layout-max-width: 1300px;
+  --sidebar-width: 241px;
+  --navbar-height: 56px;
+  --scrollbar-width: 15px;
+  --column-spacing: 46px;
+  --header-cover-height: 35vh;
+
+  --border-radii-layout: 20px;
+  --border-thickness-layout: 1px;
+  --padding-layout: 0.6rem;
+  --padding-left: calc(env(safe-area-inset-left) + 96px);
+  --padding-right: calc(env(safe-area-inset-right) + 96px);
+
+  --navbar-button-border-radii: 50px;
+  --navbar-shadow: none;
+  --sidebar-shadow: none;
+
+  --collection-card-gap: 10px;
+  --collection-card-cover-height-large: 200px;
+  --collection-card-border-radii: var(--border-radii-layout);
+  --callout-border-radii: calc(var(--border-radii-layout) - 2px);
+  --code-border-radii: var(--border-radii-layout);
+
+  /* Light theme */
+  --color-bg-default: #ffffff;
+  --color-text-default: #1d1e1f;
+  --color-text-default-light: #5326ec;
+  --color-border-default: #5326ec;
+  --color-card-bg: #ffffff;
+  --color-card-bg-hover: #f5f3fe;
+  --color-ui-hover-bg: #f5f3fe;
+
+  --navbar-background-color: #ffffff;
+  --navbar-text-color: var(--color-text-default);
+  --navbar-list-item-hover: rgba(130, 130, 130, 0.09);
+  --navbar-button-background-color: #5326ec;
+  --navbar-button-text-color: #ffffff;
+
+  --sidebar-background-color: #ffffff;
+  --sidebar-background-color-hover: #f5f3fe;
+  --sidebar-border-color: #5326ec;
+  --sidebar-text-color: #1d1e1f;
+  /*
+   * Super served an invalid value (#e0f10) for this in light mode, so browsers
+   * dropped the declaration and the text inherited the default colour. Setting
+   * it explicitly to the default reproduces what was actually on screen.
+   */
+  --sidebar-text-color-dark: #1d1e1f;
+
+  --footer-background-color: #f7f7f9;
+  --footer-text-color: var(--color-text-default);
+
+  --scrollbar-thumb-color: #d7ddea;
+}
+
+html.theme-dark {
+  --color-bg-default: #1b1657;
+  --color-text-default: #edeeee;
+  --color-text-default-light: #8668fc;
+  --color-border-default: #8668fc;
+  --color-card-bg: #5326ec;
+  --color-card-bg-hover: #3c14c4;
+  --color-ui-hover-bg: #5326ec;
+
+  --navbar-background-color: #1b1657;
+  --navbar-text-color: var(--color-text-default);
+  --navbar-list-item-hover: rgba(255, 255, 255, 0.2);
+  --navbar-button-background-color: #edeeee;
+  --navbar-button-text-color: #ffffff;
+
+  --sidebar-background-color: #1b1657;
+  --sidebar-background-color-hover: #5326ec;
+  --sidebar-border-color: #5326ec;
+  --sidebar-text-color: #edeeee;
+  --sidebar-text-color-dark: #dedfdf;
+
+  --footer-background-color: #5326ec;
+  --footer-text-color: var(--color-text-default);
+
+  --scrollbar-thumb-color: #1b1657;
+}
+
+@media (max-width: 860px) {
+  :root {
+    --padding-left: calc(env(safe-area-inset-left) + 24px);
+    --padding-right: calc(env(safe-area-inset-right) + 24px);
+  }
+}
+
+/* ------------------------------------------------------------------- base */
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  background: var(--color-bg-default);
+}
+
+body {
+  font-family: var(--secondary-font);
+  font-weight: var(--text-weight);
+  color: var(--color-text-default);
+  background: var(--color-bg-default);
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.super-root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}

@@ -1,0 +1,399 @@
+/*
+ * Site chrome: navbar, sidebar, footer.
+ *
+ * Measurements mirror what Super served (see super-salvage/css/super.css for
+ * the reference) so the rebuilt site lands in the same place on screen.
+ */
+
+/* ----------------------------------------------------------------- navbar */
+
+.super-navbar {
+  width: 100%;
+  height: var(--navbar-height);
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  background: var(--navbar-background-color);
+  color: var(--navbar-text-color);
+  flex-shrink: 0;
+}
+
+.super-navbar__content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  z-index: 20;
+  width: 100%;
+  height: 100%;
+  padding: 0 8px;
+}
+
+.super-navbar__logo {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  padding: 0 16px;
+  height: 100%;
+  cursor: pointer;
+  white-space: nowrap;
+  margin-inline-end: auto;
+}
+
+.super-navbar__logo-image img {
+  object-fit: contain;
+  object-position: left;
+}
+
+.super-navbar__item-list {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  flex-wrap: wrap;
+  overflow: hidden;
+  justify-content: flex-end;
+}
+
+.super-navbar__item-list li {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.super-navbar__item {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-weight: 400;
+  height: 100%;
+  padding: 16px 12px;
+  border-radius: 8px;
+  user-select: none;
+  white-space: nowrap;
+  opacity: 0.7;
+  cursor: pointer;
+  transition: background 200ms ease-in-out, opacity 200ms ease-in-out;
+}
+
+.super-navbar__item:hover,
+.super-navbar__item.active {
+  opacity: 1;
+  background: var(--navbar-list-item-hover);
+}
+
+.super-navbar__actions {
+  display: grid;
+  grid-auto-flow: column;
+  align-items: center;
+  gap: 6px;
+  padding-left: 16px;
+  padding-right: 8px;
+  height: 100%;
+}
+
+.super-navbar__button {
+  cursor: pointer;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px;
+  opacity: 0.7;
+  transition: opacity 200ms ease-in-out;
+  stroke: var(--navbar-text-color);
+  background: none;
+  border: none;
+  color: inherit;
+}
+
+.super-navbar__button:hover {
+  opacity: 1;
+}
+
+.super-navbar__menu-open {
+  display: none;
+}
+
+/* -------------------------------------------------------- content wrapper */
+
+.super-content-wrapper {
+  display: flex;
+  flex-grow: 1;
+  min-height: 0;
+}
+
+.super-content {
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  min-width: 0;
+}
+
+.super-content-wrapper.has-sidebar .super-content {
+  max-width: calc(100vw - var(--sidebar-width) - var(--scrollbar-width));
+}
+
+/* ---------------------------------------------------------------- sidebar */
+
+.super-sidebar {
+  position: sticky;
+  top: var(--navbar-height);
+  left: 0;
+  align-self: flex-start;
+  color: var(--sidebar-text-color);
+  background-color: var(--sidebar-background-color);
+  min-width: var(--sidebar-width);
+  max-width: var(--sidebar-width);
+  min-height: calc(100vh - var(--navbar-height));
+  max-height: calc(100vh - var(--navbar-height));
+  border-right: 1px solid var(--sidebar-border-color);
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.super-sidebar__content {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+}
+
+.super-sidebar__heading {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 12px;
+  padding: 12px 16px 8px 16px;
+  z-index: 1;
+  background-color: var(--sidebar-background-color);
+}
+
+.super-navigation-menu__items {
+  margin-top: 4px;
+  padding: 0 16px 16px 16px;
+}
+
+.super-navigation-menu__item,
+.super-navigation-menu__list-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 8px;
+  gap: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 6px;
+  transition: background 200ms ease-in-out;
+  color: var(--sidebar-text-color-dark);
+  background: none;
+  border: none;
+  width: 100%;
+  text-align: left;
+  font-family: inherit;
+}
+
+.super-navigation-menu__list-header {
+  color: var(--sidebar-text-color);
+}
+
+.super-sidebar .super-navigation-menu__item.active,
+.super-sidebar .super-navigation-menu__item:hover,
+.super-sidebar .super-navigation-menu__list-header:hover {
+  background: var(--sidebar-background-color-hover);
+}
+
+.super-sidebar .super-navigation-menu__item.active {
+  font-weight: 600;
+}
+
+.super-navigation-menu__item-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  user-select: none;
+  padding-right: 16px;
+  margin-right: auto;
+  min-width: 0;
+}
+
+.super-navigation-menu__item-title {
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+
+.super-sidebar .super-navigation-menu__list-items {
+  border-left: 1px solid var(--sidebar-border-color);
+  margin-left: 15px;
+  padding-left: 4px;
+}
+
+.super-navigation-menu__list-chevron {
+  flex-shrink: 0;
+  transition: transform 200ms ease-in-out;
+}
+
+.super-navigation-menu__list[data-state='open'] > .super-navigation-menu__list-header
+  .super-navigation-menu__list-chevron {
+  transform: rotate(90deg);
+}
+
+.super-navigation-menu__list[data-state='closed'] .super-navigation-menu__list-items {
+  display: none;
+}
+
+/* ----------------------------------------------------------------- footer */
+
+.super-footer {
+  margin-top: auto;
+  padding: 48px var(--padding-right) 48px var(--padding-left);
+  color: var(--footer-text-color);
+  background: var(--footer-background-color);
+}
+
+.super-footer.floating {
+  margin: 20px;
+  border-radius: 24px;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.super-footer * {
+  color: inherit;
+}
+
+.super-footer__content {
+  display: grid;
+  grid-template-columns: 1fr 1fr 2fr;
+  grid-template-rows: auto;
+  grid-template-areas:
+    'logo logo icons'
+    'links links links'
+    'divider divider divider'
+    'footnote footnote footnote';
+}
+
+.super-footer__logo {
+  grid-area: logo;
+  height: 48px;
+  position: relative;
+  cursor: pointer;
+  white-space: nowrap;
+  justify-self: start;
+  margin-bottom: 24px;
+}
+
+.super-footer__icons {
+  grid-area: icons;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 4px;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.super-footer__icons a {
+  display: flex;
+  opacity: 0.8;
+  transition: opacity 200ms ease-in-out;
+}
+
+.super-footer__icons a:hover {
+  opacity: 1;
+}
+
+.super-footer__links {
+  grid-area: links;
+  font-size: 1rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-bottom: 32px;
+  gap: 12px;
+}
+
+.super-footer__link {
+  display: block;
+  padding: 2px;
+  text-decoration: none;
+  opacity: 0.85;
+  transition: opacity 200ms ease-in-out;
+}
+
+.super-footer__link:hover {
+  opacity: 1;
+}
+
+.super-footer__divider {
+  grid-area: divider;
+  width: 100%;
+  border-top: 1px solid var(--footer-text-color);
+  opacity: 0.4;
+  margin-top: 8px;
+  margin-bottom: 32px;
+}
+
+.super-footer__footnote {
+  grid-area: footnote;
+  font-size: 1rem;
+  color: var(--footer-text-color);
+  opacity: 0.8;
+  margin-top: 4px;
+}
+
+/* ----------------------------------------------------------------- mobile */
+
+@media (max-width: 860px) {
+  .super-sidebar {
+    display: none;
+  }
+
+  .super-content-wrapper.has-sidebar .super-content {
+    max-width: 100%;
+  }
+
+  .super-navbar__item-list {
+    display: none;
+  }
+
+  .super-navbar__menu-open {
+    display: flex;
+  }
+
+  .super-footer.floating {
+    padding: 28px;
+  }
+
+  .super-footer__content {
+    grid-template-columns: 1fr;
+    grid-template-areas: 'logo' 'icons' 'links' 'divider' 'footnote';
+  }
+
+  .super-footer__icons {
+    justify-content: flex-start;
+  }
+
+  /* The sidebar becomes a drop-down panel under the navbar. */
+  .super-sidebar.is-open {
+    display: block;
+    position: fixed;
+    top: var(--navbar-height);
+    left: 0;
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    height: calc(100vh - var(--navbar-height));
+    max-height: calc(100vh - var(--navbar-height));
+    z-index: 39;
+    border-right: none;
+  }
+}

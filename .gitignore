@@ -21,3 +21,12 @@ yarn-error.log*
 
 # Local secrets
 .env
+
+# Next.js
+/.next
+/out
+next-env.d.ts
+*.tsbuildinfo
+
+# Legacy Docusaurus tree, staged for deletion
+/.legacy-docusaurus
