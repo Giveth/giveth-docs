@@ -13,8 +13,8 @@
     "publicBaseUrl is optional. Left empty, the Space's CDN endpoint is used:",
     "  https://<bucket>.<region>.cdn.digitaloceanspaces.com"
   ],
-  "bucket": "",
-  "region": "",
+  "bucket": "giveth-docs",
+  "region": "fra1",
   "prefix": "docs/notion-media",
-  "publicBaseUrl": ""
+  "publicBaseUrl": "https://giveth-docs.fra1.digitaloceanspaces.com"
 }
