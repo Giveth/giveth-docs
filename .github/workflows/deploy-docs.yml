@@ -1,63 +1,75 @@
 name: deploy-docs
 
+# Builds the static site and publishes it to the gh-pages branch, which is what
+# GitHub Pages serves at docs.giveth.io.
+#
+# The build reads content/ from the repo and never contacts Notion. Refreshing
+# that content is refresh-content.yml's job; a push it makes lands here.
+
 on:
-  pull_request:
-    branches: [master]
   push:
     branches: [master]
+  pull_request:
+    branches: [master]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-docs
+  cancel-in-progress: false
 
 jobs:
-  checks:
-    if: github.event_name != 'push'
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - uses: actions/setup-node@v1
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
         with:
-          node-version: ">=16.14"
-      - name: Test Build
-        run: |
-          if [ -e yarn.lock ]; then
-          yarn install --frozen-lockfile
-          elif [ -e package-lock.json ]; then
-          npm ci
-          else
-          npm i
-          fi
-          npm run build
-  gh-release:
+          node-version: '20'
+          cache: npm
+
+      - run: npm ci
+
+      - name: Build static site
+        run: npm run build
+
+      - name: Check every live URL was generated
+        run: node scripts/check-export.mjs
+
+      - name: Upload build
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: site
+          path: out
+          retention-days: 3
+
+  publish:
+    needs: build
     if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v1
-      - uses: actions/setup-node@v1
+      - uses: actions/checkout@v4
+
+      - uses: actions/download-artifact@v4
         with:
-          node-version: ">=16.14"
-      - name: Add key to allow access to repository
+          name: site
+          path: out
+
+      - name: Publish to gh-pages
         env:
-          SSH_AUTH_SOCK: /tmp/ssh_agent.sock
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          mkdir -p ~/.ssh
-          ssh-keyscan github.com >> ~/.ssh/known_hosts
-          echo "${{ secrets.GH_PAGES_DEPLOY }}" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
-          cat <<EOT >> ~/.ssh/config
-          Host github.com
-          HostName github.com
-          IdentityFile ~/.ssh/id_rsa
-          EOT
-      - name: Release to GitHub Pages
-        env:
-          USE_SSH: true
-          GIT_USER: git
-        run: |
-          git config --global user.email "actions@gihub.com"
-          git config --global user.name "gh-actions"
-          if [ -e yarn.lock ]; then
-          yarn install --frozen-lockfile
-          elif [ -e package-lock.json ]; then
-          npm ci
-          else
-          npm i
-          fi
-          npx docusaurus deploy
+          set -euo pipefail
+          cd out
+          touch .nojekyll
+          git init -q
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Deploy ${GITHUB_SHA::7}"
+          git push -q --force \
+            "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" \
+            HEAD:gh-pages

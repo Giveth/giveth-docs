@@ -5,10 +5,10 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint",
+    "fetch-notion": "node scripts/fetch-notion.mjs",
     "check-routes": "node scripts/check-routes.mjs",
-    "check-slugs": "node scripts/check-slugs.mjs"
+    "check-slugs": "node scripts/check-slugs.mjs",
+    "serve": "npx serve out"
   },
   "dependencies": {
     "next": "^15.5.4",

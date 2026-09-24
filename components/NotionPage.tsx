@@ -30,6 +30,8 @@ export interface NotionPageProps {
   rootPageId: string
   /** Notion page id -> the url path this site serves it at. */
   pageIdToSlug: Record<string, string>
+  /** Notion image URL -> the local file the build stage downloaded it to. */
+  images: Record<string, string>
   fullPage?: boolean
 }
 
@@ -37,6 +39,7 @@ export function NotionPage({
   recordMap,
   rootPageId,
   pageIdToSlug,
+  images,
   fullPage = true,
 }: NotionPageProps) {
   /**
@@ -53,36 +56,16 @@ export function NotionPage({
   }
 
   /**
-   * Notion-hosted images go through our own proxy. notion-utils has already
-   * rewritten the expiring S3 links into Notion's stable image endpoint, so what
-   * we proxy is a URL that stays valid; the proxy exists so those images are
-   * served from this origin and can be cached by a CDN rather than hotlinked.
-   *
-   * Images the authors embedded from elsewhere (imgur and the like) are handed
-   * to the browser untouched. Proxying arbitrary third-party URLs would turn
-   * this route into an open relay for no benefit.
+   * Images were downloaded into public/notion-assets/ by the build stage, so
+   * the page serves them from this origin and never depends on Notion being
+   * reachable. Anything the build did not capture -- images the authors
+   * embedded from elsewhere -- is handed to the browser as-is.
    */
   const mapImageUrl = (url: string | undefined, block: any) => {
     if (!url) return undefined
     const resolved = defaultMapImageUrl(url, block)
     if (!resolved) return undefined
-    if (resolved.startsWith('/')) return resolved
-
-    let host: string
-    try {
-      host = new URL(resolved).hostname
-    } catch {
-      return resolved
-    }
-
-    const isNotionHosted =
-      host.endsWith('notion.com') ||
-      host.endsWith('notion.so') ||
-      host.endsWith('notion-static.com') ||
-      host.endsWith('notionusercontent.com') ||
-      host.endsWith('amazonaws.com')
-
-    return isNotionHosted ? `/api/image?url=${encodeURIComponent(resolved)}` : resolved
+    return images[resolved] ?? resolved
   }
 
   return (

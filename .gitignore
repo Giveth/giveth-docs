@@ -30,3 +30,6 @@ next-env.d.ts
 
 # Legacy Docusaurus tree, staged for deletion
 /.legacy-docusaurus
+
+# Static export output
+/out

@@ -1,39 +1,83 @@
 # Giveth Docs
 
-The site at [docs.giveth.io](https://docs.giveth.io). It renders the Giveth
-Notion workspace directly: **Notion is the source of truth**, editors work in
-Notion, and nothing in this repo needs changing when content changes.
+The site at [docs.giveth.io](https://docs.giveth.io). Content lives in Notion;
+this repo turns it into a static site served from GitHub Pages.
 
 This replaces a [super.so](https://super.so) subscription that rendered the same
 Notion workspace. The background, the decisions and the salvaged assets are in
 [NOTION-RENDERER-PLAN.md](NOTION-RENDERER-PLAN.md).
 
+## How it works
+
+```
+Notion  ──►  scripts/fetch-notion.mjs  ──►  content/ + public/notion-assets/
+                                                      │
+                                                      ▼
+                                              next build (static export)
+                                                      │
+                                                      ▼
+                                           gh-pages  ──►  docs.giveth.io
+```
+
+**The built site never contacts Notion.** Every page, image and video is
+committed to this repo, so a slow or unreachable Notion API cannot produce a
+half-empty page. Pages are plain HTML files.
+
 ## Running it
 
 ```bash
 npm install
-npm run dev          # http://localhost:3000
-npm run build        # production build; prerenders all 45 pages
-npm start            # serve the production build
-npm run check-routes -- http://localhost:3000   # assert every live URL resolves
+npm run fetch-notion     # pull the latest content from Notion into content/
+npm run build            # static export into out/
+npm run serve            # serve out/ locally
+npx serve out            # ...or directly
 ```
 
-No credentials are needed to render: the docs tree is public, and Notion's API
-serves it unauthenticated. `REVALIDATE_SECRET` is only needed for the on-demand
-refresh endpoint. See [.env.example](.env.example).
+Checks:
 
-## How it fits together
+```bash
+node scripts/check-export.mjs    # every live URL exists, with chrome and content
+npm run check-slugs              # the URL rules still behave
+npm run check-routes -- http://localhost:3000   # against a running/deployed site
+```
+
+`fetch-notion` needs network access to Notion. Nothing else does, and no
+credentials are required — the docs tree is public.
+
+## How a Notion edit reaches the site
+
+Nobody has to run anything. `.github/workflows/refresh-content.yml` re-fetches
+from Notion every three hours, commits any change, and the push triggers
+`deploy-docs.yml`.
+
+To publish immediately, either run that workflow from the Actions tab, or have
+a Notion automation (or anything else) poke it:
+
+```bash
+curl -X POST https://api.github.com/repos/Giveth/giveth-docs/dispatches \
+  -H "Accept: application/vnd.github+json" \
+  -H "Authorization: Bearer <token with contents:write>" \
+  -d '{"event_type":"notion-updated"}'
+```
+
+The refresh job refuses to publish a suspiciously small tree and leaves the
+committed content alone if it cannot read Notion, so a bad fetch cannot empty
+the site.
+
+## Layout
 
 | Path | Role |
 |---|---|
-| `lib/site-map.ts` | Walks the Notion tree and maps every page to its URL. |
-| `lib/notion.ts` | Notion client plus the caching that makes edits show up. |
-| `lib/search.ts` | Builds the search index from page text. |
+| `scripts/fetch-notion.mjs` | The build stage. Walks Notion, downloads every asset. |
+| `scripts/slug_map.json` | Super's hand-set URLs. Irreplaceable — see below. |
+| `content/` | Generated. One record map per page, plus the site map. |
+| `public/notion-assets/` | Generated. Every image and video, hashed by source URL. |
 | `config/navigation.ts` | The sidebar, navbar and footer. Hand-maintained. |
-| `app/[...slug]/page.tsx` | Renders any page by its URL. |
-| `app/api/image` | Image proxy, so images are served from this origin. |
-| `app/api/revalidate` | Pushes a Notion edit live immediately. |
+| `app/[...slug]/page.tsx` | Renders any page from `content/`. |
 | `super-salvage/` | Archive recovered from Super. Irreplaceable — see below. |
+
+`content/` and `public/notion-assets/` are generated but **committed on
+purpose**: that is what lets the build run without Notion.
 
 ### URLs
 
@@ -46,33 +90,19 @@ exactly:
 slug = slug_map[page title] || slugify(page title)
 ```
 
-`scripts/slug_map.json` is that override table. It is keyed by **title**, not by
-Notion page id, because the page ids Super stored are all stale. A page created
-in Notion today falls through to `slugify` and gets a working URL with no code
-change.
+`scripts/slug_map.json` is that override table, keyed by **title** because the
+Notion page ids Super stored are all stale. A page created in Notion today falls
+through to `slugify` and gets a working URL with no code change.
 
 ### Navigation is deliberately not derived from Notion
 
 Super's sidebar was curated in its dashboard: 12 sections, against Notion's 4.
 Deriving nav from the Notion tree would restructure the site, so the curated
-arrangement is kept in `config/navigation.ts` and edited by hand. New sidebar
-entries are rare.
+arrangement lives in `config/navigation.ts` and is edited by hand.
 
-**A page does not need a nav entry to work.** Every Notion page resolves at its
-slug either way; it just will not appear in the sidebar until someone adds it.
-
-### How edits reach the site
-
-- **Automatically.** Pages revalidate every 5 minutes, the site map every 15.
-  Nobody has to run anything.
-- **Immediately**, on demand:
-
-  ```bash
-  curl -X POST https://docs.giveth.io/api/revalidate \
-    -H "Authorization: Bearer $REVALIDATE_SECRET"
-  ```
-
-  Pass `{"pageId": "..."}` to refresh a single page.
+**A page does not need a nav entry to work.** Every Notion page is generated at
+its slug either way; it just will not appear in the sidebar until someone adds
+it.
 
 ## Before deleting anything
 
@@ -80,8 +110,7 @@ slug either way; it just will not appear in the sidebar until someone adds it.
 **cannot be regenerated**. It holds the heading font (which existed only on
 Super's CDN), the design tokens, the original nav and footer configuration, the
 logos, and the raw HTML of the live site. `scripts/slug_map.json` is equally
-irreplaceable. Read
-[NOTION-RENDERER-PLAN.md §2](NOTION-RENDERER-PLAN.md) first.
+irreplaceable.
 
 ## Fonts
 

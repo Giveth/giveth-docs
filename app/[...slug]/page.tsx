@@ -2,16 +2,14 @@ import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 
 import { NotionPage } from '@/components/NotionPage'
-import { getPage } from '@/lib/notion'
-import { canonicalPath, getSiteMap } from '@/lib/site-map'
-
-export const revalidate = 300 // keep in sync with PAGE_REVALIDATE_SECONDS (must be a literal)
+import { canonicalPath, getPageContent, getSiteMap } from '@/lib/content'
 
 /**
- * Pages created in Notion after the last build still resolve -- the site map is
- * re-read on revalidation and this route renders whatever it finds.
+ * Every page is generated at build time from content/. A URL that is not in the
+ * site map is genuinely not part of the docs, so it 404s rather than being
+ * looked up somewhere at runtime.
  */
-export const dynamicParams = true
+export const dynamicParams = false
 
 export async function generateStaticParams() {
   const siteMap = await getSiteMap()
@@ -27,12 +25,10 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { slug } = await params
   const siteMap = await getSiteMap()
-  const entry = siteMap.slugToPage[canonicalPath(slug.join('/'))]
+  const path = canonicalPath(slug.join('/'))
+  const entry = siteMap.slugToPage[path]
   if (!entry) return {}
-  return {
-    title: entry.title,
-    alternates: { canonical: canonicalPath(slug.join('/')) },
-  }
+  return { title: entry.title, alternates: { canonical: path } }
 }
 
 export default async function Page({
@@ -41,17 +37,17 @@ export default async function Page({
   params: Promise<{ slug: string[] }>
 }) {
   const { slug } = await params
-  const path = canonicalPath(slug.join('/'))
   const siteMap = await getSiteMap()
-  const entry = siteMap.slugToPage[path]
+  const entry = siteMap.slugToPage[canonicalPath(slug.join('/'))]
   if (!entry) notFound()
 
-  const recordMap = await getPage(entry.pageId)
+  const { recordMap, images } = await getPageContent(entry.pageId)
   return (
     <NotionPage
       recordMap={recordMap}
       rootPageId={siteMap.rootPageId}
       pageIdToSlug={siteMap.pageIdToSlug}
+      images={images}
     />
   )
 }
