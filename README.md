@@ -11,17 +11,22 @@ Notion workspace. The background, the decisions and the salvaged assets are in
 
 ```
 Notion  ──►  scripts/fetch-notion.mjs  ──►  content/ + public/notion-assets/
-                                                      │
-                                                      ▼
-                                              next build (static export)
-                                                      │
-                                                      ▼
-                                           gh-pages  ──►  docs.giveth.io
+                     │                                │
+                     ▼                                ▼
+          scripts/sync-media.sh              next build (static export)
+                     │                                │
+                     ▼                                ▼
+          DigitalOcean Space (videos)    gh-pages  ──►  docs.giveth.io
 ```
 
-**The built site never contacts Notion.** Every page, image and video is
-committed to this repo, so a slow or unreachable Notion API cannot produce a
-half-empty page. Pages are plain HTML files.
+**The built site never contacts Notion.** Pages and images are committed to
+this repo, so a slow or unreachable Notion API cannot produce a half-empty page.
+Pages are plain HTML files.
+
+**Videos and other files live on a DigitalOcean Space**, not in the repo — they
+are too large to commit, and Notion's own links to them expire about an hour
+after they are issued. The fetch points pages at the Space; CI uploads anything
+the Space does not have yet.
 
 ## Running it
 
@@ -41,8 +46,9 @@ npm run check-slugs              # the URL rules still behave
 npm run check-routes -- http://localhost:3000   # against a running/deployed site
 ```
 
-`fetch-notion` needs network access to Notion. Nothing else does, and no
-credentials are required — the docs tree is public.
+`fetch-notion` needs network access to Notion. Nothing else does, and reading
+Notion needs no credentials — the docs tree is public. Uploading videos needs
+Space credentials, and only happens in CI.
 
 ## How a Notion edit reaches the site
 
@@ -64,6 +70,25 @@ The refresh job refuses to publish a suspiciously small tree and leaves the
 committed content alone if it cannot read Notion, so a bad fetch cannot empty
 the site.
 
+## Setting up the Space
+
+One-time. Until it is done, `fetch-notion` stops with an error naming what is
+missing, rather than publishing pages with broken videos.
+
+1. In `config/media.json`, set `bucket` and `region` (e.g. `ams3`). `prefix` is
+   the folder files go in; `publicBaseUrl` is only needed for a custom CDN
+   domain. None of these are secrets.
+2. Create a Spaces access key, and add it to the repository secrets as
+   `DO_SPACES_KEY` and `DO_SPACES_SECRET`.
+3. Enable the CDN on the Space, or set `publicBaseUrl` to wherever it is served.
+
+Files are named by a hash of their Notion URL, so each is uploaded once. A video
+replaced in Notion gets a new name; the old object stays on the Space until
+someone removes it.
+
+`scripts/sync-media.sh --verify` checks every hosted file is publicly reachable,
+with no credentials. The deploy workflow runs it as a warning.
+
 ## Layout
 
 | Path | Role |
@@ -71,7 +96,10 @@ the site.
 | `scripts/fetch-notion.mjs` | The build stage. Walks Notion, downloads every asset. |
 | `scripts/slug_map.json` | Super's hand-set URLs. Irreplaceable — see below. |
 | `content/` | Generated. One record map per page, plus the site map. |
-| `public/notion-assets/` | Generated. Every image and video, hashed by source URL. |
+| `public/notion-assets/` | Generated. Every image, hashed by source URL. |
+| `content/media.json` | Generated. Videos and files, and their URLs on the Space. |
+| `config/media.json` | Which Space hosts videos and files. |
+| `scripts/sync-media.sh` | CI step: uploads what the Space is missing. |
 | `config/navigation.ts` | The sidebar, navbar and footer. Hand-maintained. |
 | `app/[...slug]/page.tsx` | Renders any page from `content/`. |
 | `super-salvage/` | Archive recovered from Super. Irreplaceable — see below. |

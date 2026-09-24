@@ -10,6 +10,13 @@
  *   content/pages/<pageId>.json    a page's record map plus its image map
  *   public/search-index.json       page text, for the client-side search
  *   public/notion-assets/*         the images themselves
+ *   content/media.json             videos and files, and where they are hosted
+ *   .cache/media-sync.json         what CI still has to upload (not committed)
+ *
+ * Videos and other non-image files are not downloaded here. They are too big
+ * to commit, so they live on a DigitalOcean Space (config/media.json); this
+ * script points pages at their Space URLs and leaves the uploading to CI --
+ * see scripts/sync-media.sh.
  *
  * Notion's API is slow and drops requests, so every call is retried with
  * backoff. A run that cannot read a page leaves the previously committed copy
@@ -30,11 +37,13 @@ import {
   getTextContent,
 } from 'notion-utils'
 
+import { loadMediaConfig, mediaKey } from './lib/media-config.mjs'
 import { resolveSlug } from './lib/slugs.mjs'
 
 const ROOT = dirname(dirname(fileURLToPath(import.meta.url)))
 const CONTENT_DIR = join(ROOT, 'content')
 const PAGES_DIR = join(CONTENT_DIR, 'pages')
+const CACHE_DIR = join(ROOT, '.cache')
 const PUBLIC_DIR = join(ROOT, 'public')
 const ASSETS_DIR = join(PUBLIC_DIR, 'notion-assets')
 
@@ -222,6 +231,16 @@ function assetsOf(recordMap) {
     if (!raw || typeof raw !== 'string') return
     if (!/^(https?:|attachment:)/.test(raw)) return // plain emoji and the like
 
+    if (kind === 'file') {
+      // YouTube, Google Drive and the like are embeds, not files to host.
+      if (!raw.startsWith('attachment:') && !isNotionHosted(raw)) return
+      // Notion's image endpoint answers 422 for anything that is not an image,
+      // so a file can only be fetched through its signed URL.
+      const download = signedUrls[raw] ?? signedUrls[block.id]
+      assets.push({ raw, blockId: block.id, kind, download })
+      return
+    }
+
     const mapped = defaultMapImageUrl(raw, block)
     const download = signedUrls[raw] ?? mapped ?? raw
     if (!isNotionHosted(download)) return
@@ -259,8 +278,33 @@ const EXTENSION_BY_TYPE = {
   'application/pdf': '.pdf',
 }
 
+const assetKey = (raw) => createHash('sha1').update(raw).digest('hex').slice(0, 20)
+
+/**
+ * A media file's name, derived from its Notion URL without downloading it:
+ * Notion keeps the original filename at the end of the path, extension
+ * included. Stable across runs, so CI only uploads what is genuinely new.
+ */
+function mediaFileName(raw) {
+  const path = raw.startsWith('attachment:')
+    ? raw.split(':').slice(2).join(':')
+    : new URL(raw).pathname
+  const extension = extname(decodeURIComponent(path)).toLowerCase()
+  return `${assetKey(raw)}${/^\.[a-z0-9]{1,5}$/.test(extension) ? extension : '.bin'}`
+}
+
+const CONTENT_TYPE_BY_EXTENSION = Object.fromEntries(
+  Object.entries({
+    'video/mp4': '.mp4',
+    'video/quicktime': '.mov',
+    'video/webm': '.webm',
+    'audio/mpeg': '.mp3',
+    'application/pdf': '.pdf',
+  }).map(([type, extension]) => [extension, type])
+)
+
 async function downloadAsset(asset, existing) {
-  const key = createHash('sha1').update(asset.raw).digest('hex').slice(0, 20)
+  const key = assetKey(asset.raw)
 
   // Already downloaded on an earlier run and still on disk: leave it alone.
   if (existing.has(key)) return { key, file: existing.get(key), reused: true }
@@ -302,13 +346,14 @@ async function downloadAsset(asset, existing) {
  * is pure weight -- and the leftover signed URLs carry access tokens that
  * expire an hour after the build, so they are worse than useless.
  */
-function pruneRecordMap(recordMap) {
-  // Keep only the signed URLs we rewrote to local files. The rest point at
-  // assets we already downloaded, or at ones we could not.
+function pruneRecordMap(recordMap, hostedUrls) {
+  // Keep only the signed URLs we rewrote -- to a local file, or to the Space.
+  // The rest carry access tokens and point at assets we already have.
   if (recordMap.signed_urls) {
     recordMap.signed_urls = Object.fromEntries(
-      Object.entries(recordMap.signed_urls).filter(([, value]) =>
-        String(value).startsWith('/notion-assets/')
+      Object.entries(recordMap.signed_urls).filter(
+        ([, value]) =>
+          String(value).startsWith('/notion-assets/') || hostedUrls.has(String(value))
       )
     )
   }
@@ -392,8 +437,9 @@ async function main() {
     }
   }
 
-  const assetList = [...allAssets.values()]
-  console.log(`\nDownloading ${assetList.length} assets (${existing.size} already local)`)
+  const assetList = [...allAssets.values()].filter((asset) => asset.kind === 'image')
+  const mediaList = [...allAssets.values()].filter((asset) => asset.kind === 'file')
+  console.log(`\nDownloading ${assetList.length} images (${existing.size} already local)`)
 
   const localByRaw = new Map()
   let downloaded = 0
@@ -416,6 +462,40 @@ async function main() {
     console.warn(`  ! ${failure.error}: ${failure.url.slice(0, 110)}`)
   }
 
+  // --- media: hosted on the Space, uploaded by CI -------------------------
+  const media = await loadMediaConfig()
+  const mediaUrlByRaw = new Map()
+  const mediaManifest = []
+  const mediaSync = []
+
+  if (mediaList.length && !media.configured) {
+    throw new Error(
+      `${mediaList.length} video/file block(s) need hosting, but config/media.json ` +
+        'has no bucket or region. Fill those in -- see the comment in that file.'
+    )
+  }
+
+  for (const asset of mediaList) {
+    const file = mediaFileName(asset.raw)
+    const key = mediaKey(media.prefix, file)
+    const url = `${media.publicBaseUrl}/${key}`
+    const contentType =
+      CONTENT_TYPE_BY_EXTENSION[extname(file)] ?? 'application/octet-stream'
+
+    mediaUrlByRaw.set(asset.raw, url)
+    mediaManifest.push({ key, url, contentType, source: asset.raw })
+
+    if (asset.download) {
+      mediaSync.push({ key, url, contentType, download: asset.download })
+    } else {
+      failures.push({ url: asset.raw, error: 'no signed URL to fetch it from' })
+    }
+  }
+
+  if (mediaList.length) {
+    console.log(`\n${mediaList.length} video/file(s) hosted on the Space under ${media.prefix}/`)
+  }
+
   /*
    * Point the record maps at the local copies. Images are matched through the
    * per-page map the renderer consults; video and file blocks read
@@ -426,7 +506,7 @@ async function main() {
   for (const [pageId, recordMap] of recordMaps) {
     const images = {}
     for (const asset of assetsByPage.get(pageId)) {
-      const local = localByRaw.get(asset.raw)
+      const local = localByRaw.get(asset.raw) ?? mediaUrlByRaw.get(asset.raw)
       if (!local) continue
       if (asset.kind === 'image') {
         if (asset.lookupKey) images[asset.lookupKey] = local
@@ -474,7 +554,7 @@ async function main() {
     await writeFile(
       join(PAGES_DIR, `${pageId}.json`),
       JSON.stringify({
-        recordMap: pruneRecordMap(recordMap),
+        recordMap: pruneRecordMap(recordMap, new Set(mediaUrlByRaw.values())),
         images: imagesByPage.get(pageId) ?? {},
       })
     )
@@ -488,6 +568,29 @@ async function main() {
       2
     )
   )
+  // Committed: which files the pages expect to find on the Space.
+  await writeFile(join(CONTENT_DIR, 'media.json'), JSON.stringify(mediaManifest, null, 2) + '\n')
+
+  // Not committed: the signed download URLs expire within the hour, so this is
+  // only good for the CI step that runs straight after.
+  await mkdir(CACHE_DIR, { recursive: true })
+  await writeFile(
+    join(CACHE_DIR, 'media-sync.json'),
+    JSON.stringify(
+      media.configured
+        ? {
+            bucket: media.bucket,
+            region: media.region,
+            endpoint: media.endpoint,
+            prefix: media.prefix,
+            items: mediaSync,
+          }
+        : { items: [] },
+      null,
+      2
+    )
+  )
+
   // The search index is a static asset: the browser fetches it on first use.
   await writeFile(join(PUBLIC_DIR, 'search-index.json'), JSON.stringify(searchIndex))
 
@@ -501,7 +604,10 @@ async function main() {
     }
   }
 
-  console.log(`\nWrote ${recordMaps.size} pages, ${localByRaw.size} assets`)
+  console.log(
+    `\nWrote ${recordMaps.size} pages, ${localByRaw.size} images, ` +
+      `${mediaSync.length} file(s) queued for the Space`
+  )
   if (removed) console.log(`Removed ${removed} unreferenced assets`)
   console.log(`Done in ${((Date.now() - startedAt) / 1000).toFixed(0)}s`)
 

@@ -33,3 +33,6 @@ next-env.d.ts
 
 # Static export output
 /out
+
+# Transient build state (signed URLs that expire within the hour)
+/.cache

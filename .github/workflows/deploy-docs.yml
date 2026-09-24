@@ -36,6 +36,12 @@ jobs:
       - name: Check every live URL was generated
         run: node scripts/check-export.mjs
 
+      - name: Check hosted videos and files are reachable
+        # Warns rather than fails: a missing video should not hold back a text
+        # fix. refresh-content is where a missing upload actually blocks.
+        if: github.event_name != 'pull_request'
+        run: scripts/sync-media.sh --verify || echo "::warning::Some hosted files are not on the Space. Run refresh-content."
+
       - name: Upload build
         if: github.event_name != 'pull_request'
         uses: actions/upload-artifact@v4

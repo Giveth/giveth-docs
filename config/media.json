@@ -1,0 +1,20 @@
+{
+  "_comment": [
+    "Where videos and other non-image files from Notion are hosted.",
+    "",
+    "They are too large to commit, and Notion's own URLs for them expire about",
+    "an hour after they are issued, so they live on a DigitalOcean Space instead.",
+    "scripts/fetch-notion.mjs points pages at the URLs below; the refresh-content",
+    "workflow uploads any file that is not in the Space yet (scripts/sync-media.sh).",
+    "",
+    "bucket, region and prefix are not secrets. The access keys are, and live in",
+    "the repository secrets DO_SPACES_KEY and DO_SPACES_SECRET.",
+    "",
+    "publicBaseUrl is optional. Left empty, the Space's CDN endpoint is used:",
+    "  https://<bucket>.<region>.cdn.digitaloceanspaces.com"
+  ],
+  "bucket": "",
+  "region": "",
+  "prefix": "docs/notion-media",
+  "publicBaseUrl": ""
+}
