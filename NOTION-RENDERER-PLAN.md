@@ -1,4 +1,4 @@
-# Plan: replace Super with a self-hosted Notion renderer
+# Plan: replace the hosted Notion site with a self-hosted renderer
 
 Handoff document. Everything a fresh session needs to build this without
 re-deriving the research. Written 2026-09-22.
@@ -7,8 +7,8 @@ re-deriving the research. Written 2026-09-22.
 
 ## 1. The goal
 
-`docs.giveth.io` is currently served by [super.so](https://super.so), which
-renders a Notion workspace. Giveth pays monthly for a site nobody is developing.
+`docs.giveth.io` is currently served by a paid hosted service that renders a
+Notion workspace. Giveth pays monthly for a site nobody is developing.
 Replace it with a self-hosted app that:
 
 1. **Renders Notion directly.** Notion is the source of truth. Editors work in
@@ -21,7 +21,7 @@ Replace it with a self-hosted app that:
 
 ### Explicitly decided
 
-- **The 12-section sidebar stays hand-maintained.** Super's sidebar arrangement
+- **The 12-section sidebar stays hand-maintained.** The live sidebar arrangement
   does not match the Notion tree (see §4). Deriving nav from Notion would
   restructure the site; reorganising Notion to match was offered and declined.
   New sidebar entries are rare, so editing a config file when one is needed is
@@ -35,18 +35,18 @@ Replace it with a self-hosted app that:
 ## 2. Read this before deleting anything
 
 `super-salvage/` (13MB, committed) is irreplaceable and was captured while the
-Super subscription was still live. It cannot be regenerated once Super is
+hosted site was still live. It cannot be regenerated once the subscription is
 cancelled.
 
 | Path | What it is | Why it matters |
 |---|---|---|
-| `fonts/tex-gyre-adventor-400.otf` | The heading font | Custom upload that existed **only on Super's CDN**. GUST Font License (free/libre), so self-hosting is legal. Also at `static/fonts/TeXGyreAdventor-Bold.otf`. |
+| `fonts/tex-gyre-adventor-400.otf` | The heading font | Custom upload that existed **only on the hosted service's CDN**. GUST Font License (free/libre), so self-hosting is legal. Also at `static/fonts/TeXGyreAdventor-Bold.otf`. |
 | `DESIGN-TOKENS.md` | Full extracted design system | Colours, type, layout, both themes. Read this first. |
-| `super_nav.json` | Super's complete sidebar + navbar | 12 sections, 36 pages, Lucide icon names. **This is the sidebar spec.** |
-| `super_footer.json` | Super's footer | Links + 7 socials. |
+| `super_nav.json` | The live site's complete sidebar + navbar | 12 sections, 36 pages, Lucide icon names. **This is the sidebar spec.** |
+| `super_footer.json` | The live site's footer | Links + 7 socials. |
 | `logo/*.png` | Navbar and footer logos, light + dark | |
-| `content-images/` | 111 images from Super's CDN | Rescued; Notion has the originals too. |
-| `css/` | Super's four served stylesheets | Reference for exact component styling. |
+| `content-images/` | 111 images from the hosted service's CDN | Rescued; Notion has the originals too. |
+| `css/` | The four stylesheets the live site served | Reference for exact component styling. |
 | `slugs.txt`, `sitemap.xml` | 131 live URLs | See §6 — most are stale. |
 | `pages-html.tar.gz` | Raw HTML of all 132 live pages | Ground truth for visual comparison. |
 | `home.html` | Raw homepage | Where the design tokens were extracted from. |
@@ -96,13 +96,14 @@ Giveth Docs (root)
 `child_database`. Reuse that logic even if the language changes.
 
 The 4 section pages have almost no prose: their body *is* the inline database.
-On Super they rendered as **card grids**. The renderer must handle this.
+On the live site they rendered as **card grids**. The renderer must handle this.
 
-### Super's sidebar ≠ the Notion tree
+### The live sidebar ≠ the Notion tree
 
-Super's sidebar is hand-curated in Super's dashboard: **12 sections, 36 pages**,
-arranged differently from Notion's 4 sections. Per the decision in §1, the
-12-section arrangement wins. `super-salvage/super_nav.json` is its spec.
+The live sidebar is hand-curated in the hosted service's dashboard: **12
+sections, 36 pages**, arranged differently from Notion's 4 sections. Per the
+decision in §1, the 12-section arrangement wins. `super-salvage/super_nav.json`
+is its spec.
 
 Also note: one top-level sidebar entry (**FAQ**) is a bare *page*, not a
 category. Do not assume every top-level entry has children.
@@ -113,10 +114,10 @@ category. Do not assume every top-level entry has children.
 
 ### Renderer: Next.js + `react-notion-x`
 
-`react-notion-x` renders Notion's **private** API, which is what gives Super its
-fidelity — callouts, columns, toggles, collection card grids, equations. The
-official API renders noticeably less and would require hand-building those
-block types.
+`react-notion-x` renders Notion's **private** API, which is what gives the
+hosted site its fidelity — callouts, columns, toggles, collection card grids,
+equations. The official API renders noticeably less and would require
+hand-building those block types.
 
 **Tradeoff, stated honestly:** the private API is undocumented and can break
 when Notion changes it. The official API is stable but lower fidelity. Given
@@ -124,13 +125,13 @@ when Notion changes it. The official API is stable but lower fidelity. Given
 renders the inline-database card grids acceptably before committing, because
 that is the single most load-bearing block type here.
 
-`nextjs-notion-starter-kit` is essentially open-source Super and a reasonable
-starting point. Do not adopt its design wholesale — the Giveth design is already
-extracted in `DESIGN-TOKENS.md`.
+`nextjs-notion-starter-kit` is essentially an open-source version of the hosted
+service and a reasonable starting point. Do not adopt its design wholesale —
+the Giveth design is already extracted in `DESIGN-TOKENS.md`.
 
 ### Routing
 
-**Super's slugs are hand-set and not derivable from titles:**
+**The live slugs are hand-set and not derivable from titles:**
 
 | Notion title | Live URL |
 |---|---|
@@ -148,20 +149,20 @@ slug = slug_map[page_title]  ||  slugify(page_title)
 `scripts/slug_map.json` has all 45 mappings (`by_title`). Keep it as the
 override table. New pages fall through to `slugify`, satisfying requirement 5.
 
-**Do not try to match on Notion page IDs.** Super stores a `pageId` per nav
-entry, but **all 38 are stale** — the pages were recreated in Notion since, and
-zero match the current tree. Match by **title**. This is why `slug_map.json` is
-keyed by title and why it is irreplaceable: regenerating it means manually
-re-deriving 45 hand-set URLs from a cancelled service.
+**Do not try to match on Notion page IDs.** The salvaged nav config stores a
+`pageId` per nav entry, but **all 38 are stale** — the pages were recreated in
+Notion since, and zero match the current tree. Match by **title**. This is why
+`slug_map.json` is keyed by title and why it is irreplaceable: regenerating it
+means manually re-deriving 45 hand-set URLs from a cancelled service.
 
 ### Navigation
 
 Build the sidebar from `super-salvage/super_nav.json` (12 sections) resolved
 through `slug_map.json`. Add `Causes` as a 13th section — it is live at
-`/donation-agents` but was never in Super's sidebar.
+`/donation-agents` but was never in the live sidebar.
 
-Sidebar is **global chrome on every page including the homepage**, as on Super.
-Do not tie sidebar visibility to page membership.
+Sidebar is **global chrome on every page including the homepage**, as on the
+live site. Do not tie sidebar visibility to page membership.
 
 ### Images
 
@@ -186,7 +187,7 @@ A proxy with a CDN cache in front is probably right. ~100 content images.
 
 Vercel is the path of least resistance for Next.js + ISR. Cloudflare Pages works
 but ISR support differs. Either is €0 at this scale — the point is to stop
-paying Super.
+paying for the hosted service.
 
 ---
 
@@ -195,8 +196,8 @@ paying Super.
 **45 URLs must resolve.** They are listed in `scripts/slug_map.json` under
 `by_title`. This is the acceptance criterion for requirement 3.
 
-`super-salvage/slugs.txt` has **131** URLs from Super's sitemap, but **most are
-stale** — Super's sitemap lists pages long since deleted from Notion.
+`super-salvage/slugs.txt` has **131** URLs from the live sitemap, but **most are
+stale** — the live sitemap lists pages long since deleted from Notion.
 `/angelvault`, `/bridgesecurity`, `/crypto` and ~85 others return an empty
 document on the live site. Per the maintainers: **absence is intentional, do not
 resurrect them.** Do not treat the sitemap as a requirements list.
@@ -215,7 +216,8 @@ Full detail in `super-salvage/DESIGN-TOKENS.md`. Essentials:
 
 **Type**
 - Headings: **TeX Gyre Adventor** — self-host from `static/fonts/`.
-  Super uploaded only the **Bold** cut and declared it at `font-weight: 400`.
+  Only the **Bold** cut was ever uploaded to the hosted site, declared at
+  `font-weight: 400`.
   Every heading on the live site is therefore the Bold face at normal weight.
   **Preserve that mis-weighting** or headings will not match.
 - Body: **Red Hat Display** (Google Font, already self-hosted in `static/fonts/`).
@@ -233,9 +235,9 @@ Full detail in `super-salvage/DESIGN-TOKENS.md`. Essentials:
 **Layout**: content max-width `1300px`, sidebar `241px`, navbar height `56px`,
 corner radius `20px`, page padding `96px` (24px mobile), cover height `35vh`.
 
-**Super's dashboard Custom Code is empty** (`"css": ""`, `"styles": ""`). None
-of the design is hand-written CSS — it is all Super theme settings plus Notion
-block rendering. So there is no stylesheet to port; the tokens above plus
+**The hosted dashboard's Custom Code is empty** (`"css": ""`, `"styles": ""`).
+None of the design is hand-written CSS — it is all hosted theme settings plus
+Notion block rendering. So there is no stylesheet to port; the tokens above plus
 faithful block rendering *is* the design.
 
 **Block usage**, measured by crawling all 132 live pages — build for this:
@@ -279,8 +281,8 @@ Callouts: 21 across 12 pages — blue (12), gray (5), yellow (3), default (1).
 7. **Images** — proxy or build-time cache.
 8. **Freshness** — ISR + revalidation endpoint.
 9. **Verify against the live site** (§10).
-10. **Cut over DNS**, then cancel Super — in that order, and only after §10
-    passes.
+10. **Cut over DNS**, then cancel the hosted service — in that order, and only
+    after §10 passes.
 
 ---
 
@@ -312,13 +314,13 @@ keep-list across. Untangling Docusaurus in place is not worth it.
 ## 10. Acceptance criteria
 
 1. All **45 URLs** from `slug_map.json` return 200.
-2. Side-by-side visual comparison against the live site for at least:
-   homepage, `/givbacks` (callouts + images + tables), `/what-is-giveth`
-   (card grid), `/faq`, one `/donation-agents/*` page.
-   `super-salvage/pages-html.tar.gz` has the live HTML if Super is already gone.
+2. Side-by-side visual comparison against the live site for at least: homepage,
+   `/givbacks` (callouts + images + tables), `/what-is-giveth` (card grid),
+   `/faq`, one `/donation-agents/*` page. `super-salvage/pages-html.tar.gz` has
+   the live HTML if the hosted site is already gone.
 3. Editing a Notion page shows up on the site without a deploy.
 4. Creating a Notion page produces a working URL without a code change.
-5. Dark mode works — the Super site had one.
+5. Dark mode works — the live site had one.
 6. Search works, or is consciously dropped. **Note:** the old Docusaurus Algolia
    index (`appId: BH4D9OD16A`, `indexName: giveth`) is indexed against the *old*
    markdown URLs and is stale. Either re-crawl or use something else.
@@ -349,7 +351,8 @@ intended targets:
 - **Empty downloads**: a failed image fetch can write a 0-byte file. Treat
   zero-byte as failure or the failure caches permanently.
 - **`child_database` must be walked**, not just `child_page` (§4).
-- **Notion page IDs in Super's config are stale** — match by title (§5).
+- **Notion page IDs in the salvaged nav config are stale** — match by title
+  (§5).
 - **Verify visually.** This was built across a long session with no browser
   available, and two regressions (a stale i18n override silently replacing the
   navbar title, and a missing sidebar on the homepage) got through because the
