@@ -36,3 +36,4 @@ next-env.d.ts
 
 # Transient build state (signed URLs that expire within the hour)
 /.cache
+/super-salvage
