@@ -102,7 +102,6 @@ with no credentials. The deploy workflow runs it as a warning.
 | `scripts/sync-media.sh` | CI step: uploads what the Space is missing. |
 | `config/navigation.ts` | The sidebar, navbar and footer. Hand-maintained. |
 | `app/[...slug]/page.tsx` | Renders any page from `content/`. |
-| `super-salvage/` | Archive recovered from the previous host. Irreplaceable — see below. |
 
 `content/` and `public/notion-assets/` are generated but **committed on
 purpose**: that is what lets the build run without Notion.
@@ -136,11 +135,19 @@ it.
 
 ## Before deleting anything
 
-`super-salvage/` was captured while the previous host was still live and
-**cannot be regenerated**. It holds the heading font (which existed only on that
-host's CDN), the design tokens, the original nav and footer configuration, the
-logos, and the raw HTML of the live site. `scripts/slug_map.json` is equally
-irreplaceable.
+`scripts/slug_map.json` **cannot be regenerated**: it is the only record of the
+live site's hand-set URLs.
+
+The archive recovered from the previous host, `super-salvage/`, is not part of
+the repository. It is gitignored and kept locally for reference. The site does
+not need it — the heading font and logos are in `public/`, the navigation is in
+`config/navigation.ts`, and the design tokens are in `app/globals.css`. It was
+captured while the previous host was still live and cannot be recaptured. Its
+last committed version can be restored from history:
+
+```bash
+git checkout e983b0ef1 -- super-salvage && git restore --staged super-salvage
+```
 
 ## Fonts
 

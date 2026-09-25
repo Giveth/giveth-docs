@@ -36,4 +36,7 @@ next-env.d.ts
 
 # Transient build state (signed URLs that expire within the hour)
 /.cache
+
+# Archive recovered from the previous host. Kept locally for reference, not
+# committed -- see README.md.
 /super-salvage

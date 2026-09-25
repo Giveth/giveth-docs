@@ -34,7 +34,11 @@ Replace it with a self-hosted app that:
 
 ## 2. Read this before deleting anything
 
-`super-salvage/` (13MB, committed) is irreplaceable and was captured while the
+> **Update:** `super-salvage/` is no longer committed. It is gitignored and kept
+> locally; its last committed version is in commit `e983b0ef1`. The paths
+> below describe its contents.
+
+`super-salvage/` (13MB) is irreplaceable and was captured while the
 hosted site was still live. It cannot be regenerated once the subscription is
 cancelled.
 
