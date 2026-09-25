@@ -18,3 +18,21 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Local secrets
+.env
+
+# Next.js
+/.next
+/out
+next-env.d.ts
+*.tsbuildinfo
+
+# Legacy Docusaurus tree, staged for deletion
+/.legacy-docusaurus
+
+# Static export output
+/out
+
+# Transient build state (signed URLs that expire within the hour)
+/.cache

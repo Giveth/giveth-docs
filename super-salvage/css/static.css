@@ -1,0 +1,278 @@
+* {
+  box-sizing: border-box;
+}
+
+*::selection {
+  background: rgba(45, 170, 219, 0.3);
+}
+
+strong {
+  font-weight: 600;
+}
+
+p {
+  margin: 0;
+}
+
+button {
+  all: unset;
+}
+
+html {
+  height: auto;
+  font-weight: var(--text-weight);
+  scrollbar-color: var(--scrollbar-thumb-color)
+    var(--scrollbar-background-color);
+}
+
+html ::-webkit-scrollbar-thumb {
+  background-color: var(--scrollbar-thumb-color);
+  border: 3px solid transparent;
+  border-radius: 50px;
+  background-clip: padding-box;
+}
+
+html ::-webkit-scrollbar {
+  width: 15px;
+  background: var(--scrollbar-background-color);
+  border-left: 1px solid var(--scrollbar-border-color);
+  border-right: 1px solid var(--scrollbar-border-color);
+}
+
+html ::-webkit-scrollbar:horizontal {
+  border-top: 1px solid var(--scrollbar-border-color);
+  border-bottom: 1px solid var(--scrollbar-border-color);
+  border-left: none;
+  border-right: none;
+}
+
+body {
+  height: 100%;
+  color: var(--color-text-default);
+  background: var(--color-bg-default);
+  fill: currentColor;
+  margin: 0;
+  font-family: var(--secondary-font);
+  transition-property: color, background-color, border-color,
+    text-decoration-color, fill, stroke;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
+
+.super-root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.super-content-wrapper {
+  display: flex;
+  flex-grow: 1;
+  min-height: 100%;
+  max-height: 100%;
+}
+
+.super-content {
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.super-content-wrapper.has-sidebar .super-content {
+  max-width: calc(100vw - var(--sidebar-width) - var(--scrollbar-width));
+}
+
+@supports (font: -apple-system-body) and (-webkit-appearance: none) {
+  img[loading="lazy"] {
+    clip-path: inset(0.6px);
+  }
+}
+
+code {
+  /* Use monospace before Courier so font looks better on Android Chrome. */
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace,
+    Courier;
+}
+
+.static-tweet {
+  margin: auto;
+}
+
+.color-default-light {
+  color: var(--color-text-default-light);
+}
+.color-gray-light {
+  color: var(--color-text-gray-light);
+}
+.color-brown-light {
+  color: var(--color-text-brown-light);
+}
+.color-orange-light {
+  color: var(--color-text-orange-light);
+}
+.color-yellow-light {
+  color: var(--color-text-yellow-light);
+}
+.color-green-light {
+  color: var(--color-text-green-light);
+}
+.color-blue-light {
+  color: var(--color-text-blue-light);
+}
+.color-purple-light {
+  color: var(--color-text-purple-light);
+}
+.color-pink-light {
+  color: var(--color-text-pink-light);
+}
+.color-red-light {
+  color: var(--color-text-red-light);
+}
+
+.bg-default-light {
+  background-color: var(--color-bg-default-light);
+}
+.bg-gray-light {
+  background-color: var(--color-bg-gray-light);
+}
+.bg-brown-light {
+  background-color: var(--color-bg-brown-light);
+}
+.bg-orange-light {
+  background-color: var(--color-bg-orange-light);
+}
+.bg-yellow-light {
+  background-color: var(--color-bg-yellow-light);
+}
+.bg-green-light {
+  background-color: var(--color-bg-green-light);
+}
+.bg-blue-light {
+  background-color: var(--color-bg-blue-light);
+}
+.bg-purple-light {
+  background-color: var(--color-bg-purple-light);
+}
+.bg-pink-light {
+  background-color: var(--color-bg-pink-light);
+}
+.bg-red-light {
+  background-color: var(--color-bg-red-light);
+}
+
+.color-default {
+  color: var(--color-text-default);
+}
+.color-gray {
+  color: var(--color-text-gray);
+}
+.color-brown {
+  color: var(--color-text-brown);
+}
+.color-orange {
+  color: var(--color-text-orange);
+}
+.color-yellow {
+  color: var(--color-text-yellow);
+}
+.color-green {
+  color: var(--color-text-green);
+}
+.color-blue {
+  color: var(--color-text-blue);
+}
+.color-purple {
+  color: var(--color-text-purple);
+}
+.color-pink {
+  color: var(--color-text-pink);
+}
+.color-red {
+  color: var(--color-text-red);
+}
+
+.bg-default {
+  background-color: var(--color-bg-default);
+}
+.bg-accent {
+  background-color: var(--color-bg-accent);
+}
+.bg-gray {
+  background-color: var(--color-bg-gray);
+}
+.bg-brown {
+  background-color: var(--color-bg-brown);
+}
+.bg-orange {
+  background-color: var(--color-bg-orange);
+}
+.bg-yellow {
+  background-color: var(--color-bg-yellow);
+}
+.bg-green {
+  background-color: var(--color-bg-green);
+}
+.bg-blue {
+  background-color: var(--color-bg-blue);
+}
+.bg-purple {
+  background-color: var(--color-bg-purple);
+}
+.bg-pink {
+  background-color: var(--color-bg-pink);
+}
+.bg-red {
+  background-color: var(--color-bg-red);
+}
+
+.pill-default {
+  background: var(--color-pill-default);
+  color: var(--color-pill-text-default);
+}
+.pill-gray {
+  background: var(--color-pill-gray);
+  color: var(--color-pill-text-gray);
+}
+.pill-brown {
+  background: var(--color-pill-brown);
+  color: var(--color-pill-text-brown);
+}
+.pill-orange {
+  background: var(--color-pill-orange);
+  color: var(--color-pill-text-orange);
+}
+.pill-yellow {
+  background: var(--color-pill-yellow);
+  color: var(--color-pill-text-yellow);
+}
+.pill-green {
+  background: var(--color-pill-green);
+  color: var(--color-pill-text-green);
+}
+.pill-blue {
+  background: var(--color-pill-blue);
+  color: var(--color-pill-text-blue);
+}
+.pill-purple {
+  background: var(--color-pill-purple);
+  color: var(--color-pill-text-purple);
+}
+.pill-pink {
+  background: var(--color-pill-pink);
+  color: var(--color-pill-text-pink);
+}
+.pill-red {
+  background: var(--color-pill-red);
+  color: var(--color-pill-text-pink);
+}
+
+/************/
+/** MOBILE **/
+/************/
+@media (max-width: 860px) {
+  .super-content-wrapper.has-sidebar .super-content {
+    max-width: 100%;
+  }
+}

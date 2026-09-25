@@ -1,0 +1,97 @@
+{
+  "type": "floating",
+  "style": {
+    "textColor": "var(--color-text-default)",
+    "backgroundColor": "var(--color-bg-default)"
+  },
+  "links": [
+    {
+      "id": "6d1e9e20-a888-4e1a-bcbb-83141ef451e4",
+      "type": "url",
+      "label": "Blog",
+      "link": "https://blog.giveth.io/",
+      "icon": "",
+      "list": []
+    },
+    {
+      "id": "669da9aa-c955-4316-8656-23274e4b54c1",
+      "type": "url",
+      "label": "News",
+      "link": "https://news.giveth.io/",
+      "icon": "",
+      "list": []
+    },
+    {
+      "id": "09c41f06-667d-449a-96c3-672f324b5716",
+      "type": "url",
+      "label": "Recruitee",
+      "link": "https://giveth.recruitee.com/",
+      "icon": "",
+      "list": []
+    },
+    {
+      "id": "d5eea972-4536-415c-889a-f6f88419846c",
+      "type": "url",
+      "label": "Farcaster",
+      "link": "https://warpcast.com/~/channel/giveth",
+      "list": []
+    },
+    {
+      "id": "4cd55e70-60cc-45b9-8836-0e19ba344163",
+      "type": "url",
+      "label": "Givtoken Linktree",
+      "link": "https://linktr.ee/givtoken",
+      "icon": "",
+      "list": []
+    },
+    {
+      "id": "e8e7079d-4259-4669-9ee6-19ccc5316c03",
+      "type": "url",
+      "label": "Support us with a Donation",
+      "link": "https://giveth.io/donate/the-giveth-community-of-makers",
+      "icon": "",
+      "list": []
+    }
+  ],
+  "logo": {
+    "type": "image",
+    "width": 133,
+    "fontSize": 16,
+    "textContent": "Giveth Documents",
+    "imageContent": "https://assets.super.so/0aa1e97d-ce91-4e39-ba8c-7485e18db5c0/uploads/logo/c02579e6-8aa0-4171-9e35-68f266a345ab.png",
+    "imageContentDark": "https://assets.super.so/0aa1e97d-ce91-4e39-ba8c-7485e18db5c0/uploads/logo/894cb5aa-9eb6-40ba-a0b8-b925ba37b5d2.png",
+    "disabled": false
+  },
+  "socials": [
+    {
+      "type": "twitter",
+      "link": "https://x.com/giveth"
+    },
+    {
+      "type": "discord",
+      "link": "https://discord.com/invite/Uq2TaXP9bC"
+    },
+    {
+      "type": "instagram",
+      "link": "https://www.instagram.com/giveth.io/"
+    },
+    {
+      "type": "github",
+      "link": "https://github.com/Giveth/"
+    },
+    {
+      "type": "medium",
+      "link": "https://blog.giveth.io/"
+    },
+    {
+      "type": "reddit",
+      "link": "https://www.reddit.com/r/giveth/"
+    },
+    {
+      "type": "youtube",
+      "link": "https://www.youtube.com/givethio"
+    }
+  ],
+  "footnote": "Â© Giveth Docs",
+  "divider": true
+}

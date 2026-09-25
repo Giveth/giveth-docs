@@ -1,47 +1,31 @@
 {
   "name": "giveth-docs",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
-    "docusaurus": "docusaurus",
-    "start": "docusaurus start",
-    "build": "docusaurus build",
-    "swizzle": "docusaurus swizzle",
-    "deploy": "docusaurus deploy",
-    "serve": "docusaurus serve",
-    "clear": "docusaurus clear"
+    "dev": "next dev",
+    "build": "next build",
+    "fetch-notion": "node scripts/fetch-notion.mjs",
+    "check-routes": "node scripts/check-routes.mjs",
+    "check-slugs": "node scripts/check-slugs.mjs",
+    "serve": "npx serve out"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.6.3",
-    "@docusaurus/plugin-content-docs": "^3.6.3",
-    "@docusaurus/preset-classic": "^3.6.3",
-    "@docusaurus/theme-search-algolia": "^3.6.3",
-    "@mdx-js/react": "^3.0.0",
-    "clsx": "^1.1.1",
-    "hast-util-is-element": "^1.1.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-player": "^2.9.0",
-    "rehype-katex": "4.0.0",
-    "remark-math": "^3.0.1"
+    "next": "^15.5.4",
+    "notion-client": "^8.0.8",
+    "notion-types": "^8.0.8",
+    "notion-utils": "^8.0.8",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-notion-x": "^8.0.8"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "3.0.0",
-    "@docusaurus/types": "3.0.0"
-   },
-  "browserslist": {
-    "production": [
-      ">0.5%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+    "@types/node": "^22.10.2",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "typescript": "^5.7.2"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=20"
   }
 }

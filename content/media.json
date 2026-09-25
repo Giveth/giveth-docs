@@ -1,0 +1,26 @@
+[
+  {
+    "key": "docs/notion-media/39608d08ca9c3ad8e012.mov",
+    "url": "https://giveth-docs.fra1.digitaloceanspaces.com/docs/notion-media/39608d08ca9c3ad8e012.mov",
+    "contentType": "video/quicktime",
+    "source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ff891e0b-a285-4d6e-b9f4-87bde516d521/99184fa9-2cde-4bf5-93b0-fb6fd165bd7e/createRecurringDonation.mov"
+  },
+  {
+    "key": "docs/notion-media/deafd8c2216252c5ad05.mov",
+    "url": "https://giveth-docs.fra1.digitaloceanspaces.com/docs/notion-media/deafd8c2216252c5ad05.mov",
+    "contentType": "video/quicktime",
+    "source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ff891e0b-a285-4d6e-b9f4-87bde516d521/14cde56f-4855-414d-b7fd-e02f900fe427/manageRecurringDonation.mov"
+  },
+  {
+    "key": "docs/notion-media/05dee5fca34877c5c941.mp4",
+    "url": "https://giveth-docs.fra1.digitaloceanspaces.com/docs/notion-media/05dee5fca34877c5c941.mp4",
+    "contentType": "video/mp4",
+    "source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ff891e0b-a285-4d6e-b9f4-87bde516d521/62ae58ef-c2a1-4541-a050-be2f14e8c0c2/howToVouchGiveth.mp4"
+  },
+  {
+    "key": "docs/notion-media/30801a650409aaea8729.mp4",
+    "url": "https://giveth-docs.fra1.digitaloceanspaces.com/docs/notion-media/30801a650409aaea8729.mp4",
+    "contentType": "video/mp4",
+    "source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ff891e0b-a285-4d6e-b9f4-87bde516d521/be472a0a-127b-428e-8cc4-1ad8743306ea/AddUpdate.mp4"
+  }
+]
