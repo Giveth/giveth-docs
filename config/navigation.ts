@@ -158,7 +158,6 @@ export const NAVBAR: NavLink[] = [
 export const FOOTER_LINKS: NavLink[] = [
   { label: 'Blog', href: 'https://blog.giveth.io/' },
   { label: 'News', href: 'https://news.giveth.io/' },
-  { label: 'Recruitee', href: 'https://giveth.recruitee.com/' },
   { label: 'Farcaster', href: 'https://warpcast.com/~/channel/giveth' },
   { label: 'Givtoken Linktree', href: 'https://linktr.ee/givtoken' },
   { label: 'Support us with a Donation', href: 'https://giveth.io/donate/the-giveth-community-of-makers' },
