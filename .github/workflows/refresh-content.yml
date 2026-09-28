@@ -16,8 +16,8 @@ name: refresh-content
 
 on:
   schedule:
-    # Every three hours. Notion edits appear within that window on their own.
-    - cron: '0 */3 * * *'
+    # Every day at 04:05.
+    - cron: '5 4 * * *'
   workflow_dispatch:
   repository_dispatch:
     types: [notion-updated]
