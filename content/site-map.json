@@ -1,6 +1,6 @@
 {
   "rootPageId": "1703ab28-d48c-806f-883e-fb81cbf40c1d",
-  "generatedAt": "2026-10-07T04:26:21.488Z",
+  "generatedAt": "2026-10-08T04:26:27.652Z",
   "slugToPage": {
     "/": {
       "pageId": "1703ab28-d48c-806f-883e-fb81cbf40c1d",
@@ -52,14 +52,6 @@
         "Brandbook"
       ]
     },
-    "/givstream": {
-      "pageId": "1703ab28-d48c-81b3-b68b-eb887ee1e874",
-      "title": "GIVstream",
-      "breadcrumb": [
-        "The GIVeconomy",
-        "GIVstream"
-      ]
-    },
     "/projectdonating": {
       "pageId": "6039db80-f945-4a81-a879-ac7be074a794",
       "title": "Making a Donation",
@@ -76,12 +68,12 @@
         "DAO Structure"
       ]
     },
-    "/giveconomy": {
-      "pageId": "1703ab28-d48c-80a1-b7c5-f25a0fb278bd",
-      "title": "GIVeconomy",
+    "/givstream": {
+      "pageId": "1703ab28-d48c-81b3-b68b-eb887ee1e874",
+      "title": "GIVstream",
       "breadcrumb": [
         "The GIVeconomy",
-        "GIVeconomy"
+        "GIVstream"
       ]
     },
     "/about-giveth": {
@@ -92,20 +84,20 @@
         "About Giveth"
       ]
     },
-    "/recurringdonation": {
-      "pageId": "22f6fb34-b1ad-4dc3-8d88-6767fee5e0b8",
-      "title": "Recurring Donations",
-      "breadcrumb": [
-        "Donors & Project Guides",
-        "Recurring Donations"
-      ]
-    },
     "/givbacks": {
       "pageId": "1703ab28-d48c-80f6-b6f5-d40559745e0e",
       "title": "GIVbacks",
       "breadcrumb": [
         "The GIVeconomy",
         "GIVbacks"
+      ]
+    },
+    "/giveconomy": {
+      "pageId": "1703ab28-d48c-80a1-b7c5-f25a0fb278bd",
+      "title": "GIVeconomy",
+      "breadcrumb": [
+        "The GIVeconomy",
+        "GIVeconomy"
       ]
     },
     "/multisigs": {
@@ -124,20 +116,20 @@
         "Zero Fees"
       ]
     },
-    "/what-is-giveth/the-giveconomy/archived-staking-pools": {
-      "pageId": "38b3ab28-d48c-8029-a9f8-c1056cf02a36",
-      "title": "Archived Staking Pools",
-      "breadcrumb": [
-        "The GIVeconomy",
-        "Archived Staking Pools"
-      ]
-    },
     "/createproject": {
       "pageId": "1703ab28-d48c-81e2-a70e-f9f997f2ae76",
       "title": "Create a project",
       "breadcrumb": [
         "Donors & Project Guides",
         "Create a project"
+      ]
+    },
+    "/recurringdonation": {
+      "pageId": "22f6fb34-b1ad-4dc3-8d88-6767fee5e0b8",
+      "title": "Recurring Donations",
+      "breadcrumb": [
+        "Donors & Project Guides",
+        "Recurring Donations"
       ]
     },
     "/adviceprocess": {
@@ -164,36 +156,20 @@
         "Code of Conduct"
       ]
     },
+    "/what-is-giveth/the-giveconomy/archived-staking-pools": {
+      "pageId": "38b3ab28-d48c-8029-a9f8-c1056cf02a36",
+      "title": "Archived Staking Pools",
+      "breadcrumb": [
+        "The GIVeconomy",
+        "Archived Staking Pools"
+      ]
+    },
     "/listedunlisted": {
       "pageId": "8d92cd58-4d6f-4550-ac4d-8f1b3f72836c",
       "title": "Project Quality Assurance Guide",
       "breadcrumb": [
         "Donors & Project Guides",
         "Project Quality Assurance Guide"
-      ]
-    },
-    "/regenfarmcontracts": {
-      "pageId": "c2ddbf1a-b195-4c81-8a09-061c95fa08ec",
-      "title": "RegenFarm Contracts",
-      "breadcrumb": [
-        "The GIVeconomy",
-        "RegenFarm Contracts"
-      ]
-    },
-    "/projectverification": {
-      "pageId": "90d611bd-ff2a-481c-bc13-6797bfa7aa3c",
-      "title": "Project Verification Processes and Guidelines",
-      "breadcrumb": [
-        "Donors & Project Guides",
-        "Project Verification Processes and Guidelines"
-      ]
-    },
-    "/givpower": {
-      "pageId": "1703ab28-d48c-81a8-9862-dbe9907f96df",
-      "title": "GIVpower",
-      "breadcrumb": [
-        "The GIVeconomy",
-        "GIVpower"
       ]
     },
     "/mandatoryupdates": {
@@ -212,20 +188,36 @@
         "Giveth Community Covenant"
       ]
     },
-    "/givethmatchingpool": {
-      "pageId": "1703ab28-d48c-81e0-a692-cd35cc4025a7",
-      "title": "Giveth Matching Pool",
+    "/regenfarmcontracts": {
+      "pageId": "c2ddbf1a-b195-4c81-8a09-061c95fa08ec",
+      "title": "RegenFarm Contracts",
       "breadcrumb": [
         "The GIVeconomy",
-        "Giveth Matching Pool"
+        "RegenFarm Contracts"
       ]
     },
-    "/pfpcollection": {
-      "pageId": "5a32fef5-ad9a-4770-9702-4fc76f8e1a7e",
-      "title": "The Givers PFP Collection",
+    "/givpower": {
+      "pageId": "1703ab28-d48c-81a8-9862-dbe9907f96df",
+      "title": "GIVpower",
+      "breadcrumb": [
+        "The GIVeconomy",
+        "GIVpower"
+      ]
+    },
+    "/communitycommsguide": {
+      "pageId": "90e0553a-72c0-45e0-9282-90cccd5c5c78",
+      "title": "Community Communications Guide",
+      "breadcrumb": [
+        "What is Giveth?",
+        "Community Communications Guide"
+      ]
+    },
+    "/projectverification": {
+      "pageId": "90d611bd-ff2a-481c-bc13-6797bfa7aa3c",
+      "title": "Project Verification Processes and Guidelines",
       "breadcrumb": [
         "Donors & Project Guides",
-        "The Givers PFP Collection"
+        "Project Verification Processes and Guidelines"
       ]
     },
     "/fundraisingguide": {
@@ -244,12 +236,36 @@
         "Governance Process"
       ]
     },
+    "/pfpcollection": {
+      "pageId": "5a32fef5-ad9a-4770-9702-4fc76f8e1a7e",
+      "title": "The Givers PFP Collection",
+      "breadcrumb": [
+        "Donors & Project Guides",
+        "The Givers PFP Collection"
+      ]
+    },
     "/givdrop": {
       "pageId": "1703ab28-d48c-815d-b14b-ede14743c781",
       "title": "GIVdrop",
       "breadcrumb": [
         "The GIVeconomy",
         "GIVdrop"
+      ]
+    },
+    "/givethmatchingpool": {
+      "pageId": "1703ab28-d48c-81e0-a692-cd35cc4025a7",
+      "title": "Giveth Matching Pool",
+      "breadcrumb": [
+        "The GIVeconomy",
+        "Giveth Matching Pool"
+      ]
+    },
+    "/submit-vulnerability": {
+      "pageId": "fa8a743b-1cb2-4c8c-9d6f-4a4e0c6f82a5",
+      "title": "Reporting a Security Issue or Vulnerability",
+      "breadcrumb": [
+        "What is Giveth?",
+        "Reporting a Security Issue or Vulnerability"
       ]
     },
     "/troubleshooting": {
@@ -268,14 +284,6 @@
         "Quadratic Funding"
       ]
     },
-    "/submit-vulnerability": {
-      "pageId": "fa8a743b-1cb2-4c8c-9d6f-4a4e0c6f82a5",
-      "title": "Reporting a Security Issue or Vulnerability",
-      "breadcrumb": [
-        "What is Giveth?",
-        "Reporting a Security Issue or Vulnerability"
-      ]
-    },
     "/donation-agents": {
       "pageId": "2013ab28-d48c-80a1-a0db-c8eb01f09c29",
       "title": "Causes",
@@ -284,13 +292,12 @@
         "Causes"
       ]
     },
-    "/donation-agents/for-project-owners": {
-      "pageId": "2463ab28-d48c-804d-accc-c7d8c6e5d8e3",
-      "title": "For Project Owners",
+    "/faq": {
+      "pageId": "1703ab28-d48c-8122-9bb6-d0abde75dbd7",
+      "title": "FAQs",
       "breadcrumb": [
-        "Donors & Project Guides",
-        "Causes",
-        "For Project Owners"
+        "What is Giveth?",
+        "FAQs"
       ]
     },
     "/givgarden": {
@@ -299,15 +306,6 @@
       "breadcrumb": [
         "The GIVeconomy",
         "GIVgarden (deprecated)"
-      ]
-    },
-    "/donation-agents/creating-a-cause": {
-      "pageId": "2463ab28-d48c-8057-99bb-ef5ec0c625ce",
-      "title": "Creating a Cause",
-      "breadcrumb": [
-        "Donors & Project Guides",
-        "Causes",
-        "Creating a Cause"
       ]
     },
     "/donation-agents/how-it-works": {
@@ -319,20 +317,22 @@
         "How it Works"
       ]
     },
-    "/communitycommsguide": {
-      "pageId": "90e0553a-72c0-45e0-9282-90cccd5c5c78",
-      "title": "Community Communications Guide",
+    "/donation-agents/for-project-owners": {
+      "pageId": "2463ab28-d48c-804d-accc-c7d8c6e5d8e3",
+      "title": "For Project Owners",
       "breadcrumb": [
-        "What is Giveth?",
-        "Community Communications Guide"
+        "Donors & Project Guides",
+        "Causes",
+        "For Project Owners"
       ]
     },
-    "/faq": {
-      "pageId": "1703ab28-d48c-8122-9bb6-d0abde75dbd7",
-      "title": "FAQs",
+    "/donation-agents/creating-a-cause": {
+      "pageId": "2463ab28-d48c-8057-99bb-ef5ec0c625ce",
+      "title": "Creating a Cause",
       "breadcrumb": [
-        "What is Giveth?",
-        "FAQs"
+        "Donors & Project Guides",
+        "Causes",
+        "Creating a Cause"
       ]
     },
     "/devouch": {
@@ -375,41 +375,41 @@
     "1703ab28-d48c-8108-b3c0-c4e79ab583f8": "/gettingstarted",
     "1703ab28-d48c-81eb-8956-c202c4c13513": "/donatingmetamask",
     "fad534c5-9704-4d31-bcbe-8654ea673fde": "/brandbook",
-    "1703ab28-d48c-81b3-b68b-eb887ee1e874": "/givstream",
     "6039db80-f945-4a81-a879-ac7be074a794": "/projectdonating",
     "2de25cc9-0a3e-4ac9-910b-37a46eff10af": "/daostructure",
-    "1703ab28-d48c-80a1-b7c5-f25a0fb278bd": "/giveconomy",
+    "1703ab28-d48c-81b3-b68b-eb887ee1e874": "/givstream",
     "1813ab28-d48c-807e-944d-f9818aeefe4b": "/about-giveth",
-    "22f6fb34-b1ad-4dc3-8d88-6767fee5e0b8": "/recurringdonation",
     "1703ab28-d48c-80f6-b6f5-d40559745e0e": "/givbacks",
+    "1703ab28-d48c-80a1-b7c5-f25a0fb278bd": "/giveconomy",
     "36bdfcda-5aca-4c7c-95bf-b6c1bf7c9fa6": "/multisigs",
     "2984230d-2f15-4417-a398-7d7d89a83ffd": "/zero-fees",
-    "38b3ab28-d48c-8029-a9f8-c1056cf02a36": "/what-is-giveth/the-giveconomy/archived-staking-pools",
     "1703ab28-d48c-81e2-a70e-f9f997f2ae76": "/createproject",
+    "22f6fb34-b1ad-4dc3-8d88-6767fee5e0b8": "/recurringdonation",
     "f7e62de8-9901-455e-937f-ed85d70b6100": "/adviceprocess",
     "ffc52dff-082b-46d3-8080-197f664fb814": "/regenfarms",
     "d2c80f4e-3906-475d-b236-1174918f1b42": "/codeofconduct",
+    "38b3ab28-d48c-8029-a9f8-c1056cf02a36": "/what-is-giveth/the-giveconomy/archived-staking-pools",
     "8d92cd58-4d6f-4550-ac4d-8f1b3f72836c": "/listedunlisted",
-    "c2ddbf1a-b195-4c81-8a09-061c95fa08ec": "/regenfarmcontracts",
-    "90d611bd-ff2a-481c-bc13-6797bfa7aa3c": "/projectverification",
-    "1703ab28-d48c-81a8-9862-dbe9907f96df": "/givpower",
     "a71e4d49-8503-4a00-b34d-a3aca93288c4": "/mandatoryupdates",
     "e1ff2676-c9e9-43f6-9c0e-efeab07bc933": "/covenant",
-    "1703ab28-d48c-81e0-a692-cd35cc4025a7": "/givethmatchingpool",
-    "5a32fef5-ad9a-4770-9702-4fc76f8e1a7e": "/pfpcollection",
+    "c2ddbf1a-b195-4c81-8a09-061c95fa08ec": "/regenfarmcontracts",
+    "1703ab28-d48c-81a8-9862-dbe9907f96df": "/givpower",
+    "90e0553a-72c0-45e0-9282-90cccd5c5c78": "/communitycommsguide",
+    "90d611bd-ff2a-481c-bc13-6797bfa7aa3c": "/projectverification",
     "12dd59bf-1a59-48e6-9ab8-bf15fae5dca4": "/fundraisingguide",
     "67470670-d2e4-41d4-8e27-94847bcffd46": "/governanceprocess",
+    "5a32fef5-ad9a-4770-9702-4fc76f8e1a7e": "/pfpcollection",
     "1703ab28-d48c-815d-b14b-ede14743c781": "/givdrop",
+    "1703ab28-d48c-81e0-a692-cd35cc4025a7": "/givethmatchingpool",
+    "fa8a743b-1cb2-4c8c-9d6f-4a4e0c6f82a5": "/submit-vulnerability",
     "1703ab28-d48c-81d3-a618-c08eacc65681": "/troubleshooting",
     "4e339fb1-4d73-4893-a104-5a0bf77558ff": "/quadraticfunding",
-    "fa8a743b-1cb2-4c8c-9d6f-4a4e0c6f82a5": "/submit-vulnerability",
     "2013ab28-d48c-80a1-a0db-c8eb01f09c29": "/donation-agents",
-    "2463ab28-d48c-804d-accc-c7d8c6e5d8e3": "/donation-agents/for-project-owners",
-    "1703ab28-d48c-80bf-ae57-d457dc78585b": "/givgarden",
-    "2463ab28-d48c-8057-99bb-ef5ec0c625ce": "/donation-agents/creating-a-cause",
-    "2463ab28-d48c-8051-933e-cc2881f2e395": "/donation-agents/how-it-works",
-    "90e0553a-72c0-45e0-9282-90cccd5c5c78": "/communitycommsguide",
     "1703ab28-d48c-8122-9bb6-d0abde75dbd7": "/faq",
+    "1703ab28-d48c-80bf-ae57-d457dc78585b": "/givgarden",
+    "2463ab28-d48c-8051-933e-cc2881f2e395": "/donation-agents/how-it-works",
+    "2463ab28-d48c-804d-accc-c7d8c6e5d8e3": "/donation-agents/for-project-owners",
+    "2463ab28-d48c-8057-99bb-ef5ec0c625ce": "/donation-agents/creating-a-cause",
     "18a3ab28-d48c-80c8-b800-c250c10834b3": "/devouch",
     "1703ab28-d48c-81ae-9d8a-ec2b1c82d19c": "/givfarm",
     "18a3ab28-d48c-8086-b6e6-dd9a890e80bd": "/devouch/what-is-devouch",
